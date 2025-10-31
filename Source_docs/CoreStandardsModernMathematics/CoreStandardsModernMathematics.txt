@@ -1,0 +1,347 @@
+{
+  "document": {
+    "title": "tmppght8as0",
+    "type": "document",
+    "metadata": {
+      "date": "",
+      "author": "",
+      "version": "",
+      "pages": "4"
+    },
+    "sections": [
+      {
+        "id": "page_1_section_1",
+        "title": "Course Description",
+        "level": 1,
+        "content": "This course introduces students to topics in modern mathematics as they apply to real-world contexts. The course extends students' understanding of the mathematics developed in Algebra 1 and Geometry. The course is intended to help students develop an understanding of how mathematics describes and explains the world in which they live. Students will extend their mathematical literacy, problem-solving skills, and enthusiasm for the power and beauty of mathematics as a tool for quantifying their world. Teachers will select a minimum of five objectives per semester to explore, and may modify indicators to meet those objectives. Teachers are encouraged to select topics which are of particular interest to their students. Because the topics within the course are not intended to build on one another, students may enter or exit the class throughout the academic year.",
+        "subsections": []
+      },
+      {
+        "id": "page_1_section_2",
+        "title": "Standard 1: Students will expand number sense to understand the language and operations of number systems.",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_1_section_2_subsection_1",
+            "title": "Objective 1: Use concepts of number theory and information systems to effectively manage large amounts of data.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_1_section_2_subsection_2",
+            "title": "Objective 2: Use matrices to model, organize, and solve problems involving multiple variables.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_1_section_2_subsection_3",
+            "title": "Objective 3: Recognize sequences as mathematical patterns and use them to model authentic situations.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_1_section_3",
+        "title": "Mathematical Language and Symbols Students Should Use",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_2_standard_II",
+        "title": "Standard II",
+        "level": 1,
+        "content": "Students will use functions to model and solve problems.",
+        "subsections": [
+          {
+            "id": "page_2_standard_II_objective_1",
+            "title": "Objective 1",
+            "level": 2,
+            "content": "Use linear systems of equations and inequalities to model and solve problems.\na. Use algebra and technology to solve systems of linear equations.\nb. Use linear programming to maximize or minimize an objective function in context.",
+            "subsections": []
+          },
+          {
+            "id": "page_2_standard_II_objective_2",
+            "title": "Objective 2",
+            "level": 2,
+            "content": "Use exponential functions to model and solve problems.\na. Graph and evaluate exponential functions.\nb. Use an exponential function to generate values and make predictions in problems that involve exponential growth and decay.\nc. Understand the inverse relationship between exponents and logarithms and use this relationship to solve problems.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_2_standard_III",
+        "title": "Standard III",
+        "level": 1,
+        "content": "Students will solve problems using symmetry, transformations, graphs, and measurement.",
+        "subsections": [
+          {
+            "id": "page_2_standard_III_objective_1",
+            "title": "Objective 1",
+            "level": 2,
+            "content": "Use concepts of Chaos Theory to describe the behavior of dynamic systems that are highly sensitive to initial conditions.\na. Distinguish between dynamic and non-dynamic systems.\nb. Create fractals with and without technology.\nc. Use fractals to describe dynamic systems.\nd. Investigate the effects of different initial conditions on dynamic systems using technology.",
+            "subsections": []
+          },
+          {
+            "id": "page_2_standard_III_objective_2",
+            "title": "Objective 2",
+            "level": 2,
+            "content": "Use concepts from Graph Theory to model and solve problems.\na. Use graphs to represent the relations of various structures and networks.\nb. Identify characteristics of a given graph.\nc. Classify graphs according to structure.\nd. Solve problems of practical interest using graphs.",
+            "subsections": []
+          },
+          {
+            "id": "page_2_standard_III_objective_3",
+            "title": "Objective 3",
+            "level": 2,
+            "content": "Extend geometry ideas to analyze art, architecture, music, and nature.\na. Describe artistic and natural structures and phenomena in terms of transformations, symmetry and fractals.\nb. Identify projections used in art, architecture, and music.\nc. Analyze the use of proportion in art, architecture, and music.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_3_standard_iv",
+        "title": "Standard IV",
+        "level": 1,
+        "content": "Students will understand and apply concepts from probability and statistics to solve problems.",
+        "subsections": [
+          {
+            "id": "page_3_standard_iv_objective_1",
+            "title": "Objective 1",
+            "level": 2,
+            "content": "Use the rules of probability to calculate independent and conditional probabilities in real contexts.",
+            "subsections": []
+          },
+          {
+            "id": "page_3_standard_iv_objective_2",
+            "title": "Objective 2",
+            "level": 2,
+            "content": "Use graphs and numerical summaries to describe univariate data.",
+            "subsections": []
+          },
+          {
+            "id": "page_3_standard_iv_objective_3",
+            "title": "Objective 3",
+            "level": 2,
+            "content": "Use graphs and numerical summaries to describe and analyze bivariate data.",
+            "subsections": []
+          },
+          {
+            "id": "page_3_standard_iv_objective_4",
+            "title": "Objective 4",
+            "level": 2,
+            "content": "Use appropriate sampling techniques to describe a population.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_3_mathematical_language_and_symbols",
+        "title": "Mathematical Language and Symbols Students Should Use",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_3_standard_v",
+        "title": "Standard V",
+        "level": 1,
+        "content": "Students will think logically and solve problems.",
+        "subsections": [
+          {
+            "id": "page_3_standard_v_objective_1",
+            "title": "Objective 1",
+            "level": 2,
+            "content": "Solve standard and non-standard problems.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_4_section_1",
+        "title": "Page 4 Content",
+        "level": 1,
+        "content": "a. Use a variety of problem-solving strategies such as drawing a picture, making a systematic list, eliminating possibilities, looking for patterns, guessing and checking, identifying sub-problems, analyzing units, solving a related problem, working backwards, or using Venn diagrams to solve contextual problems.\nb. Connect problem-solving strategies to traditional algorithms.\nc. Describe how various problem-solving strategies are related.\n\n**Objective 2: Use logical reasoning to create convincing arguments and develop patterns of successful decision making.**\na. Use logic notation to create propositions or logic statements.\nb. Use truth tables to determine the veracity of compound and conditional logic statements.\nc. Identify equivalent logic statements.\n\n**Objective 3: Represent and compare finite and infinite groups using sets.**\na. Use set notation to represent groups.\nb. Use Venn diagrams to represent and solve problems involving combinations of sets.\nc. Use Venn diagrams and set notation to explore the real number system.\nd. Use Venn diagrams and set notation to explore logic.\n\n**Mathematical Language and Symbols Students Should Use:**\nVenn diagram, truth table, logic notation, compound statement, conditional statement, equivalent statement, intersection, union, subset, empty set, complement, cardinality, $\\varnothing$, $\\in$, $\\subset$, $\\cap$, $\\cup$, bounded, unbounded, countable, uncountable\n\nModern Mathematics Course &lt;page_number&gt;4&lt;/page_number&gt; February 22, 2013",
+        "subsections": []
+      }
+    ],
+    "summary": {
+      "main_topics": [],
+      "key_findings": [],
+      "action_items": [],
+      "important_dates": []
+    },
+    "lists": [
+      {
+        "id": "page_1_list_1",
+        "type": "ordered",
+        "title": "Objective 1 Indicators",
+        "items": [
+          "Expand understanding of the decimal system by exploring other number-base systems.",
+          "Use various methods to write and decipher codes.",
+          "Determine validity of ISBN, UPC and credit card numbers using modular arithmetic.",
+          "Compute using modular arithmetic."
+        ]
+      },
+      {
+        "id": "page_1_list_2",
+        "type": "ordered",
+        "title": "Objective 2 Indicators",
+        "items": [
+          "Use matrices as a way to organize information.",
+          "Perform basic matrix calculations to solve problems in context.",
+          "Use matrices and technology to solve systems of linear equations."
+        ]
+      },
+      {
+        "id": "page_1_list_3",
+        "type": "ordered",
+        "title": "Objective 3 Indicators",
+        "items": [
+          "Find the n<sup>th</sup> term in arithmetic or geometric sequences.",
+          "Represent arithmetic and geometric sequences explicitly and recursively.",
+          "Explore sequences to model authentic situations."
+        ]
+      },
+      {
+        "id": "page_1_list_4",
+        "type": "unordered",
+        "title": "Mathematical Language and Symbols",
+        "items": [
+          "binary",
+          "hexadecimal",
+          "matrix/matrices",
+          "inductive reasoning",
+          "deductive reasoning",
+          "ISBN",
+          "UPC",
+          "exponential growth",
+          "Fibonacci sequence",
+          "Pascal's triangle",
+          "modular arithmetic"
+        ]
+      },
+      {
+        "id": "page_2_standard_II_math_language",
+        "type": "unordered",
+        "title": "Mathematical Language and Symbols Students Should Use",
+        "items": [
+          "exponential functions",
+          "logarithm",
+          "maximize",
+          "minimize",
+          "Linear programming",
+          "constraints",
+          "base",
+          "exponent",
+          "objective function"
+        ]
+      },
+      {
+        "id": "page_2_standard_III_math_language",
+        "type": "unordered",
+        "title": "Mathematical Language and Symbols Students Should Use",
+        "items": [
+          "Chaos Theory",
+          "strange attractors",
+          "scaling",
+          "bifurcation",
+          "dynamic system",
+          "connectedness",
+          "completeness",
+          "regularity",
+          "Golden ratio",
+          "Graph Theory",
+          "initial sensitivity",
+          "butterfly effect",
+          "fractal"
+        ]
+      },
+      {
+        "id": "page_3_standard_iv_objective_1_list",
+        "type": "ordered",
+        "title": "Objective 1 tasks",
+        "items": [
+          "Distinguish between subjective, experimental, and theoretical probability.",
+          "Calculate probabilities using addition and multiplication rules, tree diagrams, and two-way tables using correct probability notation.",
+          "Calculate conditional probabilities of compound events using two-way tables and Venn diagrams.",
+          "Use permutations and combinations to find probabilities."
+        ]
+      },
+      {
+        "id": "page_3_standard_iv_objective_2_list",
+        "type": "ordered",
+        "title": "Objective 2 tasks",
+        "items": [
+          "Display numerical univariate data using stemplots, line plots and histograms.",
+          "Describe the center and spread of a distribution using mean and standard deviation or median and quartiles.",
+          "Analyze distributions, and be able to explain what may have caused the distribution to be normal, symmetrical, skewed left, skewed right, or bimodal.",
+          "Use the empirical rule (68 – 95 – 99.7) to determine the proportion of a normally distributed population that falls within a given range of values."
+        ]
+      },
+      {
+        "id": "page_3_standard_iv_objective_3_list",
+        "type": "ordered",
+        "title": "Objective 3 tasks",
+        "items": [
+          "Use technology to graph bivariate data and calculate the regression line of the scatterplot.",
+          "Calculate the correlation coefficient of bivariate data using technology and use correlation to determine the direction and strength of the regression line.",
+          "Use a regression line to make predictions and analyze characteristics of data."
+        ]
+      },
+      {
+        "id": "page_3_standard_iv_objective_4_list",
+        "type": "ordered",
+        "title": "Objective 4 tasks",
+        "items": [
+          "Compare and contrast survey, observation, and experimental methods for obtaining sample data.",
+          "Select a simple random sample from a given population.",
+          "Design an experiment using randomization.",
+          "Identify improper sampling techniques when taking sample surveys.",
+          "Generalize results of a survey or experiment."
+        ]
+      },
+      {
+        "id": "page_3_mathematical_language_list",
+        "type": "unordered",
+        "title": "Mathematical Language and Symbols",
+        "items": [
+          "conditional",
+          "unconditional",
+          "multiplication rule",
+          "probability tree",
+          "stem plot",
+          "line plot",
+          "histogram",
+          "mean",
+          "median",
+          "quartile",
+          "standard deviation",
+          "univariate",
+          "bivariate",
+          "correlation coefficient",
+          "regression",
+          "survey",
+          "observational study",
+          "experiment",
+          "control group",
+          "placebo",
+          "Venn diagram",
+          "two-way table",
+          "permutation",
+          "combination"
+        ]
+      }
+    ],
+    "key_value_pairs": [
+      {
+        "key": "Prerequisite",
+        "value": "Secondary Math II"
+      }
+    ]
+  }
+}

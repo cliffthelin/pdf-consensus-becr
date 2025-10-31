@@ -1,0 +1,39 @@
+{
+  "timestamp": "2025-10-31T02:08:50.247155",
+  "progress": {
+    "completed": 1,
+    "total_estimated": 5,
+    "completion_percentage": 20.0
+  },
+  "total_files_completed": 1,
+  "total_duration_so_far": 60,
+  "passed": 0,
+  "failed": 0,
+  "timeouts": 1,
+  "errors": 0,
+  "slow_tests": [],
+  "results": [
+    {
+      "file": "tests\\integration\\test_analytics_integration.py",
+      "duration": 60,
+      "return_code": -1,
+      "stdout": "",
+      "stderr": "Test timed out after 60s",
+      "status": "timeout",
+      "timed_out": true
+    }
+  ],
+  "failed_tests": [
+    {
+      "file": "tests\\integration\\test_analytics_integration.py",
+      "duration": 60,
+      "return_code": -1,
+      "stdout": "",
+      "stderr": "Test timed out after 60s",
+      "status": "timeout",
+      "timed_out": true
+    }
+  ],
+  "timeout_seconds": 60,
+  "status": "in_progress"
+}

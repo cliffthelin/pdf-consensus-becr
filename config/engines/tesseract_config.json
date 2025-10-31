@@ -1,0 +1,356 @@
+{
+  "engine_name": "tesseract",
+  "config_id": "734b8ff9-1166-4354-89c8-6160dae4f244",
+  "parent_config_reference": {
+    "parent_config_id": "9647b587-e558-470e-bd77-d44dea398e28",
+    "parent_file": "config/engine_configurations.ndjson",
+    "foreign_key_type": "parent_config_id"
+  },
+  "default_optimization_settings": {
+    "dpi": {
+      "default_value": 300,
+      "auto_optimize": true,
+      "tested": true,
+      "category": "image_processing",
+      "type": "int",
+      "min_value": 72,
+      "max_value": 600,
+      "choices": null
+    },
+    "psm": {
+      "default_value": 6,
+      "auto_optimize": true,
+      "tested": true,
+      "category": "segmentation",
+      "type": "choice",
+      "min_value": null,
+      "max_value": null,
+      "choices": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13"
+      ]
+    },
+    "oem": {
+      "default_value": 3,
+      "auto_optimize": false,
+      "tested": true,
+      "category": "engine",
+      "type": "choice",
+      "min_value": null,
+      "max_value": null,
+      "choices": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "lang": {
+      "default_value": "eng",
+      "auto_optimize": false,
+      "tested": true,
+      "category": "language",
+      "type": "str",
+      "min_value": null,
+      "max_value": null,
+      "choices": null
+    },
+    "preserve_interword_spaces": {
+      "default_value": 1,
+      "auto_optimize": false,
+      "tested": true,
+      "category": "text_processing",
+      "type": "choice",
+      "min_value": null,
+      "max_value": null,
+      "choices": [
+        "0",
+        "1"
+      ]
+    },
+    "tessedit_char_whitelist": {
+      "default_value": null,
+      "auto_optimize": false,
+      "tested": true,
+      "category": "character_filtering",
+      "type": "str",
+      "min_value": null,
+      "max_value": null,
+      "choices": null
+    },
+    "tessedit_char_blacklist": {
+      "default_value": null,
+      "auto_optimize": false,
+      "tested": true,
+      "category": "character_filtering",
+      "type": "str",
+      "min_value": null,
+      "max_value": null,
+      "choices": null
+    },
+    "tessedit_create_hocr": {
+      "default_value": 0,
+      "auto_optimize": false,
+      "tested": true,
+      "category": "output",
+      "type": "choice",
+      "min_value": null,
+      "max_value": null,
+      "choices": [
+        "0",
+        "1"
+      ]
+    },
+    "tessedit_create_pdf": {
+      "default_value": 0,
+      "auto_optimize": false,
+      "tested": true,
+      "category": "output",
+      "type": "choice",
+      "min_value": null,
+      "max_value": null,
+      "choices": [
+        "0",
+        "1"
+      ]
+    }
+  },
+  "supported_cli_parameters": [
+    {
+      "name": "dpi",
+      "type": "int",
+      "description": "Image DPI for OCR processing",
+      "default": 300,
+      "choices": null,
+      "required": false,
+      "validation": null,
+      "cli_flag": "--dpi",
+      "tested": true,
+      "auto_optimize": true,
+      "min_value": 72,
+      "max_value": 600,
+      "category": "image_processing"
+    },
+    {
+      "name": "psm",
+      "type": "choice",
+      "description": "Page segmentation mode",
+      "default": 6,
+      "choices": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "required": false,
+      "validation": null,
+      "cli_flag": "--psm",
+      "tested": true,
+      "auto_optimize": true,
+      "min_value": null,
+      "max_value": null,
+      "category": "segmentation"
+    },
+    {
+      "name": "oem",
+      "type": "choice",
+      "description": "OCR Engine Mode",
+      "default": 3,
+      "choices": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "required": false,
+      "validation": null,
+      "cli_flag": "--oem",
+      "tested": true,
+      "auto_optimize": false,
+      "min_value": null,
+      "max_value": null,
+      "category": "engine"
+    },
+    {
+      "name": "lang",
+      "type": "str",
+      "description": "Language for OCR",
+      "default": "eng",
+      "choices": null,
+      "required": false,
+      "validation": null,
+      "cli_flag": "-l",
+      "tested": true,
+      "auto_optimize": false,
+      "min_value": null,
+      "max_value": null,
+      "category": "language"
+    },
+    {
+      "name": "preserve_interword_spaces",
+      "type": "choice",
+      "description": "Preserve spaces between words",
+      "default": 1,
+      "choices": [
+        "0",
+        "1"
+      ],
+      "required": false,
+      "validation": null,
+      "cli_flag": "-c preserve_interword_spaces",
+      "tested": true,
+      "auto_optimize": false,
+      "min_value": null,
+      "max_value": null,
+      "category": "text_processing"
+    },
+    {
+      "name": "tessedit_char_whitelist",
+      "type": "str",
+      "description": "Whitelist of allowed characters",
+      "default": null,
+      "choices": null,
+      "required": false,
+      "validation": null,
+      "cli_flag": "-c tessedit_char_whitelist",
+      "tested": true,
+      "auto_optimize": false,
+      "min_value": null,
+      "max_value": null,
+      "category": "character_filtering"
+    },
+    {
+      "name": "tessedit_char_blacklist",
+      "type": "str",
+      "description": "Blacklist of forbidden characters",
+      "default": null,
+      "choices": null,
+      "required": false,
+      "validation": null,
+      "cli_flag": "-c tessedit_char_blacklist",
+      "tested": true,
+      "auto_optimize": false,
+      "min_value": null,
+      "max_value": null,
+      "category": "character_filtering"
+    },
+    {
+      "name": "tessedit_create_hocr",
+      "type": "choice",
+      "description": "Create hOCR output",
+      "default": 0,
+      "choices": [
+        "0",
+        "1"
+      ],
+      "required": false,
+      "validation": null,
+      "cli_flag": "-c tessedit_create_hocr",
+      "tested": true,
+      "auto_optimize": false,
+      "min_value": null,
+      "max_value": null,
+      "category": "output"
+    },
+    {
+      "name": "tessedit_create_pdf",
+      "type": "choice",
+      "description": "Create searchable PDF",
+      "default": 0,
+      "choices": [
+        "0",
+        "1"
+      ],
+      "required": false,
+      "validation": null,
+      "cli_flag": "-c tessedit_create_pdf",
+      "tested": true,
+      "auto_optimize": false,
+      "min_value": null,
+      "max_value": null,
+      "category": "output"
+    }
+  ],
+  "supported_mcp_functions": [
+    {
+      "name": "tesseract_extract",
+      "description": "Extract text using Tesseract OCR",
+      "parameters": {
+        "image_path": "str",
+        "config": "dict",
+        "dpi": "int",
+        "psm": "int",
+        "oem": "int",
+        "lang": "str"
+      },
+      "return_format": {
+        "text": "str",
+        "confidence": "float",
+        "boxes": "list",
+        "words": "list",
+        "lines": "list"
+      },
+      "required_attributes": [
+        "text"
+      ],
+      "optional_attributes": [
+        "confidence",
+        "boxes",
+        "words",
+        "lines",
+        "metadata"
+      ],
+      "version": "1.0"
+    },
+    {
+      "name": "tesseract_batch_extract",
+      "description": "Batch extract text from multiple images",
+      "parameters": {
+        "image_paths": "list",
+        "config": "dict",
+        "parallel": "bool"
+      },
+      "return_format": {
+        "results": "list",
+        "total_processed": "int",
+        "errors": "list"
+      },
+      "required_attributes": [
+        "results"
+      ],
+      "optional_attributes": [
+        "total_processed",
+        "errors",
+        "processing_time"
+      ],
+      "version": "1.0"
+    }
+  ],
+  "cli_support": true,
+  "mcp_support": true,
+  "version": "1.0",
+  "last_updated": "2025-10-28T13:56:52.722728",
+  "description": "Default configuration for tesseract engine"
+}

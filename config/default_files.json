@@ -1,0 +1,84 @@
+{
+  "target_files": {
+    "primary_pdf": {
+      "path": "Source_docs/English Language Arts Standards/-English Language Arts Standards.pdf",
+      "description": "Primary PDF file for processing and testing",
+      "type": "pdf",
+      "pages": 62,
+      "expected_blocks": 1066
+    }
+  },
+  "output_configuration": {
+    "base_output_strategy": "pdf_location",
+    "processing_folder": "Processing_Inprogress",
+    "final_folder": "Final_output",
+    "idempotent_processing": true,
+    "timestamp_precision": "minute",
+    "default_filenames": {
+      "gbg_analysis": "gbg_full_analysis.json",
+      "ndjson_variations": "pdf_variations.ndjson",
+      "ndjson_consensus": "consensus_decisions.ndjson",
+      "analytics_report": "analytics_report.ndjson"
+    },
+    "timestamp_format": "%Y%m%d_%H%M",
+    "fallback_output_directory": "output"
+  },
+  "test_files": {
+    "test_output_directory": {
+      "path": "output/tests",
+      "description": "Directory for test output files"
+    },
+    "integration_test_output": {
+      "path": "output/tests/integration_results.json",
+      "description": "Integration test results"
+    },
+    "unit_test_output": {
+      "path": "output/tests/unit_test_results.json",
+      "description": "Unit test results"
+    }
+  },
+  "application_settings": {
+    "default_page_range": {
+      "start": 0,
+      "end": -1,
+      "description": "Default page range for processing (-1 means all pages)"
+    },
+    "default_engines": [
+      "pymupdf"
+    ],
+    "output_formats": [
+      "json",
+      "ndjson"
+    ],
+    "encoding": "utf-8",
+    "validation_enabled": true,
+    "cross_platform_consistency": true,
+    "image_handling": {
+      "ignore_images": true,
+      "image_placeholder_text": "[IMAGE]",
+      "description": "Controls how image blocks are handled in extraction and comparison",
+      "per_pdf_override_enabled": true
+    }
+  },
+  "external_integrations": {
+    "mcp_integration": {
+      "enabled": false,
+      "description": "Model Context Protocol integration for external file sources",
+      "supported_modes": ["batch", "streaming", "interactive"],
+      "file_source_types": ["local", "remote", "mcp_server"]
+    },
+    "file_source_priority": [
+      "local",
+      "mcp_server",
+      "remote"
+    ]
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "created": "2024-01-01",
+    "description": "Default file paths and settings for BECR TDD System",
+    "last_updated": "2024-01-01",
+    "mcp_compatible": true,
+    "configuration_schema_version": "1.0"
+  }
+}

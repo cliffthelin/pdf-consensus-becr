@@ -1,0 +1,2514 @@
+{
+  "metadata": {
+    "source_old": "English_Language_Arts_Standards__strict.md",
+    "source_new": "English_Language_Arts_Standards_verified.md",
+    "diff_count_pages": 59,
+    "notes": "Each differing line is shown as an array of two key-value pairs with 'source' and 'line'."
+  },
+  "differences": [
+    {
+      "literal_page": 1,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": "Utah State Board of Education   250 East 500 South   P.O. Box 144200   Salt Lake City, Utah  84114-4200     Sydnee Dickson, Ed.D., State Superintendent of Public Instruction"
+          },
+          {
+            "source": "verified",
+            "line": ""
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 3,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": "Utah State Board of Education"
+          },
+          {
+            "source": "verified",
+            "line": ""
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": "https://www.schools.utah.gov"
+          },
+          {
+            "source": "verified",
+            "line": ""
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 5,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": "https://schools.utah.gov/board"
+          },
+          {
+            "source": "verified",
+            "line": ""
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 6,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 7,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": "TABLE OF CONTENTS"
+          },
+          {
+            "source": "verified",
+            "line": ""
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 8,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 9,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 10,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "3"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "4"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "5"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "6"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "7"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "8"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 11,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "5"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "6"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "7"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "8"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "3"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "4"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 12,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 13,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 14,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 15,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 16,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 17,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "3"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 18,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "4"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 19,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "5"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 20,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "6"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 21,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "7"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 22,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "8"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 23,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "9"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 24,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "0"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 25,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 26,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 27,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "3"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 28,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "4"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 29,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "5"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 30,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "6"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 31,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "7"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 32,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "8"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 33,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "9"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 34,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "0"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 35,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 36,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 37,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "3"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 38,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "4"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 39,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "5"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 40,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "6"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 41,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "7"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 42,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "8"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 43,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "9"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 44,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "3"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "0"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 45,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "3"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 46,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "3"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 47,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "3"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "3"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 48,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "3"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "4"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 49,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "3"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "5"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 50,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "3"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "6"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 51,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "3"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "7"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 52,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "3"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "8"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 53,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "3"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "9"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 54,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "4"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "0"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 55,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "4"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 56,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "4"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 57,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "4"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "3"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 58,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "4"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "4"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 59,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "4"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "5"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 60,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "4"
+          }
+        ],
+        [
+          {
+            "source": "strict",
+            "line": ""
+          },
+          {
+            "source": "verified",
+            "line": "6"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 62,
+      "document_page": null,
+      "lines": [
+        [
+          {
+            "source": "strict",
+            "line": "Utah State Board of Education"
+          },
+          {
+            "source": "verified",
+            "line": ""
+          }
+        ]
+      ]
+    }
+  ]
+}

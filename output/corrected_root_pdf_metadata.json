@@ -1,0 +1,29 @@
+{
+  "root_pdf": {
+    "path": "Source_docs\\English Language Arts Standards\\-English Language Arts Standards.pdf",
+    "absolute_path": "C:\\Projects\\PDFConcensus\\Source_docs\\English Language Arts Standards\\-English Language Arts Standards.pdf",
+    "filename": "English Language Arts Standards.pdf",
+    "display_name": "English Language Arts Standards",
+    "attributes": {
+      "file_size_bytes": 992146,
+      "total_pages": 62,
+      "file_type": "pdf",
+      "encoding": "utf-8",
+      "creation_date": "D:20230802083158-06'00'",
+      "modification_date": "D:20250620100633-06'00'",
+      "pdf_version": null,
+      "is_encrypted": 0,
+      "has_forms": 0,
+      "page_dimensions": {
+        "width": 612.0,
+        "height": 792.0,
+        "units": "points"
+      },
+      "document_title": "English Language Arts Standards",
+      "document_author": "",
+      "document_subject": "",
+      "document_creator": "Adobe InDesign 18.5 (Windows)",
+      "document_producer": "Adobe PDF Library 17.0"
+    }
+  }
+}

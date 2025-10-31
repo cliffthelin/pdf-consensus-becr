@@ -1,0 +1,321 @@
+There is no tabular data in this image.
+csv
+District,Name,City
+District 1,Jennie L. Earl,Morgan, UT
+District 2,Scott L. Hansen,Liberty, UT
+District 3,Matt Hymas,"Stansbury Park, UT"
+District 4,Brent J. Strate,"South Ogden, UT"
+District 5,Laura Belnap,Bountiful, UT
+District 6,Stacey Hutchings,Kearns, UT
+District 7,Carol Barlow Lear,"Salt Lake City, UT"
+District 8,Janet A. Cannon,Holladay, UT
+District 9,Cindy Davis,"Cedar Hills, UT"
+District 10,Molly Hart,Sandy, UT
+District 11,Natalie Cline,Bluffdale, UT
+District 12,James Moss Jr.,Midway, UT
+District 13,Randy Boothe,"Spanish Fork, UT"
+District 14,Mark Huntsman,Fillmore, UT
+District 15,Kristan Norton,"St. George, UT"
+,Sydnee Dickson,State Superintendent of Public Instruction
+,Lorraine Austin,Secretary to the Board
+ADA Compliant May 2021
+csv
+Topic,Page
+College Prep Mathematics,55
+Introductory Calculus Standards,61
+Introductory Statistics Standards,65
+Mathematical Decision Making for Life Standards,71
+Mathematics of Personal Finance Standards,77
+Modern Mathematics Standards,85
+csv
+,
+csv
+# Table: Mathematical Language and Symbols Students Should Use
+asymptote,completing the square,complex number,radical
+compound inequality,extraneous root,quadratic formula,minimum
+rational,irrational,system of equations
+maximum,intercept,
+csv
+# Table: Mathematical Language and Symbols Students Should Use
+domain,exponential function,function,f(x)
+interval notation,inverse,logarithm,parameter
+parent function,piecewise function,range,relation
+transformation,intercept,maximum,minimum
+csv
+# Table: Mathematical Language and Symbols Students Should Use:
+eccentricity,ellipse,foci,hyperbola,parabola
+vertex,parallel,perpendicular,,
+Pythagorean Theorem,directrix,,,
+csv
+# Table: Mathematical Language and Symbols Students Should Use
+bivariate,categorical,cumulative frequency plot
+interquartile range,measures of center,measures of variability (spread)
+normal distribution,quantitative data,univariate,regression
+csv
+Objective,Description
+"Objective 1: Analyze and perform applications using characteristics of functions, including polynomial, radical, rational, piece-wise, power, exponential, and logarithmic functions.",a. Sketch graphs showing key features of functions.
+,b. Perform transformations of functions graphically and algebraically by changing one or more parameters in y = af (x), y = f (ax), y = f ( x) + a, and y = f (x + a) for both positive and negative a.
+,c. Describe and analyze local and global behavior of functions, including increasing, decreasing, asymptotic and end behavior.
+,d. Recognize even and odd functions from their graphs and algebraic expressions for them.
+,e. Identify the domain, range, and other attributes of families of functions.
+Objective 2: Demonstrate an understanding of the nature of limits.,a. Estimate the limit of a function at a point using graphs and tables.
+,b. Calculate limits using algebra.
+,c. Calculate limits involving infinity.
+,d. Use the asymptotic behavior of a function to identify limits.
+Objective 3: Understand the concept of continuity as a property of functions.,a. Understand the definition of continuity as it applies to functions.
+,b. Understand the role of limits in continuity.
+,c. Demonstrate an understanding of the implications of continuity on the graphs of functions, including use of the Intermediate Value Theorem and Extreme Value Theorem.
+csv
+Mathematical Language and Symbols Students Should Use:,,,
+polynomial,radical,rational,piece-wise
+exponential,logarithmic,f(x),power
+asymptote,even function,odd function,limit
+continuity,Intermediate Value Theorem,Extreme Value Theorem,
+csv
+# Table: Mathematical Language and Symbols Students Should Use
+Term,Definition
+rate of change,derivative
+product rule,quotient rule
+local linearity,implicit differentiation
+differentiable,power rule
+composite function,chain rule
+"AY, DY",
+"AX, DX",
+csv
+# Table: Mathematical Language and Symbols Students Should Use
+Term,Definition
+average value,
+"definite integral, ∫abf(x)",Riemann sum,antiderivative
+Fundamental Theorem of Calculus,
+csv
+# Table: Mathematical Language and Symbols Students Should Use: data
+survey,SRS (simple random sampling),cluster sampling
+stratified sampling,systematic sampling,observation
+treatment,experiment,placebo
+blocking,control,blinding
+consumer price index,census,percent change
+,causality,correlation
+csv
+# Table: Mathematical Language and Symbols Students Should Use
+quantitative data,categorical data,dot plot,stem plot,bar graph
+frequency table,mean,median,mode,range
+IQR (inter-quartile range),,standard deviation,,
+standardized scores,skewed,outlier,quartile,percentile
+normal distribution,mean,standard,deviation,
+68%-95%-99.7% rule,,,,
+csv
+# Table: Mathematical Language and Symbols Students Should Use
+bivariate data,linear and non-linear data,slope,rate of change
+regression,correlation,coefficient,scatter plot
+interpolation,extrapolation,prediction,hypothesis test
+confidence interval,,,
+csv
+# Table: Mathematical Language and Symbols Students Should Use
+term,term2
+theoretical,subjective and experimental probability
+conditionalprobability,two-way table
+simulation,tree diagram
+"P(A), P(A|B), nCr, nPr",permutation
+independence,
+combination,addition and multiplication laws
+csv
+,
+UTAH CORE STATE STANDARDS for MATHEMATICS,
+MATHEMATICAL DECISION MAKING FOR LIFE,
+Prerequisite: Secondary Mathematics II,
+Mathematical Decision Making is a four-quarter course for seniors. The course includes math-,
+"ematical decision making in finance, modeling, probability and statistics, and making choices.",
+"The four quarters of instruction are independent of each other, allowing students to enter and",
+exit the course quarterly. Students will make sense of authentic problems and persevere in,
+solving them. They will reason abstractly and quantitatively while communicating mathemat-,
+"ics to others. Students will use appropriate tools, including technology, to model mathemat-",
+ics. Students will use structure and regularity of reasoning to describe mathematical situations,
+and solve problems.,
+QUARTER A-MATHEMATICAL DECISION MAKING: FINANCE,
+Standard I: Students will use mathematical analysis to manage personal resources,
+and make financially sound decisions.,
+"Objective 1: Determine, represent and analyze mathematical models for",
+various types of income calculations.,
+"a. Compute and compare hourly wages, given commissions or salaries",
+and hours worked.,
+"b. Compute gross earnings based on commissions, salaries, hourly",
+"wages, or piece-work.",
+c. Compute net earnings after common payroll deductions.,
+d. Research and compare annual earnings for various employment,
+opportunities.,
+"Objective 2: Create, represent, and justify personal budgets.",
+"a. Create spreadsheets, tables, and charts that represent personal in-",
+come and expenses.,
+"b. Calculate the total costs of owning a car, including monthly pay-",
+"ments, insurance, maintenance, and fuel.",
+"c. Analyze and model periodic monthly expenditures, including those",
+"that change during the year such, as heating and cooling costs.",
+Objective 3: Analyze mathematical models related to investing and bor-,
+rowing money.,
+a. Compute and compare the anticipated earnings for investments and,
+savings plans.,
+b. Interpret stock market data charts.,
+"c. Research and predict retirement income from savings, Social",
+"Security benefits, pensions, and investments.",
+csv
+# Table: Mathematical Language and Symbols Students Should Use
+APR (fixed and variable),adjustments,annual fees,bi-weekly
+capital gain/loss,compound interest,co-payment,deductible
+deductions,FICA,future value,graduated
+gross,index,interest,net
+percent change,premium,principal,semi-monthly
+stocks,weighted average,yield,
+csv
+# Table: Mathematical Language and Symbols Students Should Use:
+amplitude,area,cyclical,exponential,iteration
+linear,logistic,matrix,piecewise,perimeter
+period,recursion,scalar,surface area,volume
+csv
+Mathematical Language and Symbols Students Should Use:,,,
+•bias,•combination,•conditional,•expected value
+•experiment,•experimental probability,•fair decision
+•frequency table,•independent,•sample,•survey
+•observational study,•permutation,•randomization
+•theoretical probability,tree diagram,•variability,•Venn diagram
+"•measures of central tendency (mean, median, mode)"
+"•measures of spread (range, standard deviation)"
+csv
+Mathematical Language and Symbols Students Should Use:,,
+•algorithm,•counterexample,•critical paths
+•flow chart,•logic,•minimal spanning trees
+•truth table,•vertex-edge graph,•Euler path
+csv
+Standard I," ""Students will use number sense", perform operations," solve problems and make decisions using rational and irrational numbers to set and implement financial goals."""
+Objective 1," ""Determine"," represent and analyze mathematical models and formulas for various types of financial calculations."""
+a," ""Use financial formulas that require operations with real numbers."""
+b," ""Interpret the meaning of integers in financial situations."""
+c," ""Use the irrational number e to evaluate continuously compounded interest."""
+d," ""Calculate net and gross income."""
+Objective 2," ""Analyze financial plans and calculated costs of personal finance."""
+a," ""Describe the value and use of savings in financial planning."""
+b," ""Explain how government regulations protect savers."""
+c," ""Compare the risk", return, liquidity," and costs for savings and investments."""
+d," ""Describe the value of investing and types of investments in the financial planning process."""
+e," ""Explain the effects of inflation on savings and investments."""
+f," ""Analyze the relationship between risk and return."""
+g," ""Describe and select appropriate financial products for different financial goals."""
+Objective 3," ""Complete calculations associated with personal finance and financial planning using technology."""
+a," ""Calculate future value of investments and present value of investments."""
+b," ""Calculate stock market transaction fees"," stock splits and dividend income."""
+c," ""Compute monthly payments for loans of different types."""
+csv
+Mathematical and Financial Language and Symbols Students Should Use
+•decimals,•percent,•estimate,⚫exponent
+•rate,•rational numbers,•integers,•net
+•irrational numbers,•graduated commission,•gross,⚫exempt
+•deductions,•FICA,⚫adjustments,•annual fees
+•APR (fixed vs. variable),•weekly,•52 week high and low
+•percent change,•simple moving average,⚫arithmetic average
+•bi-weekly,•semi-monthly,•monthly,•commission
+•capital gain/loss,•CD,•bonds,•stocks
+•mutual funds,•premium,•future value,•deductibles
+•co-payments,•withholdings,⚫expenditures,•balances
+•investments,,
+
+Exploratory Concepts and Skills
+■NASDAQ,■NYSE,■S & P,Dow Jones,■Tax forms
+csv
+# Table: Mathematical and Financial Language and Symbols Students Should Use
+plots,interpolate,extrapolate,data
+information,charts,graphs,regression
+benefit packages,amortization charts,bankruptcy,tax tables
+csv
+# Table: Mathematical and Financial Language and Symbols Students Should Use
+function,linear,non-linear,extrapolate
+rate,average,stock splits,dividend income
+earnings,exponential growth,exponential decay,
+csv
+Mathematical and Financial Language and Symbols Students Should Use,,,,
+decimals,percent,exponent,rate,fluctuations
+compound interest,interpolate,extrapolate,mean,median
+mode,estimate,variable rate of change,units,consumer costs
+constant rate of change,total,simple interest,,
+gains,losses,variance,,
+inflation,,,,
+wages,investments,self-employment,leave
+retirement,cost-of-living,economic effect,entrepreneur
+csv
+# Table: Mathematical and Financial Language and Symbols Students Should Use
+insurance,auto insurance,health insurance,disability
+renter's insurance,homeowners insurance,term,long term
+whole life,deductible,premium,grace period
+wills,trusts,,
+csv
+,
+UTAH CORE STATE STANDARDS for MATHEMATICS,
+MODERN MATHEMATICS STANDARDS,
+Prerequisite: Secondary Math II,
+"This course introduces students to topics in modern mathematics as they apply to real-world contexts. The course extends students' understanding of the mathematics developed in Algebra 1 and Geometry. The course is intended to help students develop an understanding of how mathematics describes and explains the world in which they live. Students will extend their mathematical literacy, problem-solving skills, and enthusiasm for the power and beauty of mathematics as a tool for quantifying their world.",
+"Teachers will select a minimum of five objectives per semester to explore, and may modify indicators to meet those objectives. Teachers are encouraged to select topics which are of particular interest to their students. Because the topics within the course are not intended to build on one another, students may enter or exit the class throughout the academic year.",
+Standard 1: Students will expand number sense to understand the language and operations of number systems.,
+Objective 1: Use concepts of number theory and information systems to effectively manage large amounts of data.,
+a.,Expand understanding of the decimal system by exploring other number-base systems.
+b.,Use various methods to write and decipher codes.
+c.,"Determine validity of ISBN, UPC and credit card numbers using modular arithmetic."
+d.,Compute using modular arithmetic.
+"Objective 2: Use matrices to model, organize, and solve problems involving multiple variables.",
+a.,Use matrices as a way to organize information.
+b.,Perform basic matrix calculations to solve problems in context.
+c.,Use matrices and technology to solve systems of linear equations.
+Objective 3: Recognize sequences as mathematical patterns and use them to model authentic situations.,
+a.,Find the nth term in arithmetic or geometric sequences.
+b.,Represent arithmetic and geometric sequences explicitly and recursively.
+c.,Explore sequences to model authentic situations.
+csv
+# Table 1: Mathematical Language and Symbols Students Should Use
+Term,
+binary,
+inductive reasoning,
+exponential growth,
+arithmetic,
+hexadecimal,
+deductive reasonin,
+Fibonacci sequence,
+matrix/matrices,
+ISBN,
+Pascal's triangle,
+UPC,
+modular
+
+# Table 2: Mathematical Language and Symbols Students Should Use
+Term,
+exponential functions,
+Linear programming,
+objective function,
+logarithm,
+constraints,
+maximize,
+base,
+minimize,
+exponent
+csv
+# Table: Mathematical Language and Symbols Students Should Use:
+Chaos Theory,strange attractors,scaling,bifurcation
+dynamic system,connectedness,completeness,regularity
+Golden ratio,Graph Theory,initial sensitivity,butterfly effect
+fractal,,,
+csv
+# Table: Mathematical Language and Symbols Students Should Use:
+conditional,unconditional,multiplication rule,
+probability tree,stem plot,line plot,
+histogram,mean,median,quartile
+standard deviation,univariate,bivariate,
+correlation coefficient,regression,survey,
+observational study,experiment,control group,placebo
+Venn diagram,two-way table,permutation,combination
+csv
+# Mathematical Language and Symbols Students Should Use:
+Venn diagram,truth table,logic notation
+compound statement,conditional statement,equivalent statement
+intersection,union,subset
+empty set,complement,cardinality
+"Ø, €, C, N,U,",bounded,unbounded
+,countable,uncountable
+csv
+# No tables found in this document
+There is no tabular data in this image.

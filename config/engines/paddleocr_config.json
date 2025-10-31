@@ -1,0 +1,424 @@
+{
+  "engine_name": "paddleocr",
+  "config_id": "d0ac33c7-f791-4568-a690-569cd6412b00",
+  "parent_config_reference": {
+    "parent_config_id": "9647b587-e558-470e-bd77-d44dea398e28",
+    "parent_file": "config/engine_configurations.ndjson",
+    "foreign_key_type": "parent_config_id"
+  },
+  "default_optimization_settings": {
+    "use_gpu": {
+      "default_value": false,
+      "auto_optimize": true,
+      "tested": true,
+      "category": "performance",
+      "type": "bool",
+      "min_value": null,
+      "max_value": null,
+      "choices": null
+    },
+    "lang": {
+      "default_value": "en",
+      "auto_optimize": false,
+      "tested": true,
+      "category": "language",
+      "type": "choice",
+      "min_value": null,
+      "max_value": null,
+      "choices": [
+        "en",
+        "ch",
+        "fr",
+        "german",
+        "korean",
+        "japan",
+        "it",
+        "es",
+        "pt",
+        "ru",
+        "ar",
+        "ta",
+        "ug",
+        "fa",
+        "ur",
+        "rs",
+        "oc",
+        "rsc",
+        "bg",
+        "uk",
+        "be",
+        "te",
+        "kn",
+        "ch_tra",
+        "hi",
+        "mr",
+        "ne",
+        "latin",
+        "devanagari"
+      ]
+    },
+    "use_angle_cls": {
+      "default_value": true,
+      "auto_optimize": true,
+      "tested": true,
+      "category": "preprocessing",
+      "type": "bool",
+      "min_value": null,
+      "max_value": null,
+      "choices": null
+    },
+    "show_log": {
+      "default_value": false,
+      "auto_optimize": false,
+      "tested": true,
+      "category": "debugging",
+      "type": "bool",
+      "min_value": null,
+      "max_value": null,
+      "choices": null
+    },
+    "det_algorithm": {
+      "default_value": "DB",
+      "auto_optimize": false,
+      "tested": true,
+      "category": "detection",
+      "type": "choice",
+      "min_value": null,
+      "max_value": null,
+      "choices": [
+        "DB",
+        "EAST",
+        "SAST"
+      ]
+    },
+    "det_limit_side_len": {
+      "default_value": 960,
+      "auto_optimize": true,
+      "tested": true,
+      "category": "detection",
+      "type": "int",
+      "min_value": 320,
+      "max_value": 2048,
+      "choices": null
+    },
+    "det_limit_type": {
+      "default_value": "max",
+      "auto_optimize": false,
+      "tested": true,
+      "category": "detection",
+      "type": "choice",
+      "min_value": null,
+      "max_value": null,
+      "choices": [
+        "max",
+        "min"
+      ]
+    },
+    "rec_algorithm": {
+      "default_value": "SVTR_LCNet",
+      "auto_optimize": false,
+      "tested": true,
+      "category": "recognition",
+      "type": "choice",
+      "min_value": null,
+      "max_value": null,
+      "choices": [
+        "SVTR_LCNet",
+        "CRNN",
+        "RARE",
+        "SRN"
+      ]
+    },
+    "rec_batch_num": {
+      "default_value": 6,
+      "auto_optimize": true,
+      "tested": true,
+      "category": "performance",
+      "type": "int",
+      "min_value": 1,
+      "max_value": 32,
+      "choices": null
+    },
+    "cls_batch_num": {
+      "default_value": 6,
+      "auto_optimize": true,
+      "tested": true,
+      "category": "performance",
+      "type": "int",
+      "min_value": 1,
+      "max_value": 32,
+      "choices": null
+    },
+    "cls_thresh": {
+      "default_value": 0.9,
+      "auto_optimize": true,
+      "tested": true,
+      "category": "classification",
+      "type": "float",
+      "min_value": 0.1,
+      "max_value": 1.0,
+      "choices": null
+    }
+  },
+  "supported_cli_parameters": [
+    {
+      "name": "use_gpu",
+      "type": "bool",
+      "description": "Use GPU acceleration",
+      "default": false,
+      "choices": null,
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": true,
+      "min_value": null,
+      "max_value": null,
+      "category": "performance"
+    },
+    {
+      "name": "lang",
+      "type": "choice",
+      "description": "Language for OCR",
+      "default": "en",
+      "choices": [
+        "en",
+        "ch",
+        "fr",
+        "german",
+        "korean",
+        "japan",
+        "it",
+        "es",
+        "pt",
+        "ru",
+        "ar",
+        "ta",
+        "ug",
+        "fa",
+        "ur",
+        "rs",
+        "oc",
+        "rsc",
+        "bg",
+        "uk",
+        "be",
+        "te",
+        "kn",
+        "ch_tra",
+        "hi",
+        "mr",
+        "ne",
+        "latin",
+        "devanagari"
+      ],
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": false,
+      "min_value": null,
+      "max_value": null,
+      "category": "language"
+    },
+    {
+      "name": "use_angle_cls",
+      "type": "bool",
+      "description": "Use angle classification",
+      "default": true,
+      "choices": null,
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": true,
+      "min_value": null,
+      "max_value": null,
+      "category": "preprocessing"
+    },
+    {
+      "name": "show_log",
+      "type": "bool",
+      "description": "Show detailed logs",
+      "default": false,
+      "choices": null,
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": false,
+      "min_value": null,
+      "max_value": null,
+      "category": "debugging"
+    },
+    {
+      "name": "det_algorithm",
+      "type": "choice",
+      "description": "Text detection algorithm",
+      "default": "DB",
+      "choices": [
+        "DB",
+        "EAST",
+        "SAST"
+      ],
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": false,
+      "min_value": null,
+      "max_value": null,
+      "category": "detection"
+    },
+    {
+      "name": "det_limit_side_len",
+      "type": "int",
+      "description": "Detection limit side length",
+      "default": 960,
+      "choices": null,
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": true,
+      "min_value": 320,
+      "max_value": 2048,
+      "category": "detection"
+    },
+    {
+      "name": "det_limit_type",
+      "type": "choice",
+      "description": "Detection limit type",
+      "default": "max",
+      "choices": [
+        "max",
+        "min"
+      ],
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": false,
+      "min_value": null,
+      "max_value": null,
+      "category": "detection"
+    },
+    {
+      "name": "rec_algorithm",
+      "type": "choice",
+      "description": "Text recognition algorithm",
+      "default": "SVTR_LCNet",
+      "choices": [
+        "SVTR_LCNet",
+        "CRNN",
+        "RARE",
+        "SRN"
+      ],
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": false,
+      "min_value": null,
+      "max_value": null,
+      "category": "recognition"
+    },
+    {
+      "name": "rec_batch_num",
+      "type": "int",
+      "description": "Recognition batch size",
+      "default": 6,
+      "choices": null,
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": true,
+      "min_value": 1,
+      "max_value": 32,
+      "category": "performance"
+    },
+    {
+      "name": "cls_batch_num",
+      "type": "int",
+      "description": "Classification batch size",
+      "default": 6,
+      "choices": null,
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": true,
+      "min_value": 1,
+      "max_value": 32,
+      "category": "performance"
+    },
+    {
+      "name": "cls_thresh",
+      "type": "float",
+      "description": "Classification threshold",
+      "default": 0.9,
+      "choices": null,
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": true,
+      "min_value": 0.1,
+      "max_value": 1.0,
+      "category": "classification"
+    }
+  ],
+  "supported_mcp_functions": [
+    {
+      "name": "paddleocr_extract",
+      "description": "Extract text using PaddleOCR",
+      "parameters": {
+        "image_path": "str",
+        "lang": "str",
+        "use_angle_cls": "bool",
+        "use_gpu": "bool"
+      },
+      "return_format": {
+        "text": "str",
+        "boxes": "list",
+        "scores": "list",
+        "angles": "list"
+      },
+      "required_attributes": [
+        "text",
+        "boxes"
+      ],
+      "optional_attributes": [
+        "scores",
+        "angles",
+        "processing_time"
+      ],
+      "version": "1.0"
+    },
+    {
+      "name": "paddleocr_detect_only",
+      "description": "Detect text regions without recognition",
+      "parameters": {
+        "image_path": "str",
+        "det_algorithm": "str"
+      },
+      "return_format": {
+        "boxes": "list",
+        "scores": "list"
+      },
+      "required_attributes": [
+        "boxes"
+      ],
+      "optional_attributes": [
+        "scores"
+      ],
+      "version": "1.0"
+    }
+  ],
+  "cli_support": true,
+  "mcp_support": true,
+  "version": "1.0",
+  "last_updated": "2025-10-28T13:56:52.725730",
+  "description": "Default configuration for paddleocr engine"
+}

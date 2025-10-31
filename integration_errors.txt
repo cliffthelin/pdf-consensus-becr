@@ -1,0 +1,251 @@
+============================= test session starts =============================
+platform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0
+PySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0
+rootdir: C:\Projects\PDFConcensus
+configfile: pytest.ini
+plugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0
+asyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function
+collected 110 items / 1 error
+
+<Dir PDFConcensus>
+  <Package tests>
+    <Package integration>
+      <Module test_analytics_integration.py>
+        <Class TestAnalyticsIntegration>
+          <Function test_complete_analytics_pipeline_real_data>
+          <Function test_analytics_with_consensus_decisions>
+          <Function test_analytics_export_formats>
+          <Function test_analytics_convenience_functions>
+        <Class TestAnalyticsIntegrationEdgeCases>
+          <Function test_analytics_with_no_data>
+          <Function test_analytics_with_mixed_success_failure>
+      <Module test_anomaly.py>
+        <Class TestAnomaly>
+          <Function test_module_exists>
+      <Module test_complete_system_final.py>
+        <Class TestCompleteSystemFinal>
+          <Function test_complete_system_with_all_engines_and_associations>
+      <Module test_complete_system_real_engines.py>
+        <Class TestCompleteSystemRealEngines>
+          <Function test_complete_system_with_real_engines_and_associations>
+      <Module test_complete_system_simple.py>
+        <Class TestCompleteSystemSimple>
+          <Function test_complete_system_with_all_engines_and_associations>
+      <Module test_configuration_integration.py>
+        <Class TestConfigurationIntegration>
+          <Function test_gbg_processor_uses_configuration_defaults>
+          <Function test_gbg_processor_saves_to_configured_output>
+          <Function test_io_components_use_configured_encoding>
+          <Function test_output_directories_are_configured>
+          <Function test_expected_values_match_reality>
+          <Function test_configuration_consistency_across_runs>
+          <Function test_mcp_override_functionality>
+          <Function test_mcp_integration_readiness>
+        <Class TestConfigurationErrorHandling>
+          <Function test_graceful_handling_of_missing_pdf>
+          <Function test_output_directory_creation>
+      <Module test_consensus_on_fixture_doc.py>
+        <Class TestConsensusIntegration>
+          <Function test_consensus_pipeline_with_default_pdf>
+          <Function test_consensus_with_educational_content_variations>
+          <Function test_consensus_merge_scenario>
+          <Function test_consensus_review_scenario>
+          <Function test_comprehensive_ndjson_output_format>
+          <Function test_rerunning_with_new_associated_files>
+        <Class TestConsensusPerformance>
+          <Function test_batch_consensus_performance>
+          <Function test_surrounding_block_recalculation>
+        <Class TestConsensusPerformanceWithMultipleFiles>
+          <Function test_performance_with_many_associated_files>
+      <Module test_consensus_with_real_associations.py>
+        <Class TestConsensusWithRealAssociations>
+          <Function test_load_real_association_files>
+          <Function test_consensus_with_specific_association_content>
+          <Function test_full_consensus_pipeline_with_real_associations>
+      <Module test_consensus_with_real_default_file.py>
+        <Class TestConsensusWithRealDefaultFile>
+          <Function test_extract_real_text_from_default_pdf>
+          <Function test_consensus_functions_with_default_file_validation>
+        <Class TestConsensusRealFileCompliance>
+          <Function test_no_synthetic_data_in_consensus_functions>
+          <Function test_consensus_integration_with_real_pipeline>
+      <Module test_consistency.py>
+        <Class TestConsistency>
+          <Function test_module_exists>
+      <Module test_consistency_integration.py>
+        <Class TestConsistencyIntegration>
+          <Function test_module_exists>
+      <Module test_context.py>
+        <Class TestContext>
+          <Function test_module_exists>
+      <Module test_core.py>
+        <Class TestCore>
+          <Function test_module_exists>
+      <Module test_dynamic_reprocessing_workflow.py>
+        <Class TestDynamicReprocessingWorkflow>
+          <Function test_complete_workflow_rebuild_all>
+          <Function test_complete_workflow_stats_only>
+          <Function test_complete_workflow_config_only>
+          <Function test_incremental_processing_workflow>
+          <Function test_consistency_update_workflow>
+          <Function test_version_tracking_workflow>
+          <Function test_configuration_change_detection>
+          <Function test_trigger_system>
+        <Class TestRealFileProcessing>
+          <Function test_real_pdf_processing>
+      <Module test_gbg_seed.py>
+        <Class TestGBGStability>
+          <Function test_identical_block_ids_across_runs>
+          <Function test_block_id_format_consistency>
+          <Function test_deterministic_coordinates_normalization>
+        <Class TestMultiColumnDetection>
+          <Function test_multi_column_yields_multiple_blocks>
+          <Function test_single_column_detection>
+          <Function test_block_metadata_includes_column_info>
+        <Class TestOrientationDetection>
+          <Function test_horizontal_text_detection>
+          <Function test_rotated_text_detection>
+          <Function test_skew_detection_accuracy>
+          <Function test_vertical_text_detection>
+          <Function test_combined_orientation_detection>
+        <Class TestCrossPlatformConsistency>
+          <Function test_block_id_stability_across_platforms>
+          <Function test_floating_point_precision_consistency>
+          <Function test_page_dimension_normalization>
+        <Class TestRealFileProcessing>
+          <Function test_real_pdf_processable>
+          <Function test_page_info_extraction>
+      <Module test_guard.py>
+        <Class TestGuard>
+          <Function test_module_exists>
+      <Module test_ids.py>
+        <Class TestIds>
+          <Function test_module_exists>
+      <Module test_improved_pymupdf_matching.py>
+        <Class TestImprovedPyMuPDFMatching>
+          <Function test_improved_matching_performance>
+          <Function test_match_quality_analysis>
+          <Function test_unmapped_blocks_analysis>
+          <Function test_performance_comparison>
+      <Module test_language.py>
+        <Class TestLanguage>
+          <Function test_module_exists>
+      <Module test_loader.py>
+        <Class TestLoader>
+          <Function test_module_exists>
+      <Module test_match.py>
+        <Class TestMatch>
+          <Function test_module_exists>
+      <Module test_mcp_integration.py>
+        <Class TestMCPIntegration>
+          <Coroutine test_server_client_connection>
+          <Coroutine test_extraction_submission_workflow>
+          <Coroutine test_subscription_workflow>
+          <Coroutine test_error_handling>
+          <Coroutine test_multiple_clients>
+          <Coroutine test_server_without_client>
+          <Coroutine test_client_without_server>
+          <Function test_server_info_structure>
+          <Function test_client_info_structure>
+      <Module test_merge.py>
+        <Class TestMerge>
+          <Function test_module_exists>
+      <Module test_orientation.py>
+        <Class TestOrientation>
+          <Function test_module_exists>
+      <Module test_pdf_metadata.py>
+        <Class TestPdfMetadata>
+          <Function test_module_exists>
+      <Module test_policy.py>
+        <Class TestPolicy>
+          <Function test_module_exists>
+      <Module test_processor.py>
+        <Class TestProcessor>
+          <Function test_module_exists>
+      <Module test_project_management_workflow.py>
+        <Class TestProjectManagementWorkflow>
+          <Function test_complete_project_workflow>
+          <Function test_project_with_processing_results>
+          <Function test_project_with_missing_files>
+          <Function test_project_file_relocation_workflow>
+          <Function test_project_integration_with_association_manager>
+          <Function test_project_manifest_completeness>
+      <Module test_review_gui_workflow.py>
+        <Class TestReviewGUIWorkflow>
+          <Function test_complete_review_workflow>
+          <Function test_pdf_viewer_integration>
+          <Function test_variations_panel_integration>
+          <Function test_signal_integration>
+          <Function test_filter_functionality_integration>
+          <Function test_menu_integration>
+          <Function test_status_bar_integration>
+        <Class TestReviewGUIRealFileWorkflow>
+          <Function test_gui_startup_with_real_components>
+          <Function test_component_integration_with_real_files>
+      <Module test_schemas.py>
+        <Class TestSchemas>
+          <Function test_module_exists>
+      <Module test_score.py>
+        <Class TestScore>
+          <Function test_module_exists>
+      <Module test_seed.py>
+        <Class TestSeed>
+          <Function test_module_exists>
+      <Module test_textnorm.py>
+        <Class TestTextnorm>
+          <Function test_module_exists>
+      <Module test_types.py>
+        <Class TestTypes>
+          <Function test_module_exists>
+      <Module test_variation_block.py>
+        <Class TestVariationBlock>
+          <Function test_module_exists>
+      <Module test_writer.py>
+        <Class TestWriter>
+          <Function test_module_exists>
+
+=================================== ERRORS ====================================
+_ ERROR collecting tests/integration/test_complete_system_with_all_engines.py _
+ImportError while importing test module 'C:\Projects\PDFConcensus\tests\integration\test_complete_system_with_all_engines.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+C:\Program Files\Python312\Lib\importlib\__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests\integration\test_complete_system_with_all_engines.py:20: in <module>
+    from compareblocks.io.schemas import validate_ndjson_record
+E   ImportError: cannot import name 'validate_ndjson_record' from 'compareblocks.io.schemas' (C:\Projects\PDFConcensus\src\compareblocks\io\schemas.py)
+============================== warnings summary ===============================
+<frozen importlib._bootstrap>:488
+<frozen importlib._bootstrap>:488
+  <frozen importlib._bootstrap>:488: DeprecationWarning: builtin type SwigPyPacked has no __module__ attribute
+
+<frozen importlib._bootstrap>:488
+<frozen importlib._bootstrap>:488
+  <frozen importlib._bootstrap>:488: DeprecationWarning: builtin type SwigPyObject has no __module__ attribute
+
+<frozen importlib._bootstrap>:488
+  <frozen importlib._bootstrap>:488: DeprecationWarning: builtin type swigvarlink has no __module__ attribute
+
+.venv\Lib\site-packages\docling_core\types\doc\document.py:5532
+  C:\Projects\PDFConcensus\.venv\Lib\site-packages\docling_core\types\doc\document.py:5532: PydanticDeprecatedSince212: Using `@model_validator` with mode='after' on a classmethod is deprecated. Instead, use an instance method. See the documentation at https://docs.pydantic.dev/2.12/concepts/validators/#model-after-validator. Deprecated in Pydantic V2.12 to be removed in V3.0.
+    @model_validator(mode="after")  # type: ignore
+
+src\compareblocks\mcp\server.py:16
+  C:\Projects\PDFConcensus\src\compareblocks\mcp\server.py:16: DeprecationWarning: websockets.server.WebSocketServerProtocol is deprecated
+    from websockets.server import WebSocketServerProtocol
+
+.venv\Lib\site-packages\websockets\legacy\__init__.py:6
+  C:\Projects\PDFConcensus\.venv\Lib\site-packages\websockets\legacy\__init__.py:6: DeprecationWarning: websockets.legacy is deprecated; see https://websockets.readthedocs.io/en/stable/howto/upgrade.html for upgrade instructions
+    warnings.warn(  # deprecated in 14.0 - 2024-11-09
+
+src\compareblocks\mcp\client.py:15
+  C:\Projects\PDFConcensus\src\compareblocks\mcp\client.py:15: DeprecationWarning: websockets.client.WebSocketClientProtocol is deprecated
+    from websockets.client import WebSocketClientProtocol
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+=========================== short test summary info ===========================
+ERROR tests/integration/test_complete_system_with_all_engines.py
+!!!!!!!!!!!!!!!!!!! Interrupted: 1 error during collection !!!!!!!!!!!!!!!!!!!!
+=================== 110 tests collected, 1 error in 29.24s ====================
+sys:1: DeprecationWarning: builtin type swigvarlink has no __module__ attribute

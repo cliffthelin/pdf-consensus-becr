@@ -1,0 +1,201 @@
+{
+  "engine_name": "kreuzberg",
+  "config_id": "27b17eed-d6aa-4996-a076-618c7393d6ad",
+  "parent_config_reference": {
+    "parent_config_id": "global-parent-001",
+    "parent_file": "config/engine_configurations.ndjson",
+    "foreign_key_type": "parent_config_id"
+  },
+  "default_optimization_settings": {
+    "model": {
+      "default_value": "default",
+      "auto_optimize": true,
+      "tested": true,
+      "category": "model",
+      "type": "choice",
+      "min_value": null,
+      "max_value": null,
+      "choices": [
+        "default",
+        "fast",
+        "accurate"
+      ]
+    },
+    "confidence_threshold": {
+      "default_value": 0.8,
+      "auto_optimize": true,
+      "tested": true,
+      "category": "quality",
+      "type": "float",
+      "min_value": 0.1,
+      "max_value": 1.0,
+      "choices": null
+    },
+    "batch_size": {
+      "default_value": 1,
+      "auto_optimize": true,
+      "tested": true,
+      "category": "performance",
+      "type": "int",
+      "min_value": 1,
+      "max_value": 16,
+      "choices": null
+    },
+    "use_gpu": {
+      "default_value": false,
+      "auto_optimize": true,
+      "tested": true,
+      "category": "performance",
+      "type": "bool",
+      "min_value": null,
+      "max_value": null,
+      "choices": null
+    },
+    "max_image_size": {
+      "default_value": 2048,
+      "auto_optimize": true,
+      "tested": true,
+      "category": "image_processing",
+      "type": "int",
+      "min_value": 512,
+      "max_value": 4096,
+      "choices": null
+    },
+    "preprocessing": {
+      "default_value": true,
+      "auto_optimize": true,
+      "tested": true,
+      "category": "preprocessing",
+      "type": "bool",
+      "min_value": null,
+      "max_value": null,
+      "choices": null
+    }
+  },
+  "supported_cli_parameters": [
+    {
+      "name": "model",
+      "type": "choice",
+      "description": "Model to use for processing",
+      "default": "default",
+      "choices": [
+        "default",
+        "fast",
+        "accurate"
+      ],
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": true,
+      "min_value": null,
+      "max_value": null,
+      "category": "model"
+    },
+    {
+      "name": "confidence_threshold",
+      "type": "float",
+      "description": "Confidence threshold for results",
+      "default": 0.8,
+      "choices": null,
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": true,
+      "min_value": 0.1,
+      "max_value": 1.0,
+      "category": "quality"
+    },
+    {
+      "name": "batch_size",
+      "type": "int",
+      "description": "Processing batch size",
+      "default": 1,
+      "choices": null,
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": true,
+      "min_value": 1,
+      "max_value": 16,
+      "category": "performance"
+    },
+    {
+      "name": "use_gpu",
+      "type": "bool",
+      "description": "Use GPU acceleration",
+      "default": false,
+      "choices": null,
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": true,
+      "min_value": null,
+      "max_value": null,
+      "category": "performance"
+    },
+    {
+      "name": "max_image_size",
+      "type": "int",
+      "description": "Maximum image size for processing",
+      "default": 2048,
+      "choices": null,
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": true,
+      "min_value": 512,
+      "max_value": 4096,
+      "category": "image_processing"
+    },
+    {
+      "name": "preprocessing",
+      "type": "bool",
+      "description": "Enable image preprocessing",
+      "default": true,
+      "choices": null,
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": true,
+      "min_value": null,
+      "max_value": null,
+      "category": "preprocessing"
+    }
+  ],
+  "supported_mcp_functions": [
+    {
+      "name": "kreuzberg_process",
+      "description": "Process document using Kreuzberg",
+      "parameters": {
+        "input_path": "str",
+        "model": "str",
+        "confidence_threshold": "float"
+      },
+      "return_format": {
+        "text": "str",
+        "confidence": "float",
+        "entities": "list"
+      },
+      "required_attributes": [
+        "text"
+      ],
+      "optional_attributes": [
+        "confidence",
+        "entities",
+        "processing_info"
+      ],
+      "version": "1.0"
+    }
+  ],
+  "cli_support": true,
+  "mcp_support": true,
+  "version": "1.0",
+  "last_updated": "2025-10-27T11:42:17.096347",
+  "description": "Default configuration for kreuzberg engine"
+}

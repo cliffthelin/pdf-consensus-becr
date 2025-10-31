@@ -1,0 +1,1306 @@
+{
+  "document": {
+    "title": "tmp2_wzdjez",
+    "type": "document",
+    "metadata": {
+      "date": "",
+      "author": "",
+      "version": "",
+      "pages": "17"
+    },
+    "sections": [
+      {
+        "id": "page_1_section_1",
+        "title": "Scope and Sequence",
+        "level": 1,
+        "content": "Reading engagement is a foundational skill for learning, personal growth, and enjoyment. The degree to which students can read and understand text in all formats and all contexts is a key indicator of success in school and in life. The goal is to actively promote reading and provide equitable access to literary and informational texts in a variety of subjects, genres, and formats. The standards facilitate the acquisition of tools, knowledge and skills to allow every student to read for interpretation and the development of new understandings.",
+        "subsections": [
+          {
+            "id": "page_1_section_1_subsection_1",
+            "title": "Strand 1: Reading for intellectual, personal, and emotional growth",
+            "level": 2,
+            "content": "Standard 1: Establish reading behaviors for lifelong learning and growth.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_2_standard_2_differentiate",
+        "title": "Standard 2: Differentiate between literary (fiction) and informational (non-fiction) text.",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_2_strand_2_meaning_of_text",
+        "title": "Strand 2: Meaning of text through format and text features",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_2_strand_2_standard_1_physical_features",
+            "title": "Standard 1: Demonstrate knowledge of the physical features (e.g., cover, spine, title page, cursor, scroll bar) of reading materials, both electronic and print.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_2_strand_2_standard_2_read_view_listen",
+            "title": "Standard 2: Read, view and listen for information presented in a variety of formats (e.g., textual, visual, media).",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_3_section_standard_3",
+        "title": "Standard 3: Identify the elements of story.",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_3_section_standard_4",
+        "title": "Standard 4: Identify the roles, tools, and purposes of authors, illustrators, and other contributors for a text.",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_3_section_strand_3",
+        "title": "Strand 3: Library purpose and function",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_3_section_strand_3_standard_1",
+            "title": "Standard 1: Exhibit library etiquette.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_3_section_strand_3_standard_2",
+            "title": "Standard 2: Understand the library layout, the library classification system, and the circulation process.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_4_standard_3",
+        "title": "Standard 3: Contribute to a reading and learning community, including recommending reading materials to peers and respecting others' reading choices.",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_4_standard_4",
+        "title": "Standard 4: Make use of personal, community and global libraries, both physical and electronic.",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_5_section_information_research",
+        "title": "Information and Research",
+        "level": 1,
+        "content": "Through engagement in the research process, students will apply critical thinking skills (e.g., analysis, evaluation, organization, synthesis) to draw conclusions and construct new understandings. Additionally, students will engage in research processes (e.g., inquiry-based, information problem solving). Such experiences will develop student self-confidence in solving problems in an environment where information resources and technologies are increasingly complex.",
+        "subsections": []
+      },
+      {
+        "id": "page_5_section_strand_4",
+        "title": "Strand 4 –Defining an information problem and identifying information needed",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_5_section_strand_4_standard_1",
+            "title": "Standard 1: Define an information problem.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_5_section_strand_4_standard_2",
+            "title": "Standard 2: Identify the information needed.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_7_section_1",
+        "title": "Page 7 Content",
+        "level": 1,
+        "content": "<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th></th>\n      <th></th>\n      <th></th>\n      <th></th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>c) Revise and focus search as necessary to yield more effective results.</td>\n      <td>K</td>\n      <td>1-2</td>\n      <td>3-4 Refine search terms to yield adequate and relevant results.</td>\n      <td>5 Refine search terms to yield adequate and relevant results.</td>\n    </tr>\n    <tr>\n      <td colspan=\"5\"><strong>Standard 2: Access information within sources by applying relevant tools (e.g., table of contents, indexes, keyword searches, sidebars, related subjects).</strong></td>\n    </tr>\n    <tr>\n      <td></td>\n      <td>K Identify title page, illustrations, and text in print resources.</td>\n      <td>1-2 Identify, define, and demonstrate use of table of contents and indexes in print resources.</td>\n      <td>3-4 Demonstrate use of table of contents, indexes, headings, and guide words in print resources.<br><br>Identify, define, and demonstrate use of sidebars, menu tabs, keywords searches, and other digital finding tools.</td>\n      <td>5 Demonstrate use of table of contents, indexes, headings, and guide words in print resources.<br><br>Demonstrate use of sidebars, menu tabs, keywords searches, and other digital finding tools.</td>\n    </tr>\n    <tr>\n      <td colspan=\"5\"><strong>Strand 7: Engage with and extracting information</strong></td>\n    </tr>\n    <tr>\n      <td colspan=\"5\"><strong>Standard 1: Engage with information by reading, listening, and viewing sources in a variety of formats.</strong></td>\n    </tr>\n    <tr>\n      <td>a) Use questions to guide reading, listening, and viewing of sources while building connections between prior knowledge and new information.</td>\n      <td>K Investigate teacher-selected sources, guided by questions and prior knowledge.</td>\n      <td>1-2 Investigate teacher-selected or self-selected sources, guided by questions and prior knowledge.</td>\n      <td>3-4 Engage with information using reading, listening, and viewing strategies, guided by questions and prior knowledge.</td>\n      <td>5 Engage with information using reading, listening, and viewing strategies, guided by questions and prior knowledge.</td>\n    </tr>\n    <tr>\n      <td>b) Analyze and make sense of information (e.g., identifying main ideas, supporting details, bias, point of view, misconceptions, conflicting information).</td>\n      <td>K Retell main ideas and key points.</td>\n      <td>1-2 Retell and summarize main ideas and supporting details.</td>\n      <td>3-4 Summarize and identify main ideas and supporting details, conflicting information, and point of view.</td>\n      <td>5 Summarize main ideas and supporting details, identify conflicting information, points of view, and bias. Recognize own misconceptions that conflict between new information and previous background knowledge.</td>\n    </tr>\n  </tbody>\n</table>\n\n<footer>ADA Compliant 02/24/2020</footer>",
+        "subsections": []
+      },
+      {
+        "id": "page_8_standard_2",
+        "title": "Standard 2: Select, extract and record information that addresses the information problem, answers guiding questions, and meets evaluation criteria.",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_8_strand_8",
+        "title": "Strand 8: Organizing, synthesizing, and presenting information",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_8_strand_8_standard_1",
+            "title": "Standard 1: Organize information from multiple sources.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_9_section_standard_2",
+        "title": "Standard 2: Present a learning product using a variety of presentation techniques (e.g., writing, speaking, media) to communicate new understandings.",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_10_strand_9",
+        "title": "Strand 9: Evaluate the process and product",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_10_strand_9_standard_1",
+            "title": "Standard 1: Evaluate the execution of the product for efficacy and quality, and identify areas needing improvement to determine how to proceed in the future.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_10_strand_9_standard_2",
+            "title": "Standard 2: Identify areas of the processes that were successfully executed, as well as those needing improvement, to determine how to proceed in the future.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_11_section_media_literacy",
+        "title": "Media Literacy",
+        "level": 1,
+        "content": "Media Literacy is the competent application of literacy skills to media and technology messages. Its goal is to help students develop the habits of inquiry and skills of expression that they need to be critical thinkers, effective communicators, and active, digital citizens in today's world. By learning the standards and objectives, students will acquire an understanding of the elements, construction, and potential impact of media messages while learning to make informed choices in the use of media. Through collaboration with classroom teachers, these standards can be integrated into curricular units throughout a wide range of subjects to ensure students are equipped with these essential 21st century skills.",
+        "subsections": []
+      },
+      {
+        "id": "page_11_section_strand_10",
+        "title": "Strand 10 – Awareness, modern citizenship, and informed decision making",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_12_standard_3",
+        "title": "Standard 3: Recognize that people experience the same message differently.",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_12_standard_4",
+        "title": "Standard 4: Understand how the use of media can broaden experiences throughout life.",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_12_standard_5",
+        "title": "Standard 5: Identify and explain the rights and responsibilities with respect to media and digital citizenship.",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_12_strand_11",
+        "title": "Strand 11: Analyze, question, and think critically",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_12_strand_11_standard_1",
+            "title": "Standard 1: Analyze techniques used to construct media messages.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_13_section_standard_2_impact",
+        "title": "Standard 2: Analyze the impact of media messages on a receiver.",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_13_section_strand_12_evaluate_elements",
+        "title": "Strand 12: Evaluate elements",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_13_section_strand_12_standard_1_evaluate_accuracy",
+            "title": "Standard 1: Evaluate media messages for accuracy, authenticity, relevance, and source authority.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_13_section_strand_12_standard_2_evaluate_select_media",
+            "title": "Standard 2: Evaluate and select media for personal and educational use.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_14_section_strand_13",
+        "title": "Strand 13: Produce and present",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_14_section_standard_1",
+            "title": "Standard 1: Identify messages for presentation, using a multi-step process, by determining intent, content, audience, and length.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_14_section_standard_2",
+            "title": "Standard 2: Develop and apply criteria for quality media productions.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_15_section_1",
+        "title": "Standard 3: Create, present, and evaluate the final product.",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_16_section_1",
+        "title": "Strand 14: Digital citizenship",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_16_section_1_subsection_1",
+            "title": "Standard 1: Understand and practice safe and responsible use of information and technology.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_16_section_1_subsection_2",
+            "title": "Standard 2: Identify issues and consequences of misusing media.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "main_topics": [],
+      "key_findings": [],
+      "action_items": [],
+      "important_dates": []
+    },
+    "tables": [
+      {
+        "id": "page_1_table_1",
+        "title": "",
+        "headers": [
+          "Descriptor",
+          "K",
+          "1-2",
+          "3-4",
+          "5"
+        ],
+        "rows": [
+          [
+            "a) Select texts from a variety of formats and genres to read for enjoyment, acquire knowledge, and answer questions.",
+            "K Recognize a variety of texts.",
+            "1-2 Identify and explore genre types.",
+            "3-4 Identify and explore text formats. (e.g. book and electronic resources)",
+            "5 Demonstrate understanding of genre and format to select text for a purpose."
+          ],
+          [
+            "b) Gain understanding and make connections while reading and interacting with text.",
+            "K Comprehend and retell stories.",
+            "1-2 Make connections between different stories.",
+            "3-4 Describe connections between different stories and make connections between the world and self",
+            "5 Analyze connections between different stories, the world, and self."
+          ],
+          [
+            "c) Demonstrate perseverance and stamina when reading or listening to a variety of texts.",
+            "K Demonstrate the ability to listen to a story.",
+            "1-2 Engage and recall while reading or listening to a story.",
+            "3-4 Complete reading of assigned or selected materials.",
+            "5 Demonstrate the ability to complete and discuss text appropriate to reading level."
+          ],
+          [
+            "d) Listen to, view, read, and integrate information to build a knowledge base.",
+            "K Recall information from a story.",
+            "1-2 Identify known and new information from a text.",
+            "3-4 Analyze information in text.",
+            "5 Apply or discuss information gained from text."
+          ]
+        ]
+      },
+      {
+        "id": "page_2_table_1_standard_2_details",
+        "title": "",
+        "headers": [
+          "",
+          "K",
+          "1-2",
+          "3-4",
+          "5"
+        ],
+        "rows": [
+          [
+            "a) Categorize text as literary or informational (fiction/nonfiction).",
+            "Recognize a text as literary or informational.",
+            "Identify the difference between literary and informational text.",
+            "Identify genres and text structure of literary and informational text. (e.g. realistic fiction and compare/contrast)*",
+            "Identify genres and text structure of literary and informational text. (e.g. realistic fiction and compare/contrast)*"
+          ],
+          [
+            "b) Use selection criteria (e.g., interest, content) when choosing materials for a defined purpose.",
+            "Identify the purpose (example, interest or information need) for book selection",
+            "Identify the purpose (example, interest or information need) for book selection",
+            "Identify the purpose (example, interest or information need) for book selection",
+            "Identify the purpose (example, interest or information need) for book selection"
+          ]
+        ]
+      },
+      {
+        "id": "page_2_table_2_strand_2_standard_1_details",
+        "title": "",
+        "headers": [
+          "",
+          "K",
+          "1-2",
+          "3-4",
+          "5"
+        ],
+        "rows": [
+          [
+            "",
+            "Identify features and formats of a book. (e.g. cover, spine, title page)*",
+            "Identify features and formats of books and electronic resources. (e.g. cover, cursor, scroll bar)*",
+            "Demonstrate use of features and formats of books and electronic resources. (e.g. cover, cursor, scroll bar)*",
+            "Demonstrate use of features and formats of books and electronic resources. (e.g. cover, cursor, scroll bar)*"
+          ]
+        ]
+      },
+      {
+        "id": "page_2_table_3_strand_2_standard_2_details",
+        "title": "",
+        "headers": [
+          "",
+          "K",
+          "1-2",
+          "3-4",
+          "5"
+        ],
+        "rows": [
+          [
+            "",
+            "Recognize literary style (prose or verse) and differences in artistic expression",
+            "Identify literary style (prose or verse) and differences in artistic expression",
+            "Describe literary (prose and verse) style and differences in artistic expression",
+            "Compare and contrast various literary styles and artistic expression"
+          ]
+        ]
+      },
+      {
+        "id": "page_3_table_standard_3",
+        "title": "Standard 3: Identify the elements of story.",
+        "headers": [
+          "",
+          "K Identify characters, setting, and major events (such as beginning, middle and end) or facts",
+          "1-2 Describe in detail, characters, setting, and plot or facts",
+          "3-4 Discuss the development and interaction of characters, events, setting, and plot",
+          "5 Compare and contrast the relationships among characters, setting, events, etc."
+        ],
+        "rows": []
+      },
+      {
+        "id": "page_3_table_standard_4",
+        "title": "Standard 4: Identify the roles, tools, and purposes of authors, illustrators, and other contributors for a text.",
+        "headers": [
+          "",
+          "K Recognize that authors and illustrators have a purpose",
+          "1-2 Describe the role and purposes of an author, illustrator, or other contributors.",
+          "3-4 Evaluate the contribution of the author, illustrator, and other contributors.",
+          "5 Compare and contrast the roles, and purposes of the author, illustrator, and other contributors."
+        ],
+        "rows": []
+      },
+      {
+        "id": "page_3_table_strand_3_standard_1",
+        "title": "Standard 1: Exhibit library etiquette.",
+        "headers": [
+          "",
+          "K Be responsible with library materials and respectful of library patrons.",
+          "1-2 Be responsible with library materials and respectful of library patrons.",
+          "3-4 Be responsible with library materials and respectful of library patrons.",
+          "5 Be responsible with library materials and respectful of library patrons."
+        ],
+        "rows": []
+      },
+      {
+        "id": "page_3_table_strand_3_standard_2",
+        "title": "Standard 2: Understand the library layout, the library classification system, and the circulation process.",
+        "headers": [
+          "",
+          "K Recognize that there are distinct locations for different library materials and a process for circulation.",
+          "1-2 Understand that materials can be located and accessed through the library catalog by searching for author, title or subject and recognize call numbers.",
+          "3-4 Demonstrate ability to locate and access materials through the library catalog by searching for author, title or subject and call number.",
+          "5 Demonstrate ability to locate and access a variety of materials through the library catalog by searching for author, title or subject and call number."
+        ],
+        "rows": []
+      },
+      {
+        "id": "page_4_table_standard_3_levels",
+        "title": "",
+        "headers": [
+          "",
+          "K Demonstrate and identify how text adds value to our lives by promoting the reading experience and respecting others' choices",
+          "1-2 Demonstrate and identify how text adds value to our lives by promoting the reading experience and respecting others' choices",
+          "3-4 Demonstrate and identify how text adds value to our lives by promoting the reading experience and respecting others' choices",
+          "5 Demonstrate and identify how text adds value to our lives by promoting the reading experience and respecting others' choices"
+        ],
+        "rows": []
+      },
+      {
+        "id": "page_4_table_standard_4_levels",
+        "title": "",
+        "headers": [
+          "",
+          "K Recognize that there are different libraries in a community.",
+          "1-2 Identify a variety of libraries, including databases.",
+          "3-4 Utilize a variety of libraries, including databases.",
+          "5 Apply the use of a variety of libraries, including databases, for a specific purpose."
+        ],
+        "rows": []
+      },
+      {
+        "id": "page_5_table_standard_1_details",
+        "title": "Standard 1: Define an information problem. Details",
+        "headers": [
+          "",
+          "K",
+          "1-2",
+          "3-4",
+          "5"
+        ],
+        "rows": [
+          [
+            "a) Analyze the task to identify the information problem.",
+            "Recognize and identify the information task.",
+            "Identify and interpret the information need.",
+            "Determine and analyze the information problem.",
+            "Analyze the information problem."
+          ],
+          [
+            "b) Seek clarification from teachers and others.",
+            "With guidance, ask questions to understand what is required to complete the task.",
+            "Ask questions to understand what is required to complete the task.",
+            "Review information task with teacher input.",
+            "Understand task requirements and clarify when necessary."
+          ],
+          [
+            "c) Select and narrow (or broaden) topics into a manageable focus.",
+            "With guidance, narrow the information topic.",
+            "With guidance, explain how topics can be broadened or narrowed.",
+            "Demonstrate how topics can be broadened or narrowed.",
+            "Evaluate and revise the topic."
+          ],
+          [
+            "d) Conceptualize the form of the final product based on target audience and criteria for evaluation.",
+            "With guidance, brainstorm and select possible forms of the final product, target audience, and evaluation of product.",
+            "With guidance, brainstorm, explain, and select possible forms of the final product, target audience, and evaluation of product.",
+            "Analyze and select a final product that meets criteria for task, target audience, and evaluation.",
+            "Analyze, evaluate, and select a final product that meets criteria for task, target audience and evaluation."
+          ]
+        ]
+      },
+      {
+        "id": "page_5_table_standard_2_details",
+        "title": "Standard 2: Identify the information needed. Details",
+        "headers": [
+          "",
+          "K",
+          "1-2",
+          "3-4",
+          "5"
+        ],
+        "rows": [
+          [
+            "a) Analyze the task and information needed.",
+            "With guidance, identify background knowledge and information needed.",
+            "With guidance, identify background knowledge and predict information needed.",
+            "Identify and record information already known and predict information needed.",
+            "Identify, summarize, and evaluate for relevance the information already known and determine information needed."
+          ],
+          [
+            "b) Generate essential questions for new understanding and to guide inquiry.",
+            "List possible questions together with teacher guidance.",
+            "List possible questions to direct and focus attention and review with the teacher.",
+            "Analyze possible questions for relevance to the topic.",
+            "Create and evaluate possible essential questions."
+          ]
+        ]
+      },
+      {
+        "id": "page_6_table_1",
+        "title": "",
+        "headers": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "rows": [
+          [
+            "c) Select, narrow (or broaden) keyword search terms.",
+            "K With guidance, list possible keyword search terms.",
+            "1-2 With guidance, identify possible keyword search terms and distinguish between narrow and broad terms.",
+            "3-4 Generate and broaden or narrow possible keyword search terms and critique them for relevance.",
+            "5 Generate and broaden or narrow possible keyword search terms and critique them for relevance."
+          ],
+          [
+            "Strand 5: Identifying, evaluating, and selecting sources",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Standard 1: Identify information sources (e.g., texts, places, people).",
+            "K With guidance, brainstorm a wide range of possible information sources.",
+            "1-2 Brainstorm and describe a range of possible information sources.",
+            "3-4 Brainstorm, identify, and explain a range of possible information sources.",
+            "5 Brainstorm and explain a range of possible information resources. Identify primary and secondary sources."
+          ],
+          [
+            "Standard 2: Evaluate and select sources based on predetermined criteria (e.g., relevancy, currency, credibility).",
+            "K With guidance, investigate and select possible information sources based on criteria.",
+            "1-2 With guidance, investigate and select possible information sources based on criteria.",
+            "3-4 Analyze, investigate, and select possible information sources based on criteria.",
+            "5 Investigate, select, and evaluate possible information sources based on criteria."
+          ],
+          [
+            "Strand 6: Locating sources and access information.",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Standard 1: Locate identified sources.",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "a) Demonstrate how to navigate library catalogs, the internet, and databases.",
+            "K Understand the concept of finding information sources through various tools (e.g. signage, catalogs).",
+            "1-2 Understand and demonstrate the concept of finding information sources through various tools (e.g. signage, catalogs).",
+            "3-4 Demonstrate use of the library catalog, databases, and web browsers using selected keyword, subject, author, title, and series terms.",
+            "5 Investigate sources using library catalogs, databases, and web browsers. Find possible sources using Boolean indicators and other search strategies."
+          ],
+          [
+            "b) Apply effective location skills, asking for help as needed.",
+            "K",
+            "1-2 Observe someone modeling locating sources from search results.",
+            "3-4 Locate selected sources from the search results or download / save / print source. Locate people or places of possible information.",
+            "5 Locate selected sources from the search results or download / save / print source. Locate people or places of possible information."
+          ]
+        ]
+      },
+      {
+        "id": "page_8_standard_2_table",
+        "title": "",
+        "headers": [
+          "",
+          "K",
+          "1-2",
+          "3-4",
+          "5"
+        ],
+        "rows": [
+          [
+            "a) Apply critical thinking skills to evaluate and select information in terms of relevancy, currency, and credibility including fact and opinion, bias, prejudice, and propaganda.",
+            "With guidance, identify relevant information that answers information questions from text, illustrations, and charts, interviews, etc.",
+            "Identify relevant facts that answer questions. Recognize differences between fact and opinion.",
+            "Identify facts and details that support main ideas. Evaluate information for credibility and currency.",
+            "Identify facts and details that support main ideas. Evaluate information for credibility, authority, currency, and bias. Identify propaganda."
+          ],
+          [
+            "b) Validate and compare information in sources, noting differences, contradictions, and types of data or research.",
+            "",
+            "",
+            "Compare and verify information from various sources.",
+            "Compare and validate conflicting information using additional sources."
+          ],
+          [
+            "c) Use a variety of note-taking strategies, including summarizing and paraphrasing, while noting sources.",
+            "Record information and sources in various formats by writing, drawing, retelling, etc.",
+            "Record information and sources in various formats by writing, drawing, retelling, etc.",
+            "Develop note-taking skills including paraphrasing and summarizing. Utilize graphic organizers and highlighting. Appropriately cite sources.",
+            "Use various note-taking strategies independently to summarize information. Utilize graphic organizers and highlighting. Appropriately cite sources."
+          ],
+          [
+            "d) Monitor gathered information for gaps and weaknesses and modify questions, sources, or strategies as needed to elicit adequate information.",
+            "",
+            "Reflect on original and additional questions and the adequacy of information.",
+            "Modify questions, sources, or strategies as needed to elicit adequate information to accomplish the research task successfully.",
+            "Modify questions, sources, or strategies as needed to elicit adequate information to accomplish the research task successfully."
+          ]
+        ]
+      },
+      {
+        "id": "page_8_strand_8_standard_1_table",
+        "title": "",
+        "headers": [
+          "",
+          "K",
+          "1-2",
+          "3-4",
+          "5"
+        ],
+        "rows": [
+          [
+            "a) Organize, evaluate, and synthesize selected information to support conclusions.",
+            "With guidance, organize information using sequencing, webbing, graphic organizers, storyboarding, etc. Draw conclusions.",
+            "With guidance, organize information using sequencing, webbing, graphic organizers, etc. Draw conclusions.",
+            "Outline, organize and synthesize information to draw conclusions about information questions. Support conclusions with evidence.",
+            "Outline, organize and synthesize information to draw conclusions about information questions. Support conclusions with evidence."
+          ]
+        ]
+      },
+      {
+        "id": "page_9_table_1",
+        "title": "",
+        "headers": [
+          "Column 1",
+          "Column 2",
+          "Column 3",
+          "Column 4",
+          "Column 5"
+        ],
+        "rows": [
+          [
+            "b) Select format of the learning product for the designated audience and use technology or other tools to integrate, organize, and present information from multiple sources.",
+            "K Reflect on target audience and decide how to share information learned.",
+            "1-2 Reflect on target audience and decide how to share information learned.",
+            "3-4 Reflect on target audience and decide how to share information learned. Learn about more complex product formats, including technology.",
+            "5 Reflect on target audience and decide how to share information learned. Use more complex product formats, including technology."
+          ],
+          [
+            "c) Follow ethical and legal guidelines in using and citing information to avoid plagiarism and copyright violations.",
+            "K With guidance, identify the source of information used.",
+            "1-2 With guidance, identify the sources of information used.",
+            "3-4 Cite sources appropriately and avoid copyright violations including plagiarism. Summarize and quote appropriately.",
+            "5 Cite sources appropriately and avoid copyright violations including plagiarism. Summarize and quote appropriately."
+          ],
+          [
+            "d) Apply evaluation criteria to create, revise, and finalize the learning product.",
+            "K With teacher input, create and revise products using previously established evaluation criteria.",
+            "1-2 With teacher input, create and revise products using previously established evaluation criteria.",
+            "3-4 Create and revise products using previously established evaluation criteria.",
+            "5 Create and revise products using previously established evaluation criteria."
+          ],
+          [
+            "e) Collaborate with others to exchange ideas, make decisions, create products, and peer edit as appropriate.",
+            "K",
+            "1-2 Collaborate with others, with teacher guidance, to exchange ideas, make decisions, and create products.",
+            "3-4 Collaborate with others to exchange ideas, make decisions, create products, and peer edit.",
+            "5 Collaborate with others to exchange ideas, make decisions, create products, and peer edit."
+          ]
+        ]
+      },
+      {
+        "id": "page_9_table_2",
+        "title": "",
+        "headers": [
+          "Column 1",
+          "Column 2",
+          "Column 3",
+          "Column 4",
+          "Column 5"
+        ],
+        "rows": [
+          [
+            "",
+            "K Practice presentation skills including eye contact, body language, speaking slowly and clearly, intonation, etc. Demonstrate respect for other presentations.",
+            "1-2 Practice presentation skills including eye contact, body language, speaking slowly and clearly, intonation, etc. Demonstrate respect for other presentations.",
+            "3-4 Demonstrate effective presentation skills while sharing products. Demonstrate effective use of multimedia formats. Demonstrate respect for other presentations.",
+            "5 Demonstrate effective presentation skills while sharing products. Demonstrate effective use of multimedia formats. Demonstrate respect for other presentations."
+          ]
+        ]
+      },
+      {
+        "id": "page_10_strand_9_standard_1_table_1",
+        "title": "",
+        "headers": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "rows": [
+          [
+            "a) Assess product based on pre-established evaluation criteria.",
+            "K Apply evaluation criteria to research product with teacher help.",
+            "1-2 Apply evaluation criteria to research product with teacher help.",
+            "3-4 Assess product efficacy and quality using objective evaluation criteria.",
+            "5 Assess product efficacy and quality using objective evaluation criteria."
+          ],
+          [
+            "b) Reflect upon how the product could be improved or modified.",
+            "K Discuss with the teacher what was difficult and what worked well during product creation and presentation.",
+            "1-2 Discuss with the teacher what was difficult and what worked well during product creation and presentation.",
+            "3-4 Reflect on and summarize what went well and what could be improved in future products.",
+            "5 Summarize and explain what went well, why and what could be improved in future products."
+          ],
+          [
+            "c) Solicit, reflect, and act upon peer reviews and teacher comments about the product.",
+            "K Engage with peers and teachers about the product and practice giving feedback to others.",
+            "1-2 Engage with peers and teachers about the product and practice giving feedback to others.",
+            "3-4 Engage with peers and teachers about the product and give feedback to others.",
+            "5 Engage with peers and teachers about the product and give feedback to others."
+          ]
+        ]
+      },
+      {
+        "id": "page_10_strand_9_standard_2_table_1",
+        "title": "",
+        "headers": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "rows": [
+          [
+            "a) Reflect upon how the product could be improved or modified.",
+            "K Reflect on the process. Discuss what new ideas or questions they now have.",
+            "1-2 Reflect on the process. Discuss what new ideas or questions they now have.",
+            "3-4 Reflect on the process. Discuss what new ideas or questions they now have.",
+            "5 Reflect on the process. Discuss what new ideas or questions they now have."
+          ],
+          [
+            "b) Reflect upon and describe the level of personal satisfaction with the process and product.",
+            "K Reflect on their level of personal satisfaction.",
+            "1-2 Reflect on their level of personal satisfaction.",
+            "3-4 Reflect on their level of personal satisfaction.",
+            "5 Reflect on their level of personal satisfaction."
+          ],
+          [
+            "c) Identify areas of personal growth, technology, and time-management skills, including the ability to collaborate.",
+            "K Reflect on new skills and growth while setting new goals with the teacher.",
+            "1-2 Reflect on new skills and growth while setting new goals with the teacher.",
+            "3-4 Reflect on new skills and growth while setting new goals. Reflect on ability to collaborate and fulfill group role.",
+            "5 Reflect on new skills and growth while setting new goals. Reflect on ability to collaborate and fulfill group role."
+          ]
+        ]
+      },
+      {
+        "id": "page_11_table_standard_1",
+        "title": "Standard 1: Define basic terms and concepts of media.",
+        "headers": [
+          "K",
+          "1-2",
+          "3-4",
+          "5"
+        ],
+        "rows": [
+          [
+            "Define media and brainstorm examples. Identify sources (e.g. TV, books, periodicals). [Glossary terms]",
+            "Define media, brainstorm examples, and discuss the appeal of various media (e.g. TV, books, periodicals, websites).",
+            "Define with examples basic terms (e.g. media literacy, mass media, local media, social media). Review previous terminology.",
+            "Define and discuss differences between mass media, local media, and social media. Review previous terminology."
+          ]
+        ]
+      },
+      {
+        "id": "page_11_table_standard_2",
+        "title": "Standard 2: Recognize that media messages are intentionally constructed.",
+        "headers": [
+          "K",
+          "1-2",
+          "3-4",
+          "5"
+        ],
+        "rows": [
+          [
+            "Recognize media is made to convey a message, which is aimed at a specific audience.",
+            "Recognize that specific elements (e.g., visual images, music, special effects) are used to construct a message for intended purposes. Recognize that advertisers utilize persuasive techniques (e.g., celebrity endorsements, physical appeal, jingles, desired lifestyle).",
+            "Explain the specific elements that are used to construct a message for an intended purpose, e.g., music, sounds, special effects, camera angles, cuts, props, color. Recognize that advertisers utilize persuasive techniques, e.g., celebrity endorsements, physical appeal, jingles, desired lifestyle.",
+            "Analyze the specific elements that are used to construct a message for an intended purpose, e.g., music, sounds, special effects, camera angles, cuts, props, color. Explain why advertisers utilize persuasive techniques, e.g., celebrity endorsements, physical appeal, jingles, desired lifestyle."
+          ]
+        ]
+      },
+      {
+        "id": "page_12_standard_3_table",
+        "title": "",
+        "headers": [
+          "",
+          "K Recognize differences in cultural settings, backgrounds, social class, as well as similarities in human experience using media in various formats.",
+          "1-2 Recognize that cultural backgrounds, gender, social class, nationality, emotions, life experiences may influence viewpoints and responses to media. Recognize the value of differing viewpoints.",
+          "3-4 Describe cultural backgrounds, gender, social class, nationality, emotions, life experiences may influence viewpoints and responses to media. Recognize the value of differing viewpoints.",
+          "5 Justify and illustrate with examples how cultural backgrounds, gender, social class, nationality, emotions, life experiences may influence viewpoints and responses to media. Articulate the value of differing viewpoints."
+        ],
+        "rows": []
+      },
+      {
+        "id": "page_12_standard_4_table",
+        "title": "",
+        "headers": [
+          "",
+          "K Discuss and share information and experiences that can be gained through media (e.g. travel, culture, nature, and entertainment).",
+          "1-2 Recognize information and experiences gained through media (e.g. cultural and geographic insights).",
+          "3-4 Cite evidence to show how vicarious experience through media can provide cultural, geographic, and historic insights.",
+          "5 Justify with examples to show how vicarious experience through media can provide personal cultural, geographic, and historic insights."
+        ],
+        "rows": []
+      },
+      {
+        "id": "page_12_standard_5_table",
+        "title": "",
+        "headers": [
+          "",
+          "K Explain there is ownership over creative works. Practice putting their name and date on works they produce.",
+          "1-2 Explain and give examples of works in print and nonprint media that are created by and belong to an author, illustrator, inventor, or company.",
+          "3-4 Explain ethical and legal ways in which to use print and nonprint media (e.g. cite sources, paraphrase, respect copyright).",
+          "5 Demonstrate ethical and legal use of print and nonprint media by listing works cited (e.g. cite sources, paraphrase, respect copyright)."
+        ],
+        "rows": []
+      },
+      {
+        "id": "page_12_strand_11_standard_1_table",
+        "title": "",
+        "headers": [
+          "",
+          "K Observe an element used to create media",
+          "1-2 View various forms of media to identify the elements and techniques",
+          "3-4 View various forms of media to identify and describe the elements",
+          "5 Students will view various forms of media to analyze the elements and techniques used to create the"
+        ],
+        "rows": []
+      },
+      {
+        "id": "page_13_table_1",
+        "title": "",
+        "headers": [],
+        "rows": [
+          [
+            "messages (e.g., music, special effects).",
+            "used to create the message (e.g., music, sounds, special effects, camera angles, cuts, props, color).",
+            "and techniques used to create the message (e.g., music, sounds, special effects, camera angles, cuts, props, color).",
+            "message (e.g., music, sounds, special effects, camera angles, cuts, props, color)."
+          ]
+        ]
+      },
+      {
+        "id": "page_13_table_2",
+        "title": "",
+        "headers": [],
+        "rows": [
+          [
+            "K Identify impact of media message on self.",
+            "1-2 Students will understand that the purpose of a media message is to inform, persuade, or entertain.",
+            "3-4 Students will analyze media messages for the possible impact on the viewer to inform, persuade, or entertain.",
+            "5 Students will analyze media messages for the possible impact on the viewer to inform, persuade, or entertain."
+          ]
+        ]
+      },
+      {
+        "id": "page_13_table_3",
+        "title": "",
+        "headers": [],
+        "rows": [
+          [
+            "K Identify the message in a given media message.",
+            "1-2 Students will identify the message, intended audience, and the creator.",
+            "3-4 Students will identify the intended audience, the creator, and the accuracy of information.",
+            "5 Students will evaluate the message taking into consideration the purpose, intended audience, the creator, accuracy of information, bias, relevance, and source authority."
+          ]
+        ]
+      },
+      {
+        "id": "page_13_table_4",
+        "title": "",
+        "headers": [],
+        "rows": [
+          [
+            "K Students will make informed media choices by consulting with parents and teachers.",
+            "1-2 Students will make informed media choices by consulting with parents and teachers.",
+            "3-4 Students will recognize and use evaluative resources in making informed media choices (e.g., consulting reviews and ratings, conferring with parents and teachers).",
+            "5 Students will recognize and use evaluative resources in making informed media choices (e.g., consulting reviews and ratings, conferring with parents and teachers)."
+          ]
+        ]
+      },
+      {
+        "id": "page_14_table_standard_1_grades",
+        "title": "",
+        "headers": [
+          "K",
+          "1-2",
+          "3-4",
+          "5"
+        ],
+        "rows": [
+          [
+            "K Students will follow steps to prepare a media presentation. - Determine message to be conveyed, considering content, intent, and length - Define target audience - Choose media formats from teacher provided options - Identify resources /materials needed for presentation",
+            "1-2 Students will follow steps to prepare a media presentation. - Determine message to convey, considering content, intent, and length - Define target audience - Identify characteristics of various media formats and select medium to suit purpose of message - Identify resources/materials needed for presentation",
+            "3-4 Students will follow steps to prepare a media presentation. - Determine message to convey, considering content, intent, and length - Define target audience - Identify characteristics of various media formats and select medium to suit purpose of message - Identify resources/materials needed for presentation",
+            "5 Students will follow steps to prepare a media presentation. - Determine message to convey, considering content, intent, and length - Define target audience - Identify characteristics of various media formats and select medium to suit purpose of message - Identify resources/materials needed for presentation"
+          ]
+        ]
+      },
+      {
+        "id": "page_14_table_standard_2_grades",
+        "title": "",
+        "headers": [
+          "K",
+          "1-2",
+          "3-4",
+          "5"
+        ],
+        "rows": [
+          [
+            "K Students will apply criteria for creating a media production - Consider components of the medium (e.g., design, color, size, graphics, sound) - Create a draft, seek feedback, and refine - Practice good presentation",
+            "1-2 Students will apply criteria for creating a media production - Consider components of the medium (e.g., format, design, materials, color, size, graphics, sound, text) - Create a draft, seek feedback, and refine - Practice good presentation",
+            "3-4 Students will apply criteria for creating a media production - Consider components of the medium (e.g., format, design, materials, color, size, graphics, sound, text) - Create a draft, seek feedback, and refine",
+            "5 Students will apply criteria for creating a media production - Consider components of the medium (e.g., format, design, materials, color, size, graphics, sound, text) - Create a draft, seek feedback, and refine - Practice good presentation techniques (e.g., face audience, speak slowly and clearly, project voice)"
+          ]
+        ]
+      },
+      {
+        "id": "page_15_table_1",
+        "title": "",
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "techniques (e.g., face audience, speak slowly and clearly, project voice)",
+            "techniques (e.g., face audience, speak slowly and clearly, project voice)",
+            "Practice good presentation techniques (e.g., face audience, speak slowly and clearly, project voice)\nCite sources used in production",
+            "Cite sources used in production"
+          ],
+          [
+            "",
+            "Verbally cite sources used in production",
+            "Cite sources used in production",
+            "Cite sources used in production",
+            "Cite sources used in production"
+          ]
+        ]
+      },
+      {
+        "id": "page_15_table_2",
+        "title": "",
+        "headers": [
+          "K Students will apply criteria for presenting and evaluating the final product.",
+          "1-2 Students will apply criteria for presenting and evaluating the final product.",
+          "3-4 Students will apply criteria for presenting and evaluating the final product.",
+          "5 Students will apply criteria for presenting and evaluating the final product."
+        ],
+        "rows": [
+          [
+            "Present media message to appropriate group\nEvaluate final product and presentation for effectiveness\nReflect on production process and determine elements that worked well and those that might be modified in the future (e.g., via teacher questioning)",
+            "Prepare presentation setting\nPresent media message to appropriate group\nEvaluate final product and presentation for effectiveness\nReflect on production process and determine elements that worked well and those that might be modified in the future",
+            "Prepare presentation setting\nPresent media message to appropriate group\nEvaluate final product and presentation for effectiveness\nReflect on production process and determine elements that worked well and those that might be modified in the future",
+            "Prepare presentation setting\nPresent media message to appropriate group\nEvaluate final product and presentation for effectiveness\nReflect on production process and determine elements that worked well and those that might be modified in the future"
+          ]
+        ]
+      },
+      {
+        "id": "page_16_table_1",
+        "title": "",
+        "headers": [
+          "K Students will utilize online safety practices",
+          "1-2 Students will utilize online safety practices",
+          "3-4 Students will utilize online safety practices:",
+          "5 Students will utilize online safety practices:"
+        ],
+        "rows": [
+          [
+            "Always get permission to go online\nGo to places that are appropriate\nCommunicate only with people you know\nKeep all personal information private",
+            "Always get permission to go online\nGo to places that are appropriate\nCommunicate only with people you know\nKeep all personal information private",
+            "Always get permission to go online\nGo to places that are appropriate\nBe informed/cautious about the people you interact with\nKeep all personal information private\nSave and report hurtful messages to a teacher or trusted adult\nBe aware of and understand that online activity leaves a permanent digital footprint",
+            "Always get permission to go online\nGo to places that are appropriate\nBe informed/cautious about the people you interact with\nKeep all personal information private\nSave and report hurtful messages to a teacher or trusted adult\nBe aware of and understand that online activity leaves a permanent digital footprint"
+          ]
+        ]
+      },
+      {
+        "id": "page_16_table_2",
+        "title": "",
+        "headers": [
+          "K Students will identify what information is appropriate to share online—“basic netiquette”.",
+          "1-2 Students will identify likely consequences of sharing inappropriately online (e.g., stranger danger).",
+          "3-4 Students recognize that misuse of media has consequences:",
+          "5 Students recognize that misuse of media has consequences:"
+        ],
+        "rows": [
+          [
+            "",
+            "Discuss ways to utilize adult support for internet use (e.g., seen by a trusted adult).",
+            "Cyberbullying has emotional, physical, and legal consequences for the sender and the receiver",
+            "Cyberbullying has emotional, physical, and legal consequences for the sender and the receiver\nNegative consequences of excessive violence (e.g., desensitization, being fearful of world, increased aggression,"
+          ]
+        ]
+      }
+    ],
+    "lists": [
+      {
+        "id": "page_4_list_basic_genres",
+        "type": "unordered",
+        "title": "Basic Genres",
+        "items": [
+          "Mystery",
+          "Romance",
+          "Historical/Biography",
+          "Science Fic",
+          "Fantasy",
+          "Dystopia",
+          "Steampunk",
+          "Realistic",
+          "Expository",
+          "Informative",
+          "etc."
+        ]
+      },
+      {
+        "id": "page_4_list_formats",
+        "type": "unordered",
+        "title": "Formats",
+        "items": [
+          "Book",
+          "magazine",
+          "newspaper",
+          "electronic resources"
+        ]
+      },
+      {
+        "id": "page_4_list_physical_features_book",
+        "type": "unordered",
+        "title": "Physical features of a book",
+        "items": [
+          "cover",
+          "spine",
+          "title",
+          "title page",
+          "author/illustrator names",
+          "dust jacket",
+          "endpapers",
+          "dedication page",
+          "table of contents",
+          "glossary",
+          "index",
+          "call number label",
+          "copyright",
+          "publisher",
+          "author/illustrator notes",
+          "CIP",
+          "introduction",
+          "preface",
+          "barcode",
+          "UPC",
+          "appendix",
+          "gutter"
+        ]
+      },
+      {
+        "id": "page_4_list_physical_features_computer_text",
+        "type": "unordered",
+        "title": "Physical features of computer text",
+        "items": [
+          "cursor",
+          "scroll bar",
+          "tables",
+          "graphs",
+          "URL",
+          "Address bar",
+          "radio buttons",
+          "links",
+          "tabs",
+          "volume",
+          "highlighting",
+          "menus"
+        ]
+      },
+      {
+        "id": "page_4_list_features",
+        "type": "unordered",
+        "title": "Features",
+        "items": [
+          "Illustrations",
+          "glossary",
+          "bibliography",
+          "appendices",
+          "forward",
+          "author's note",
+          "text boxes",
+          "graphs",
+          "charts",
+          "maps",
+          "introductions",
+          "summaries",
+          "captions",
+          "bold words",
+          "index",
+          "headings",
+          "subheadings",
+          "table of contents",
+          "italics",
+          "quotation blocks",
+          "sidebars"
+        ]
+      },
+      {
+        "id": "page_4_list_literary_styles_devices",
+        "type": "unordered",
+        "title": "Literary Styles/Devices",
+        "items": [
+          "literary devices",
+          "inference",
+          "personification",
+          "tone",
+          "mood",
+          "point of view",
+          "alliteration",
+          "onomatopoeia",
+          "rhyme",
+          "rhythm",
+          "meter"
+        ]
+      },
+      {
+        "id": "page_4_list_text_structures",
+        "type": "unordered",
+        "title": "Text Structures",
+        "items": [
+          "Cause and effect",
+          "sequence/order",
+          "compare and contrast",
+          "definition"
+        ]
+      },
+      {
+        "id": "page_4_list_artistic_styles",
+        "type": "unordered",
+        "title": "Artistic Styles",
+        "items": [
+          "collage",
+          "oil",
+          "water color",
+          "mixed media",
+          "gouache",
+          "pencil",
+          "digital",
+          "pastel",
+          "chalk",
+          "graphics",
+          "perspective",
+          "color use",
+          "scale",
+          "texture"
+        ]
+      },
+      {
+        "id": "page_4_list_text_styles",
+        "type": "unordered",
+        "title": "Text Styles",
+        "items": [
+          "Persuasive",
+          "argumentative",
+          "narrative",
+          "descriptive",
+          "poetic"
+        ]
+      },
+      {
+        "id": "page_17_list_1",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Negative consequences of excessive violence (e.g., desensitization, being fearful of world, increased aggression, increased desire for more violent programming)",
+          "Negative consequences of excessive screen time (e.g., addiction, lack of interpersonal socialization, less outdoor activity)"
+        ]
+      },
+      {
+        "id": "page_17_list_2",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "increased desire for more violent programming)",
+          "Negative consequences of excessive screen time (e.g., addiction, lack of interpersonal socialization, less outdoor activity)"
+        ]
+      }
+    ],
+    "key_value_pairs": [
+      {
+        "key": "ADA Compliant",
+        "value": "02/24/2020"
+      },
+      {
+        "key": "ADA Compliant",
+        "value": "02/24/2020"
+      },
+      {
+        "key": "ADA Compliant",
+        "value": "02/24/2020"
+      },
+      {
+        "key": "ADA Compliant",
+        "value": "02/24/2020"
+      },
+      {
+        "key": "ADA Compliant",
+        "value": "02/24/2020"
+      },
+      {
+        "key": "ADA Compliant",
+        "value": "02/24/2020"
+      }
+    ]
+  }
+}

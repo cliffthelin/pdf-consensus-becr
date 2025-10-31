@@ -1,0 +1,36 @@
+{
+  "generation_info": {
+    "pdf_source": "C:\\Projects\\PDFConcensus\\Source_docs\\English Language Arts Standards\\-English Language Arts Standards.pdf",
+    "pdf_name": "-English Language Arts Standards.pdf",
+    "processing_date": "unknown",
+    "configuration": {
+      "expected_pages": 62,
+      "expected_blocks": 1066,
+      "encoding": "utf-8",
+      "engines": [
+        "pymupdf"
+      ]
+    }
+  },
+  "processing_results": {
+    "gbg_analysis": {
+      "total_pages": 62,
+      "total_blocks": 1066,
+      "blocks_with_text": 1066,
+      "output_file": "C:\\Projects\\PDFConcensus\\output\\gbg_full_analysis.json"
+    },
+    "ndjson_variations": {
+      "total_records": 1066,
+      "output_file": "C:\\Projects\\PDFConcensus\\output\\pdf_variations.ndjson"
+    },
+    "consensus_decisions": {
+      "total_records": 1066,
+      "output_file": "C:\\Projects\\PDFConcensus\\output\\consensus_decisions.ndjson"
+    }
+  },
+  "validation": {
+    "pages_match_expected": true,
+    "blocks_within_tolerance": true,
+    "all_files_generated": true
+  }
+}

@@ -1,0 +1,98 @@
+name: BECR CI/CD Pipeline
+'on':
+  push:
+    branches:
+    - main
+    - develop
+  pull_request:
+    branches:
+    - main
+    - develop
+  schedule:
+  - cron: 0 2 * * *
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version:
+        - '3.12'
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v4
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Install system dependencies
+      run: "\n                            sudo apt-get update\n                  \
+        \          sudo apt-get install -y tesseract-ocr tesseract-ocr-eng\n     \
+        \                       sudo apt-get install -y poppler-utils\n          \
+        \              "
+    - name: Create virtual environment
+      run: "\n                            python -m venv .venv\n                 \
+        \           source .venv/bin/activate\n                            echo \"\
+        VIRTUAL_ENV=$VIRTUAL_ENV\" >> $GITHUB_ENV\n                            echo\
+        \ \"$VIRTUAL_ENV/bin\" >> $GITHUB_PATH\n                        "
+    - name: Install dependencies
+      run: "\n                            pip install --upgrade pip\n            \
+        \                pip install -e .\n                            pip install\
+        \ -e .[dev]\n                        "
+    - name: Validate project setup
+      run: python validate_setup.py
+    - name: Validate function catalog
+      run: python functions/validate_catalog.py
+    - name: Run comprehensive tests
+      run: "\n                            python run_tests.py --cov=src/compareblocks\
+        \ --cov-report=xml --cov-report=html --cov-fail-under=95\n               \
+        \         "
+    - name: Validate test catalog consistency
+      run: python build_test_catalog.py
+    - name: Check for missing functions
+      run: python analyze_missing_files_and_functions.py
+    - name: Upload coverage reports
+      uses: codecov/codecov-action@v3
+      with:
+        file: ./coverage.xml
+        flags: unittests
+        name: codecov-umbrella
+  quality:
+    runs-on: ubuntu-latest
+    needs: test
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.12'
+    - name: Install dependencies
+      run: "\n                            pip install --upgrade pip\n            \
+        \                pip install -e .[dev]\n                        "
+    - name: Run code formatting check
+      run: black --check src/ tests/
+    - name: Run import sorting check
+      run: isort --check-only src/ tests/
+    - name: Run linting
+      run: flake8 src/ tests/
+    - name: Run type checking
+      run: mypy src/
+  integration:
+    runs-on: ubuntu-latest
+    needs:
+    - test
+    - quality
+    if: github.ref == 'refs/heads/main'
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.12'
+    - name: Install dependencies
+      run: "\n                            pip install --upgrade pip\n            \
+        \                pip install -e .[dev]\n                        "
+    - name: Run integration tests
+      run: python -m pytest tests/integration/ -v
+    - name: Test MCP integration
+      run: python functions/run_mcp_tests.py
+    - name: Generate project health report
+      run: python show_remaining_issues.py

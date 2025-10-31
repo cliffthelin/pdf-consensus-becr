@@ -1,0 +1,3399 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>ELA Diff Review — Coalesced Full Lines</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+:root{--bg:#0b0f14;--fg:#e8eef5;--muted:#9fb0c0;--card:#121820;--accent:#78a9ff;}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:14px/1.5 system-ui,Segoe UI,Roboto,Ubuntu,Arial,sans-serif}
+header{position:sticky;top:0;background:#0b0f14f2;backdrop-filter:saturate(160%) blur(6px);z-index:10;border-bottom:1px solid #1e2630}
+header .wrap{display:flex;gap:12px;align-items:center;padding:10px 16px}
+h1{font-size:16px;margin:0}
+.container{padding:16px}
+.page{background:var(--card);border:1px solid #1e2630;border-radius:12px;margin-bottom:16px;overflow:hidden}
+.page header{display:flex;justify-content:space-between;align-items:center;background:#0f1520;border-bottom:1px solid #1e2630;padding:10px 14px}
+.page header .meta{color:var(--muted);font-size:12px}
+.source-label{font-size:12px;color:var(--muted)}
+table{width:100%;border-collapse:collapse}
+th,td{padding:8px 10px;vertical-align:top}
+th{color:var(--muted);font-weight:600;background:#0e1420;border-bottom:1px solid #1e2630;position:sticky;top:42px;z-index:5}
+tbody tr:nth-child(even){background:#0f1622}
+pre.line{white-space:pre-wrap;word-break:break-word;font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;margin:0}
+select,button,input[type="text"]{background:#0d1320;color:var(--fg);border:1px solid #243041;border-radius:8px;padding:6px 8px}
+button{cursor:pointer}
+.badge{display:inline-block;padding:2px 6px;border-radius:999px;background:#142138;border:1px solid #243041;color:var(--accent);font-size:12px}
+.hidden{display:none}
+.controls{display:flex;gap:8px;align-items:center}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>ELA Diff Review — Coalesced Full Lines</h1>
+    <span class="badge" id="summaryBadge">Loading…</span>
+    <div class="controls">
+      <button id="exportDecisions">Export Decisions JSON</button>
+      <button id="toggleRaw">Toggle Raw vs Coalesced</button>
+    </div>
+  </div>
+</header>
+<div class="container">
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 5 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|v</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-5-0" onchange="onDecisionChange('5', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-5-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-5-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|v</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-5-0" onchange="onDecisionChange('5', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-5-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-5-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 6 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|vi</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-6-0" onchange="onDecisionChange('6', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-6-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-6-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|vi</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-6-0" onchange="onDecisionChange('6', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-6-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-6-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 7 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|vii</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-7-0" onchange="onDecisionChange('7', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-7-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-7-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|vii</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-7-0" onchange="onDecisionChange('7', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-7-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-7-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 8 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|viii</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-8-0" onchange="onDecisionChange('8', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-8-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-8-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|viii</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-8-0" onchange="onDecisionChange('8', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-8-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-8-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 9 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|ix</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-9-0" onchange="onDecisionChange('9', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-9-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-9-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|ix</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-9-0" onchange="onDecisionChange('9', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-9-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-9-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 10 | 3</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|x</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-10-0" onchange="onDecisionChange('10', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-10-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-10-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|x</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-10-0" onchange="onDecisionChange('10', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-10-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-10-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 11 | 5</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|xi</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-11-0" onchange="onDecisionChange('11', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-11-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-11-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|xi</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-11-0" onchange="onDecisionChange('11', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-11-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-11-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 12 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|xii</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-12-0" onchange="onDecisionChange('12', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-12-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-12-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|xii</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-12-0" onchange="onDecisionChange('12', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-12-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-12-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 13 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|xiii</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-13-0" onchange="onDecisionChange('13', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-13-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-13-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|xiii</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-13-0" onchange="onDecisionChange('13', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-13-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-13-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 14 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|xiv</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-14-0" onchange="onDecisionChange('14', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-14-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-14-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|xiv</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-14-0" onchange="onDecisionChange('14', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-14-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-14-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 15 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-15-0" onchange="onDecisionChange('15', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-15-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-15-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-15-0" onchange="onDecisionChange('15', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-15-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-15-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 16 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-16-0" onchange="onDecisionChange('16', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-16-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-16-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-16-0" onchange="onDecisionChange('16', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-16-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-16-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 17 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-17-0" onchange="onDecisionChange('17', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-17-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-17-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-17-0" onchange="onDecisionChange('17', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-17-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-17-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 18 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-18-0" onchange="onDecisionChange('18', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-18-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-18-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-18-0" onchange="onDecisionChange('18', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-18-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-18-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 19 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-19-0" onchange="onDecisionChange('19', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-19-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-19-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-19-0" onchange="onDecisionChange('19', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-19-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-19-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 20 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-20-0" onchange="onDecisionChange('20', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-20-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-20-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-20-0" onchange="onDecisionChange('20', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-20-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-20-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 21 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-21-0" onchange="onDecisionChange('21', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-21-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-21-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-21-0" onchange="onDecisionChange('21', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-21-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-21-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 22 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-22-0" onchange="onDecisionChange('22', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-22-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-22-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-22-0" onchange="onDecisionChange('22', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-22-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-22-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 23 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-23-0" onchange="onDecisionChange('23', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-23-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-23-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-23-0" onchange="onDecisionChange('23', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-23-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-23-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 24 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-24-0" onchange="onDecisionChange('24', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-24-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-24-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-24-0" onchange="onDecisionChange('24', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-24-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-24-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 25 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-25-0" onchange="onDecisionChange('25', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-25-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-25-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-25-0" onchange="onDecisionChange('25', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-25-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-25-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 26 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-26-0" onchange="onDecisionChange('26', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-26-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-26-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-26-0" onchange="onDecisionChange('26', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-26-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-26-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 27 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-27-0" onchange="onDecisionChange('27', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-27-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-27-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-27-0" onchange="onDecisionChange('27', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-27-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-27-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 28 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-28-0" onchange="onDecisionChange('28', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-28-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-28-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-28-0" onchange="onDecisionChange('28', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-28-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-28-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 29 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-29-0" onchange="onDecisionChange('29', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-29-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-29-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-29-0" onchange="onDecisionChange('29', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-29-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-29-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 30 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-30-0" onchange="onDecisionChange('30', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-30-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-30-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-30-0" onchange="onDecisionChange('30', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-30-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-30-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 31 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-31-0" onchange="onDecisionChange('31', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-31-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-31-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-31-0" onchange="onDecisionChange('31', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-31-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-31-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 32 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-32-0" onchange="onDecisionChange('32', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-32-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-32-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-32-0" onchange="onDecisionChange('32', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-32-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-32-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 33 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-33-0" onchange="onDecisionChange('33', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-33-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-33-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-33-0" onchange="onDecisionChange('33', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-33-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-33-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 34 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-34-0" onchange="onDecisionChange('34', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-34-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-34-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-34-0" onchange="onDecisionChange('34', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-34-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-34-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 35 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-35-0" onchange="onDecisionChange('35', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-35-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-35-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-35-0" onchange="onDecisionChange('35', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-35-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-35-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 36 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-36-0" onchange="onDecisionChange('36', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-36-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-36-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-36-0" onchange="onDecisionChange('36', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-36-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-36-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 37 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-37-0" onchange="onDecisionChange('37', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-37-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-37-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-37-0" onchange="onDecisionChange('37', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-37-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-37-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 38 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-38-0" onchange="onDecisionChange('38', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-38-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-38-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-38-0" onchange="onDecisionChange('38', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-38-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-38-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 39 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-39-0" onchange="onDecisionChange('39', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-39-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-39-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-39-0" onchange="onDecisionChange('39', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-39-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-39-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 40 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-40-0" onchange="onDecisionChange('40', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-40-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-40-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-40-0" onchange="onDecisionChange('40', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-40-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-40-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 41 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-41-0" onchange="onDecisionChange('41', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-41-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-41-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-41-0" onchange="onDecisionChange('41', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-41-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-41-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 42 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-42-0" onchange="onDecisionChange('42', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-42-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-42-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-42-0" onchange="onDecisionChange('42', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-42-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-42-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 43 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-43-0" onchange="onDecisionChange('43', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-43-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-43-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-43-0" onchange="onDecisionChange('43', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-43-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-43-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 44 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-44-0" onchange="onDecisionChange('44', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-44-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-44-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-44-0" onchange="onDecisionChange('44', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-44-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-44-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 45 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-45-0" onchange="onDecisionChange('45', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-45-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-45-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-45-0" onchange="onDecisionChange('45', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-45-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-45-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 46 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-46-0" onchange="onDecisionChange('46', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-46-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-46-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-46-0" onchange="onDecisionChange('46', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-46-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-46-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 47 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-47-0" onchange="onDecisionChange('47', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-47-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-47-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-47-0" onchange="onDecisionChange('47', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-47-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-47-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 48 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-48-0" onchange="onDecisionChange('48', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-48-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-48-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-48-0" onchange="onDecisionChange('48', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-48-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-48-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 49 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-49-0" onchange="onDecisionChange('49', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-49-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-49-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-49-0" onchange="onDecisionChange('49', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-49-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-49-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 50 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-50-0" onchange="onDecisionChange('50', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-50-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-50-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-50-0" onchange="onDecisionChange('50', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-50-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-50-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 51 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-51-0" onchange="onDecisionChange('51', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-51-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-51-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-51-0" onchange="onDecisionChange('51', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-51-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-51-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 52 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-52-0" onchange="onDecisionChange('52', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-52-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-52-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-52-0" onchange="onDecisionChange('52', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-52-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-52-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 53 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-53-0" onchange="onDecisionChange('53', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-53-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-53-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-53-0" onchange="onDecisionChange('53', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-53-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-53-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 54 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-54-0" onchange="onDecisionChange('54', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-54-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-54-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-54-0" onchange="onDecisionChange('54', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-54-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-54-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 55 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-55-0" onchange="onDecisionChange('55', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-55-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-55-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-55-0" onchange="onDecisionChange('55', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-55-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-55-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 56 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-56-0" onchange="onDecisionChange('56', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-56-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-56-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-56-0" onchange="onDecisionChange('56', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-56-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-56-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 57 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-57-0" onchange="onDecisionChange('57', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-57-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-57-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-57-0" onchange="onDecisionChange('57', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-57-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-57-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 58 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-58-0" onchange="onDecisionChange('58', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-58-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-58-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-58-0" onchange="onDecisionChange('58', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-58-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-58-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 59 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-59-0" onchange="onDecisionChange('59', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-59-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-59-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-59-0" onchange="onDecisionChange('59', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-59-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-59-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+
+    <details class="page" open>
+      <summary>
+        <header>
+          <div>Page 60 | I</div>
+          <div class="meta">1 differing line(s)</div>
+        </header>
+      </summary>
+      <div class="coalesced">
+        <table>
+          <thead><tr><th>Strict (old) — FULL LINE</th><th>Verified (new) — FULL LINE</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-60-0" onchange="onDecisionChange('60', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-60-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-60-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+      <div class="raw hidden">
+        <hr class="sep">
+        <table>
+          <thead><tr><th>RAW Strict</th><th>RAW Verified</th><th>Decision</th></tr></thead>
+          <tbody>
+            
+        <tr>
+          <td><div class="source-label">English_Language_Arts_Standards__strict.md</div><pre class="line">IENGLSLANGAGEAS|</pre></td>
+          <td><div class="source-label">ELA_verified_coords.md</div><pre class="line"></pre></td>
+          <td style="width:220px">
+            <select id="sel-60-0" onchange="onDecisionChange('60', 0)">
+              <option value="">— choose —</option>
+              <option value="strict">Use strict</option>
+              <option value="verified">Use verified</option>
+              <option value="rule">Add finetuning rule…</option>
+            </select>
+            <div id="rule-60-0" class="hidden" style="margin-top:6px">
+              <input type="text" id="ruletext-60-0" placeholder="Describe rule (regex/explanation)">
+            </div>
+          </td>
+        </tr>
+        
+          </tbody>
+        </table>
+      </div>
+    </details>
+    
+</div>
+<script>
+const decisions = {};
+let showRaw = false;
+
+function ensurePageArr(p){ if(!decisions[p]) decisions[p]=[]; }
+
+function onDecisionChange(page, idx){
+  ensurePageArr(page);
+  const sel = document.getElementById(`sel-${page}-${idx}`);
+  const val = sel.value;
+  const ruleBox = document.getElementById(`rule-${page}-${idx}`);
+  const entry = { index: idx, action: val };
+  if(val === 'rule'){
+    ruleBox.classList.remove('hidden');
+    const rtext = document.getElementById(`ruletext-${page}-${idx}`);
+    entry.rule = rtext.value || '';
+    rtext.addEventListener('input', ()=>{ entry.rule = rtext.value; });
+  } else {
+    ruleBox.classList.add('hidden');
+  }
+  const arr = decisions[page];
+  const ex = arr.find(e=>e.index===idx);
+  if(ex){ Object.assign(ex, entry); } else { arr.push(entry); }
+  updateSummary();
+}
+
+function updateSummary(){
+  let pages = Object.keys(decisions).length;
+  let count = 0;
+  for(const p in decisions){ count += decisions[p].length; }
+  const badge = document.getElementById('summaryBadge');
+  badge.textContent = `${pages} page(s), ${count} decision(s)`;
+}
+
+document.getElementById('exportDecisions').addEventListener('click', ()=>{
+  const blob = new Blob([JSON.stringify(decisions, null, 2)], {type:"application/json"});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'ELA_diff_decisions_coalesced.json';
+  a.click();
+  setTimeout(()=>URL.revokeObjectURL(url), 5000);
+});
+
+document.getElementById('toggleRaw').addEventListener('click', ()=>{
+  document.querySelectorAll('.raw').forEach(el=>el.classList.toggle('hidden'));
+  document.querySelectorAll('.coalesced').forEach(el=>el.classList.toggle('hidden'));
+});
+</script>
+</body>
+</html>

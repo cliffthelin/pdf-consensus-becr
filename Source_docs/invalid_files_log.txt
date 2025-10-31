@@ -1,0 +1,50 @@
+--- INVALID FILE: 2024ELA SupplementalStandards.pdf ---
+Original path: C:/Projects/PDFConcensus/Source_docs\2024ELA SupplementalStandards\2024ELA SupplementalStandards.pdf
+--- INVALID FILE: CoreAppendicesMathematicsHighSchool.pdf ---
+Original path: C:/Projects/PDFConcensus/Source_docs\CoreAppendicesMathematicsHighSchool\CoreAppendicesMathematicsHighSchool.pdf
+--- INVALID FILE: CoreStandardsModernMathematics.pdf ---
+Original path: C:/Projects/PDFConcensus/Source_docs\CoreStandardsModernMathematics\CoreStandardsModernMathematics.pdf
+--- INVALID FILE: DriversEd - UtahCoreStandards.pdf ---
+Original path: C:/Projects/PDFConcensus/Source_docs\DriversEd - UtahCoreStandards\DriversEd - UtahCoreStandards.pdf
+--- INVALID FILE: Early Learning for Ages 3 to 5 Utah Core State Standards.pdf ---
+Original path: C:/Projects/PDFConcensus/Source_docs\Early Learning for Ages 3 to 5 Utah Core State Standards\Early Learning for Ages 3 to 5 Utah Core State Standards.pdf
+--- INVALID FILE: ELA Core Guide 6th Grade.pdf ---
+Original path: C:/Projects/PDFConcensus/Source_docs\ELA Core Guide 6th Grade\ELA Core Guide 6th Grade.pdf
+--- INVALID FILE: ELA CoreGuide GRADES 9-10.pdf ---
+Original path: C:/Projects/PDFConcensus/Source_docs\ELA CoreGuide GRADES 9-10\ELA CoreGuide GRADES 9-10.pdf
+--- INVALID FILE: ELA Guide GRADES 7-8.pdf ---
+Original path: C:/Projects/PDFConcensus/Source_docs\ELA Guide GRADES 7-8\ELA Guide GRADES 7-8.pdf
+--- INVALID FILE: ELAguide GRADES 11-12 .pdf ---
+Original path: C:/Projects/PDFConcensus/Source_docs\ELAguide GRADES 11-12\ELAguide GRADES 11-12 .pdf
+--- INVALID FILE: Elementary Library Media Standards.pdf ---
+Original path: C:/Projects/PDFConcensus/Source_docs\Elementary Library Media Standards\Elementary Library Media Standards.pdf
+--- INVALID FILE: ElementarySocialStudies - UtahCoreStandards.pdf ---
+Original path: C:/Projects/PDFConcensus/Source_docs\ElementarySocialStudies - UtahCoreStandards\ElementarySocialStudies - UtahCoreStandards.pdf
+--- INVALID FILE: -English Language Arts Standards.pdf ---
+Original path: C:/Projects/PDFConcensus/Source_docs\English Language Arts Standards\-English Language Arts Standards.pdf
+--- INVALID FILE: Fine Arts - 2016CoreStandards.pdf ---
+Original path: C:/Projects/PDFConcensus/Source_docs\Fine Arts - 2016CoreStandards\Fine Arts - 2016CoreStandards.pdf
+--- INVALID FILE: Health - CoreStandards1.pdf ---
+Original path: C:/Projects/PDFConcensus/Source_docs\Health - CoreStandards1\Health - CoreStandards1.pdf
+--- INVALID FILE: K–5 LIBRARY MEDIA - ElementaryCoreStandards.pdf ---
+Original path: C:/Projects/PDFConcensus/Source_docs\K–5 LIBRARY MEDIA - ElementaryCoreStandards\K–5 LIBRARY MEDIA - ElementaryCoreStandards.pdf
+--- INVALID FILE: LIBRARY MEDIA 6-12 - SecondaryCoreStandards.pdf ---
+Original path: C:/Projects/PDFConcensus/Source_docs\LIBRARY MEDIA 6-12 - SecondaryCoreStandards\LIBRARY MEDIA 6-12 - SecondaryCoreStandards.pdf
+--- INVALID FILE: Math 9-12 - CoreStandardsHighSchool.pdf ---
+Original path: C:/Projects/PDFConcensus/Source_docs\Math 9-12 - CoreStandardsHighSchool\Math 9-12 - CoreStandardsHighSchool.pdf
+--- INVALID FILE: Math k-5 - CoreStandardsElementaryLevels.pdf ---
+Original path: C:/Projects/PDFConcensus/Source_docs\Math k-5 - CoreStandardsElementaryLevels\Math k-5 - CoreStandardsElementaryLevels.pdf
+--- INVALID FILE: Math Secondary - CoreStandardsChanges.pdf ---
+Original path: C:/Projects/PDFConcensus/Source_docs\Math Secondary - CoreStandardsChanges\Math Secondary - CoreStandardsChanges.pdf
+--- INVALID FILE: MedicalMath.pdf ---
+Original path: C:/Projects/PDFConcensus/Source_docs\MedicalMath\MedicalMath.pdf
+--- INVALID FILE: PE - CoreStandards1.pdf ---
+Original path: C:/Projects/PDFConcensus/Source_docs\PE - CoreStandards1\PE - CoreStandards1.pdf
+--- INVALID FILE: Science - UtahSEEdStandards.pdf ---
+Original path: C:/Projects/PDFConcensus/Source_docs\Science - UtahSEEdStandards\Science - UtahSEEdStandards.pdf
+--- INVALID FILE: SocialStudies Grades 7-12 - UtahCoreStandardsfor.pdf ---
+Original path: C:/Projects/PDFConcensus/Source_docs\SocialStudies Grades 7-12 - UtahCoreStandardsfor\SocialStudies Grades 7-12 - UtahCoreStandardsfor.pdf
+--- INVALID FILE: Utahs PK12 Science Framework.pdf ---
+Original path: C:/Projects/PDFConcensus/Source_docs\Utahs PK12 Science Framework\Utahs PK12 Science Framework.pdf
+--- INVALID FILE: World Standards - CoreStandards.pdf ---
+Original path: C:/Projects/PDFConcensus/Source_docs\World Standards - CoreStandards\World Standards - CoreStandards.pdf

@@ -1,0 +1,1632 @@
+{
+  "document": {
+    "title": "tmp8jltoqu8",
+    "type": "document",
+    "metadata": {
+      "date": "",
+      "author": "",
+      "version": "",
+      "pages": "30"
+    },
+    "sections": [
+      {
+        "id": "page_1_section_1",
+        "title": "Utah Secondary Supplemental Standards for ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "&lt;img&gt;Utah State Board of Education Seal with \"UTAH STATE BOARD OF EDUCATION\" around the top and bottom, a flame in the center, and \"1896\" at the bottom.&lt;/img&gt;",
+        "subsections": []
+      },
+      {
+        "id": "page_2_section_1",
+        "title": "TABLE OF CONTENTS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_3_section_1",
+        "title": "Utah Secondary Supplemental Standards for ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "Adopted May 2021 by the Utah State Board of Education",
+        "subsections": []
+      },
+      {
+        "id": "page_4_section_1",
+        "title": "UTAH STATE BOARD OF EDUCATION",
+        "level": 1,
+        "content": "250 East 500 South P.O. Box 144200 Salt Lake City, UT 84114-4200\nhttps://schools.utah.gov/board",
+        "subsections": []
+      },
+      {
+        "id": "page_5_section_journalism",
+        "title": "JOURNALISM",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_5_section_introduction",
+            "title": "INTRODUCTION",
+            "level": 2,
+            "content": "Journalism has been called the “first rough draft of history,” and the practice of journalism has value in education as a vehicle to teach critical thinking, basics of law and ethics, writing, media literacy, management and organization, technology, multimedia, mass media, and digital citizenship. Students who get involved in journalism graduate with skills that can help them in a variety of college majors and a host of careers. Journalism courses are applied or advanced courses that may be used to fulfill up to one credit of the English Language Arts graduation requirement. These standards align with the Utah Core Standards for English Language Arts.",
+            "subsections": []
+          },
+          {
+            "id": "page_5_section_strand_1_law_ethics",
+            "title": "Strand 1: Law & Ethics.",
+            "level": 2,
+            "content": "Students will apply knowledge of law and ethics related to the functioning of a free and independent press and various media platforms.",
+            "subsections": []
+          },
+          {
+            "id": "page_5_section_strand_2_media_literacy",
+            "title": "Strand 2: Media Literacy.",
+            "level": 2,
+            "content": "Students will critically evaluate various forms of media.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_6_strand_3_reporting_writing_process",
+        "title": "Strand 3: Reporting & Writing Process.",
+        "level": 1,
+        "content": "Students will effectively use the reporting and writing process to produce coherent media stories.",
+        "subsections": []
+      },
+      {
+        "id": "page_6_strand_4_multimedia_tools",
+        "title": "Strand 4: Multimedia Tools.",
+        "level": 1,
+        "content": "Students will develop an understanding of how multimedia journalism plays a pivotal role in storytelling while becoming familiar with the basics of photo, video and audio production.",
+        "subsections": []
+      },
+      {
+        "id": "page_7_strand_4",
+        "title": "Strand 4: Visual Media Ethics",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_7_standard_4_5",
+            "title": "Standard 4.5",
+            "level": 2,
+            "content": "Use professional ethics in producing and selecting photos, videos, and audio for publication.",
+            "subsections": []
+          },
+          {
+            "id": "page_7_standard_4_6",
+            "title": "Standard 4.6",
+            "level": 2,
+            "content": "Collect accurate information to provide context to the photo, video, or audio and connect it logically to the story that it illustrates (e.g. captions, metadata).",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_7_strand_5",
+        "title": "Strand 5: Technology & Design",
+        "level": 1,
+        "content": "Students will apply appropriate principles of technology and design.",
+        "subsections": [
+          {
+            "id": "page_7_standard_5_1",
+            "title": "Standard 5.1",
+            "level": 2,
+            "content": "Apply available technologies used in publishing to create designs appropriate for media (e.g., desktop publishing, photo editing, Web-based media, word processing).",
+            "subsections": []
+          },
+          {
+            "id": "page_7_standard_5_2",
+            "title": "Standard 5.2",
+            "level": 2,
+            "content": "Analyze and apply principles of layout and design to create a visually appealing school publication that effectively communicates to the audience.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_7_strand_6",
+        "title": "Strand 6: Management & Organization",
+        "level": 1,
+        "content": "Students will develop management and organizational leadership skills to produce media content.",
+        "subsections": [
+          {
+            "id": "page_7_standard_6_1",
+            "title": "Standard 6.1",
+            "level": 2,
+            "content": "Apply organizational, economic, and management skills necessary to meet student media production schedules.",
+            "subsections": []
+          },
+          {
+            "id": "page_7_standard_6_2",
+            "title": "Standard 6.2",
+            "level": 2,
+            "content": "Develop and execute a marketing plan to maximize the awareness and readership of student media.",
+            "subsections": []
+          },
+          {
+            "id": "page_7_standard_6_3",
+            "title": "Standard 6.3",
+            "level": 2,
+            "content": "Develop a business plan to learn principles of innovative funding models (e.g., advertising, sponsored content, nonprofit model).",
+            "subsections": []
+          },
+          {
+            "id": "page_7_standard_6_4",
+            "title": "Standard 6.4",
+            "level": 2,
+            "content": "Investigate educational opportunities and careers in journalism and mass media.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_7_strand_7",
+        "title": "Strand 7: Digital Citizenship",
+        "level": 1,
+        "content": "Students will be able to recognize good digital citizenship and use best practices in social media.",
+        "subsections": [
+          {
+            "id": "page_7_standard_7_1",
+            "title": "Standard 7.1",
+            "level": 2,
+            "content": "Demonstrate professional social media ethics in use and production.",
+            "subsections": []
+          },
+          {
+            "id": "page_7_standard_7_2",
+            "title": "Standard 7.2",
+            "level": 2,
+            "content": "Develop meaningful, engaging content for multiple social media platforms adhering to each platform’s guidelines.",
+            "subsections": []
+          },
+          {
+            "id": "page_7_standard_7_3",
+            "title": "Standard 7.3",
+            "level": 2,
+            "content": "Develop strategies for finding reliable sources on social media and contacting them for interviews.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_8_section_1",
+        "title": "APPENDIX A: GLOSSARY OF JOURNALISM TERMS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_8_section_1_subsection_1",
+            "title": "Types of Journalism Pieces/Medium",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_9_section_1",
+        "title": "Types of Standard Journalism Conventions",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_9_section_1_subsection_1",
+            "title": "Lead or lede",
+            "level": 2,
+            "content": "The first paragraph of a news story. Usually this includes a summary of the main point and covers the 5 W's: who, what, when, where, why and how. However, other types of ledes are possible, such feature ledes, anecdotal ledes that tell a little story and other creative ledes.",
+            "subsections": []
+          },
+          {
+            "id": "page_9_section_1_subsection_2",
+            "title": "Nut graph",
+            "level": 2,
+            "content": "When feature ledes are used, a nut graph should follow to summarize the importance of the story and any of the 5 W's that were not covered in the lede.",
+            "subsections": []
+          },
+          {
+            "id": "page_9_section_1_subsection_3",
+            "title": "Attribution",
+            "level": 2,
+            "content": "A journalistic way of citing sources. It consists primarily of “So-and-so said.” or “according to Source.”",
+            "subsections": []
+          },
+          {
+            "id": "page_9_section_1_subsection_4",
+            "title": "Inverted pyramid",
+            "level": 2,
+            "content": "A way of organizing a journalistic story that highlights importance over chronology.",
+            "subsections": []
+          },
+          {
+            "id": "page_9_section_1_subsection_5",
+            "title": "Other ways of organizing journalistic stories",
+            "level": 2,
+            "content": "There are multiple ways of organizing a journalistic story other than the inverted pyramid. The inverted pyramid is a starting place for beginning journalists.",
+            "subsections": []
+          },
+          {
+            "id": "page_9_section_1_subsection_6",
+            "title": "VO-SOT-VO",
+            "level": 2,
+            "content": "Short for voiceover / sound on tape / voiceover, this is a broadcast journalism convention that has an announcer reading the news over recorded video, also known as b-roll, with a quote from an interviewee (SOT) in the middle. They often last from 30 to 60 seconds.",
+            "subsections": []
+          },
+          {
+            "id": "page_9_section_1_subsection_7",
+            "title": "Package",
+            "level": 2,
+            "content": "In broadcast journalism, this is a more fully reported story with the reporter appearing on camera to talk directly to the audience, as well as doing voiceovers and including SOTs. The package tells a more in-depth story and usually will last from 2 to 5 minutes.",
+            "subsections": []
+          },
+          {
+            "id": "page_9_section_1_subsection_8",
+            "title": "AP Style",
+            "level": 2,
+            "content": "Associated Press style is the standard guide to form and content in journalism. It covers topics from grammar, punctuation and capitalization to inclusive language and polling.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_10_section_1",
+        "title": "JOURNALISM Supplemental Standards for English Language Arts",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_11_section_speech_debate",
+        "title": "SPEECH & DEBATE",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_11_section_introduction",
+            "title": "INTRODUCTION",
+            "level": 2,
+            "content": "Speech and Debate provides students an opportunity to develop skills in research, critical thinking, organization, persuasion and communication. Students must set aside personal bias and previous knowledge to objectively debate various sides of an issue and understand the complexities of the world in order to develop solutions that are workable and solve inherent problems. These skills are invaluable for college, career, and citizenship. These standards were created knowing that Utah LEAs and schools structure their speech and debate courses differently based on individual needs and demands. Therefore, some of the standards may not be applicable to all speech/debate courses but should be used as guides. For example, some schools may have a speech/debate course that is not a competition class, while others may. Additionally, some schools may offer Speech/Debate I, II, and/or III, and thus, they may divide these standards across the various courses. Competition policies and guidelines are dictated by Utah High School Activities Association (UHSAA) and the Utah Debate Coaches Association (UDCA). Speech and Debate courses are applied or advanced courses that may be used to fulfill up to one credit of the English Language Arts graduation requirement. These standards align with the Utah Core Standards for English Language Arts.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_12_section_strand_2_fundamentals",
+        "title": "Strand 2: Fundamentals.",
+        "level": 1,
+        "content": "Students will analyze and evaluate various speech and debate formats to develop fundamental knowledge for application.",
+        "subsections": [
+          {
+            "id": "page_12_standard_2_1",
+            "title": "Standard 2.1",
+            "level": 2,
+            "content": "Compare and contrast classical and contemporary philosophers and their contributions to speech and debate.",
+            "subsections": [],
+            "lists": [],
+            "tables": [],
+            "key_value_pairs": []
+          },
+          {
+            "id": "page_12_standard_2_2",
+            "title": "Standard 2.2",
+            "level": 2,
+            "content": "Explain the historical and contemporary role that speech and debate play in democratic society (e.g., diplomacy, government policy, justice system, politics).",
+            "subsections": [],
+            "lists": [],
+            "tables": [],
+            "key_value_pairs": []
+          },
+          {
+            "id": "page_12_standard_2_3",
+            "title": "Standard 2.3",
+            "level": 2,
+            "content": "Discuss ethical dilemmas and practices as found in various speaking topics, contentions, and presentations.",
+            "subsections": [],
+            "lists": [],
+            "tables": [],
+            "key_value_pairs": []
+          },
+          {
+            "id": "page_12_standard_2_4",
+            "title": "Standard 2.4",
+            "level": 2,
+            "content": "Demonstrate ethical practices in speech and debate (e.g., behavior, courtesy, verbal and nonverbal communication).",
+            "subsections": [],
+            "lists": [],
+            "tables": [],
+            "key_value_pairs": []
+          },
+          {
+            "id": "page_12_standard_2_5",
+            "title": "Standard 2.5",
+            "level": 2,
+            "content": "Demonstrate effective communication skills in speech and debate:",
+            "subsections": [],
+            "lists": [
+              {
+                "id": "page_12_standard_2_5_list_1",
+                "type": "unordered",
+                "title": "",
+                "items": [
+                  "Speaking (e.g., framing questions, responding to questions, speaking extemporaneously, using appropriate language)",
+                  "Listening (e.g., critical and attentive listening demonstrated by note taking, critiquing)",
+                  "Nonverbal communication (e.g., attire, eye contact, facial expressions, gestures, proximity)"
+                ]
+              }
+            ],
+            "tables": [],
+            "key_value_pairs": []
+          },
+          {
+            "id": "page_12_standard_2_6",
+            "title": "Standard 2.6",
+            "level": 2,
+            "content": "Analyze a variety of speech and debate structures for task, audience, and purpose.",
+            "subsections": [],
+            "lists": [],
+            "tables": [],
+            "key_value_pairs": []
+          },
+          {
+            "id": "page_12_standard_2_7",
+            "title": "Standard 2.7",
+            "level": 2,
+            "content": "Use speech and debate conventions appropriately (see appendix A).",
+            "subsections": [],
+            "lists": [],
+            "tables": [],
+            "key_value_pairs": []
+          },
+          {
+            "id": "page_12_standard_2_8",
+            "title": "Standard 2.8",
+            "level": 2,
+            "content": "Use speech and debate terminology effectively (see appendix A).",
+            "subsections": [],
+            "lists": [],
+            "tables": [],
+            "key_value_pairs": []
+          },
+          {
+            "id": "page_12_standard_2_9",
+            "title": "Standard 2.9",
+            "level": 2,
+            "content": "Identify, develop, and argue stock issues:",
+            "subsections": [],
+            "lists": [
+              {
+                "id": "page_12_standard_2_9_list_1",
+                "type": "unordered",
+                "title": "",
+                "items": [
+                  "Harm",
+                  "Inherency",
+                  "Significance",
+                  "Solvency",
+                  "Topicality"
+                ]
+              }
+            ],
+            "tables": [],
+            "key_value_pairs": []
+          },
+          {
+            "id": "page_12_standard_2_10",
+            "title": "Standard 2.10",
+            "level": 2,
+            "content": "Apply critical thinking skills when researching, preparing, and presenting arguments:",
+            "subsections": [],
+            "lists": [
+              {
+                "id": "page_12_standard_2_10_list_1",
+                "type": "unordered",
+                "title": "",
+                "items": [
+                  "Causal arguments",
+                  "Logical fallacies",
+                  "Source validity",
+                  "Topic and analysis support using strong evidence",
+                  "Challenge the status quo and current policy proposals, using a variety of arguments and rhetorical devices"
+                ]
+              }
+            ],
+            "tables": [],
+            "key_value_pairs": []
+          }
+        ],
+        "tables": [],
+        "lists": [],
+        "key_value_pairs": []
+      },
+      {
+        "id": "page_13_strand_3",
+        "title": "Strand 3: Performance and Evaluation",
+        "level": 1,
+        "content": "Students will demonstrate fundamental speaking and debating skills and evaluate best practices.",
+        "subsections": [
+          {
+            "id": "page_13_standard_3_1",
+            "title": "Standard 3.1: Apply principles of ethical communication appropriate to context",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_13_standard_3_2",
+            "title": "Standard 3.2: Identify and adjust behaviors and arguments based on evaluation paradigms (See appendix)",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_13_standard_3_3",
+            "title": "Standard 3.3: Present arguments using clear and concise language",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_13_standard_3_4",
+            "title": "Standard 3.4: Demonstrate the process of refutation and cross examination in debate settings and provide effective rebuttals",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_13_standard_3_5",
+            "title": "Standard 3.5: Demonstrate the ability to give and receive constructive criticism to self and peers",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_13_standard_3_6",
+            "title": "Standard 3.6: Develop presentation skills to convey complex ideas",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_13_standard_3_7",
+            "title": "Standard 3.7: Analyze the reduction of communication barriers (see appendix)",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_13_standard_3_8",
+            "title": "Standard 3.8: Demonstrate mutual respect in interpersonal communication",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_13_standard_3_9",
+            "title": "Standard 3.9: Demonstrate appropriate critical, empathetic, appreciative, and reflective listening skills in formal and informal situations",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_14_section_appendix_a",
+        "title": "APPENDIX A",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_15_section_secondary_supplemental_standards",
+        "title": "Utah Secondary Supplemental Standards for ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "Utah Supplemental Standards for English Language Arts",
+        "subsections": []
+      },
+      {
+        "id": "page_16_section_1",
+        "title": "UTAH STATE BOARD OF EDUCATION",
+        "level": 1,
+        "content": "250 East 500 South P.O. Box 144200 Salt Lake City, UT 84114-4200\nhttps://schools.utah.gov/board",
+        "subsections": []
+      },
+      {
+        "id": "page_17_section_creative_writing_literary_magazine",
+        "title": "CREATIVE WRITING & LITERARY MAGAZINE",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_17_section_introduction",
+            "title": "INTRODUCTION",
+            "level": 2,
+            "content": "Students often have the opportunity to experience expository writing in the classroom but have little time to tap into the power and joy of human imagination. Creative Writing allows them to promote self-expression, to explore various writing styles, to experiment with modes of storytelling, and to strive for variety in diction, sentence structure, and format. These benefits are in addition to the development of critical thinking, interpersonal communication, and personal edification and fulfillment.\n\nThese standards were created knowing that not all LEAs and schools have a literary magazine or publication. Therefore, Strand 5 may not be applicable to all creative writing courses. Students may find writing opportunities for their work through writing groups, publications, scholarships, contests, or workshops. Additionally, examples in the standards are not meant to be viewed as an exhaustive checklist of items to teach but rather help to better define the standard.\n\nHigh school Creative Writing and Literary Magazine courses are applied or advanced courses that may be used to fulfill up to one credit of the English Language Arts graduation requirement. These standards align with the Utah Core Standards for English Language Arts.",
+            "subsections": []
+          },
+          {
+            "id": "page_17_section_strand_1_writing_process",
+            "title": "Strand 1: Writing Process.",
+            "level": 2,
+            "content": "Students will use the iterative process of writing to produce various types of narratives, poetry, and prose.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_18_strand_2",
+        "title": "Strand 2: Analysis of Genre.",
+        "level": 1,
+        "content": "Students will develop an understanding of genre conventions and apply them in their writing.",
+        "subsections": [
+          {
+            "id": "page_18_standard_2_1",
+            "title": "Standard 2.1:",
+            "level": 2,
+            "content": "Analyze mentor texts, peer work, and student-created content in a wide variety of genres and modes for craft, style, voice, theme, elements of language, and conventions in order to determine the effects of such writing techniques on a text.",
+            "subsections": []
+          },
+          {
+            "id": "page_18_standard_2_2",
+            "title": "Standard 2.2:",
+            "level": 2,
+            "content": "Analyze craft, style, voice, theme, and conventions in their own and other student’s writing in a variety of genres and modes.",
+            "subsections": []
+          },
+          {
+            "id": "page_18_standard_2_3",
+            "title": "Standard 2.3:",
+            "level": 2,
+            "content": "Understand the cliches and conventions of historical and contemporary genres (e.g., steampunk, stream-of-consciousness, flash fiction, novella, etc.).",
+            "subsections": []
+          },
+          {
+            "id": "page_18_standard_2_4",
+            "title": "Standard 2.4:",
+            "level": 2,
+            "content": "Determine the audience and purpose of a wide variety of genres.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_18_strand_3",
+        "title": "Strand 3: Craft and Creation.",
+        "level": 1,
+        "content": "Students will produce vivid narratives, poetry, and prose by effectively using a variety of genre-appropriate writing strategies and language techniques.",
+        "subsections": [
+          {
+            "id": "page_18_standard_3_1",
+            "title": "Standard 3.1:",
+            "level": 2,
+            "content": "Produce writing based on historical and contemporary structures and forms (e.g., sonnet, villanelle, short story, script writing, etc.) and on a variety of idea-generation techniques (e.g., found poetry, plot structure outline, free-write, writing prompts, etc.).",
+            "subsections": []
+          },
+          {
+            "id": "page_18_standard_3_2",
+            "title": "Standard 3.2:",
+            "level": 2,
+            "content": "Craft vivid writing with attention to sound elements (e.g., alliteration, assonance, consonance, rhyme), figurative language, sensory details, scenes, and purposeful word choice and syntax.",
+            "subsections": []
+          },
+          {
+            "id": "page_18_standard_3_3",
+            "title": "Standard 3.3:",
+            "level": 2,
+            "content": "Develop a range of characters (e.g., main characters vs support/side, flat vs round, protagonist vs antagonist).",
+            "subsections": []
+          },
+          {
+            "id": "page_18_standard_3_4",
+            "title": "Standard 3.4:",
+            "level": 2,
+            "content": "Demonstrate an understanding of the impact of “telling language” and “showing language.”",
+            "subsections": []
+          },
+          {
+            "id": "page_18_standard_3_5",
+            "title": "Standard 3.5:",
+            "level": 2,
+            "content": "Effectively weave together narration, description, and dialogue using correct conventions.",
+            "subsections": []
+          },
+          {
+            "id": "page_18_standard_3_6",
+            "title": "Standard 3.6:",
+            "level": 2,
+            "content": "Distinguish among and incorporate various points of view and narrative tense.",
+            "subsections": []
+          },
+          {
+            "id": "page_18_standard_3_7",
+            "title": "Standard 3.7:",
+            "level": 2,
+            "content": "Construct a finished product that demonstrates mastery of targeted writing techniques specific to the genre.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_18_strand_4",
+        "title": "Strand 4: Collaboration and Evaluation.",
+        "level": 1,
+        "content": "Students will collaborate with peers in the production and evaluation of writing.",
+        "subsections": [
+          {
+            "id": "page_18_standard_4_1",
+            "title": "Standard 4.1:",
+            "level": 2,
+            "content": "Generate ideas and research in collaboration with others to draft, plan, present, and publish original work.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_19_section_creative_writing_ela_standards",
+        "title": "CREATIVE WRITING AND LITERARY MAGAZINE Supplemental Standards for English Language Arts",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_19_section_strand_5_literary_magazine",
+        "title": "Strand 5: Literary Magazine/Publication.",
+        "level": 1,
+        "content": "Students will develop editorial and publishing skills to produce a literary magazine or publication (in schools where such a publication exists).",
+        "subsections": []
+      },
+      {
+        "id": "page_20_section_1",
+        "title": "CREATIVE WRITING AND LITERARY MAGAZINE Supplemental Standards for English Language Arts",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_21_section_humanities",
+        "title": "HUMANITIES",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_21_section_introduction",
+            "title": "INTRODUCTION",
+            "level": 2,
+            "content": "The Humanities focus on how people make meaning of their experiences as humans. It integrates the study of history, literature, language, philosophy, the visual arts, theater, dance, and music to answer the enduring questions about humanity. Students will develop their creative abilities and critical thinking and communication skills through evaluating and analyzing exemplary works and artifacts as a means of inspiring continued expressions in answering these questions.\n\nHumanities is an applied or advanced course that may be used to fulfill up to one credit of the English Language Arts graduation requirement. These standards align with the Utah Core Standards for English Language Arts.",
+            "subsections": []
+          },
+          {
+            "id": "page_21_section_strand_1_human_nature",
+            "title": "Strand 1: Human Nature",
+            "level": 2,
+            "content": "Students will explore what it means to be human throughout time by studying the physical, social, aesthetic, and spiritual aspects of human nature.",
+            "subsections": []
+          },
+          {
+            "id": "page_21_section_strand_2_human_roles_behavior",
+            "title": "Strand 2: Human Roles & Behavior",
+            "level": 2,
+            "content": "Students will examine how humans have elevated ideas, customs, and social behaviors in societies through the cultivation and refinement of literature, language, philosophy, fine arts, and performing arts throughout history.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_22_strand_3_human_ideals",
+        "title": "Strand 3: Human Ideals",
+        "level": 1,
+        "content": "Students will examine the human need for discovering and expressing human ideals, for example, truth, love, joy, beauty, respect, or liberty, within various cultures, places, and time periods.",
+        "subsections": [
+          {
+            "id": "page_22_standard_3_1",
+            "title": "Standard 3.1",
+            "level": 2,
+            "content": "Compare human ideals as defined by different cultures, places, and time periods.",
+            "subsections": []
+          },
+          {
+            "id": "page_22_standard_3_2",
+            "title": "Standard 3.2",
+            "level": 2,
+            "content": "Analyze exemplary works and artifacts as a means of discovering and expressing human ideals within various cultures, places, and time periods.",
+            "subsections": []
+          },
+          {
+            "id": "page_22_standard_3_3",
+            "title": "Standard 3.3",
+            "level": 2,
+            "content": "Evaluate exemplary works' and artifacts' use of elements of form to express human ideals within various cultures, places, and time periods.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_23_section_1",
+        "title": "PROFESSIONAL & TECHNICAL COMMUNICATION",
+        "level": 1,
+        "content": "Supplemental Standards for English Language Arts",
+        "subsections": [
+          {
+            "id": "page_23_section_1_subsection_1",
+            "title": "INTRODUCTION",
+            "level": 2,
+            "content": "Professional and Technical Communication focuses on developing coherent formal and informal communication strategies for careers and real-world situations. It emphasizes technical and professional communication skills including workplace documents, presentations, problem solving, and professional collaboration.\n\nProfessional and Technical Communication is an applied or advanced course that may be used to fulfill up to one credit of the English Language Arts graduation requirement. These standards align with the Utah Core Standards for English Language Arts.",
+            "subsections": [],
+            "tables": [],
+            "lists": [],
+            "key_value_pairs": []
+          },
+          {
+            "id": "page_23_section_1_subsection_2",
+            "title": "Strand 1: Reading and Analysis.",
+            "level": 2,
+            "content": "Students will analyze a variety of digital and print texts to gather information and use as quality examples of professional and technical communication.",
+            "subsections": [],
+            "tables": [],
+            "lists": [
+              {
+                "id": "page_23_section_1_subsection_2_list_1",
+                "type": "unordered",
+                "title": "",
+                "items": [
+                  "**Standard 1.1:** Distinguish key differences in audience and purpose for professional and technical communications.",
+                  "**Standard 1.2:** Examine and evaluate the structure, format, and syntax of a variety of professional and technical communications.",
+                  "**Standard 1.3:** Determine the meaning of professional and technical vocabulary to aid comprehension and conduct research.",
+                  "**Standard 1.4:** Analyze and summarize information and data from multiple sources for reliability, relevance, accuracy, and rhetorical purpose."
+                ]
+              }
+            ],
+            "key_value_pairs": []
+          },
+          {
+            "id": "page_23_section_1_subsection_3",
+            "title": "Strand 2: Oral Communication.",
+            "level": 2,
+            "content": "Students will engage in a variety of professional and technical oral communications.",
+            "subsections": [],
+            "tables": [],
+            "lists": [
+              {
+                "id": "page_23_section_1_subsection_3_list_1",
+                "type": "unordered",
+                "title": "",
+                "items": [
+                  "**Standard 2.1:** Develop professional and technical oral communication techniques using language, syntax, and organization that are appropriate to the audience, purpose, and context.",
+                  "**Standard 2.2:** Utilize appropriate delivery techniques (i.e., posture, gesture, eye contact, vocal expressiveness) to make presentations understandable.",
+                  "**Standard 2.3:** Participate in clarifying discussions about the format and content of professional and technical communications produced by self, peers, teams, and outside sources."
+                ]
+              }
+            ],
+            "key_value_pairs": []
+          }
+        ],
+        "tables": [],
+        "lists": [],
+        "key_value_pairs": []
+      },
+      {
+        "id": "page_24_section_humanities_ela_standards",
+        "title": "HUMANITIES Supplemental Standards for English Language Arts",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_24_section_strand_3_communication",
+        "title": "Strand 3: Print and Digital Communication.",
+        "level": 1,
+        "content": "Students will produce a variety of professional and technical written communications.",
+        "subsections": []
+      },
+      {
+        "id": "page_25_section_1",
+        "title": "Utah Secondary Supplemental Standards for ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_26_section_1",
+        "title": "UTAH STATE BOARD OF EDUCATION",
+        "level": 1,
+        "content": "250 East 500 South P.O. Box 144200 Salt Lake City, UT 84114-4200\nhttps://schools.utah.gov/board",
+        "subsections": []
+      },
+      {
+        "id": "page_27_section_mythology",
+        "title": "MYTHOLOGY",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_27_section_introduction",
+        "title": "INTRODUCTION",
+        "level": 2,
+        "content": "Mythology preserves the cultural heritage, values, beliefs, and traditions that have defined civilizations throughout history. Studying classical, world, and indigenous mythology can spark students' creativity and develop their appreciation for the diversity of human cultures. By analyzing these universal narratives, students gain a deeper understanding of and respect for the shared human experience and the historical and modern significance of myths, legends, and folklore. Students will also develop critical evaluation, communication, and research skills.\n\nMythology courses are applied or advanced courses that may be used to fulfill up to one credit of the English Language Arts graduation requirement. These standards align with the Utah Core Standards for English Language Arts.",
+        "subsections": []
+      },
+      {
+        "id": "page_27_section_strand_1_analysis_of_genre",
+        "title": "Strand 1: Analysis of Genre.",
+        "level": 2,
+        "content": "Students will develop an understanding of the genre of classical, world, and indigenous myths, legends, and folklore",
+        "subsections": []
+      },
+      {
+        "id": "page_27_section_strand_2_relationships_and_hierarchies_of_characters_and_deities",
+        "title": "Strand 2: Relationships and Hierarchies of Characters and Deities.",
+        "level": 2,
+        "content": "Students will develop an understanding of the relationships and hierarchies of characters and deities within myths, legends, and folklore.",
+        "subsections": []
+      },
+      {
+        "id": "page_28_section_strand_3",
+        "title": "Strand 3: Context, Influence, and Significance.",
+        "level": 1,
+        "content": "Students will investigate the historicity, influence, and significance of classical, world, and indigenous myths, legends, and folklore on modern cultures and societies. techniques.",
+        "subsections": [
+          {
+            "id": "page_28_standard_3_1",
+            "title": "Standard 3.1:",
+            "level": 2,
+            "content": "Describe how myths, legends, and folklore portray different versions of historical events, figures, and peoples.",
+            "subsections": []
+          },
+          {
+            "id": "page_28_standard_3_2",
+            "title": "Standard 3.2:",
+            "level": 2,
+            "content": "Analyze how myths, legends, and folklore reflect, influence, and shape the values of cultures and societies.",
+            "subsections": []
+          },
+          {
+            "id": "page_28_standard_3_3",
+            "title": "Standard 3.3:",
+            "level": 2,
+            "content": "Evaluate the influences and significance of classical and global myths, legends, and folklore on modern media and culture, including themes, motifs, and archetypes.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_29_section_1",
+        "title": "",
+        "level": 1,
+        "content": "inside of back cover",
+        "subsections": []
+      },
+      {
+        "id": "page_30_section_1",
+        "title": "Utah State Board of Education",
+        "level": 1,
+        "content": "250 East 500 South\nP.O. Box 144200\nSalt Lake City, UT 84114-4200\n\nSydnee Dickson, Ed.D.\nState Superintendent of Public Instruction\n\nwww.schools.utah.gov",
+        "subsections": []
+      }
+    ],
+    "summary": {
+      "main_topics": [],
+      "key_findings": [],
+      "action_items": [],
+      "important_dates": []
+    },
+    "tables": [
+      {
+        "id": "page_2_table_1",
+        "title": "TABLE OF CONTENTS",
+        "headers": [
+          "",
+          "page"
+        ],
+        "rows": [
+          [
+            "Adopted 2021",
+            ""
+          ],
+          [
+            "JOURNALISM",
+            "3"
+          ],
+          [
+            "SPEECH AND DEBATE",
+            "9"
+          ],
+          [
+            "Adopted 2023",
+            ""
+          ],
+          [
+            "CREATIVE WRITING AND LITERARY MAGAZINE",
+            "15"
+          ],
+          [
+            "HUMANITIES",
+            "19"
+          ],
+          [
+            "PROFESSIONAL & TECHNICAL COMMUNICATION",
+            "21"
+          ],
+          [
+            "Adopted 2024",
+            ""
+          ],
+          [
+            "MYTHOLOGY",
+            "23"
+          ]
+        ]
+      },
+      {
+        "id": "page_4_table_1",
+        "title": "Utah State Board of Education Members",
+        "headers": [
+          "District",
+          "Name",
+          "City"
+        ],
+        "rows": [
+          [
+            "District 1",
+            "Jennie L. Earl",
+            "Morgan, UT"
+          ],
+          [
+            "District 2",
+            "Scott L. Hansen",
+            "Liberty, UT"
+          ],
+          [
+            "District 3",
+            "Matt Hymas",
+            "Stansbury Park, UT"
+          ],
+          [
+            "District 4",
+            "Brent J. Strate",
+            "South Ogden, UT"
+          ],
+          [
+            "District 5",
+            "Laura Belnap",
+            "Bountiful, UT"
+          ],
+          [
+            "District 6",
+            "Stacey Hutchings",
+            "Kearns, UT"
+          ],
+          [
+            "District 7",
+            "Carol Barlow Lear",
+            "Salt Lake City, UT"
+          ],
+          [
+            "District 8",
+            "Janet A. Cannon",
+            "Holladay, UT"
+          ],
+          [
+            "District 9",
+            "Cindy Davis",
+            "Cedar Hills, UT"
+          ],
+          [
+            "District 10",
+            "Molly Hart",
+            "Sandy, UT"
+          ],
+          [
+            "District 11",
+            "Natalie Cline",
+            "Bluffdale, UT"
+          ],
+          [
+            "District 12",
+            "James Moss Jr.",
+            "Midway, UT"
+          ],
+          [
+            "District 13",
+            "Randy Boothe",
+            "Spanish Fork, UT"
+          ],
+          [
+            "District 14",
+            "Mark Huntsman",
+            "Fillmore, UT"
+          ],
+          [
+            "District 15",
+            "Kristan Norton\nSydnee Dickson",
+            "St. George, UT\nState Superintendent\nof Public Instruction"
+          ],
+          [
+            "",
+            "Lorraine Austin",
+            "Secretary to the Board"
+          ]
+        ]
+      },
+      {
+        "id": "page_16_table_1",
+        "title": "",
+        "headers": [
+          "District",
+          "Name",
+          "City"
+        ],
+        "rows": [
+          [
+            "District 1",
+            "Jennie L. Earl",
+            "Morgan, UT"
+          ],
+          [
+            "District 2",
+            "Joseph Kerry",
+            "Ogden, UT"
+          ],
+          [
+            "District 3",
+            "Brent Strate",
+            "South Ogden, UT"
+          ],
+          [
+            "District 4",
+            "Leann Wood",
+            "Kaysville, UT"
+          ],
+          [
+            "District 5",
+            "Sarah Reale",
+            "Salt Lake City, UT"
+          ],
+          [
+            "District 6",
+            "Carol Barlow Lear",
+            "Salt Lake City, UT"
+          ],
+          [
+            "District 7",
+            "Molly Hart",
+            "Sandy, UT"
+          ],
+          [
+            "District 8",
+            "Christina Boggess",
+            "Taylorsville, UT"
+          ],
+          [
+            "District 9",
+            "Natalie Cline",
+            "Bluffdale, UT"
+          ],
+          [
+            "District 10",
+            "Matt Hymas",
+            "Magna, UT"
+          ],
+          [
+            "District 11",
+            "Cindy Davis",
+            "Cedar Hills, UT"
+          ],
+          [
+            "District 12",
+            "James Moss Jr.",
+            "Midway, UT"
+          ],
+          [
+            "District 13",
+            "Randy Boothe",
+            "Spanish Fork, UT"
+          ],
+          [
+            "District 14",
+            "Emily Green",
+            "Cedar City, UT"
+          ],
+          [
+            "District 15",
+            "Kristan Norton",
+            "St. George, UT"
+          ],
+          [
+            "",
+            "Sydnee Dickson",
+            "State Superintendent\nof Public Instruction"
+          ],
+          [
+            "",
+            "Cybil Child",
+            "Secretary to the Board"
+          ]
+        ]
+      },
+      {
+        "id": "page_26_table_1",
+        "title": "Utah State Board of Education Members",
+        "headers": [
+          "District",
+          "Name",
+          "City"
+        ],
+        "rows": [
+          [
+            "District 1",
+            "Jennie L. Earl",
+            "Morgan, UT"
+          ],
+          [
+            "District 2",
+            "Joseph Kerry",
+            "Ogden, UT"
+          ],
+          [
+            "District 3",
+            "Brent Strate",
+            "South Ogden, UT"
+          ],
+          [
+            "District 4",
+            "Leann Wood",
+            "Kaysville, UT"
+          ],
+          [
+            "District 5",
+            "Sarah Reale",
+            "Salt Lake City, UT"
+          ],
+          [
+            "District 6",
+            "Carol Barlow Lear",
+            "Salt Lake City, UT"
+          ],
+          [
+            "District 7",
+            "Molly Hart",
+            "Sandy, UT"
+          ],
+          [
+            "District 8",
+            "Christina Boggess",
+            "Taylorsville, UT"
+          ],
+          [
+            "District 9",
+            "Natalie Cline",
+            "Bluffdale, UT"
+          ],
+          [
+            "District 10",
+            "Matt Hymas",
+            "Magna, UT"
+          ],
+          [
+            "District 11",
+            "Cindy Davis",
+            "Cedar Hills, UT"
+          ],
+          [
+            "District 12",
+            "James Moss Jr.",
+            "Midway, UT"
+          ],
+          [
+            "District 13",
+            "Randy Boothe",
+            "Spanish Fork, UT"
+          ],
+          [
+            "District 14",
+            "Emily Green",
+            "Cedar City, UT"
+          ],
+          [
+            "District 15",
+            "Kristan Norton",
+            "St. George, UT"
+          ],
+          [
+            "",
+            "Sydnee Dickson",
+            "State Superintendent\nof Public Instruction"
+          ],
+          [
+            "",
+            "Cybil Child",
+            "Secretary to the Board"
+          ]
+        ]
+      }
+    ],
+    "lists": [
+      {
+        "id": "page_3_list_1",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Journalism",
+          "Speech and Debate"
+        ]
+      },
+      {
+        "id": "page_5_list_strand_1_standards",
+        "type": "unordered",
+        "title": "Strand 1 Standards",
+        "items": [
+          "**Standard 1.1:** Analyze and understand student expression under the First Amendment including protections and limitations including school district publication policies.",
+          "**Standard 1.2:** Analyze laws, ethics, and landmark cases specific to journalism.",
+          "**Standard 1.3:** Apply the rulings to both practice and real-life situations specific to the school community and publication(s).",
+          "**Standard 1.4:** Research and evaluate the role of a free and independent media within a democratic society.",
+          "**Standard 1.5:** Seek perspectives and variety in the human experience."
+        ]
+      },
+      {
+        "id": "page_5_list_strand_2_standards",
+        "type": "unordered",
+        "title": "Strand 2 Standards",
+        "items": [
+          "**Standard 2.1:** Critically analyze content found in print and digital media used to inform, persuade, entertain, and transmit social information.",
+          "**Standard 2.2:** Evaluate how visual techniques or design elements carry or influence messages in various media.",
+          "**Standard 2.3:** Analyze the impact of social media on trends and public opinion.",
+          "**Standard 2.4:** Identify emotional appeals and logic fallacies. Distinguish writing intended as objective from that intended at subjective.",
+          "**Standard 2.5:** Identify choices content producers make while constructing media. Evaluate how choices contribute to the impact on the audience."
+        ]
+      },
+      {
+        "id": "page_6_list_standards_2",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Standard 2.6: Compare and contrast coverage of the same news stories in a variety of print and digital media.",
+          "Standard 2.7: Evaluate the credibility of sources in a variety of print and digital media stories."
+        ]
+      },
+      {
+        "id": "page_6_list_standards_3",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Standard 3.1: Compose and evaluate interview questions for written or broadcast journalism.",
+          "Standard 3.2: Gather information from multiple, reliable sources and evaluate this information for relevance, accuracy, and completeness.",
+          "Standard 3.3: Research using current reporting tools, from advanced Google searches to data journalism.",
+          "Standard 3.4: Write journalistically sound headlines and captions.",
+          "Standard 3.5: Use direct and indirect quotes in copy with appropriate attribution (e.g., punctuation, identification, verb choice).",
+          "Standard 3.6: Develop a variety of journalistically sound pieces (see appendix) using standard writing conventions ensuring the principles of fairness, balance and accuracy.",
+          "Standard 3.7: Revise original pieces for content and style appropriate to the medium and audience.",
+          "Standard 3.8: Peer- and self-edit using journalism style manuals as references."
+        ]
+      },
+      {
+        "id": "page_6_list_standards_4",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Standard 4.1: Analyze & evaluate photography, videography, and audio in journalism (e.g., emotional connection, how multimedia elements enhance text, reader response, storytelling quality of the photo).",
+          "Standard 4.2: Apply principles of photography such as composition, lighting, and other important photojournalism concepts.",
+          "Standard 4.3: Apply principles of videography, such as wide, medium and close shots, length of shot, etc.",
+          "Standard 4.4: Apply principles of audio production, such as natural sound, stereo, nonlinear editing."
+        ]
+      },
+      {
+        "id": "page_11_list_strand_1_standards",
+        "type": "unordered",
+        "title": "Strand 1: Research and Development. Students will read and collect research from textual evidence to prepare for debates.",
+        "items": [
+          "Standard 1.1: Prepare for and present in a variety of speech and debate formats (see appendix).",
+          "Standard 1.2: Analyze current events and political atmosphere (e.g., domestic policy, economic policy, foreign policy, social climate).",
+          "Standard 1.3: Collaborate to define issues and develop strategies.",
+          "Standard 1.4: Research arguments to support substantive claims using a variety of primary and/or secondary sources including but not limited to historical, scientific, and technical texts: central idea, discrepancies in content, explanation for action or events, points of view, specialized vocabulary, textual evidence",
+          "Standard 1.5: Evaluate researched texts for validity, reliability, and credibility of source, content, and/or author."
+        ]
+      },
+      {
+        "id": "page_13_list_standard_3_1",
+        "type": "unordered",
+        "title": "Principles of ethical communication appropriate to context",
+        "items": [
+          "Academic honesty",
+          "Bias",
+          "Communication responsibility",
+          "Plagiarism",
+          "Respect for diversity"
+        ]
+      },
+      {
+        "id": "page_13_list_standard_3_6",
+        "type": "unordered",
+        "title": "Presentation skills to convey complex ideas",
+        "items": [
+          "Extemporaneous speech",
+          "Formal register",
+          "Persuasive techniques"
+        ]
+      },
+      {
+        "id": "page_13_list_standard_3_9",
+        "type": "unordered",
+        "title": "Critical, empathetic, appreciative, and reflective listening skills",
+        "items": [
+          "Active listening behaviors",
+          "False assumptions",
+          "Loaded terms",
+          "Note-taking",
+          "Sarcasm"
+        ]
+      },
+      {
+        "id": "page_14_list_1_1",
+        "type": "unordered",
+        "title": "Speech and debate formats",
+        "items": [
+          "agent of action",
+          "ballot",
+          "burden of proof",
+          "card",
+          "claim",
+          "counter plans",
+          "data",
+          "fiat",
+          "flow",
+          "judge",
+          "presumption",
+          "resolution",
+          "status quo",
+          "stock issues",
+          "warrant"
+        ]
+      },
+      {
+        "id": "page_14_list_2_7",
+        "type": "unordered",
+        "title": "Speech and debate conventions",
+        "items": [
+          "affirmative",
+          "closing",
+          "constructive",
+          "cross examination",
+          "direct examination",
+          "negative",
+          "rebuttal",
+          "opening"
+        ]
+      },
+      {
+        "id": "page_14_list_2_8",
+        "type": "unordered",
+        "title": "Speech and Debate Terminology",
+        "items": [
+          "agent of action",
+          "ballot",
+          "burden of proof",
+          "card",
+          "claim",
+          "counter plans",
+          "data",
+          "fiat",
+          "flow",
+          "judge",
+          "presumption",
+          "resolution",
+          "status quo",
+          "stock issues",
+          "warrant"
+        ]
+      },
+      {
+        "id": "page_14_list_3_2",
+        "type": "unordered",
+        "title": "Evaluation Paradigms",
+        "items": [
+          "appearance",
+          "games player",
+          "policymaker",
+          "stock issues",
+          "tabula rasa"
+        ]
+      },
+      {
+        "id": "page_14_list_3_7",
+        "type": "unordered",
+        "title": "Communication barriers",
+        "items": [
+          "adversarial mindset",
+          "bias",
+          "communication apprehension",
+          "environment",
+          "noise",
+          "nonverbal communication",
+          "perception",
+          "proxemics/spatial",
+          "reticence",
+          "semantics"
+        ]
+      },
+      {
+        "id": "page_15_list_ela_topics",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Creative Writing and Literary Magazine",
+          "Humanities",
+          "Professional & Technical Communication"
+        ]
+      },
+      {
+        "id": "page_17_list_strand_1_standards",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Standard 1.1: Generate and/or capture multiple ideas for writing through observation, processing, discussion, and reading.",
+          "Standard 1.2: Focus ideas on addressing what is most significant and/or relevant for a specific genre, purpose, and audience.",
+          "Standard 1.3: Use various techniques for organizing ideas such as outlining, storyboarding, timelines, and plotting.",
+          "Standard 1.4: Compose multiple drafts with revisions as needed showing growth based on self-evaluation and/or feedback.",
+          "Standard 1.5: Edit following the conventions of English as appropriate for grade level, genre, and purpose."
+        ]
+      },
+      {
+        "id": "page_19_list_standards_4",
+        "type": "unordered",
+        "title": "Supplemental Standards for English Language Arts (4.x)",
+        "items": [
+          "**Standard 4.2:** Participate in consistent, collaborative discussions about writing produced by peers, self, and outside sources.",
+          "**Standard 4.3:** Articulate, discuss, and reflect upon specific strengths of a piece of writing and provide suggestions for improvement.",
+          "**Standard 4.4:** Consider differing perspectives and opinions when editing, critiquing, collaborating, and conferencing work.",
+          "**Standard 4.5:** Evaluate personal and peer writing through the use of rubrics, checklists, and/or portfolios."
+        ]
+      },
+      {
+        "id": "page_19_list_standards_5",
+        "type": "unordered",
+        "title": "Literary Magazine/Publication Standards (5.x)",
+        "items": [
+          "**Standard 5.1:** Apply elements of design and layout into an aesthetically pleasing magazine and/or publication.",
+          "**Standard 5.2:** Organize the literary magazine and/or relevant publications based on a production schedule.",
+          "**Standard 5.3:** Create products to solicit submissions as well as promote the publication such as posters, flyers, social media posts, videos and/or announcements."
+        ]
+      },
+      {
+        "id": "page_21_list_strand_1_standards",
+        "type": "unordered",
+        "title": "Standards for Strand 1: Human Nature",
+        "items": [
+          "Standard 1.1: Analyze the interrelationships of religion, morals, ethics, and aesthetics present in the world’s societies.",
+          "Standard 1.2: Examine exemplary works and artifacts as a means of expressing information, thoughts, and ideals within various cultures, places, and time periods.",
+          "Standard 1.3: Evaluate exemplary works and artifacts’ use of elements of form including literary or artistic elements to express aspects of human nature."
+        ]
+      },
+      {
+        "id": "page_21_list_strand_2_standards",
+        "type": "unordered",
+        "title": "Standards for Strand 2: Human Roles & Behavior",
+        "items": [
+          "Standard 2.1: Examine how the innate desire for purpose, meaning, and fulfillment have motivated individuals to create exemplary works that express information, thoughts, and ideals within various cultures, places, and time periods.",
+          "Standard 2.2: Examine exemplary works and artifacts as a means of expressing information, thoughts, and ideals within various cultures, places, and time periods.",
+          "Standard 2.3: Identify and evaluate potential aspects of motivation and inspiration in the production of exemplary works and artifacts."
+        ]
+      },
+      {
+        "id": "page_24_list_humanities_standard_2_4",
+        "type": "unordered",
+        "title": "Humanities Standard 2.4",
+        "items": [
+          "Standard 2.4: Apply critical, empathetic, appreciative, and reflective listening skills in formal and informal situations."
+        ]
+      },
+      {
+        "id": "page_24_list_strand_3_standards",
+        "type": "unordered",
+        "title": "Strand 3 Standards",
+        "items": [
+          "Standard 3.1: Develop professional and technical written print and digital communications using language, syntax, format, and delivery methods that are appropriate to the audience, purpose, and context.",
+          "Standard 3.2: Create charts, graphs, and other visuals using appropriate data to clarify professional and technical written digital and print communications.",
+          "Standard 3.3: Employ ethical and lawful practices when utilizing intellectual property.",
+          "Standard 3.4: Revise original pieces for content and style appropriate to the audience, purpose, and context."
+        ]
+      },
+      {
+        "id": "page_25_list_1",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Mythology"
+        ]
+      },
+      {
+        "id": "page_27_list_strand_1_standards",
+        "type": "unordered",
+        "title": "Standards for Strand 1",
+        "items": [
+          "Standard 1.1: Analyze the characteristics and purposes of different types of myths, legends, and folklore from a variety of cultures.",
+          "Standard 1.2: Evaluate the significance of recurring themes, motifs, structures, and patterns in myths, legends, and folklore.",
+          "Standard 1.3: Analyze the relevance and influence of myths, legends, and folklore on literature, art, and societal values within their respective cultures."
+        ]
+      },
+      {
+        "id": "page_27_list_strand_2_standards",
+        "type": "unordered",
+        "title": "Standards for Strand 2",
+        "items": [
+          "Standard 2.1: Identify archetypal characters and/or deities within myths and the roles they play across different cultures.",
+          "Standard 2.2: Describe the complexities of the relationships and interactions between the characters and/or deities across and within different mythological and cultural systems.",
+          "Standard 2.3: Derive meanings about the relationships of “the divine,” “the human,” and “the physical” in regard to “the cosmos” using storytelling as a vehicle to moralize themes such as force, violence, hubris, agency, fate, love, and knowledge."
+        ]
+      }
+    ],
+    "key_value_pairs": [
+      {
+        "key": "Document Header",
+        "value": "Utah Supplemental Standards for English Language Arts"
+      },
+      {
+        "key": "Address",
+        "value": "250 East 500 South\nP.O. Box 144200\nSalt Lake City, UT 84114-4200"
+      },
+      {
+        "key": "State Superintendent of Public Instruction",
+        "value": "Sydnee Dickson, Ed.D."
+      },
+      {
+        "key": "Website",
+        "value": "www.schools.utah.gov"
+      },
+      {
+        "key": "Date",
+        "value": "5/2021"
+      },
+      {
+        "key": "Column",
+        "value": "Columns provide observations, experiences, reporting and opinions from a personal perspective. They should elicit emotion of some sort and may be humorous, sad, ironic, angry or express other emotions that are appropriate for the subject matter. Columns include personal essays, which build from a personal experience to make a broader point and should have some type of reported, verified facts behind them."
+      },
+      {
+        "key": "Copywriting",
+        "value": "The art of creating written content that accompanies an advertising campaign. Advertising copywriting is based on the idea of marketing a particular product to a specific consumer audience."
+      },
+      {
+        "key": "Enterprise story",
+        "value": "Enterprise stories are news stories that take a deeper look into the topic. They require numbers that establish the trend or support the narrative and multiple sources, including someone who is living the problem or trend and experts who can bring perspective to the problem or trend."
+      },
+      {
+        "key": "Features",
+        "value": "Human-interest stories that may make readers laugh or cry, love or hate, envy or pity, such as a profile of a person, a “how to,” article, hobbies or other “soft news.” (Bender, et al., 2019). These also have the element of objectivity and written in the third person."
+      },
+      {
+        "key": "Opinion",
+        "value": "Opinion articles are written with the aim to persuade. They may be written in the first, second or third person. They may express the opinion of a single person or an institution, such as an editorial board. An opinion article that expresses the opinion of the news organization’s editorial board is an editorial. They should be based on facts that are attributed and verified."
+      },
+      {
+        "key": "News",
+        "value": "Serious or timely stories about important topics that inform or educate (Bender, et al., 2019). A key element is objectivity, written in the third person."
+      },
+      {
+        "key": "Podcast",
+        "value": "a digital audio file made available on the internet for downloading to a computer or mobile device, typically available as a series, new installments of which can be received by subscribers automatically that include interviews with newsworthy or entertaining people highlighted with audio production techniques such as natural sound, music, sound effects and good editing."
+      },
+      {
+        "key": "Reviews",
+        "value": "Critical essays on the performance of some type of art: visual, performing or written."
+      },
+      {
+        "key": "Adopted Date",
+        "value": "May 2023"
+      },
+      {
+        "key": "Adopting Body",
+        "value": "Utah State Board of Education"
+      },
+      {
+        "key": "Date",
+        "value": "01/2023"
+      },
+      {
+        "key": "Adopted",
+        "value": "April 2024"
+      },
+      {
+        "key": "Adopting Body",
+        "value": "Utah State Board of Education"
+      }
+    ]
+  }
+}

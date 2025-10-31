@@ -1,0 +1,1500 @@
+{
+  "timestamp": "2025-10-31T03:32:02.580536",
+  "summary": {
+    "total_files": 147,
+    "total_tests_run": 224,
+    "total_tests_passed": 202,
+    "total_tests_failed": 22,
+    "file_success_rate": 53.74149659863946,
+    "test_success_rate": 90.17857142857143,
+    "status_counts": {
+      "passed": 79,
+      "failed": 8,
+      "timeout": 1,
+      "error": 0,
+      "syntax_error": 59
+    }
+  },
+  "category_summaries": {
+    "adhoc": {
+      "files": 1,
+      "tests_run": 0,
+      "tests_passed": 0,
+      "tests_failed": 0,
+      "status_counts": {
+        "passed": 0,
+        "failed": 0,
+        "timeout": 0,
+        "error": 0,
+        "syntax_error": 1
+      },
+      "avg_duration": 0.0,
+      "total_duration": 0
+    },
+    "gui": {
+      "files": 7,
+      "tests_run": 6,
+      "tests_passed": 6,
+      "tests_failed": 0,
+      "status_counts": {
+        "passed": 6,
+        "failed": 0,
+        "timeout": 0,
+        "error": 0,
+        "syntax_error": 1
+      },
+      "avg_duration": 0.9568540368761335,
+      "total_duration": 6.697978258132935
+    },
+    "integration": {
+      "files": 37,
+      "tests_run": 33,
+      "tests_passed": 31,
+      "tests_failed": 2,
+      "status_counts": {
+        "passed": 22,
+        "failed": 1,
+        "timeout": 1,
+        "error": 0,
+        "syntax_error": 13
+      },
+      "avg_duration": 2.4572951793670654,
+      "total_duration": 90.91992163658142
+    },
+    "unit": {
+      "files": 102,
+      "tests_run": 185,
+      "tests_passed": 165,
+      "tests_failed": 20,
+      "status_counts": {
+        "passed": 51,
+        "failed": 7,
+        "timeout": 0,
+        "error": 0,
+        "syntax_error": 44
+      },
+      "avg_duration": 1.0767370696161307,
+      "total_duration": 109.82718110084534
+    }
+  },
+  "detailed_results": {
+    "adhoc": [
+      {
+        "file": "tests\\adhoc\\test_function_catalog_default_file_validation.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 32: invalid syntax",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      }
+    ],
+    "gui": [
+      {
+        "file": "tests\\gui\\test_app.py",
+        "status": "passed",
+        "duration": 1.1760830879211426,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/gui/test_app.py::TestApp::test_module_exists PASSED                [100%]\n\n============================== 1 passed in 0.16s ==============================\n"
+      },
+      {
+        "file": "tests\\gui\\test_config_forms.py",
+        "status": "passed",
+        "duration": 1.1850841045379639,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/gui/test_config_forms.py::TestConfigForms::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.16s ==============================\n"
+      },
+      {
+        "file": "tests\\gui\\test_import_dialog.py",
+        "status": "passed",
+        "duration": 1.1236321926116943,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/gui/test_import_dialog.py::TestImportDialog::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.18s ==============================\n"
+      },
+      {
+        "file": "tests\\gui\\test_pdf_viewer.py",
+        "status": "passed",
+        "duration": 1.1291394233703613,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/gui/test_pdf_viewer.py::TestPdfViewer::test_module_exists PASSED   [100%]\n\n============================== 1 passed in 0.17s ==============================\n"
+      },
+      {
+        "file": "tests\\gui\\test_test_runner_widget.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 281: unterminated string literal (detected at line 281)",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\gui\\test_variations_panel.py",
+        "status": "passed",
+        "duration": 1.0332655906677246,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/gui/test_variations_panel.py::TestVariationsPanel::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.14s ==============================\n"
+      },
+      {
+        "file": "tests\\gui\\test_review_gui.py",
+        "status": "passed",
+        "duration": 1.0507738590240479,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/gui/test_review_gui.py::TestReviewGui::test_module_exists PASSED   [100%]\n\n============================== 1 passed in 0.14s ==============================\n"
+      }
+    ],
+    "integration": [
+      {
+        "file": "tests\\integration\\test_analytics_integration.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 81: unmatched ')'",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\integration\\test_complete_system_final.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 33: invalid syntax",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\integration\\test_complete_system_real_engines.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 31: invalid syntax",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\integration\\test_complete_system_simple.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 28: invalid syntax",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\integration\\test_complete_system_with_all_engines.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 36: invalid syntax",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\integration\\test_anomaly.py",
+        "status": "passed",
+        "duration": 0.9249210357666016,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/integration/test_anomaly.py::TestAnomaly::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.11s ==============================\n"
+      },
+      {
+        "file": "tests\\integration\\test_consensus_on_fixture_doc.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 32: invalid syntax",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\integration\\test_consensus_with_real_associations.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 317: invalid syntax",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\integration\\test_consensus_with_real_default_file.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 22: invalid syntax",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\integration\\test_consistency.py",
+        "status": "passed",
+        "duration": 0.9714465141296387,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/integration/test_consistency.py::TestConsistency::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.11s ==============================\n"
+      },
+      {
+        "file": "tests\\integration\\test_consistency_integration.py",
+        "status": "passed",
+        "duration": 0.942357063293457,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/integration/test_consistency_integration.py::TestConsistencyIntegration::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.11s ==============================\n"
+      },
+      {
+        "file": "tests\\integration\\test_context.py",
+        "status": "passed",
+        "duration": 0.9429264068603516,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/integration/test_context.py::TestContext::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.12s ==============================\n"
+      },
+      {
+        "file": "tests\\integration\\test_core.py",
+        "status": "passed",
+        "duration": 0.9782347679138184,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/integration/test_core.py::TestCore::test_module_exists PASSED      [100%]\n\n============================== 1 passed in 0.12s ==============================\n"
+      },
+      {
+        "file": "tests\\integration\\test_dynamic_reprocessing_workflow.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 89: invalid syntax",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\integration\\test_gbg_seed.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 81: unterminated string literal (detected at line 81)",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\integration\\test_guard.py",
+        "status": "passed",
+        "duration": 0.895108699798584,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/integration/test_guard.py::TestGuard::test_module_exists PASSED    [100%]\n\n============================== 1 passed in 0.11s ==============================\n"
+      },
+      {
+        "file": "tests\\integration\\test_ids.py",
+        "status": "passed",
+        "duration": 0.884742021560669,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/integration/test_ids.py::TestIds::test_module_exists PASSED        [100%]\n\n============================== 1 passed in 0.11s ==============================\n"
+      },
+      {
+        "file": "tests\\integration\\test_configuration_integration.py",
+        "status": "failed",
+        "duration": 10.78652548789978,
+        "error": "sys:1: DeprecationWarning: builtin type swigvarlink has no __module__ attribute\n",
+        "tests_run": 11,
+        "tests_passed": 9,
+        "tests_failed": 2,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 10 items\n\ntests/integration/test_configuration_integration.py::TestConfigurationIntegration::test_gbg_processor_uses_configuration_defaults PASSED [ 10%]\ntests/integration/test_configuration_integration.py::TestConfigurationIntegration::test_gbg_processor_saves_to_configured_output PASSED [ 20%]\ntests/integration/test_configuration_integration.py::TestConfigurationIntegration::test_io_components_use_configured_encoding PASSED [ 30%]\ntests/integration/test_configuration_integration.py::TestConfigurationIntegration::test_output_directories_are_configured PASSED [ 40%]\ntests/integration/test_configuration_integration.py::TestConfigurationIntegration::test_expected_values_match_reality PASSED [ 50%]\ntests/integration/test_configuration_integration.py::TestConfigurationIntegration::test_configuration_consistency_across_runs PASSED [ 60%]\ntests/integration/test_configuration_integration.py::TestConfigurationIntegration::test_mcp_override_functionality PASSED [ 70%]\ntests/integration/test_configuration_integration.py::TestConfigurationIntegration::test_mcp_integration_readiness PASSED [ 80%]\ntests/integration/test_configuration_integration.py::TestConfigurationErrorHandling::test_graceful_handling_of_missing_pdf FAILED [ 90%]\ntests/integration/test_configuration_integration.py::TestConfigurationErrorHandling::test_output_directory_creation PASSED [100%]\n\n================================== FAILURES ===================================\n____ TestConfigurationErrorHandling.test_graceful_handling_of_missing_pdf _____\ntests\\integration\\test_configuration_integration.py:218: in test_graceful_handling_of_missing_pdf\n    processor = GBGProcessor()\n                ^^^^^^^^^^^^^^\nsrc\\compareblocks\\gbg\\processor.py:28: in __init__\n    file_manager.ensure_output_directories()\nsrc\\compareblocks\\config\\file_manager.py:255: in ensure_output_directories\n    self.get_processing_directory(),\n    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nsrc\\compareblocks\\config\\file_manager.py:115: in get_processing_directory\n    base_dir = self._get_output_base_directory()\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nsrc\\compareblocks\\config\\file_manager.py:71: in _get_output_base_directory\n    display_name = extractor.get_display_name(pdf_path)\n                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nsrc\\compareblocks\\io\\pdf_metadata.py:131: in get_display_name\n    metadata = self.extract_pdf_metadata(pdf_path)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nsrc\\compareblocks\\io\\pdf_metadata.py:34: in extract_pdf_metadata\n    raise FileNotFoundError(f\"PDF not found: {pdf_path}\")\nE   FileNotFoundError: PDF not found: C:\\Projects\\PDFConcensus\\nonexistent\\file.pdf\n============================== warnings summary ===============================\n<frozen importlib._bootstrap>:488\n<frozen importlib._bootstrap>:488\n  <frozen importlib._bootstrap>:488: DeprecationWarning: builtin type SwigPyPacked has no __module__ attribute\n\n<frozen importlib._bootstrap>:488\n<frozen importlib._bootstrap>:488\n  <frozen importlib._bootstrap>:488: DeprecationWarning: builtin type SwigPyObject has no __module__ attribute\n\n<frozen importlib._bootstrap>:488\n  <frozen importlib._bootstrap>:488: DeprecationWarning: builtin type swigvarlink has no __module__ attribute\n\n-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html\n=========================== short test summary info ===========================\nFAILED tests/integration/test_configuration_integration.py::TestConfigurationErrorHandling::test_graceful_handling_of_missing_pdf\n=================== 1 failed, 9 passed, 5 warnings in 9.88s ===================\nsys:1: DeprecationWarning: builtin type swigvarlink has no __module__ attribute\n"
+      },
+      {
+        "file": "tests\\integration\\test_language.py",
+        "status": "passed",
+        "duration": 0.8646001815795898,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/integration/test_language.py::TestLanguage::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.11s ==============================\n"
+      },
+      {
+        "file": "tests\\integration\\test_loader.py",
+        "status": "passed",
+        "duration": 0.8250095844268799,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/integration/test_loader.py::TestLoader::test_module_exists PASSED  [100%]\n\n============================== 1 passed in 0.10s ==============================\n"
+      },
+      {
+        "file": "tests\\integration\\test_match.py",
+        "status": "passed",
+        "duration": 0.9033634662628174,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/integration/test_match.py::TestMatch::test_module_exists PASSED    [100%]\n\n============================== 1 passed in 0.11s ==============================\n"
+      },
+      {
+        "file": "tests\\integration\\test_mcp_integration.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 263: unterminated string literal (detected at line 263)",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\integration\\test_merge.py",
+        "status": "passed",
+        "duration": 0.9157671928405762,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/integration/test_merge.py::TestMerge::test_module_exists PASSED    [100%]\n\n============================== 1 passed in 0.11s ==============================\n"
+      },
+      {
+        "file": "tests\\integration\\test_orientation.py",
+        "status": "passed",
+        "duration": 0.882922887802124,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/integration/test_orientation.py::TestOrientation::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.11s ==============================\n"
+      },
+      {
+        "file": "tests\\integration\\test_pdf_metadata.py",
+        "status": "passed",
+        "duration": 0.8837320804595947,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/integration/test_pdf_metadata.py::TestPdfMetadata::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.11s ==============================\n"
+      },
+      {
+        "file": "tests\\integration\\test_policy.py",
+        "status": "passed",
+        "duration": 0.9126846790313721,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/integration/test_policy.py::TestPolicy::test_module_exists PASSED  [100%]\n\n============================== 1 passed in 0.12s ==============================\n"
+      },
+      {
+        "file": "tests\\integration\\test_processor.py",
+        "status": "passed",
+        "duration": 0.8805575370788574,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/integration/test_processor.py::TestProcessor::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.11s ==============================\n"
+      },
+      {
+        "file": "tests\\integration\\test_project_management_workflow.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 28: invalid syntax",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\integration\\test_review_gui_workflow.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 89: invalid syntax",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\integration\\test_schemas.py",
+        "status": "passed",
+        "duration": 0.8816814422607422,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/integration/test_schemas.py::TestSchemas::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.11s ==============================\n"
+      },
+      {
+        "file": "tests\\integration\\test_score.py",
+        "status": "passed",
+        "duration": 0.9286720752716064,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/integration/test_score.py::TestScore::test_module_exists PASSED    [100%]\n\n============================== 1 passed in 0.12s ==============================\n"
+      },
+      {
+        "file": "tests\\integration\\test_seed.py",
+        "status": "passed",
+        "duration": 0.9221806526184082,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/integration/test_seed.py::TestSeed::test_module_exists PASSED      [100%]\n\n============================== 1 passed in 0.11s ==============================\n"
+      },
+      {
+        "file": "tests\\integration\\test_textnorm.py",
+        "status": "passed",
+        "duration": 0.9172391891479492,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/integration/test_textnorm.py::TestTextnorm::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.11s ==============================\n"
+      },
+      {
+        "file": "tests\\integration\\test_types.py",
+        "status": "passed",
+        "duration": 0.9287834167480469,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/integration/test_types.py::TestTypes::test_module_exists PASSED    [100%]\n\n============================== 1 passed in 0.11s ==============================\n"
+      },
+      {
+        "file": "tests\\integration\\test_variation_block.py",
+        "status": "passed",
+        "duration": 0.9421060085296631,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/integration/test_variation_block.py::TestVariationBlock::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.12s ==============================\n"
+      },
+      {
+        "file": "tests\\integration\\test_writer.py",
+        "status": "passed",
+        "duration": 1.004359245300293,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/integration/test_writer.py::TestWriter::test_module_exists PASSED  [100%]\n\n============================== 1 passed in 0.14s ==============================\n"
+      },
+      {
+        "file": "tests\\integration\\test_improved_pymupdf_matching.py",
+        "status": "timeout",
+        "duration": 60,
+        "error": "Test timed out after 60s",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      }
+    ],
+    "unit": [
+      {
+        "file": "tests\\unit\\test_advanced_engine_integration.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 31: invalid syntax",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_alignment.py",
+        "status": "passed",
+        "duration": 0.9725573062896729,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_alignment.py::TestAlignment::test_module_exists PASSED   [100%]\n\n============================== 1 passed in 0.14s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_analytics_engine.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 263: unterminated string literal (detected at line 263)",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_analytics_export.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 60: expected ':'",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_analytics_reporting.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 378: unterminated string literal (detected at line 378)",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_analyze_missing_files_and_functions.py",
+        "status": "passed",
+        "duration": 0.9286363124847412,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_analyze_missing_files_and_functions.py::TestAnalyzeMissingFilesAndFunctions::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.13s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_association_alignment.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 60: invalid syntax",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_association_manager.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 53: unterminated string literal (detected at line 53)",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_association_parsers.py",
+        "status": "passed",
+        "duration": 3.659578800201416,
+        "error": "",
+        "tests_run": 9,
+        "tests_passed": 9,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 9 items\n\ntests/unit/test_association_parsers.py::TestAssociationParsers::test_format_detection PASSED [ 11%]\ntests/unit/test_association_parsers.py::TestAssociationParsers::test_csv_parser_with_real_file PASSED [ 22%]\ntests/unit/test_association_parsers.py::TestAssociationParsers::test_html_parser_with_real_file PASSED [ 33%]\ntests/unit/test_association_parsers.py::TestAssociationParsers::test_json_parser_with_real_file PASSED [ 44%]\ntests/unit/test_association_parsers.py::TestAssociationParsers::test_markdown_parser_with_real_file PASSED [ 55%]\ntests/unit/test_association_parsers.py::TestAssociationParsers::test_text_parser_with_real_file PASSED [ 66%]\ntests/unit/test_association_parsers.py::TestAssociationParsers::test_all_association_files_parsing PASSED [ 77%]\ntests/unit/test_association_parsers.py::TestAssociationParsers::test_parser_registry PASSED [ 88%]\ntests/unit/test_association_parsers.py::TestAssociationParsers::test_error_handling PASSED [100%]\n\n============================== 9 passed in 2.87s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_associationmupdf_matcher.py",
+        "status": "passed",
+        "duration": 0.8988993167877197,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_associationmupdf_matcher.py::TestAssociationmupdfMatcher::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.13s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_build_test_catalog.py",
+        "status": "passed",
+        "duration": 0.9050114154815674,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_build_test_catalog.py::TestBuildCatalog::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.12s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_catalog_enhancement.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 97: unterminated string literal (detected at line 97)",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_catalog_validation.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 282: unterminated string literal (detected at line 282)",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_character_consistency.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 106: invalid syntax",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_client.py",
+        "status": "passed",
+        "duration": 0.9438357353210449,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_client.py::TestClient::test_module_exists PASSED         [100%]\n\n============================== 1 passed in 0.14s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_comprehensive_engine_gbg_processor.py",
+        "status": "passed",
+        "duration": 0.8905820846557617,
+        "error": "",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_comprehensive_engine_gbg_processor.py::TestComprehensiveEngineGbgProcessor::test_module_exists SKIPPED [100%]\n\n============================= 1 skipped in 0.13s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_config_forms.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 200: unterminated string literal (detected at line 200)",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_configuration_manager.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 91: unterminated string literal (detected at line 91)",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_configuration_validation.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 13: invalid syntax",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_consensus_guard.py",
+        "status": "failed",
+        "duration": 0.8290624618530273,
+        "error": "",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 0 items\n\n============================ no tests ran in 0.06s ============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_consensus_merge.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 9: invalid syntax",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_consensus_policy.py",
+        "status": "failed",
+        "duration": 1.6591291427612305,
+        "error": "",
+        "tests_run": 17,
+        "tests_passed": 15,
+        "tests_failed": 2,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 16 items\n\ntests/unit/test_consensus_policy.py::TestDecisionPolicyBasic::test_policy_engine_initialization FAILED [  6%]\ntests/unit/test_consensus_policy.py::TestDecisionPolicyBasic::test_custom_thresholds PASSED [ 12%]\ntests/unit/test_consensus_policy.py::TestDecisionPolicyBasic::test_text_similarity_calculation PASSED [ 18%]\ntests/unit/test_consensus_policy.py::TestDecisionScenarios::test_clear_winner_scenario PASSED [ 25%]\ntests/unit/test_consensus_policy.py::TestDecisionScenarios::test_merge_candidate_scenario PASSED [ 31%]\ntests/unit/test_consensus_policy.py::TestDecisionScenarios::test_review_required_scenario PASSED [ 37%]\ntests/unit/test_consensus_policy.py::TestDecisionScenarios::test_no_variations_scenario PASSED [ 43%]\ntests/unit/test_consensus_policy.py::TestDecisionScenarios::test_single_variation_scenario PASSED [ 50%]\ntests/unit/test_consensus_policy.py::TestMergeCandidateIdentification::test_identify_merge_candidates PASSED [ 56%]\ntests/unit/test_consensus_policy.py::TestMergeCandidateIdentification::test_should_merge_variations PASSED [ 62%]\ntests/unit/test_consensus_policy.py::TestDecisionWithEducationalContent::test_educational_text_decision PASSED [ 68%]\ntests/unit/test_consensus_policy.py::TestDecisionWithEducationalContent::test_standards_text_decision PASSED [ 75%]\ntests/unit/test_consensus_policy.py::TestBatchDecisions::test_batch_decisions PASSED [ 81%]\ntests/unit/test_consensus_policy.py::TestBatchDecisions::test_get_decision_statistics PASSED [ 87%]\ntests/unit/test_consensus_policy.py::TestPolicyConfiguration::test_update_policy_thresholds PASSED [ 93%]\ntests/unit/test_consensus_policy.py::TestPolicyConfiguration::test_get_policy_configuration PASSED [100%]\n\n================================== FAILURES ===================================\n__________ TestDecisionPolicyBasic.test_policy_engine_initialization __________\ntests\\unit\\test_consensus_policy.py:29: in test_policy_engine_initialization\n    assert engine.guard is not None and isinstance(engine.guard, HallucinationGuard)\nE   assert (<compareblocks.consensus.guard.HallucinationGuard object at 0x00000174A5EB9010> is not None and False)\nE    +  where <compareblocks.consensus.guard.HallucinationGuard object at 0x00000174A5EB9010> = <compareblocks.consensus.policy.DecisionPolicyEngine object at 0x00000174A5EB90A0>.guard\nE    +  and   False = isinstance(<compareblocks.consensus.guard.HallucinationGuard object at 0x00000174A5EB9010>, HallucinationGuard)\nE    +    where <compareblocks.consensus.guard.HallucinationGuard object at 0x00000174A5EB9010> = <compareblocks.consensus.policy.DecisionPolicyEngine object at 0x00000174A5EB90A0>.guard\n=========================== short test summary info ===========================\nFAILED tests/unit/test_consensus_policy.py::TestDecisionPolicyBasic::test_policy_engine_initialization\n======================== 1 failed, 15 passed in 0.60s =========================\n"
+      },
+      {
+        "file": "tests\\unit\\test_consensus_score.py",
+        "status": "passed",
+        "duration": 1.4704253673553467,
+        "error": "",
+        "tests_run": 19,
+        "tests_passed": 19,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 19 items\n\ntests/unit/test_consensus_score.py::TestScoringWeights::test_create_default_scoring_weights PASSED [  5%]\ntests/unit/test_consensus_score.py::TestScoringWeights::test_create_conservative_scoring_weights PASSED [ 10%]\ntests/unit/test_consensus_score.py::TestScoringThresholds::test_create_default_scoring_thresholds PASSED [ 15%]\ntests/unit/test_consensus_score.py::TestScoringThresholds::test_create_strict_scoring_thresholds PASSED [ 21%]\ntests/unit/test_consensus_score.py::TestLengthConsistency::test_calculate_median_length_consistency_identical PASSED [ 26%]\ntests/unit/test_consensus_score.py::TestLengthConsistency::test_calculate_median_length_consistency_varied PASSED [ 31%]\ntests/unit/test_consensus_score.py::TestLengthConsistency::test_calculate_median_length_consistency_empty PASSED [ 36%]\ntests/unit/test_consensus_score.py::TestOrientationPenalty::test_calculate_orientation_penalty_perfect PASSED [ 42%]\ntests/unit/test_consensus_score.py::TestOrientationPenalty::test_calculate_orientation_penalty_mismatch PASSED [ 47%]\ntests/unit/test_consensus_score.py::TestOrientationPenalty::test_calculate_orientation_penalty_no_orientation PASSED [ 52%]\ntests/unit/test_consensus_score.py::TestSingleVariationScoring::test_score_single_variation_basic PASSED [ 57%]\ntests/unit/test_consensus_score.py::TestSingleVariationScoring::test_score_single_variation_with_context PASSED [ 63%]\ntests/unit/test_consensus_score.py::TestSingleVariationScoring::test_score_single_variation_poor_quality PASSED [ 68%]\ntests/unit/test_consensus_score.py::TestVariationRanking::test_rank_variations_by_score PASSED [ 73%]\ntests/unit/test_consensus_score.py::TestScoringStatistics::test_get_scoring_statistics_basic PASSED [ 78%]\ntests/unit/test_consensus_score.py::TestScoringStatistics::test_get_scoring_statistics_empty PASSED [ 84%]\ntests/unit/test_consensus_score.py::TestRealPDFIntegration::test_score_educational_content PASSED [ 89%]\ntests/unit/test_consensus_score.py::TestRealPDFIntegration::test_score_standards_document_text PASSED [ 94%]\ntests/unit/test_consensus_score.py::TestRealPDFIntegration::test_score_ocr_errors PASSED [100%]\n\n============================= 19 passed in 0.38s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_consensus_scoring.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 88: unterminated string literal (detected at line 88)",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_consistency_integration.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 34: unterminated string literal (detected at line 34)",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_analytics_dashboard.py",
+        "status": "passed",
+        "duration": 13.830812931060791,
+        "error": "",
+        "tests_run": 9,
+        "tests_passed": 9,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 9 items\n\ntests/unit/test_analytics_dashboard.py::TestAnalyticsDashboard::test_create_performance_dashboard_real_metrics PASSED [ 11%]\ntests/unit/test_analytics_dashboard.py::TestAnalyticsDashboardEdgeCases::test_create_performance_dashboard_no_data PASSED [ 22%]\ntests/unit/test_analytics_dashboard.py::TestAnalyticsDashboardEdgeCases::test_create_quality_dashboard_no_data PASSED [ 33%]\ntests/unit/test_analytics_dashboard.py::TestAnalyticsDashboardEdgeCases::test_create_optimization_dashboard_no_data PASSED [ 44%]\ntests/unit/test_analytics_dashboard.py::TestAnalyticsDashboardEdgeCases::test_performance_level_ratings PASSED [ 55%]\ntests/unit/test_analytics_dashboard.py::TestAnalyticsDashboardEdgeCases::test_rate_performance_different_metrics PASSED [ 66%]\ntests/unit/test_analytics_dashboard.py::TestAnalyticsDashboardEdgeCases::test_improvement_potential_descriptions PASSED [ 77%]\ntests/unit/test_analytics_dashboard.py::TestAnalyticsDashboardConvenienceFunctions::test_create_performance_dashboard_convenience_function PASSED [ 88%]\ntests/unit/test_analytics_dashboard.py::TestAnalyticsDashboardConvenienceFunctions::test_create_quality_dashboard_convenience_function PASSED [100%]\n\n============================== warnings summary ===============================\n<frozen importlib._bootstrap>:488\n<frozen importlib._bootstrap>:488\n  <frozen importlib._bootstrap>:488: DeprecationWarning: builtin type SwigPyPacked has no __module__ attribute\n\n<frozen importlib._bootstrap>:488\n<frozen importlib._bootstrap>:488\n  <frozen importlib._bootstrap>:488: DeprecationWarning: builtin type SwigPyObject has no __module__ attribute\n\n<frozen importlib._bootstrap>:488\n  <frozen importlib._bootstrap>:488: DeprecationWarning: builtin type swigvarlink has no __module__ attribute\n\n.venv\\Lib\\site-packages\\docling_core\\types\\doc\\document.py:5532\n  C:\\Projects\\PDFConcensus\\.venv\\Lib\\site-packages\\docling_core\\types\\doc\\document.py:5532: PydanticDeprecatedSince212: Using `@model_validator` with mode='after' on a classmethod is deprecated. Instead, use an instance method. See the documentation at https://docs.pydantic.dev/2.12/concepts/validators/#model-after-validator. Deprecated in Pydantic V2.12 to be removed in V3.0.\n    @model_validator(mode=\"after\")  # type: ignore\n\n-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html\n======================= 9 passed, 6 warnings in 10.94s ========================\n"
+      },
+      {
+        "file": "tests\\unit\\test_coverage_tracker.py",
+        "status": "passed",
+        "duration": 0.9276473522186279,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_coverage_tracker.py::TestCoverageTracker::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.12s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_dashboard.py",
+        "status": "passed",
+        "duration": 0.9055368900299072,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_dashboard.py::TestDashboard::test_module_exists PASSED   [100%]\n\n============================== 1 passed in 0.13s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_docling_engine.py",
+        "status": "passed",
+        "duration": 0.9035296440124512,
+        "error": "",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_docling_engine.py::TestDoclingEngine::test_module_exists SKIPPED [100%]\n\n============================= 1 skipped in 0.12s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_dual_output_processor.py",
+        "status": "passed",
+        "duration": 0.9303057193756104,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_dual_output_processor.py::TestDualOutputProcessor::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.13s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_dynamic_reprocessor.py",
+        "status": "passed",
+        "duration": 0.9483335018157959,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_dynamic_reprocessor.py::TestDynamicReprocessor::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.14s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_engine_analytics.py",
+        "status": "passed",
+        "duration": 0.9325473308563232,
+        "error": "",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_engine_analytics.py::TestEngineAnalytics::test_module_exists SKIPPED [100%]\n\n============================= 1 skipped in 0.12s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_engine_configuration.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 211: unterminated string literal (detected at line 211)",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_engine_config.py",
+        "status": "failed",
+        "duration": 1.0512096881866455,
+        "error": "",
+        "tests_run": 3,
+        "tests_passed": 0,
+        "tests_failed": 3,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 0 items / 1 error\n\n=================================== ERRORS ====================================\n______________ ERROR collecting tests/unit/test_engine_config.py ______________\nImportError while importing test module 'C:\\Projects\\PDFConcensus\\tests\\unit\\test_engine_config.py'.\nHint: make sure your test modules/packages have valid Python names.\nTraceback:\nC:\\Program Files\\Python312\\Lib\\importlib\\__init__.py:90: in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\ntests\\unit\\test_engine_config.py:12: in <module>\n    from compareblocks.config.engine_config import EngineConfig\nE   ImportError: cannot import name 'EngineConfig' from 'compareblocks.config.engine_config' (C:\\Projects\\PDFConcensus\\src\\compareblocks\\config\\engine_config.py)\n=========================== short test summary info ===========================\nERROR tests/unit/test_engine_config.py\n!!!!!!!!!!!!!!!!!!! Interrupted: 1 error during collection !!!!!!!!!!!!!!!!!!!!\n============================== 1 error in 0.27s ===============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_engine_validation_system.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 229: expected ':'",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_engine_validator.py",
+        "status": "passed",
+        "duration": 0.9138476848602295,
+        "error": "",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_engine_validator.py::TestEngineValidator::test_module_exists SKIPPED [100%]\n\n============================= 1 skipped in 0.13s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_enginesmupdf_engine.py",
+        "status": "passed",
+        "duration": 0.9354894161224365,
+        "error": "",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_enginesmupdf_engine.py::TestEnginesmupdfEngine::test_module_exists SKIPPED [100%]\n\n============================= 1 skipped in 0.14s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_enhanced_catalog_fields.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 67: unmatched '}'",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_enhanced_character_combination.py",
+        "status": "passed",
+        "duration": 1.0653038024902344,
+        "error": "",
+        "tests_run": 7,
+        "tests_passed": 7,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 7 items\n\ntests/unit/test_enhanced_character_combination.py::TestEnhancedCharacterCombination::test_sequential_character_detection PASSED [ 14%]\ntests/unit/test_enhanced_character_combination.py::TestEnhancedCharacterCombination::test_word_boundary_character_analysis PASSED [ 28%]\ntests/unit/test_enhanced_character_combination.py::TestEnhancedCharacterCombination::test_relaxed_spatial_character_matching PASSED [ 42%]\ntests/unit/test_enhanced_character_combination.py::TestEnhancedCharacterCombination::test_sequence_proximity_calculation PASSED [ 57%]\ntests/unit/test_enhanced_character_combination.py::TestEnhancedCharacterCombination::test_enhanced_character_combination_integration PASSED [ 71%]\ntests/unit/test_enhanced_character_combination.py::TestEnhancedCharacterCombination::test_enhanced_spatial_coherence PASSED [ 85%]\ntests/unit/test_enhanced_character_combination.py::TestEnhancedCharacterCombination::test_fallback_strategy_order PASSED [100%]\n\n============================== 7 passed in 0.29s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_enhanced_engine_configuration.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 20: invalid syntax",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_enhanced_ndjson_output.py",
+        "status": "failed",
+        "duration": 0.8086822032928467,
+        "error": "",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 0 items\n\n============================ no tests ran in 0.06s ============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_export.py",
+        "status": "passed",
+        "duration": 0.9018795490264893,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_export.py::TestExport::test_module_exists PASSED         [100%]\n\n============================== 1 passed in 0.13s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_extraction_engines.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 107: unterminated string literal (detected at line 107)",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_features_anomalies.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 73: invalid syntax",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_features_context.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 190: invalid syntax",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_features_language.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 250: invalid syntax",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_features_lengths.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 171: unterminated string literal (detected at line 171)",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_file_manager.py",
+        "status": "passed",
+        "duration": 0.9295246601104736,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_file_manager.py::TestFileManager::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.13s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_full_pdf_processing_requirement.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 38: invalid syntax",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_function_catalog_validation.py",
+        "status": "failed",
+        "duration": 1.1788523197174072,
+        "error": "",
+        "tests_run": 3,
+        "tests_passed": 0,
+        "tests_failed": 3,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 0 items / 1 error\n\n=================================== ERRORS ====================================\n_______ ERROR collecting tests/unit/test_function_catalog_validation.py _______\n.venv\\Lib\\site-packages\\_pytest\\python.py:498: in importtestmodule\n    mod = import_path(\n.venv\\Lib\\site-packages\\_pytest\\pathlib.py:587: in import_path\n    importlib.import_module(module_name)\nC:\\Program Files\\Python312\\Lib\\importlib\\__init__.py:90: in import_module\n    return _bootstrap._gcd_import(name[level:], package, level)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n<frozen importlib._bootstrap>:1387: in _gcd_import\n    ???\n<frozen importlib._bootstrap>:1360: in _find_and_load\n    ???\n<frozen importlib._bootstrap>:1331: in _find_and_load_unlocked\n    ???\n<frozen importlib._bootstrap>:935: in _load_unlocked\n    ???\n.venv\\Lib\\site-packages\\_pytest\\assertion\\rewrite.py:186: in exec_module\n    exec(co, module.__dict__)\ntests\\unit\\test_function_catalog_validation.py:16: in <module>\n    import validate_function_catalog\nvalidate_function_catalog.py:18: in <module>\n    from adhoc.test_function_catalog_default_file_validation import run_adhoc_validation\n<frozen importlib._bootstrap>:1360: in _find_and_load\n    ???\n<frozen importlib._bootstrap>:1331: in _find_and_load_unlocked\n    ???\n<frozen importlib._bootstrap>:935: in _load_unlocked\n    ???\n.venv\\Lib\\site-packages\\_pytest\\assertion\\rewrite.py:177: in exec_module\n    source_stat, co = _rewrite_test(fn, self.config)\n                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n.venv\\Lib\\site-packages\\_pytest\\assertion\\rewrite.py:357: in _rewrite_test\n    tree = ast.parse(source, filename=strfn)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nC:\\Program Files\\Python312\\Lib\\ast.py:52: in parse\n    return compile(source, filename, mode, flags,\nE     File \"C:\\Projects\\PDFConcensus\\tests\\adhoc\\test_function_catalog_default_file_validation.py\", line 32\nE       from compareblocks.consensus.score import ConsensusScorer\nE       ^^^^\nE   SyntaxError: invalid syntax\n=========================== short test summary info ===========================\nERROR tests/unit/test_function_catalog_validation.py\n!!!!!!!!!!!!!!!!!!! Interrupted: 1 error during collection !!!!!!!!!!!!!!!!!!!!\n============================== 1 error in 0.37s ===============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_function_discovery.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 71: unterminated string literal (detected at line 71)",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_functions_analyze_project_test_coverage.py",
+        "status": "passed",
+        "duration": 0.921083927154541,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_functions_analyze_project_test_coverage.py::TestFunctionsAnalyzeProjectCoverage::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.13s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_functions_detect_missing_functions.py",
+        "status": "passed",
+        "duration": 0.9479279518127441,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_functions_detect_missing_functions.py::TestFunctionsDetectMissingFunctions::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.14s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_functions_enhance_catalog_fields.py",
+        "status": "passed",
+        "duration": 0.9508993625640869,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_functions_enhance_catalog_fields.py::TestFunctionsEnhanceCatalogFields::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.13s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_functions_validate_catalog.py",
+        "status": "passed",
+        "duration": 0.907097578048706,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_functions_validate_catalog.py::TestFunctionsValidateCatalog::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.13s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_functions_visual_ocr_testing_functions.py",
+        "status": "passed",
+        "duration": 1.0035898685455322,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_functions_visual_ocr_testing_functions.py::TestFunctionsVisualOcrTestingFunctions::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.14s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_engine_processing.py",
+        "status": "passed",
+        "duration": 13.310451984405518,
+        "error": "",
+        "tests_run": 7,
+        "tests_passed": 7,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 8 items\n\ntests/unit/test_engine_processing.py::TestMainFunction::test_main_list_engines PASSED [ 12%]\ntests/unit/test_engine_processing.py::TestMainFunction::test_main_process_all_engines_success PASSED [ 25%]\ntests/unit/test_engine_processing.py::TestMainFunction::test_main_process_specific_engines PASSED [ 37%]\ntests/unit/test_engine_processing.py::TestMainFunction::test_main_process_failure PASSED [ 50%]\ntests/unit/test_engine_processing.py::TestMainFunction::test_main_exception_handling PASSED [ 62%]\ntests/unit/test_engine_processing.py::TestMainFunction::test_main_compare_configurations_not_implemented PASSED [ 75%]\ntests/unit/test_engine_processing.py::TestArgumentParsing::test_argument_parser_creation SKIPPED [ 87%]\ntests/unit/test_engine_processing.py::TestIntegrationWithProcessor::test_processor_initialization_with_overwrite_mode PASSED [100%]\n\n============================== warnings summary ===============================\n<frozen importlib._bootstrap>:488\n<frozen importlib._bootstrap>:488\n  <frozen importlib._bootstrap>:488: DeprecationWarning: builtin type SwigPyPacked has no __module__ attribute\n\n<frozen importlib._bootstrap>:488\n<frozen importlib._bootstrap>:488\n  <frozen importlib._bootstrap>:488: DeprecationWarning: builtin type SwigPyObject has no __module__ attribute\n\n<frozen importlib._bootstrap>:488\n  <frozen importlib._bootstrap>:488: DeprecationWarning: builtin type swigvarlink has no __module__ attribute\n\n.venv\\Lib\\site-packages\\docling_core\\types\\doc\\document.py:5532\n  C:\\Projects\\PDFConcensus\\.venv\\Lib\\site-packages\\docling_core\\types\\doc\\document.py:5532: PydanticDeprecatedSince212: Using `@model_validator` with mode='after' on a classmethod is deprecated. Instead, use an instance method. See the documentation at https://docs.pydantic.dev/2.12/concepts/validators/#model-after-validator. Deprecated in Pydantic V2.12 to be removed in V3.0.\n    @model_validator(mode=\"after\")  # type: ignore\n\ntests/unit/test_engine_processing.py::TestMainFunction::test_main_compare_configurations_not_implemented\n  C:\\Projects\\PDFConcensus\\src\\compareblocks\\engines\\paddleocr_engine.py:68: DeprecationWarning: The parameter `use_angle_cls` has been deprecated and will be removed in the future. Please use `use_textline_orientation` instead.\n    self._ocr_engine = PaddleOCR(\n\n-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html\n================== 7 passed, 1 skipped, 7 warnings in 10.75s ==================\nsys:1: DeprecationWarning: builtin type swigvarlink has no __module__ attribute\n"
+      },
+      {
+        "file": "tests\\unit\\test_gbg_integrated_processor.py",
+        "status": "passed",
+        "duration": 0.9007797241210938,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_gbg_integrated_processor.py::TestGbgIntegratedProcessor::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.13s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_gui_debugger_enhancement.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 293: unterminated string literal (detected at line 293)",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_handlers.py",
+        "status": "passed",
+        "duration": 0.9232456684112549,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_handlers.py::TestHandlers::test_module_exists PASSED     [100%]\n\n============================== 1 passed in 0.13s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_image_extractor.py",
+        "status": "passed",
+        "duration": 0.9151487350463867,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_image_extractor.py::TestImageExtractor::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.12s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_image_ignore_configuration.py",
+        "status": "passed",
+        "duration": 1.239898443222046,
+        "error": "",
+        "tests_run": 6,
+        "tests_passed": 6,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 6 items\n\ntests/unit/test_image_ignore_configuration.py::TestImageIgnoreConfiguration::test_default_image_ignore_setting PASSED [ 16%]\ntests/unit/test_image_ignore_configuration.py::TestImageIgnoreConfiguration::test_image_block_detection PASSED [ 33%]\ntests/unit/test_image_ignore_configuration.py::TestImageIgnoreConfiguration::test_image_handling_config PASSED [ 50%]\ntests/unit/test_image_ignore_configuration.py::TestImageIgnoreConfiguration::test_config_summary_includes_image_handling PASSED [ 66%]\ntests/unit/test_image_ignore_configuration.py::TestImageIgnoreConfiguration::test_pymupdf_matcher_filters_images PASSED [ 83%]\ntests/unit/test_image_ignore_configuration.py::TestImageIgnoreConfiguration::test_image_filtering_reduces_unmapped_blocks PASSED [100%]\n\n============================== warnings summary ===============================\ntests/unit/test_image_ignore_configuration.py::TestImageIgnoreConfiguration::test_config_summary_includes_image_handling\ntests/unit/test_image_ignore_configuration.py::TestImageIgnoreConfiguration::test_config_summary_includes_image_handling\n  <frozen importlib._bootstrap>:488: DeprecationWarning: builtin type SwigPyPacked has no __module__ attribute\n\ntests/unit/test_image_ignore_configuration.py::TestImageIgnoreConfiguration::test_config_summary_includes_image_handling\ntests/unit/test_image_ignore_configuration.py::TestImageIgnoreConfiguration::test_config_summary_includes_image_handling\n  <frozen importlib._bootstrap>:488: DeprecationWarning: builtin type SwigPyObject has no __module__ attribute\n\ntests/unit/test_image_ignore_configuration.py::TestImageIgnoreConfiguration::test_config_summary_includes_image_handling\n  <frozen importlib._bootstrap>:488: DeprecationWarning: builtin type swigvarlink has no __module__ attribute\n\n-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html\n======================== 6 passed, 5 warnings in 0.38s ========================\nsys:1: DeprecationWarning: builtin type swigvarlink has no __module__ attribute\n"
+      },
+      {
+        "file": "tests\\unit\\test_immutable_runners.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 174: invalid syntax",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_integrated_processor.py",
+        "status": "passed",
+        "duration": 0.8901097774505615,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_integrated_processor.py::TestIntegratedProcessor::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.12s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_io_validation.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 15: invalid syntax",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_io_validation_real.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 105: unterminated string literal (detected at line 105)",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_issue_analysis.py",
+        "status": "failed",
+        "duration": 1.1507070064544678,
+        "error": "",
+        "tests_run": 13,
+        "tests_passed": 5,
+        "tests_failed": 8,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 9 items\n\ntests/unit/test_issue_analysis.py::TestShowRemainingIssues::test_show_remaining_issues_success FAILED [ 11%]\ntests/unit/test_issue_analysis.py::TestShowRemainingIssues::test_show_remaining_issues_similarity_analysis FAILED [ 22%]\ntests/unit/test_issue_analysis.py::TestShowRemainingIssues::test_show_remaining_issues_unmapped_blocks_grouping FAILED [ 33%]\ntests/unit/test_issue_analysis.py::TestShowRemainingIssues::test_show_remaining_issues_file_not_found PASSED [ 44%]\ntests/unit/test_issue_analysis.py::TestShowRemainingIssues::test_show_remaining_issues_invalid_json PASSED [ 55%]\ntests/unit/test_issue_analysis.py::TestShowRemainingIssues::test_show_remaining_issues_empty_associations FAILED [ 66%]\ntests/unit/test_issue_analysis.py::TestIssueAnalysisHelpers::test_character_difference_detection PASSED [ 77%]\ntests/unit/test_issue_analysis.py::TestIssueAnalysisHelpers::test_spacing_difference_detection PASSED [ 88%]\ntests/unit/test_issue_analysis.py::TestIssueAnalysisHelpers::test_case_difference_detection PASSED [100%]\n\n================================== FAILURES ===================================\n_________ TestShowRemainingIssues.test_show_remaining_issues_success __________\ntests\\unit\\test_issue_analysis.py:123: in test_show_remaining_issues_success\n    show_remaining_issues.show_remaining_issues()\nshow_remaining_issues.py:16: in show_remaining_issues\n    gbg_data = json.load(f)\n               ^^^^^^^^^^^^\nC:\\Program Files\\Python312\\Lib\\json\\__init__.py:293: in load\n    return loads(fp.read(),\nC:\\Program Files\\Python312\\Lib\\json\\__init__.py:346: in loads\n    return _default_decoder.decode(s)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^\nC:\\Program Files\\Python312\\Lib\\json\\decoder.py:337: in decode\n    obj, end = self.raw_decode(s, idx=_w(s, 0).end())\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nC:\\Program Files\\Python312\\Lib\\json\\decoder.py:355: in raw_decode\n    raise JSONDecodeError(\"Expecting value\", s, err.value) from None\nE   json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)\n___ TestShowRemainingIssues.test_show_remaining_issues_similarity_analysis ____\ntests\\unit\\test_issue_analysis.py:168: in test_show_remaining_issues_similarity_analysis\n    show_remaining_issues.show_remaining_issues()\nshow_remaining_issues.py:16: in show_remaining_issues\n    gbg_data = json.load(f)\n               ^^^^^^^^^^^^\nC:\\Program Files\\Python312\\Lib\\json\\__init__.py:293: in load\n    return loads(fp.read(),\nC:\\Program Files\\Python312\\Lib\\json\\__init__.py:346: in loads\n    return _default_decoder.decode(s)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^\nC:\\Program Files\\Python312\\Lib\\json\\decoder.py:337: in decode\n    obj, end = self.raw_decode(s, idx=_w(s, 0).end())\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nC:\\Program Files\\Python312\\Lib\\json\\decoder.py:355: in raw_decode\n    raise JSONDecodeError(\"Expecting value\", s, err.value) from None\nE   json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)\n_ TestShowRemainingIssues.test_show_remaining_issues_unmapped_blocks_grouping _\ntests\\unit\\test_issue_analysis.py:205: in test_show_remaining_issues_unmapped_blocks_grouping\n    show_remaining_issues.show_remaining_issues()\nshow_remaining_issues.py:16: in show_remaining_issues\n    gbg_data = json.load(f)\n               ^^^^^^^^^^^^\nC:\\Program Files\\Python312\\Lib\\json\\__init__.py:293: in load\n    return loads(fp.read(),\nC:\\Program Files\\Python312\\Lib\\json\\__init__.py:346: in loads\n    return _default_decoder.decode(s)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^\nC:\\Program Files\\Python312\\Lib\\json\\decoder.py:337: in decode\n    obj, end = self.raw_decode(s, idx=_w(s, 0).end())\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nC:\\Program Files\\Python312\\Lib\\json\\decoder.py:355: in raw_decode\n    raise JSONDecodeError(\"Expecting value\", s, err.value) from None\nE   json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)\n____ TestShowRemainingIssues.test_show_remaining_issues_empty_associations ____\ntests\\unit\\test_issue_analysis.py:272: in test_show_remaining_issues_empty_associations\n    show_remaining_issues.show_remaining_issues()\nshow_remaining_issues.py:16: in show_remaining_issues\n    gbg_data = json.load(f)\n               ^^^^^^^^^^^^\nC:\\Program Files\\Python312\\Lib\\json\\__init__.py:293: in load\n    return loads(fp.read(),\nC:\\Program Files\\Python312\\Lib\\json\\__init__.py:346: in loads\n    return _default_decoder.decode(s)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^\nC:\\Program Files\\Python312\\Lib\\json\\decoder.py:337: in decode\n    obj, end = self.raw_decode(s, idx=_w(s, 0).end())\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nC:\\Program Files\\Python312\\Lib\\json\\decoder.py:355: in raw_decode\n    raise JSONDecodeError(\"Expecting value\", s, err.value) from None\nE   json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)\n=========================== short test summary info ===========================\nFAILED tests/unit/test_issue_analysis.py::TestShowRemainingIssues::test_show_remaining_issues_success\nFAILED tests/unit/test_issue_analysis.py::TestShowRemainingIssues::test_show_remaining_issues_similarity_analysis\nFAILED tests/unit/test_issue_analysis.py::TestShowRemainingIssues::test_show_remaining_issues_unmapped_blocks_grouping\nFAILED tests/unit/test_issue_analysis.py::TestShowRemainingIssues::test_show_remaining_issues_empty_associations\n========================= 4 failed, 5 passed in 0.36s =========================\n"
+      },
+      {
+        "file": "tests\\unit\\test_kreuzberg_engine.py",
+        "status": "passed",
+        "duration": 0.9364223480224609,
+        "error": "",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_kreuzberg_engine.py::TestKreuzbergEngine::test_module_exists SKIPPED [100%]\n\n============================= 1 skipped in 0.13s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_manager.py",
+        "status": "passed",
+        "duration": 0.9324362277984619,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_manager.py::TestManager::test_module_exists PASSED       [100%]\n\n============================== 1 passed in 0.14s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_mapping_iou.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 368: invalid syntax",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_mcp_handlers.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 33: f-string: expecting '=', or '!', or ':', or '}'",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_mcp_protocol.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 112: unterminated string literal (detected at line 112)",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_mcp_test_runner.py",
+        "status": "passed",
+        "duration": 0.9748358726501465,
+        "error": "",
+        "tests_run": 14,
+        "tests_passed": 14,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 14 items\n\ntests/unit/test_mcp_test_runner.py::TestRunMCPTests::test_run_mcp_tests_success PASSED [  7%]\ntests/unit/test_mcp_test_runner.py::TestRunMCPTests::test_run_mcp_tests_failure PASSED [ 14%]\ntests/unit/test_mcp_test_runner.py::TestRunMCPTests::test_run_mcp_tests_command_structure PASSED [ 21%]\ntests/unit/test_mcp_test_runner.py::TestRunMCPTests::test_run_mcp_tests_output_capture PASSED [ 28%]\ntests/unit/test_mcp_test_runner.py::TestRunMCPTests::test_run_mcp_tests_command_display PASSED [ 35%]\ntests/unit/test_mcp_test_runner.py::TestMCPTestConfiguration::test_mcp_test_files_exist PASSED [ 42%]\ntests/unit/test_mcp_test_runner.py::TestMCPTestConfiguration::test_mcp_source_directory_exists PASSED [ 50%]\ntests/unit/test_mcp_test_runner.py::TestMCPTestIntegration::test_run_mcp_tests_subprocess_call_parameters PASSED [ 57%]\ntests/unit/test_mcp_test_runner.py::TestMCPTestIntegration::test_mcp_test_runner_module_structure PASSED [ 64%]\ntests/unit/test_mcp_test_runner.py::TestMCPTestIntegration::test_mcp_test_runner_docstring PASSED [ 71%]\ntests/unit/test_mcp_test_runner.py::TestErrorHandling::test_run_mcp_tests_various_return_codes PASSED [ 78%]\ntests/unit/test_mcp_test_runner.py::TestErrorHandling::test_run_mcp_tests_subprocess_exception PASSED [ 85%]\ntests/unit/test_mcp_test_runner.py::TestCoverageConfiguration::test_coverage_options_complete PASSED [ 92%]\ntests/unit/test_mcp_test_runner.py::TestCoverageConfiguration::test_coverage_directory_structure PASSED [100%]\n\n============================= 14 passed in 0.16s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_mcp_validation.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 32: invalid syntax",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_missing_function_detection.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 66: unterminated string literal (detected at line 66)",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_ndjson_io.py",
+        "status": "passed",
+        "duration": 1.0199031829833984,
+        "error": "",
+        "tests_run": 4,
+        "tests_passed": 4,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 4 items\n\ntests/unit/test_ndjson_io.py::test_load_and_roundtrip PASSED             [ 25%]\ntests/unit/test_ndjson_io.py::test_missing_required_field_raises PASSED  [ 50%]\ntests/unit/test_ndjson_io.py::test_requires_block_id_or_bbox PASSED      [ 75%]\ntests/unit/test_ndjson_io.py::test_bbox_must_be_four_numbers PASSED      [100%]\n\n============================== 4 passed in 0.22s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_normalization.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 275: invalid syntax",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_ocr_optimization.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 43: unterminated string literal (detected at line 43)",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_optimize_tesseract_for_clear_text.py",
+        "status": "passed",
+        "duration": 0.943838357925415,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_optimize_tesseract_for_clear_text.py::TestOptimizeTesseractForClearText::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.14s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_gbg_guided_tesseract_engine.py",
+        "status": "passed",
+        "duration": 12.898811340332031,
+        "error": "",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_gbg_guided_tesseract_engine.py::TestGbgGuidedTesseractEngine::test_module_exists SKIPPED [100%]\n\n============================== warnings summary ===============================\n<frozen importlib._bootstrap>:488\n<frozen importlib._bootstrap>:488\n  <frozen importlib._bootstrap>:488: DeprecationWarning: builtin type SwigPyPacked has no __module__ attribute\n\n<frozen importlib._bootstrap>:488\n<frozen importlib._bootstrap>:488\n  <frozen importlib._bootstrap>:488: DeprecationWarning: builtin type SwigPyObject has no __module__ attribute\n\n<frozen importlib._bootstrap>:488\n  <frozen importlib._bootstrap>:488: DeprecationWarning: builtin type swigvarlink has no __module__ attribute\n\n.venv\\Lib\\site-packages\\docling_core\\types\\doc\\document.py:5532\n  C:\\Projects\\PDFConcensus\\.venv\\Lib\\site-packages\\docling_core\\types\\doc\\document.py:5532: PydanticDeprecatedSince212: Using `@model_validator` with mode='after' on a classmethod is deprecated. Instead, use an instance method. See the documentation at https://docs.pydantic.dev/2.12/concepts/validators/#model-after-validator. Deprecated in Pydantic V2.12 to be removed in V3.0.\n    @model_validator(mode=\"after\")  # type: ignore\n\n-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html\n======================= 1 skipped, 6 warnings in 10.34s =======================\n"
+      },
+      {
+        "file": "tests\\unit\\test_paddleocr_engine.py",
+        "status": "passed",
+        "duration": 0.9299101829528809,
+        "error": "",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_paddleocr_engine.py::TestPaddleocrEngine::test_module_exists SKIPPED [100%]\n\n============================= 1 skipped in 0.13s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_pdf_metadata.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 155: unterminated string literal (detected at line 155)",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_parsers.py",
+        "status": "passed",
+        "duration": 0.9032294750213623,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_parsers.py::TestParsers::test_module_exists PASSED       [100%]\n\n============================== 1 passed in 0.12s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_prd_spec.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 46: invalid syntax",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_project_analysis.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 153: invalid syntax",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_project_manager.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 291: unterminated string literal (detected at line 291)",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_performance_tracker.py",
+        "status": "passed",
+        "duration": 0.9064340591430664,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_performance_tracker.py::TestPerformanceTracker::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.13s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_project_structure.py",
+        "status": "passed",
+        "duration": 0.916428804397583,
+        "error": "",
+        "tests_run": 6,
+        "tests_passed": 6,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 6 items\n\ntests/unit/test_project_structure.py::TestProjectStructure::test_src_package_structure PASSED [ 16%]\ntests/unit/test_project_structure.py::TestProjectStructure::test_test_structure PASSED [ 33%]\ntests/unit/test_project_structure.py::TestProjectStructure::test_main_package_import PASSED [ 50%]\ntests/unit/test_project_structure.py::TestProjectStructure::test_immutable_runners_exist PASSED [ 66%]\ntests/unit/test_project_structure.py::TestProjectStructure::test_pyproject_toml_exists PASSED [ 83%]\ntests/unit/test_project_structure.py::TestProjectStructure::test_file_path_comments PASSED [100%]\n\n============================== 6 passed in 0.13s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_pymupdf_matcher.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 20: unterminated string literal (detected at line 20)",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_protocol.py",
+        "status": "passed",
+        "duration": 0.9018027782440186,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_protocol.py::TestProtocol::test_module_exists PASSED     [100%]\n\n============================== 1 passed in 0.13s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_report_generator.py",
+        "status": "passed",
+        "duration": 0.9203493595123291,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_report_generator.py::TestReportGenerator::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.13s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_server.py",
+        "status": "passed",
+        "duration": 0.9429452419281006,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_server.py::TestServer::test_module_exists PASSED         [100%]\n\n============================== 1 passed in 0.13s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_src_functions_analyze_project_test_coverage.py",
+        "status": "passed",
+        "duration": 0.9040706157684326,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_src_functions_analyze_project_test_coverage.py::TestSrcFunctionsAnalyzeProjectCoverage::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.13s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_setup_validation.py",
+        "status": "passed",
+        "duration": 2.578514337539673,
+        "error": "",
+        "tests_run": 22,
+        "tests_passed": 22,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 22 items\n\ntests/unit/test_setup_validation.py::TestPythonVersionCheck::test_check_python_version_valid PASSED [  4%]\ntests/unit/test_setup_validation.py::TestPythonVersionCheck::test_check_python_version_invalid PASSED [  9%]\ntests/unit/test_setup_validation.py::TestPythonVersionCheck::test_check_python_version_newer PASSED [ 13%]\ntests/unit/test_setup_validation.py::TestVirtualEnvironmentCheck::test_check_virtual_environment_exists_and_active PASSED [ 18%]\ntests/unit/test_setup_validation.py::TestVirtualEnvironmentCheck::test_check_virtual_environment_not_exists PASSED [ 22%]\ntests/unit/test_setup_validation.py::TestVirtualEnvironmentCheck::test_check_virtual_environment_exists_not_active PASSED [ 27%]\ntests/unit/test_setup_validation.py::TestPackageStructureCheck::test_check_package_structure_all_exist PASSED [ 31%]\ntests/unit/test_setup_validation.py::TestPackageStructureCheck::test_check_package_structure_some_missing PASSED [ 36%]\ntests/unit/test_setup_validation.py::TestImmutableRunnersCheck::test_check_immutable_runners_exist PASSED [ 40%]\ntests/unit/test_setup_validation.py::TestImmutableRunnersCheck::test_check_immutable_runners_missing PASSED [ 45%]\ntests/unit/test_setup_validation.py::TestDependenciesCheck::test_check_dependencies_all_available PASSED [ 50%]\ntests/unit/test_setup_validation.py::TestDependenciesCheck::test_check_dependencies_some_missing PASSED [ 54%]\ntests/unit/test_setup_validation.py::TestProjectFilesCheck::test_check_project_files_all_exist PASSED [ 59%]\ntests/unit/test_setup_validation.py::TestProjectFilesCheck::test_check_project_files_some_missing PASSED [ 63%]\ntests/unit/test_setup_validation.py::TestBasicTestsRun::test_run_basic_tests_success PASSED [ 68%]\ntests/unit/test_setup_validation.py::TestBasicTestsRun::test_run_basic_tests_failure PASSED [ 72%]\ntests/unit/test_setup_validation.py::TestBasicTestsRun::test_run_basic_tests_exception PASSED [ 77%]\ntests/unit/test_setup_validation.py::TestMainFunction::test_main_all_checks_pass PASSED [ 81%]\ntests/unit/test_setup_validation.py::TestMainFunction::test_main_some_checks_fail PASSED [ 86%]\ntests/unit/test_setup_validation.py::TestMainFunction::test_main_check_exception PASSED [ 90%]\ntests/unit/test_setup_validation.py::TestValidationIntegration::test_validation_checks_order PASSED [ 95%]\ntests/unit/test_setup_validation.py::TestValidationIntegration::test_validation_early_termination PASSED [100%]\n\n============================== warnings summary ===============================\ntests/unit/test_setup_validation.py::TestMainFunction::test_main_check_exception\ntests/unit/test_setup_validation.py::TestMainFunction::test_main_check_exception\n  <frozen importlib._bootstrap>:488: DeprecationWarning: builtin type SwigPyPacked has no __module__ attribute\n\ntests/unit/test_setup_validation.py::TestMainFunction::test_main_check_exception\ntests/unit/test_setup_validation.py::TestMainFunction::test_main_check_exception\n  <frozen importlib._bootstrap>:488: DeprecationWarning: builtin type SwigPyObject has no __module__ attribute\n\ntests/unit/test_setup_validation.py::TestMainFunction::test_main_check_exception\n  <frozen importlib._bootstrap>:488: DeprecationWarning: builtin type swigvarlink has no __module__ attribute\n\n-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html\n======================= 22 passed, 5 warnings in 1.60s ========================\nsys:1: DeprecationWarning: builtin type swigvarlink has no __module__ attribute\n"
+      },
+      {
+        "file": "tests\\unit\\test_tesseract_matcher.py",
+        "status": "passed",
+        "duration": 0.909959077835083,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_tesseract_matcher.py::TestTesseractMatcher::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.13s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_test_execution_tracker.py",
+        "status": "failed",
+        "duration": 1.6314849853515625,
+        "error": "",
+        "tests_run": 14,
+        "tests_passed": 10,
+        "tests_failed": 4,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 12 items\n\ntests/unit/test_test_execution_tracker.py::TestExecutionTrackerTests::test_test_result_creation PASSED [  8%]\ntests/unit/test_test_execution_tracker.py::TestExecutionTrackerTests::test_test_suite_result_creation PASSED [ 16%]\ntests/unit/test_test_execution_tracker.py::TestExecutionTrackerTests::test_tracker_initialization PASSED [ 25%]\ntests/unit/test_test_execution_tracker.py::TestExecutionTrackerTests::test_run_all_tests_success PASSED [ 33%]\ntests/unit/test_test_execution_tracker.py::TestExecutionTrackerTests::test_parse_pytest_results_empty FAILED [ 41%]\ntests/unit/test_test_execution_tracker.py::TestExecutionTrackerTests::test_parse_coverage_results_empty FAILED [ 50%]\ntests/unit/test_test_execution_tracker.py::TestExecutionTrackerTests::test_update_test_catalog_no_catalog PASSED [ 58%]\ntests/unit/test_test_execution_tracker.py::TestExecutionTrackerTests::test_save_execution_history PASSED [ 66%]\ntests/unit/test_test_execution_tracker.py::TestExecutionTrackerTests::test_run_all_tests_with_categories PASSED [ 75%]\ntests/unit/test_test_execution_tracker.py::TestExecutionTrackerTests::test_run_all_tests_cli_success PASSED [ 83%]\ntests/unit/test_test_execution_tracker.py::TestExecutionTrackerTests::test_run_all_tests_cli_failure PASSED [ 91%]\ntests/unit/test_test_execution_tracker.py::TestExecutionTrackerTests::test_catalog_attribute_initialization PASSED [100%]\n\n================================== FAILURES ===================================\n__________ TestExecutionTrackerTests.test_parse_pytest_results_empty __________\ntests\\unit\\test_test_execution_tracker.py:193: in test_parse_pytest_results_empty\n    assert results == []\nE   AssertionError: assert [ExecutionRes...+00:00'), ...] == []\nE     \nE     Left contains 39 more items, first extra item: ExecutionResult(test_name='test_src_package_structure', test_file='tests/unit/test_project_structure.py', status='passed', duration=0.0, error_message=None, timestamp='2025-10-31T09:31:53.110941+00:00')\nE     \nE     Full diff:\nE     - []\nE     + [\nE     +     ExecutionResult(...\nE     \nE     ...Full output truncated (368 lines hidden), use '-vv' to show\n---------------------------- Captured stdout call -----------------------------\n\\U0001f4ca Pytest collected 39 tests (total: 39)\n_________ TestExecutionTrackerTests.test_parse_coverage_results_empty _________\ntests\\unit\\test_test_execution_tracker.py:202: in test_parse_coverage_results_empty\n    assert coverage == {}\nE   AssertionError: assert {'files': {'s...: 10984, ...}} == {}\nE     \nE     Left contains 3 more items:\nE     {'files': {'src\\\\compareblocks\\\\__init__.py': {'classes': {'': {'excluded_lines': [],\nE                                                                     'executed_lines': [3,\nE                                                                                        7],\nE                                                                     'missing_lines': [],\nE                                                                     'summary': {'covered_lines': 1,...\nE     \nE     ...Full output truncated (95951 lines hidden), use '-vv' to show\n=========================== short test summary info ===========================\nFAILED tests/unit/test_test_execution_tracker.py::TestExecutionTrackerTests::test_parse_pytest_results_empty\nFAILED tests/unit/test_test_execution_tracker.py::TestExecutionTrackerTests::test_parse_coverage_results_empty\n======================== 2 failed, 10 passed in 0.84s =========================\n"
+      },
+      {
+        "file": "tests\\unit\\test_test_runner.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 86: expected ':'",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_validate_setup.py",
+        "status": "passed",
+        "duration": 0.8849649429321289,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_validate_setup.py::TestValidateSetup::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.12s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_validation.py",
+        "status": "passed",
+        "duration": 0.8720078468322754,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_validation.py::TestValidation::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.12s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_visual_ocr_functions.py",
+        "status": "syntax_error",
+        "duration": 0,
+        "error": "Line 45: invalid syntax",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0
+      },
+      {
+        "file": "tests\\unit\\test_visual_ocr_testing_tool.py",
+        "status": "passed",
+        "duration": 0.9089992046356201,
+        "error": "",
+        "tests_run": 1,
+        "tests_passed": 1,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_visual_ocr_testing_tool.py::TestVisualOcrTestingTool::test_module_exists PASSED [100%]\n\n============================== 1 passed in 0.12s ==============================\n"
+      },
+      {
+        "file": "tests\\unit\\test_tesseract_engine.py",
+        "status": "passed",
+        "duration": 12.62767219543457,
+        "error": "",
+        "tests_run": 0,
+        "tests_passed": 0,
+        "tests_failed": 0,
+        "output": "============================= test session starts =============================\nplatform win32 -- Python 3.12.3, pytest-8.4.2, pluggy-1.6.0 -- C:\\Projects\\PDFConcensus\\.venv\\Scripts\\python.exe\ncachedir: .pytest_cache\nmetadata: {'Python': '3.12.3', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '8.4.2', 'pluggy': '1.6.0'}, 'Plugins': {'anyio': '4.11.0', 'Faker': '37.12.0', 'asyncio': '1.2.0', 'cov': '7.0.0', 'json-report': '1.5.0', 'metadata': '3.1.1', 'qt': '4.5.0', 'xdist': '3.8.0'}, 'JAVA_HOME': 'C:\\\\Program Files\\\\Eclipse Adoptium\\\\jdk-21.0.6.7-hotspot'}\nPySide6 6.10.0 -- Qt runtime 6.10.0 -- Qt compiled 6.10.0\nrootdir: C:\\Projects\\PDFConcensus\nconfigfile: pytest.ini\nplugins: anyio-4.11.0, Faker-37.12.0, asyncio-1.2.0, cov-7.0.0, json-report-1.5.0, metadata-3.1.1, qt-4.5.0, xdist-3.8.0\nasyncio: mode=Mode.STRICT, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function\ncollecting ... collected 1 item\n\ntests/unit/test_tesseract_engine.py::TestTesseractEngine::test_module_exists SKIPPED [100%]\n\n============================== warnings summary ===============================\n<frozen importlib._bootstrap>:488\n<frozen importlib._bootstrap>:488\n  <frozen importlib._bootstrap>:488: DeprecationWarning: builtin type SwigPyPacked has no __module__ attribute\n\n<frozen importlib._bootstrap>:488\n<frozen importlib._bootstrap>:488\n  <frozen importlib._bootstrap>:488: DeprecationWarning: builtin type SwigPyObject has no __module__ attribute\n\n<frozen importlib._bootstrap>:488\n  <frozen importlib._bootstrap>:488: DeprecationWarning: builtin type swigvarlink has no __module__ attribute\n\n.venv\\Lib\\site-packages\\docling_core\\types\\doc\\document.py:5532\n  C:\\Projects\\PDFConcensus\\.venv\\Lib\\site-packages\\docling_core\\types\\doc\\document.py:5532: PydanticDeprecatedSince212: Using `@model_validator` with mode='after' on a classmethod is deprecated. Instead, use an instance method. See the documentation at https://docs.pydantic.dev/2.12/concepts/validators/#model-after-validator. Deprecated in Pydantic V2.12 to be removed in V3.0.\n    @model_validator(mode=\"after\")  # type: ignore\n\n-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html\n======================= 1 skipped, 6 warnings in 10.17s =======================\n"
+      }
+    ]
+  }
+}

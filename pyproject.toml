@@ -1,0 +1,170 @@
+# pyproject.toml
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "compareblocks"
+version = "0.1.0"
+description = "Blockwise Extraction Comparison & Review (BECR) System"
+readme = "README.md"
+requires-python = ">=3.12"
+license = {text = "MIT"}
+authors = [
+    {name = "BECR Development Team"}
+]
+keywords = ["pdf", "ocr", "text-extraction", "comparison", "review"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+    "Topic :: Text Processing :: General",
+]
+
+dependencies = [
+    # PDF processing
+    "PyMuPDF>=1.23.0",
+    
+    # Computer vision and image processing
+    "opencv-python>=4.8.0",
+    
+    # GUI framework
+    "PySide6>=6.6.0",
+    
+    # Testing framework
+    "pytest>=7.4.0",
+    "pytest-qt>=4.2.0",
+    "pytest-asyncio>=0.21.0",
+    
+    # Data validation and schema
+    "jsonschema>=4.19.0",
+    
+    # Text processing and language detection
+    "langdetect>=1.0.9",
+    "rapidfuzz>=3.5.0",
+    
+    # HTML and Markdown parsing for association files
+    "beautifulsoup4>=4.12.0",
+    "markdown>=3.5.0",
+    
+    # Data structures and utilities
+    "numpy>=1.24.0",
+    "pandas>=2.1.0",
+    
+    # Configuration and logging
+    "pydantic>=2.5.0",
+    "loguru>=0.7.0",
+    
+    # MCP integration
+    "websockets>=12.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "black>=23.0.0",
+    "isort>=5.12.0",
+    "flake8>=6.0.0",
+    "mypy>=1.7.0",
+    "pytest-cov>=4.1.0",
+    "pytest-xdist>=3.5.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/becr-system/compareblocks"
+Repository = "https://github.com/becr-system/compareblocks"
+Issues = "https://github.com/becr-system/compareblocks/issues"
+
+[project.scripts]
+becr = "compareblocks.gui.app:main"
+becr-test = "compareblocks.utils.test_runner:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+compareblocks = ["py.typed"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py", "*_test.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+addopts = [
+    "--strict-markers",
+    "--strict-config",
+    "--verbose",
+    "--tb=short",
+    "--cov=src/compareblocks",
+    "--cov-report=term-missing",
+    "--cov-report=html:htmlcov",
+    "--cov-fail-under=35",
+]
+markers = [
+    "unit: Unit tests for individual components",
+    "integration: Integration tests for workflows", 
+    "gui: GUI tests using pytest-qt",
+    "slow: Tests that take longer to run",
+]
+filterwarnings = [
+    # WARNING SUPPRESSION DOCUMENTATION: docs/warnings_suppressed.md
+    # When adding new suppressions, update the documentation file above
+    "error",
+    "ignore::UserWarning",
+    # Suppress all third-party library deprecation warnings that we cannot control
+    "ignore::DeprecationWarning:fitz.*",
+    "ignore::DeprecationWarning:docling.*", 
+    "ignore::DeprecationWarning:docling_core.*",
+    "ignore::DeprecationWarning:pydantic.*",
+    # Suppress SWIG-related warnings from PyMuPDF
+    "ignore:builtin type SwigPyPacked has no __module__ attribute:DeprecationWarning",
+    "ignore:builtin type SwigPyObject has no __module__ attribute:DeprecationWarning",
+    "ignore:builtin type swigvarlink has no __module__ attribute:DeprecationWarning",
+    # Suppress Pydantic/Docling warnings
+    "ignore:.*@model_validator.*deprecated.*:DeprecationWarning",
+    "ignore:ListItem parent must be a list group.*:DeprecationWarning",
+    # Allow our own deprecation warnings to show
+    "default::DeprecationWarning:compareblocks.*",
+    "default::DeprecationWarning:tests.*",
+]
+
+[tool.black]
+line-length = 88
+target-version = ['py312']
+include = '\.pyi?$'
+extend-exclude = '''
+/(
+  # directories
+  \.eggs
+  | \.git
+  | \.hg
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | build
+  | dist
+)/
+'''
+
+[tool.isort]
+profile = "black"
+multi_line_output = 3
+line_length = 88
+known_first_party = ["compareblocks"]
+
+[tool.mypy]
+python_version = "3.12"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = true
+disallow_incomplete_defs = true
+check_untyped_defs = true
+disallow_untyped_decorators = true
+no_implicit_optional = true
+warn_redundant_casts = true
+warn_unused_ignores = true
+warn_no_return = true
+warn_unreachable = true
+strict_equality = true

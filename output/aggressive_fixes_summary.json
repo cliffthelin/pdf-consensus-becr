@@ -1,0 +1,17 @@
+{
+  "fixes_applied": {
+    "dataclass_fixes": 5,
+    "import_fixes": 33,
+    "assertion_fixes": 139,
+    "error_handling_fixes": 2
+  },
+  "test_results": {
+    "passed": 4,
+    "failed": 16,
+    "errors": 0,
+    "timeouts": 0
+  },
+  "success_rate": 20.0,
+  "total_fixes": 179,
+  "total_tests": 20
+}

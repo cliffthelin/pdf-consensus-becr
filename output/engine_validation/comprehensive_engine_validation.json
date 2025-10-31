@@ -1,0 +1,556 @@
+{
+  "validation_timestamp": "2025-10-27 17:15:00",
+  "pdf_path": "C:\\Projects\\PDFConcensus\\Source_docs\\English Language Arts Standards\\-English Language Arts Standards.pdf",
+  "test_coverage": {
+    "pymupdf": {
+      "engine_name": "pymupdf",
+      "total_functions": 4,
+      "tested_functions": 22,
+      "untested_functions": [
+        "save_raw_pymupdf_extraction"
+      ],
+      "coverage_percentage": 550.0,
+      "test_files": [
+        "tests\\gui\\test_review_gui.py",
+        "tests\\integration\\test_improved_pymupdf_matching.py",
+        "tests\\unit\\test_advanced_engine_integration.py",
+        "tests\\unit\\test_dual_output_processor.py",
+        "tests\\unit\\test_engine_validation_system.py",
+        "tests\\unit\\test_extraction_engines.py",
+        "tests\\unit\\test_normalization.py",
+        "tests\\unit\\test_pdf_metadata.py"
+      ],
+      "function_tests": [
+        {
+          "function_name": "extract_pdf",
+          "module_name": "src.compareblocks.engines.pymupdf_engine",
+          "engine_name": "pymupdf",
+          "has_test": true,
+          "test_file_path": "tests\\unit\\test_engine_validation_system.py",
+          "test_function_name": "test_extract_pdf",
+          "parameters_tested": [],
+          "file_types_tested": [],
+          "last_test_run": null,
+          "test_success": null,
+          "performance_metrics": null
+        },
+        {
+          "function_name": "save_extraction",
+          "module_name": "src.compareblocks.engines.pymupdf_engine",
+          "engine_name": "pymupdf",
+          "has_test": true,
+          "test_file_path": "tests\\unit\\test_engine_validation_system.py",
+          "test_function_name": "test_save_extraction",
+          "parameters_tested": [],
+          "file_types_tested": [],
+          "last_test_run": null,
+          "test_success": null,
+          "performance_metrics": null
+        },
+        {
+          "function_name": "save_raw_pymupdf_extraction",
+          "module_name": "src.compareblocks.engines.pymupdf_engine",
+          "engine_name": "pymupdf",
+          "has_test": false,
+          "test_file_path": null,
+          "test_function_name": null,
+          "parameters_tested": [],
+          "file_types_tested": [],
+          "last_test_run": null,
+          "test_success": null,
+          "performance_metrics": null
+        },
+        {
+          "function_name": "extract_raw_pymupdf",
+          "module_name": "src.compareblocks.engines.pymupdf_engine",
+          "engine_name": "pymupdf",
+          "has_test": true,
+          "test_file_path": "tests\\unit\\test_engine_validation_system.py",
+          "test_function_name": "test_extract_raw_pymupdf",
+          "parameters_tested": [],
+          "file_types_tested": [],
+          "last_test_run": null,
+          "test_success": null,
+          "performance_metrics": null
+        }
+      ]
+    },
+    "tesseract": {
+      "engine_name": "tesseract",
+      "total_functions": 5,
+      "tested_functions": 23,
+      "untested_functions": [
+        "extract_tesseract_ocr",
+        "save_tesseract_extraction"
+      ],
+      "coverage_percentage": 459.99999999999994,
+      "test_files": [
+        "tests\\unit\\test_advanced_engine_integration.py",
+        "tests\\unit\\test_config_forms.py",
+        "tests\\unit\\test_dual_output_processor.py",
+        "tests\\unit\\test_engine_configuration.py",
+        "tests\\unit\\test_engine_validation_system.py",
+        "tests\\unit\\test_extraction_engines.py",
+        "tests\\unit\\test_io_validation.py",
+        "tests\\unit\\test_pdf_metadata.py",
+        "tests\\unit\\test_tesseract_matcher.py"
+      ],
+      "function_tests": [
+        {
+          "function_name": "save_extraction",
+          "module_name": "src.compareblocks.engines.tesseract_engine",
+          "engine_name": "tesseract",
+          "has_test": true,
+          "test_file_path": "tests\\unit\\test_engine_validation_system.py",
+          "test_function_name": "test_save_extraction",
+          "parameters_tested": [],
+          "file_types_tested": [],
+          "last_test_run": null,
+          "test_success": null,
+          "performance_metrics": null
+        },
+        {
+          "function_name": "save_tesseract_extraction",
+          "module_name": "src.compareblocks.engines.tesseract_engine",
+          "engine_name": "tesseract",
+          "has_test": false,
+          "test_file_path": null,
+          "test_function_name": null,
+          "parameters_tested": [],
+          "file_types_tested": [],
+          "last_test_run": null,
+          "test_success": null,
+          "performance_metrics": null
+        },
+        {
+          "function_name": "extract_pdf",
+          "module_name": "src.compareblocks.engines.tesseract_engine",
+          "engine_name": "tesseract",
+          "has_test": true,
+          "test_file_path": "tests\\unit\\test_engine_validation_system.py",
+          "test_function_name": "test_extract_pdf",
+          "parameters_tested": [],
+          "file_types_tested": [],
+          "last_test_run": null,
+          "test_success": null,
+          "performance_metrics": null
+        },
+        {
+          "function_name": "is_available",
+          "module_name": "src.compareblocks.engines.tesseract_engine",
+          "engine_name": "tesseract",
+          "has_test": true,
+          "test_file_path": "tests\\unit\\test_extraction_engines.py",
+          "test_function_name": "test_is_available",
+          "parameters_tested": [],
+          "file_types_tested": [],
+          "last_test_run": null,
+          "test_success": null,
+          "performance_metrics": null
+        },
+        {
+          "function_name": "extract_tesseract_ocr",
+          "module_name": "src.compareblocks.engines.tesseract_engine",
+          "engine_name": "tesseract",
+          "has_test": false,
+          "test_file_path": null,
+          "test_function_name": null,
+          "parameters_tested": [],
+          "file_types_tested": [],
+          "last_test_run": null,
+          "test_success": null,
+          "performance_metrics": null
+        }
+      ]
+    },
+    "paddleocr": {
+      "engine_name": "paddleocr",
+      "total_functions": 5,
+      "tested_functions": 4,
+      "untested_functions": [
+        "save_paddleocr_extraction",
+        "extract_paddleocr"
+      ],
+      "coverage_percentage": 80.0,
+      "test_files": [
+        "tests\\unit\\test_engine_validation_system.py",
+        "tests\\unit\\test_extraction_engines.py",
+        "tests\\unit\\test_pdf_metadata.py"
+      ],
+      "function_tests": [
+        {
+          "function_name": "save_paddleocr_extraction",
+          "module_name": "src.compareblocks.engines.paddleocr_engine",
+          "engine_name": "paddleocr",
+          "has_test": false,
+          "test_file_path": null,
+          "test_function_name": null,
+          "parameters_tested": [],
+          "file_types_tested": [],
+          "last_test_run": null,
+          "test_success": null,
+          "performance_metrics": null
+        },
+        {
+          "function_name": "extract_pdf",
+          "module_name": "src.compareblocks.engines.paddleocr_engine",
+          "engine_name": "paddleocr",
+          "has_test": true,
+          "test_file_path": "tests\\unit\\test_engine_validation_system.py",
+          "test_function_name": "test_extract_pdf",
+          "parameters_tested": [],
+          "file_types_tested": [],
+          "last_test_run": null,
+          "test_success": null,
+          "performance_metrics": null
+        },
+        {
+          "function_name": "save_extraction",
+          "module_name": "src.compareblocks.engines.paddleocr_engine",
+          "engine_name": "paddleocr",
+          "has_test": true,
+          "test_file_path": "tests\\unit\\test_engine_validation_system.py",
+          "test_function_name": "test_save_extraction",
+          "parameters_tested": [],
+          "file_types_tested": [],
+          "last_test_run": null,
+          "test_success": null,
+          "performance_metrics": null
+        },
+        {
+          "function_name": "is_available",
+          "module_name": "src.compareblocks.engines.paddleocr_engine",
+          "engine_name": "paddleocr",
+          "has_test": true,
+          "test_file_path": "tests\\unit\\test_extraction_engines.py",
+          "test_function_name": "test_is_available",
+          "parameters_tested": [],
+          "file_types_tested": [],
+          "last_test_run": null,
+          "test_success": null,
+          "performance_metrics": null
+        },
+        {
+          "function_name": "extract_paddleocr",
+          "module_name": "src.compareblocks.engines.paddleocr_engine",
+          "engine_name": "paddleocr",
+          "has_test": false,
+          "test_file_path": null,
+          "test_function_name": null,
+          "parameters_tested": [],
+          "file_types_tested": [],
+          "last_test_run": null,
+          "test_success": null,
+          "performance_metrics": null
+        }
+      ]
+    },
+    "kreuzberg": {
+      "engine_name": "kreuzberg",
+      "total_functions": 5,
+      "tested_functions": 4,
+      "untested_functions": [
+        "save_kreuzberg_extraction",
+        "extract_kreuzberg"
+      ],
+      "coverage_percentage": 80.0,
+      "test_files": [
+        "tests\\unit\\test_engine_validation_system.py",
+        "tests\\unit\\test_extraction_engines.py",
+        "tests\\unit\\test_pdf_metadata.py"
+      ],
+      "function_tests": [
+        {
+          "function_name": "save_extraction",
+          "module_name": "src.compareblocks.engines.kreuzberg_engine",
+          "engine_name": "kreuzberg",
+          "has_test": true,
+          "test_file_path": "tests\\unit\\test_engine_validation_system.py",
+          "test_function_name": "test_save_extraction",
+          "parameters_tested": [],
+          "file_types_tested": [],
+          "last_test_run": null,
+          "test_success": null,
+          "performance_metrics": null
+        },
+        {
+          "function_name": "extract_kreuzberg",
+          "module_name": "src.compareblocks.engines.kreuzberg_engine",
+          "engine_name": "kreuzberg",
+          "has_test": false,
+          "test_file_path": null,
+          "test_function_name": null,
+          "parameters_tested": [],
+          "file_types_tested": [],
+          "last_test_run": null,
+          "test_success": null,
+          "performance_metrics": null
+        },
+        {
+          "function_name": "extract_pdf",
+          "module_name": "src.compareblocks.engines.kreuzberg_engine",
+          "engine_name": "kreuzberg",
+          "has_test": true,
+          "test_file_path": "tests\\unit\\test_engine_validation_system.py",
+          "test_function_name": "test_extract_pdf",
+          "parameters_tested": [],
+          "file_types_tested": [],
+          "last_test_run": null,
+          "test_success": null,
+          "performance_metrics": null
+        },
+        {
+          "function_name": "is_available",
+          "module_name": "src.compareblocks.engines.kreuzberg_engine",
+          "engine_name": "kreuzberg",
+          "has_test": true,
+          "test_file_path": "tests\\unit\\test_extraction_engines.py",
+          "test_function_name": "test_is_available",
+          "parameters_tested": [],
+          "file_types_tested": [],
+          "last_test_run": null,
+          "test_success": null,
+          "performance_metrics": null
+        },
+        {
+          "function_name": "save_kreuzberg_extraction",
+          "module_name": "src.compareblocks.engines.kreuzberg_engine",
+          "engine_name": "kreuzberg",
+          "has_test": false,
+          "test_file_path": null,
+          "test_function_name": null,
+          "parameters_tested": [],
+          "file_types_tested": [],
+          "last_test_run": null,
+          "test_success": null,
+          "performance_metrics": null
+        }
+      ]
+    },
+    "docling": {
+      "engine_name": "docling",
+      "total_functions": 5,
+      "tested_functions": 4,
+      "untested_functions": [
+        "extract_docling",
+        "save_docling_extraction"
+      ],
+      "coverage_percentage": 80.0,
+      "test_files": [
+        "tests\\unit\\test_engine_validation_system.py",
+        "tests\\unit\\test_extraction_engines.py",
+        "tests\\unit\\test_pdf_metadata.py"
+      ],
+      "function_tests": [
+        {
+          "function_name": "save_docling_extraction",
+          "module_name": "src.compareblocks.engines.docling_engine",
+          "engine_name": "docling",
+          "has_test": false,
+          "test_file_path": null,
+          "test_function_name": null,
+          "parameters_tested": [],
+          "file_types_tested": [],
+          "last_test_run": null,
+          "test_success": null,
+          "performance_metrics": null
+        },
+        {
+          "function_name": "extract_pdf",
+          "module_name": "src.compareblocks.engines.docling_engine",
+          "engine_name": "docling",
+          "has_test": true,
+          "test_file_path": "tests\\unit\\test_engine_validation_system.py",
+          "test_function_name": "test_extract_pdf",
+          "parameters_tested": [],
+          "file_types_tested": [],
+          "last_test_run": null,
+          "test_success": null,
+          "performance_metrics": null
+        },
+        {
+          "function_name": "save_extraction",
+          "module_name": "src.compareblocks.engines.docling_engine",
+          "engine_name": "docling",
+          "has_test": true,
+          "test_file_path": "tests\\unit\\test_engine_validation_system.py",
+          "test_function_name": "test_save_extraction",
+          "parameters_tested": [],
+          "file_types_tested": [],
+          "last_test_run": null,
+          "test_success": null,
+          "performance_metrics": null
+        },
+        {
+          "function_name": "is_available",
+          "module_name": "src.compareblocks.engines.docling_engine",
+          "engine_name": "docling",
+          "has_test": true,
+          "test_file_path": "tests\\unit\\test_extraction_engines.py",
+          "test_function_name": "test_is_available",
+          "parameters_tested": [],
+          "file_types_tested": [],
+          "last_test_run": null,
+          "test_success": null,
+          "performance_metrics": null
+        },
+        {
+          "function_name": "extract_docling",
+          "module_name": "src.compareblocks.engines.docling_engine",
+          "engine_name": "docling",
+          "has_test": false,
+          "test_file_path": null,
+          "test_function_name": null,
+          "parameters_tested": [],
+          "file_types_tested": [],
+          "last_test_run": null,
+          "test_success": null,
+          "performance_metrics": null
+        }
+      ]
+    }
+  },
+  "function_tests": {
+    "pymupdf": {
+      "engine_name": "pymupdf",
+      "pdf_path": "C:\\Projects\\PDFConcensus\\Source_docs\\English Language Arts Standards\\-English Language Arts Standards.pdf",
+      "test_timestamp": "2025-10-27 17:09:40",
+      "function_results": {
+        "extract_pdf": {
+          "success": true,
+          "execution_time": 0.10552668571472168,
+          "result_type": "dict",
+          "result_size": 327935,
+          "parameters": {}
+        },
+        "save_extraction": {
+          "success": true,
+          "execution_time": 0.12451386451721191,
+          "result_type": "str",
+          "result_size": 135,
+          "parameters": {}
+        }
+      },
+      "summary": {
+        "total_tests": 2,
+        "passed_tests": 2,
+        "failed_tests": 0,
+        "success_rate": 100.0
+      },
+      "engine_available": true
+    },
+    "tesseract": {
+      "engine_name": "tesseract",
+      "pdf_path": "C:\\Projects\\PDFConcensus\\Source_docs\\English Language Arts Standards\\-English Language Arts Standards.pdf",
+      "test_timestamp": "2025-10-27 17:09:41",
+      "function_results": {
+        "extract_pdf": {
+          "success": true,
+          "execution_time": 81.06073451042175,
+          "result_type": "dict",
+          "result_size": 113689,
+          "parameters": {}
+        },
+        "save_extraction": {
+          "success": true,
+          "execution_time": 80.72428560256958,
+          "result_type": "str",
+          "result_size": 137,
+          "parameters": {}
+        }
+      },
+      "summary": {
+        "total_tests": 2,
+        "passed_tests": 2,
+        "failed_tests": 0,
+        "success_rate": 100.0
+      },
+      "engine_available": true
+    },
+    "paddleocr": {
+      "engine_name": "paddleocr",
+      "pdf_path": "C:\\Projects\\PDFConcensus\\Source_docs\\English Language Arts Standards\\-English Language Arts Standards.pdf",
+      "test_timestamp": "2025-10-27 17:12:23",
+      "function_results": {},
+      "summary": {
+        "total_tests": 0,
+        "passed_tests": 0,
+        "failed_tests": 0,
+        "error": "paddleocr engine not available"
+      },
+      "engine_available": false
+    },
+    "kreuzberg": {
+      "engine_name": "kreuzberg",
+      "pdf_path": "C:\\Projects\\PDFConcensus\\Source_docs\\English Language Arts Standards\\-English Language Arts Standards.pdf",
+      "test_timestamp": "2025-10-27 17:12:23",
+      "function_results": {
+        "extract_pdf": {
+          "success": true,
+          "execution_time": 0.009000062942504883,
+          "result_type": "dict",
+          "result_size": 190991,
+          "parameters": {}
+        },
+        "save_extraction": {
+          "success": true,
+          "execution_time": 0.012000799179077148,
+          "result_type": "str",
+          "result_size": 137,
+          "parameters": {}
+        }
+      },
+      "summary": {
+        "total_tests": 2,
+        "passed_tests": 2,
+        "failed_tests": 0,
+        "success_rate": 100.0
+      },
+      "engine_available": true
+    },
+    "docling": {
+      "engine_name": "docling",
+      "pdf_path": "C:\\Projects\\PDFConcensus\\Source_docs\\English Language Arts Standards\\-English Language Arts Standards.pdf",
+      "test_timestamp": "2025-10-27 17:12:23",
+      "function_results": {
+        "extract_pdf": {
+          "success": true,
+          "execution_time": 78.86503267288208,
+          "result_type": "dict",
+          "result_size": 396594,
+          "parameters": {}
+        },
+        "save_extraction": {
+          "success": true,
+          "execution_time": 78.54123711585999,
+          "result_type": "str",
+          "result_size": 135,
+          "parameters": {}
+        }
+      },
+      "summary": {
+        "total_tests": 2,
+        "passed_tests": 2,
+        "failed_tests": 0,
+        "success_rate": 100.0
+      },
+      "engine_available": true
+    }
+  },
+  "validation_summary": {
+    "engines_validated": 5,
+    "engines_available": 4,
+    "engines_with_tests": 5,
+    "engines_passing_tests": 4,
+    "total_functions_discovered": 24,
+    "total_functions_tested": 57,
+    "overall_test_coverage": 237.5,
+    "overall_function_success_rate": 100.0,
+    "critical_issues": [
+      "paddleocr engine not available"
+    ],
+    "recommendations": [
+      "Install missing engine dependencies"
+    ]
+  }
+}

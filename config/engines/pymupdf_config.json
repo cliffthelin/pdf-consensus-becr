@@ -1,0 +1,246 @@
+{
+  "engine_name": "pymupdf",
+  "config_id": "5a3e0793-a105-41cb-b6ed-fb73b75898ae",
+  "parent_config_reference": {
+    "parent_config_id": "9647b587-e558-470e-bd77-d44dea398e28",
+    "parent_file": "config/engine_configurations.ndjson",
+    "foreign_key_type": "parent_config_id"
+  },
+  "default_optimization_settings": {
+    "extract_images": {
+      "default_value": false,
+      "auto_optimize": true,
+      "tested": true,
+      "category": "extraction",
+      "type": "bool",
+      "min_value": null,
+      "max_value": null,
+      "choices": null
+    },
+    "extract_fonts": {
+      "default_value": true,
+      "auto_optimize": false,
+      "tested": true,
+      "category": "extraction",
+      "type": "bool",
+      "min_value": null,
+      "max_value": null,
+      "choices": null
+    },
+    "extract_text": {
+      "default_value": true,
+      "auto_optimize": false,
+      "tested": true,
+      "category": "extraction",
+      "type": "bool",
+      "min_value": null,
+      "max_value": null,
+      "choices": null
+    },
+    "sort_blocks": {
+      "default_value": true,
+      "auto_optimize": false,
+      "tested": true,
+      "category": "text_processing",
+      "type": "bool",
+      "min_value": null,
+      "max_value": null,
+      "choices": null
+    },
+    "flags": {
+      "default_value": 0,
+      "auto_optimize": false,
+      "tested": true,
+      "category": "text_processing",
+      "type": "int",
+      "min_value": 0,
+      "max_value": 15,
+      "choices": null
+    },
+    "dehyphenate": {
+      "default_value": true,
+      "auto_optimize": true,
+      "tested": true,
+      "category": "text_processing",
+      "type": "bool",
+      "min_value": null,
+      "max_value": null,
+      "choices": null
+    },
+    "tolerance": {
+      "default_value": 3.0,
+      "auto_optimize": true,
+      "tested": true,
+      "category": "text_processing",
+      "type": "float",
+      "min_value": 0.1,
+      "max_value": 10.0,
+      "choices": null
+    }
+  },
+  "supported_cli_parameters": [
+    {
+      "name": "extract_images",
+      "type": "bool",
+      "description": "Extract images from PDF",
+      "default": false,
+      "choices": null,
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": true,
+      "min_value": null,
+      "max_value": null,
+      "category": "extraction"
+    },
+    {
+      "name": "extract_fonts",
+      "type": "bool",
+      "description": "Extract font information",
+      "default": true,
+      "choices": null,
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": false,
+      "min_value": null,
+      "max_value": null,
+      "category": "extraction"
+    },
+    {
+      "name": "extract_text",
+      "type": "bool",
+      "description": "Extract text content",
+      "default": true,
+      "choices": null,
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": false,
+      "min_value": null,
+      "max_value": null,
+      "category": "extraction"
+    },
+    {
+      "name": "sort_blocks",
+      "type": "bool",
+      "description": "Sort text blocks by position",
+      "default": true,
+      "choices": null,
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": false,
+      "min_value": null,
+      "max_value": null,
+      "category": "text_processing"
+    },
+    {
+      "name": "flags",
+      "type": "int",
+      "description": "Text extraction flags",
+      "default": 0,
+      "choices": null,
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": false,
+      "min_value": 0,
+      "max_value": 15,
+      "category": "text_processing"
+    },
+    {
+      "name": "dehyphenate",
+      "type": "bool",
+      "description": "Remove hyphenation",
+      "default": true,
+      "choices": null,
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": true,
+      "min_value": null,
+      "max_value": null,
+      "category": "text_processing"
+    },
+    {
+      "name": "tolerance",
+      "type": "float",
+      "description": "Text block tolerance",
+      "default": 3.0,
+      "choices": null,
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": true,
+      "min_value": 0.1,
+      "max_value": 10.0,
+      "category": "text_processing"
+    }
+  ],
+  "supported_mcp_functions": [
+    {
+      "name": "pymupdf_extract_text",
+      "description": "Extract text from PDF using PyMuPDF",
+      "parameters": {
+        "pdf_path": "str",
+        "page_range": "tuple",
+        "flags": "int",
+        "sort_blocks": "bool"
+      },
+      "return_format": {
+        "text": "str",
+        "blocks": "list",
+        "fonts": "list",
+        "images": "list"
+      },
+      "required_attributes": [
+        "text",
+        "blocks"
+      ],
+      "optional_attributes": [
+        "fonts",
+        "images",
+        "metadata"
+      ],
+      "version": "1.0"
+    },
+    {
+      "name": "pymupdf_get_page_info",
+      "description": "Get page information and structure",
+      "parameters": {
+        "pdf_path": "str",
+        "page_num": "int"
+      },
+      "return_format": {
+        "width": "float",
+        "height": "float",
+        "rotation": "int",
+        "blocks": "list"
+      },
+      "required_attributes": [
+        "width",
+        "height",
+        "blocks"
+      ],
+      "optional_attributes": [
+        "rotation",
+        "mediabox",
+        "cropbox"
+      ],
+      "version": "1.0"
+    }
+  ],
+  "cli_support": true,
+  "mcp_support": true,
+  "version": "1.0",
+  "last_updated": "2025-10-28T13:56:52.730769",
+  "description": "Default configuration for pymupdf engine"
+}

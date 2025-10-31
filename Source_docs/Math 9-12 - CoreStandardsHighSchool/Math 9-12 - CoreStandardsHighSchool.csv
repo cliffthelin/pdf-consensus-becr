@@ -1,0 +1,949 @@
+There is no tabular data in this image.
+ADA Compliant May 2021
+csv
+District,Name,City
+District 1,Terryl Warner,"Hyrum, UT 84319"
+District 2,Spencer F. Stokes,"Ogden, UT 84403"
+District 3,Linda B. Hansen,"West Valley City, UT 84120"
+District 4,David L. Thomas,"South Weber, UT 84405"
+District 5,Laura Belnap,"Bountiful, UT 84010"
+District 6,Brittney Cummins,"West Valley City, UT 84120"
+District 7,Leslie B. Castle,"Salt Lake City, UT 84108"
+District 8,Jennifer A. Johnson,"Murray, UT 84107"
+District 9,Joel Wright,"Cedar Hills, UT 84062"
+District 10,David L. Crandall,"Draper, UT 84020"
+District 11,Jefferson Moss,"Saratoga Springs, UT 84045"
+District 12,Dixie L. Allen,"Vernal, UT 84078"
+District 13,Stan Lockhart,"Provo, UT 84604"
+District 14,Mark Huntsman,"Fillmore, UT 84631"
+District 15,Barbara W. Corry,"Cedar City, UT 84720"
+,Sydnee Dickson,Interim State Superintendent of Public Instruction
+,Lorraine Austin,Secretary to the Board
+csv
+Introduction,ix
+Mathematics High School Courses,1
+Secondary Mathematics I,3
+Mathematics I—Honors Standards,13
+Secondary Mathematics II,15
+Secondary Mathematics II—Honors Standards,26
+Secondary Mathematics III,29
+Secondary Mathematics III—Honors Standards,39
+Precalculus,41
+Appendices,49
+Table of Contents,53
+College Prep Mathematics,55
+Introductory Calculus,61
+Introductory Statistics,65
+Mathematics of Decision Making for Life,71
+Mathematics of Personal Finance,77
+Modern Mathematics,85
+ADA Compliant May 2021
+There is no tabular data in this image.
+csv
+UTAH CORE STATE STANDARDS for MATHEMATICS
+SECONDARY MATHEMATICS I
+"THE FUNDAMENTAL PURPOSE OF SECONDARY MATHEMATICS I is to formalize and
+extend the mathematics that students learned in the middle grades. The critical areas, or-
+ganized into units, deepen and extend understanding of linear relationships, in part by con-
+trasting them with exponential phenomena, and in part by applying linear models to data
+that exhibit a linear trend. Secondary Mathematics I uses properties and theorems involving
+congruent figures to deepen and extend understanding of geometric knowledge from prior
+grades. The final unit in the course ties together the algebraic and geometric ideas studied.
+The Mathematical Practice Standards apply throughout each course and, together with the
+content standards, prescribe that students experience mathematics as a coherent, useful, and
+logical subject that makes use of their ability to make sense of problem situations."
+"CRITICAL AREA 1: By the end of eighth grade, students have had a variety of experi-
+ences working with expressions and creating equations. Students continue this work
+by using quantities to model and analyze situations, to interpret expressions, and by
+creating equations to describe situations."
+"CRITICAL AREA 2: In earlier grades, students define, evaluate, and compare functions,
+and use them to model relationships between quantities. Students will learn function
+notation and develop the concepts of domain and range. They move beyond view-
+ing functions as processes that take inputs and yield outputs, and start viewing func-
+tions as objects in their own right. They explore many examples of functions, including
+sequences; they interpret functions given graphically, numerically, symbolically, and
+verbally, translate between representations, and understand the limitations of various
+representations. They work with functions given by graphs and tables, keeping in mind
+that, depending upon the context, these representations are likely to be approximate
+and incomplete. Their work includes functions that can be described or approximated
+by formulas, as well as those that cannot. When functions describe relationships be-
+tween quantities arising from a context, students reason with the units in which those
+quantities are measured. Students build on and informally extend their understanding
+of integer exponents to consider exponential functions. They compare and contrast
+linear and exponential functions, distinguishing between additive and multiplicative
+change. They interpret arithmetic sequences as linear functions and geometric se-
+quences as exponential functions."
+"CRITICAL AREA 3: By the end of eighth grade, students have learned to solve linear
+equations in one variable and have applied graphical and algebraic methods to ana-
+lyze and solve systems of linear equations in two variables. This area builds on these
+earlier experiences by asking students to analyze and explain the process of solving
+an equation and to justify the process used in solving a system of equations. Students
+develop fluency writing, interpreting, and translating between various forms of linear
+equations and inequalities, and using them to solve problems. They master the solu-
+tion of linear equations and apply related solution techniques and the laws of expo-
+nents to the creation and solution of simple exponential equations. Students explore"
+csv
+UTAH CORE STATE STANDARDS for MATHEMATICS
+"systems of equations and inequalities, and they find and interpret their solutions. All
+of this work is grounded on understanding quantities and on relationships between
+them."
+"CRITICAL AREA 4: This area builds upon students' prior experiences with data, provid-
+ing students with more formal means of assessing how a model fits data. Students use
+regression techniques to describe approximately linear relationships between quanti-
+ties. They use graphical representations and knowledge of the context to make judg-
+ments about the appropriateness of linear models. With linear models, they look at
+residuals to analyze the goodness of fit."
+"CRITICAL AREA 5: In previous grades, students were asked to draw triangles based
+on given measurements. They also have prior experience with rigid motions (transla-
+tions, reflections, and rotations) and have used these to develop notions about what it
+means for two objects to be congruent. In this unit, students establish triangle congru-
+ence criteria, based on analyses of rigid motions and formal constructions. They solve
+problems about triangles, quadrilaterals, and other polygons. They apply reasoning to
+complete geometric constructions and explain why they work."
+"CRITICAL AREA 6: Building on their work with the Pythagorean Theorem in eighth
+grade to find distances, students use a rectangular coordinate system to verify geo-
+metric relationships, including properties of special triangles and quadrilaterals and
+slopes of parallel and perpendicular lines."
+csv
+Standard,Description
+SI.MP.1,"Make sense of problems and persevere in solving them. Explain the meaning of a problem and look for entry points to its solution. Analyze givens, constraints, relationships, and goals. Make conjectures about the form and meaning of the solution, plan a solution pathway, and continually monitor progress asking, ""Does this make sense?"" Consider analogous problems, make connections between multiple representations, identify the correspondence between different approaches, look for trends, and transform algebraic expressions to highlight meaningful mathematics. Check answers to problems using a different method."
+SI.MP.2,"Reason abstractly and quantitatively. Make sense of the quantities and their relationships in problem situations. Translate between context and algebraic representations by contextualizing and decontextualizing quantitative relationships. This includes the ability to decontextualize a given situation, representing it algebraically and manipulating symbols fluently as well as the ability to contextualize algebraic representations to make sense of the problem."
+SI.MP.3,"Construct viable arguments and critique the reasoning of others. Understand and use stated assumptions, definitions, and previously established results in constructing arguments. Make conjectures and build a logical progression of statements to explore the truth of their conjectures. Justify conclusions and communicate them to others. Respond to the arguments of others by listening, asking clarifying questions, and critiquing the reasoning of others."
+SI.MP.4,"Model with mathematics. Apply mathematics to solve problems arising in everyday life, society, and the workplace. Make assumptions and approximations, identifying important quantities to construct a mathematical model. Routinely interpret mathematical results in the context of the situation and reflect on whether the results make sense, possibly improving the model if it has not served its purpose."
+SI.MP.5,"Use appropriate tools strategically. Consider the available tools and be sufficiently familiar with them to make sound decisions about when each tool might be helpful, recognizing both the insight to be gained as well as the limitations. Identify relevant external mathematical resources and use them to pose or solve problems. Use tools to explore and deepen their understanding of concepts."
+SI.MP.6,"Attend to precision. Communicate precisely to others. Use explicit definitions in discussion with others and in their own reasoning. They state the meaning of the symbols they choose. Specify units of measure and label axes to clarify the correspondence with quantities in a problem. Calculate accurately and efficiently, express numerical answers with a degree of precision appropriate for the problem context."
+csv
+Standard,Description
+SI.MP.7,"Look for and make use of structure. Look closely at mathematical relationships to identify the underlying structure by recognizing a simple structure within a more complicated structure. See complicated things, such as some algebraic expressions, as single objects or as being composed of several objects. For example, see 5-3(x - y)² as 5 minus a positive number times a square and use that to realize that its value cannot be more than 5 for any real numbers x and y."
+SI.MP.8,"Look for and express regularity in repeated reasoning. Notice if reasoning is repeated, and look for both generalizations and shortcuts. Evaluate the reasonableness of intermediate results by maintaining oversight of the process while attending to the details."
+N.Q.1,Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays.
+N.Q.2,Define appropriate quantities for the purpose of descriptive modeling.
+N.Q.3,Choose a level of accuracy appropriate to limitations on measurement when reporting quantities.
+A.SSE.1,Interpret linear expressions and exponential expressions with integer exponents that represent a quantity in terms of its context.
+A.CED.1,Create equations and inequalities in one variable and use them to solve problems. Include equations arising from linear and simple exponential functions.
+csv
+Standard,Description
+A.CED.2,Create equations in two or more variables to represent relationships between quantities; graph equations on coordinate axes with labels and scales.
+A.CED.3,"Represent constraints by equations or inequalities and by systems of equations and/or inequalities, and interpret solutions as viable or non-viable options in a modeling context. For example, represent inequalities describing nutritional and cost constraints on combinations of different foods."
+A.CED.4,"Rearrange formulas to highlight a quantity of interest, using the same reasoning as in solving equations. For example, rearrange Ohm's Law V = IR to highlight resistance R."
+
+# Table: A.REI Standards
+Standard,Description
+A.REI.1,"Explain each step in solving a linear equation as following from the equality of numbers asserted at the previous step, starting from the assumption that the original equation has a solution. Construct a viable argument to justify a solution method. Students will solve exponential equations with logarithms in Secondary Mathematics III."
+A.REI.3,Solve equations and inequalities in one variable.
+A.REI.3a,Solve one-variable equations and literal equations to highlight a variable of interest.
+A.REI.3b,"Solve compound inequalities in one variable, including absolute value inequalities."
+A.REI.3c,"Solve simple exponential equations that rely only on application of the laws of exponents (limit solving exponential equations to those that can be solved without logarithms). For example, 5x = 125 or 2x = 1/16."
+A.REI.5,"Prove that, given a system of two equations in two variables, replacing one equation by the sum of that equation and a multiple of the other produces a system with the same solutions."
+A.REI.6,"Solve systems of linear equations exactly and approximately (numerically, algebraically, graphically), focusing on pairs of linear equations in two variables."
+A.REI.10,"Understand that the graph of an equation in two variables is the set of all its solutions plotted in the coordinate plane, often forming a curve (which could be a line)."
+csv
+Standard,Description
+Standard A.REI.11,"Explain why the x-coordinates of the points where the graphs of the equations y = f(x) and y = g(x) intersect are the solutions of the equation f(x) = g(x); find the solutions approximately; e.g., using technology to graph the functions, make tables of values, or find successive approximations. Include cases where f(x) and/or g(x) are linear and exponential functions.⭑"
+Standard A.REI.12,"Graph the solutions to a linear inequality in two variables as a half- plane (excluding the boundary in the case of a strict inequality), and graph the solution set to a system of linear inequalities in two variables as the intersection of the corre- sponding half-planes."
+Standard F.IF.1,"Understand that a function from one set (called the domain) to another set (called the range) assigns to each element of the domain exactly one element of the range. If f is a function and x is an element of its domain, then f(x) denotes the output of f corresponding to the input x. The graph of f is the graph of the equation y = f(x)."
+Standard F.IF.2,"Use function notation, evaluate functions for inputs in their domains, and interpret statements that use function notation in terms of a context."
+Standard F.IF.3,"Recognize that sequences are functions, sometimes defined recursively, whose domain is a subset of the integers. Emphasize arithmetic and geometric sequenc- es as examples of linear and exponential functions. For example, the Fibonacci sequence is defined recursively by f(0) = f(1) = 1, f(n+1) = f(n) + f(n-1) for n ≥ 1."
+Standard F.IF.4,"For a function that models a relationship between two quantities, in- terpret key features of graphs and tables in terms of the quantities, and sketch graphs showing key features given a verbal description of the relationship. Key features include intercepts; intervals where the function is increasing, decreasing, positive, or negative; rela- tive maximums and minimums; symmetries; and end behavior.⭑"
+Standard F.IF.5,"Relate the domain of a function to its graph and, where applicable, to the quantitative relationship it describes. For example, if the function h(n) gives the number of person-hours it takes to assemble n engines in a factory, then the positive integers would be an appropriate domain for the function.⭑"
+Standard F.IF.6,Calculate and interpret the average rate of change of a function (present- ed symbolically or as a table) over a specified interval. Estimate the rate of change from a graph.⭑
+Standard F.IF.7,Graph functions expressed symbolically and show key features of the
+csv
+# Table: Standard F.IF.9
+Standard,Description
+F.IF.9,"Compare properties of two functions, each represented in a different way (algebraically, graphically, numerically in tables, or by verbal descriptions). For example, compare the growth of two linear functions, or two exponential functions such as y=3n and y=100·2n."
+
+# Table: Standard F.BF.1
+Standard,Description
+F.BF.1,Write a function that describes a relationship between two quantities.★
+a.,"Determine an explicit expression, a recursive process, or steps for calculation from a context."
+b.,"Combine standard function types using arithmetic operations. For example, build a function that models the temperature of a cooling body by adding a constant function to a decaying exponential, and relate these functions to the model."
+
+# Table: Standard F.BF.2
+Standard,Description
+F.BF.2,"Write arithmetic and geometric sequences both recursively and with an explicit formula, use them to model situations, and translate between the two forms. Limit to linear and exponential functions. Connect arithmetic sequences to linear functions and geometric sequences to exponential functions.★"
+
+# Table: Standard F.BF.3
+Standard,Description
+F.BF.3,"Identify the effect on the graph of replacing f(x) by f(x) + k, for specific values of k (both positive and negative); find the value of k given the graphs. Relate the vertical translation of a linear function to its y-intercept. Experiment with cases and illustrate an explanation of the effects on the graph using technology."
+
+# Table: Standard F.LE.1
+Standard,Description
+F.LE.1,Distinguish between situations that can be modeled with linear functions and with exponential functions.
+a.,Prove that linear functions grow by equal differences over equal intervals; exponential functions grow by equal factors over equal intervals.
+b.,Recognize situations in which one quantity changes at a constant rate per unit interval relative to another.
+csv
+UTAH CORE STATE STANDARDS for MATHEMATICS
+,,,,
+c.,"Recognize situations in which a quantity grows or decays by a constant percent rate
+per unit interval relative to another."
+Standard F.LE.2,"Construct linear and exponential functions, including arithmetic and
+geometric sequences, given a graph, a description of a relationship, or two input-output
+pairs (include reading these from a table)."
+Standard F.LE.3,"Observe using graphs and tables that a quantity increasing exponentially
+eventually exceeds a quantity increasing linearly."
+Standard F.LE.5,"Interpret the parameters in a linear or exponential function in terms of a
+context. Limit exponential functions to those of the form f(x) = bx + k."
+Strand: GEOMETRY—Congruence (G.CO)
+"Experiment with transformations in the plane. Build on student experience with rigid mo-
+tions from earlier grades (Standards G.CO.1-5). Understand congruence in terms of rigid mo-
+tions. Rigid motions are at the foundation of the definition of congruence. Reason from the
+basic properties of rigid motions (that they preserve distance and angle), which are assumed
+without proof. Rigid motions and their assumed properties can be used to establish the usual
+triangle congruence criteria, which can then be used to prove other theorems (Standards
+G.CO.6-8). Make geometric constructions (Standards G.CO.12-13)."
+Standard G.CO.1,"Know precise definitions of angle, circle, perpendicular line, parallel line,
+and line segment, based on the undefined notions of point, line, distance along a line,
+and distance around a circular arc."
+Standard G.CO.2,"Represent transformations in the plane using, for example, transparen-
+cies and geometry software; describe transformations as functions that take points in
+the plane as inputs and give other points as outputs. Compare transformations that pre-
+serve distance and angle to those that do not (e.g., translation versus horizontal stretch)."
+Standard G.CO.3,"Given a rectangle, parallelogram, trapezoid, or regular polygon, describe
+the rotations and reflections that carry it onto itself."
+Standard G.CO.4,"Develop definitions of rotations, reflections, and translations in terms of
+angles, circles, perpendicular lines, parallel lines, and line segments."
+Standard G.CO.5,"Given a geometric figure and a rotation, reflection, or translation, draw
+the transformed figure using, for example, graph paper, tracing paper, or geometry soft-
+ware. Specify a sequence of transformations that will carry a given figure onto another.
+Point out the basis of rigid motions in geometric concepts, for example, translations
+move points a specified distance along a line parallel to a specified line; rotations move
+objects along a circular arc with a specified center through a specified angle."
+Standard G.CO.6,"Use geometric descriptions of rigid motions to transform figures and
+to predict the effect of a given rigid motion on a given figure; given two figures, use"
+csv
+Standard,Description
+G.CO.7,Use the definition of congruence in terms of rigid motions to show that two triangles are congruent if and only if corresponding pairs of sides and corresponding pairs of angles are congruent.
+G.CO.8,"Explain how the criteria for triangle congruence (ASA, SAS, and SSS) follow from the definition of congruence in terms of rigid motions."
+G.CO.12,"Make formal geometric constructions with a variety of tools and methods (compass and straightedge, string, reflective devices, paper folding, dynamic geometric software, etc.). Emphasize the ability to formalize and defend how these constructions result in the desired objects. For example, copying a segment; copying an angle; bisecting a segment; bisecting an angle; constructing perpendicular lines, including the perpendicular bisector of a line segment; and constructing a line parallel to a given line through a point not on the line."
+G.CO.13,"Construct an equilateral triangle, a square, and a regular hexagon inscribed in a circle. Emphasize the ability to formalize and defend how these constructions result in the desired objects."
+G.GPE.4,"Use coordinates to prove simple geometric theorems algebraically. For example, prove or disprove that a figure defined by four given points in the coordinate plane is a rectangle; prove or disprove that the point (1, √3) lies on the circle centered at the origin and containing the point (0, 2)."
+G.GPE.5,"Prove the slope criteria for parallel and perpendicular lines; use them to solve geometric problems (e.g., find the equation of a line parallel or perpendicular to a given line that passes through a given point)."
+G.GPE.7,Use coordinates to compute perimeters of polygons and areas of triangles and rectangles; connect with The Pythagorean Theorem and the distance formula.
+Standard,Description
+Standard S.ID.1,"Represent data with plots on the real number line (dot plots, histograms, and box plots)."
+Standard S.ID.2,"Use statistics appropriate to the shape of the data distribution to compare center (median, mean) and spread (interquartile range, standard deviation) of two or more different data sets."
+Standard S.ID.3,"Interpret differences in shape, center, and spread in the context of the data sets, accounting for possible effects of extreme data points (outliers). Calculate the weighted average of a distribution and interpret it as a measure of center."
+Standard S.ID.6,"Represent data on two quantitative variables on a scatter plot, and describe how the variables are related."
+,"a. Fit a linear function to the data; use functions fitted to data to solve problems in the context of the data. Use given functions, or choose a function suggested by the context. Emphasize linear and exponential models."
+,b. Informally assess the fit of a function by plotting and analyzing residuals. Focus on situations for which linear models are appropriate.
+,c. Fit a linear function for scatter plots that suggest a linear association.
+Standard S.ID.7,Interpret the slope (rate of change) and the intercept (constant term) of a linear model in the context of the data.
+Standard S.ID.8,Compute (using technology) and interpret the correlation coefficient of a linear fit.
+Standard S.ID.9,Distinguish between correlation and causation.
+csv
+Strand,NUMBER AND QUANTITY: VECTOR AND MATRIX QUANTITIES (N.VM)
+Standard,"N.VM.1 Recognize vector quantities as having both magnitude and direction. Represent vector quantities by directed line segments, and use appropriate symbols for vectors and their magnitudes (e.g., v, |v|, ||v||, v)."
+Standard,N.VM.2 Find the components of a vector by subtracting the coordinates of an initial point from the coordinates of a terminal point.
+Standard,N.VM.3 Solve problems involving velocity and other quantities that can be represented by vectors.
+Standard,N.VM.4 Add and subtract vectors.
+a.,"Add vectors end-to-end, component-wise, and by the parallelogram rule. Understand that the magnitude of a sum of two vectors is typically not the sum of the magnitudes."
+b.,"Given two vectors in magnitude and direction form, determine the magnitude and direction of their sum."
+c.,"Understand vector subtraction v – w as v + (-w), where -w is the additive inverse of w, with the same magnitude as w and pointing in the opposite direction. Represent vector subtraction graphically by connecting the tips in the appropriate order, and perform vector subtraction component-wise."
+Standard,N.VM.5 Multiply a vector by a scalar.
+a.,"Represent scalar multiplication graphically by scaling vectors and possibly reversing their direction; perform scalar multiplication component-wise, e.g., as c(vx, Vy ) = (CVx, cvy)."
+b.,"Compute the magnitude of a scalar multiple cv using ||cv|| = |c|v. Compute the direction of cv knowing that when |c|v ≠ 0, the direction of cv is either along v (for c > 0) or against vs (for c < 0)."
+Standard,"N.VM.6 Use matrices to represent and manipulate data, e.g., to represent pay-offs or incidence relationships in a network."
+Standard,"N.VM.7 Multiply matrices by scalars to produce new matrices, e.g., as when all of the pay-offs in a game are doubled."
+csv
+Standard,Description
+N.VM.8,"Add, subtract, and multiply matrices of appropriate dimensions."
+N.VM.9,"Understand that, unlike multiplication of numbers, matrix multiplication for square matrices is not a commutative operation, but still satisfies the associative and distributive properties."
+N.VM.10,Understand that the zero and identity matrices play a role in matrix addition and multiplication similar to the role of 0 and 1 in the real numbers. The determinant of a square matrix is nonzero if and only if the matrix has a multiplicative inverse.
+N.VM.11,Multiply a vector (regarded as a matrix with one column) by a matrix of suitable dimensions to produce another vector. Work with matrices as transformations of vectors.
+N.VM.12,"Work with 2 × 2 matrices as transformations of the plane, and interpret the absolute value of the determinant in terms of area."
+N.VM.13,Solve systems of linear equations up to three variables using matrix row reduction.
+There is no tabular data in this document.
+Standard,Description
+Standard SII.MP.7,"Look for and make use of structure. Look closely at mathematical relationships to identify the underlying structure by recognizing a simple structure within a more complicated structure. See complicated things, such as some algebraic expressions, as single objects or as being composed of several objects. For example, see 5 – 3(x – y)² as 5 minus a positive number times a square and use that to realize that its value cannot be more than 5 for any real numbers x and y."
+Standard SII.MP.8,"Look for and express regularity in repeated reasoning. Notice if reasoning is repeated, and look for both generalizations and shortcuts. Evaluate the reasonableness of intermediate results by maintaining oversight of the process while attending to the details."
+
+# Strand: NUMBER AND QUANTITY—The Real Number System (N.RN)
+Standard,Description
+Standard N.RN.1,"Explain how the definition of the meaning of rational exponents follows from extending the properties of integer exponents to those values, allowing for a notation for radicals in terms of rational exponents. For example, we define 51/3 to be the cube root of 5 because we want (51/3)3 = 5(1/3)3 to hold, so (51/3)3 must equal 5."
+Standard N.RN.2,Rewrite expressions involving radicals and rational exponents using the properties of exponents.
+Standard N.RN.3,"Explain why sums and products of rational numbers are rational, that the sum of a rational number and an irrational number is irrational, and that the product of a nonzero rational number and an irrational number is irrational. Connect to physical situations (e.g., finding the perimeter of a square of area 2)."
+
+# Strand: NUMBER AND QUANTITY—The Complex Number System (N.CN)
+Standard,Description
+Standard N.CN.1,"Know there is a complex number i such that i² = -1, and every complex number has the form a + bi with a and b real."
+Standard N.CN.2,"Use the relation i² = -1 and the commutative, associative, and distributive properties to add, subtract, and multiply complex numbers. Limit to multiplications that involve i² as the highest power of i."
+Standard N.CN.7,Solve quadratic equations with real coefficients that have complex solutions.
+Standard N.CN.8,"Extend polynomial identities to the complex numbers. Limit to quadratics with real coefficients. For example, rewrite x² + 4 as (x + 2i) (x – 2i)."
+csv
+Standard,Description
+N.CN.9,Know the Fundamental Theorem of Algebra; show that it is true for quadratic polynomials.
+csv
+,
+UTAH CORE STATE STANDARDS for MATHEMATICS,
+Strand: ALGEBRA—Creating Equations (A.CED),
+Create equations that describe numbers or relationships. Extend work on linear and exponen-,
+"tial equations to quadratic equations (Standards A.CED.1–2, 4).",
+■ Standard A.CED.1,"Create equations and inequalities in one variable and use them to
+solve problems. Include equations arising from linear and quadratic functions, and
+simple rational and exponential functions."
+Standard A.CED.2,"Create equations in two or more variables to represent relationships
+between quantities; graph equations on coordinate axes with labels and scales."
+■ Standard A.CED.4,"Rearrange formulas to highlight a quantity of interest, using the same
+reasoning as in solving equations; extend to formulas involving squared variables. For
+example, rearrange the formula for the volume of a cylinder V = πr² h."
+Strand: ALGEBRA—Reasoning With Equations and Inequalities (A.REI),
+Solve equations and inequalities in one variable (Standard A.REI.4). Solve systems of equa-,
+tions. Extend the work of systems to include solving systems consisting of one linear and one,
+nonlinear equation (Standard A.REI.7).,
+Standard A.REI.4,Solve quadratic equations in one variable.
+a.,"Use the method of completing the square to transform any quadratic equation in x
+into an equation of the form (x – p)² = q that has the same solutions. Derive the qua-
+dratic formula from this form."
+b.,"Solve quadratic equations by inspection (e.g., for x² = 49), taking square roots, com-
+pleting the square, the quadratic formula and factoring, as appropriate to the initial
+form of the equation. Recognize when the quadratic formula gives complex solu-
+tions and write them as a ± bi for real numbers a and b."
+Standard A.REI.7,"Solve a simple system consisting of a linear equation and a quadratic
+equation in two variables algebraically and graphically. For example, find the points of
+intersection between the line y = −3x and the circle x² + y² = 3."
+Strand: FUNCTIONS—Interpret Functions (F.IF),
+Interpret quadratic functions that arise in applications in terms of a context (Standards F.IF.4–,
+6). Analyze functions using different representations (Standards F.IF.7-9).,
+Standard F.IF.4,"For a function that models a relationship between two quantities, in-
+terpret key features of graphs and tables in terms of the quantities, and sketch graphs
+showing key features given a verbal description of the relationship. Key features include
+intercepts; intervals where the function is increasing, decreasing, positive, or negative; rela-
+tive maximums and minimums; symmetries; and end behavior.★"
+csv
+Standard,Description
+Standard F.IF.5,"Relate the domain of a function to its graph and, where applicable, to the quantitative relationship it describes. Focus on quadratic functions; compare with linear and exponential functions. For example, if the function h(n) gives the number of person- hours it takes to assemble n engines in a factory, then the positive integers would be an appropriate domain for the function."
+Standard F.IF.6,Calculate and interpret the average rate of change of a function (presented symbolically or as a table) over a specified interval. Estimate the rate of change from a graph.⭑
+Standard F.IF.7,"Graph functions expressed symbolically and show key features of the graph, by hand in simple cases and using technology for more complicated cases.⭑"
+a.,"Graph linear and quadratic functions and show intercepts, maxima, and minima."
+b.,"Graph piecewise-defined functions and absolute value functions. Compare and contrast absolute value and piecewise-defined functions with linear, quadratic, and exponential functions. Highlight issues of domain, range, and usefulness when examining piecewise-defined functions."
+Standard F.IF.8,Write a function defined by an expression in different but equivalent forms to reveal and explain different properties of the function.
+a.,"Use the process of factoring and completing the square in a quadratic function to show zeros, extreme values, and symmetry of the graph, and interpret these in terms of a context."
+b.,"Use the properties of exponents to interpret expressions for exponential functions. For example, identify percent rate of change in functions such as y = (1.02)t, y = (0.97)t, y = (1.01)12t, y = (1.2)t/10, and classify them as representing exponential growth or decay."
+Standard F.IF.9,"Compare properties of two functions, each represented in a different way (algebraically, graphically, numerically in tables, or by verbal descriptions). Extend work with quadratics to include the relationship between coefficients and roots, and that once roots are known, a quadratic equation can be factored. For example, given a graph of one quadratic function and an algebraic expression for another, say which has the larger maximum."
+Strand,FUNCTIONS-Building Functions (F.BF)
+Standard F.BF.1,Write a quadratic or exponential function that describes a relationship between two quantities. ★
+a.,"Determine an explicit expression, a recursive process, or steps for calculation from a context."
+csv
+,,,
+csv
+Standard,Description
+G.SRT.1,Verify experimentally the properties of dilations given by a center and a scale factor.
+,"a. A dilation takes a line not passing through the center of the dilation to a parallel line, and leaves a line passing through the center unchanged."
+,b. The dilation of a line segment is longer or shorter in the ratio given by the scale factor.
+G.SRT.2,"Given two figures, use the definition of similarity in terms of similarity transformations to decide whether they are similar; explain using similarity transformations the meaning of similarity for triangles as the equality of all corresponding pairs of angles and the proportionality of all corresponding pairs of sides."
+G.SRT.3,Use the properties of similarity transformations to establish the AA criterion for two triangles to be similar.
+G.SRT.4,Prove theorems about triangles. Theorems include: a line parallel to one side of a triangle divides the other two proportionally and conversely; the Pythagorean Theorem (proved using triangle similarity).
+G.SRT.5,Use congruence and similarity criteria for triangles to solve problems and to prove relationships in geometric figures.
+G.SRT.6,"Understand that by similarity, side ratios in right triangles are properties of the angles in the triangle, leading to definitions of trigonometric ratios for acute angles."
+G.SRT.7,Explain and use the relationship between the sine and cosine of complementary angles.
+G.SRT.8,Use trigonometric ratios and the Pythagorean Theorem to solve right triangles in applied problems.
+
+# Table: Strand: GEOMETRY-Circles (G.C)
+Standard,Description
+G.C.1,Prove that all circles are similar.
+csv
+Standard,Description
+G.C.2,"Identify and describe relationships among inscribed angles, radii, and chords. Relationships include the relationship between central, inscribed, and circumscribed angles; inscribed angles on a diameter are right angles; the radius of a circle is perpendicular to the tangent where the radius intersects the circle."
+G.C.3,"Construct the inscribed and circumscribed circles of a triangle, and prove properties of angles for a quadrilateral inscribed in a circle."
+G.C.4,Construct a tangent line from a point outside a given circle to the circle.
+G.C.5,"Derive, using similarity, the fact that the length of the arc intercepted by an angle is proportional to the radius, and define the radian measure of the angle as the constant of proportionality; derive the formula for the area of a sector."
+
+# Table: Strand G.GPE
+Standard,Description
+G.GPE.1,Derive the equation of a circle of given center and radius using the Pythagorean Theorem; complete the square to find the center and radius of a circle given by an equation.
+G.GPE.4,"Use coordinates to prove simple geometric theorems algebraically. For example, prove or disprove that a figure defined by four given points in the coordinate plane is a rectangle; prove or disprove that the point (1, √3) lies on the circle centered at the origin and containing the point (0, 2)."
+G.GPE.6,Find the point on a directed line segment between two given points that partitions the segment in a given ratio.
+
+# Table: Strand G.GMD
+Standard,Description
+G.GMD.1,"Give an informal argument for the formulas for the circumference of a circle, area of a circle, volume of a cylinder, pyramid, and cone. Informal arguments for area formulas can make use of the way in which area scale under similarity transformations: when one figure in the plane results from another by applying a similarity transformation with scale factor k, its area is k² times the area of the first. Use dissection arguments, Cavalieri's principle, and informal limit arguments."
+G.GMD.3,"Use volume formulas for cylinders, pyramids, cones, and spheres to solve problems. Informal arguments for volume formulas can make use of the way in which volume scale under similarity transformations: when one figure results from"
+csv
+Strand,Description
+STATISTICS-Interpreting Categorical and Quantitative Data (S.ID),"Summarize, represent, and interpret data on two categorical or quantitative variables (Standard S.ID.5)."
+Standard S.ID.5,"Summarize categorical data for two categories in two-way frequency tables. Interpret relative frequencies in the context of the data (including joint, marginal, and condition reltive frequencies). Recognize possible associations and trends in the date."
+
+,
+# Strand: STATISTICS-Conditional Probability and the Rules of Probability (S.CP)
+,"Understand independence and conditional probability and use them to interpret data (Standards S.CP.1, 4-5). Use the rules of probability to compute probabilities of compound events in a uniform probability model (Standard S.CP.6)."
+Standard S.CP.1,"Describe events as subsets of a sample space (the set of outcomes) using characteristics (or categories) of the outcomes, or as unions, intersections, or complements of other events (“or,”""and,""""not”)."
+Standard S.CP.4,"Construct and interpret two-way frequency tables of data when two categories are associated with each object being classified. Use the two-way table as a sample space to decide if events are independent and to approximate conditional probabilities. For example, collect data from a random sample of students in your school on their favorite subject among math, science, and English. Estimate the probability that a randomly selected student from your school will favor science given that the student is in tenth grade. Do the same for other subjects and compare the results."
+Standard S.CP.5,"Recognize and explain the concepts of conditional probability and independence in everyday language and everyday situations. For example, compare the chance of having lung cancer if you are are a smoker with the chance of being a smoker if you have lung cancer."
+Standard S.CP.6,"Find the conditional probability of A given B as the fraction of B's outcomes that also belong to A, and interpret the answer in terms of the model."
+csv
+,
+Strand,NUMBER AND QUANTITY-Complex Number System (N.CN)
+,Perform arithmetic operations with complex numbers (Standard N.CN.3). Represent complex numbers and their operations on the complex plane (Standards N.CN.4-5).
+Standard,N.CN.3 Find the conjugate of a complex number; use conjugates to find moduli and quotients of complex numbers.
+Standard,"N.CN.4 Represent complex numbers on the complex plane in rectangular form, and explain why the rectangular form of a given complex number represents the same number."
+Standard,"N.CN.5 Represent addition, subtraction, and multiplication geometrically on the complex plane; use properties of this representation for computation. For example, (-1 + √3 i)3 = 8 because (-1 + √3 i) has modulus 2 and argument 120°."
+
+,
+Strand,ALGEBRA-Reasoning With Equations and Inequalities (A.REI)
+,Solve systems of equations (Standards A.REI.8–9).
+Standard,A.REI.8 Represent a system of linear equations as a single-matrix equation in a vector variable.
+Standard,"A.REI.9 Find the inverse of a matrix if it exists, and use it to solve systems of linear equations (using technology for matrices of dimension 3 x 3 or greater)."
+
+,
+Strand,FUNCTIONS—Interpreting Functions (F.IF)
+,Analyze functions using different representations (Standards F.IF.10–11).
+Standard,F.IF.10 Use sigma notation to represent the sum of a finite arithmetic or geometric series.
+Standard,"F.IF.11 Represent series algebraically, graphically, and numerically."
+
+,
+Strand,GEOMETRY-Expressing Geometric Properties With Equations (G-GPE)
+,Translate between the geometric description and the equation for a conic section (Standards G.GPE.2-3).
+Standard,G.GPE.2 Derive the equation of a parabola given a focus and directrix.
+Standard,"G.GPE.3 Derive the equations of ellipses and hyperbolas given the foci, using the fact that the sum or difference of distances from the foci is constant."
+csv
+Standard,Description
+Standard S.CP.2,"Understand that two events A and B are independent if the probability of A and B occurring together is the product of their probabilities, and use this characterization to determine if they are independent."
+Standard S.CP.3,"Understand the conditional probability of A given B as P(A and B)/P(B), and interpret independence of A and B as saying that the conditional probability of B given A is the same as the probability of B."
+Standard S.CP.7,"Apply the Addition Rule, P(A or B) = P(A) + P(B) – P(A and B), and interpret the answer in terms of the model."
+Standard S.CP.8,"Apply the general Multiplication Rule in a uniform probability model, P(A and B) = P(A)P(B|A) = P(B)P(A|B), and interpret the answer in terms of the model."
+csv
+# No tables found in the document
+csv
+# Table: MATHEMATICAL PRACTICES (MP)
+Standard,Description
+SIII.MP.1,"Make sense of problems and persevere in solving them. Explain the meaning of a problem and look for entry points to its solution. Analyze givens, constraints, relationships, and goals. Make conjectures about the form and meaning of the solution, plan a solution pathway, and continually monitor progress asking, ""Does this make sense?"" Consider analogous problems, make connections between multiple representations, identify the correspondence between different approaches, look for trends, and transform algebraic expressions to highlight meaningful mathematics. Check answers to problems using a different method."
+SIII.MP.2,"Reason abstractly and quantitatively. Make sense of the quantities and their relationships in problem situations. Translate between context and algebraic representations by contextualizing and decontextualizing quantitative relationships. This includes the ability to decontextualize a given situation, representing it algebraically and manipulating symbols fluently as well as the ability to contextualize algebraic representations to make sense of the problem."
+SIII.MP.3,"Construct viable arguments and critique the reasoning of others. Understand and use stated assumptions, definitions, and previously established results in constructing arguments. Make conjectures and build a logical progression of statements to explore the truth of their conjectures. Justify conclusions and communicate them to others. Respond to the arguments of others by listening, asking clarifying questions, and critiquing the reasoning of others."
+SIII.MP.4,"Model with mathematics. Apply mathematics to solve problems arising in everyday life, society, and the workplace. Make assumptions and approximations, identifying important quantities to construct a mathematical model. Routinely interpret mathematical results in the context of the situation and reflect on whether the results make sense, possibly improving the model if it has not served its purpose."
+SIII.MP.5,"Use appropriate tools strategically. Consider the available tools and be sufficiently familiar with them to make sound decisions about when each tool might be helpful, recognizing both the insight to be gained as well as the limitations. Identify relevant external mathematical resources and use them to pose or solve problems. Use tools to explore and deepen their understanding of concepts."
+SIII.MP.6,"Attend to precision. Communicate precisely to others. Use explicit definitions in discussion with others and in their own reasoning. They state the meaning of the symbols they choose. Specify units of measure and label axes to clarify the correspondence with quantities in a problem. Calculate accurately and efficiently, express numerical answers with a degree of precision appropriate for the problem context."
+csv
+Standard,Description
+SIII.MP.7,"Look for and make use of structure. Look closely at mathematical relationships to identify the underlying structure by recognizing a simple structure within a more complicated structure. See complicated things, such as some algebraic expressions, as single objects or as being composed of several objects. For example, see 5-3(x - y)² as 5 minus a positive number times a square and use that to realize that its value cannot be more than 5 for any real numbers x and y."
+SIII.MP.8,"Look for and express regularity in repeated reasoning. Notice if reasoning is repeated, and look for both generalizations and shortcuts. Evaluate the reasonableness of intermediate results by maintaining oversight of the process while attending to the details."
+N.CN.8,"Extend polynomial identities to the complex numbers. For example, rewrite x² + 4 as (x + 2i)(x – 2i)."
+N.CN.9,Know the Fundamental Theorem of Algebra. Limit to polynomials with real coefficients.
+A.SSE.1,Interpret polynomial and rational expressions that represent a quantity in terms of its context.★
+,"a. Interpret parts of an expression, such as terms, factors, and coefficients."
+,"b. Interpret complex expressions by viewing one or more of their parts as a single entity. For example, examine the behavior of P(1+r/n)nt as n becomes large."
+A.SSE.2,"Use the structure of an expression to identify ways to rewrite it. For example, see x4 – y⁴ as (x2)2 – (y2)², thus recognizing it as a difference of squares that can be factored as (x² – y²)(x² + y²)."
+A.SSE.4,Understand the formula for the sum of a series and use the formula to solve problems.
+,a. Derive the formula for the sum of an arithmetic series.
+,"b. Derive the formula for the sum of a geometric series, and use the formula to solve problems. Extend to infinite geometric series. For example, calculate mortgage payments.⭑"
+csv
+Strand,Standard,Description
+ALGEBRA—Arithmetic With Polynomials and Rational Expressions (A.APR),,"Perform arithmetic operations on polynomials, extending beyond the quadratic polynomials (Standard A.APR.1). Understand the relationship between zeros and factors of polynomials (Standards A.APR.2–3). Use polynomial identities to solve problems (Standards A.APR.4–5). Rewrite rational expressions (Standards A.APR.6-7)."
+ALGEBRA—Arithmetic With Polynomials and Rational Expressions (A.APR),A.APR.1,"Understand that all polynomials form a system analogous to the integers, namely, they are closed under the operations of addition, subtraction, and multiplication; add, subtract, and multiply polynomials."
+ALGEBRA—Arithmetic With Polynomials and Rational Expressions (A.APR),A.APR.2,"Know and apply the Remainder Theorem: For a polynomial p(x) and a number a, the remainder on division by x – a is p(a), so p(a) = 0 if and only if (x – a) is a factor of p(x)."
+ALGEBRA—Arithmetic With Polynomials and Rational Expressions (A.APR),A.APR.3,"Identify zeros of polynomials when suitable factorizations are available, and use the zeros to construct a rough graph of the function defined by the polynomial."
+ALGEBRA—Arithmetic With Polynomials and Rational Expressions (A.APR),A.APR.4,"Prove polynomial identities and use them to describe numerical relationships. For example, the polynomial identity (x2 + y2)2 = (x2 – y²)2 + (2xy)² can be used to generate Pythagorean triples."
+ALGEBRA—Arithmetic With Polynomials and Rational Expressions (A.APR),A.APR.5,"Know and apply the Binomial Theorem for the expansion of (x + y)ⁿ in powers of x and y for a positive integer n, where x and y are any numbers. For example, with coefficients determined by Pascal's Triangle."
+ALGEBRA—Arithmetic With Polynomials and Rational Expressions (A.APR),A.APR.6,"Rewrite simple rational expressions in different forms; write a(x)/b(x) in the form q(x) + r(x)/b(x), where a(x), b(x), q(x), and r(x) are polynomials with the degree of r(x) less than the degree of b(x), using inspection, long division or, for the more complicated examples, a computer algebra system."
+ALGEBRA—Arithmetic With Polynomials and Rational Expressions (A.APR),A.APR.7,"Understand that rational expressions form a system analogous to the rational numbers, closed under addition, subtraction, multiplication, and division by a nonzero rational expression; add, subtract, multiply, and divide rational expressions."
+
+# Strand: ALGEBRA: CREATING EQUATIONS (A.CED)
+Strand,Standard,Description
+ALGEBRA: CREATING EQUATIONS (A.CED),,"Create equations that describe numbers or relationships, using all available types of functions to create such equations (Standards A.CED.1-4)."
+ALGEBRA: CREATING EQUATIONS (A.CED),A.CED.1,"Create equations and inequalities in one variable and use them to solve problems. Include equations arising from linear and quadratic functions, and simple rational and exponential functions."
+ALGEBRA: CREATING EQUATIONS (A.CED),A.CED.2,Create equations in two or more variables to represent relationships between quantities; graph equations on coordinate axes with labels and scales.
+ALGEBRA: CREATING EQUATIONS (A.CED),A.CED.3,"Represent constraints by equations or inequalities, and by systems of equations and/or inequalities, and interpret solutions as viable or non-viable options in"
+csv
+Standard,Description
+A.CED.4,"Rearrange formulas to highlight a quantity of interest, using the same reasoning as in solving equations. For example, rearrange the compound interest formula to solve for t: A = P(1+r/n)nt"
+
+,
+# Strand: ALGEBRA: REASONING WITH EQUATIONS AND INEQUALITIES (A.REI)
+,
+Standard,Description
+A.REI.2,"Solve simple rational and radical equations in one variable, and give examples showing how extraneous solutions may arise."
+A.REI.11,"Explain why the x-coordinates of the points where the graphs of the equations y = f(x) and y = g(x) intersect are the solutions of the equation f(x) = g(x); find the solutions approximately, for example, using technology to graph the functions, make tables of values, or find successive approximations. Include cases where f(x) and/ or g(x) are linear, polynomial, rational, absolute value, exponential, and logarithmic functions."
+
+,
+# Strand: FUNCTIONS—Interpreting Functions (F.IF)
+,
+Standard,Description
+F.IF.4,"For a function that models a relationship between two quantities, interpret key features of graphs and tables in terms of the quantities, and sketch graphs showing key features given a verbal description of the relationship. Key features include intercepts; intervals where the function is increasing, decreasing, positive, or negative; relative maximums and minimums; symmetries; end behavior; and periodicity."
+F.IF.5,"Relate the domain of a function to its graph and, where applicable, to the quantitative relationship it describes. For example, if the function h(n) gives the number of person-hours it takes to assemble n engines in a factory, then the positive integers would be an appropriate domain for the function."
+F.IF.6,Calculate and interpret the average rate of change of a function (presented symbolically or as a table) over a specified interval. Estimate the rate of change from a graph.
+F.IF.7,"Graph functions expressed symbolically and show key features of the graph, by hand in simple cases and using technology for more complicated cases."
+,"Graph square root, cube root, and piecewise-defined functions, including step functions and absolute value functions. Compare and contrast square root, cubed root, and step functions with all other functions."
+csv
+c.,"Graph polynomial functions, identifying zeros when suitable factorizations are available, and showing end behavior."
+d.,"Graph rational functions, identifying zeros and asymptotes when suitable factorizations are available, and showing end behavior."
+e.,"Graph exponential and logarithmic functions, showing intercepts and end behavior; and trigonometric functions, showing period, midline, and amplitude."
+Standard F.IF.8,Write a function defined by an expression in different but equivalent forms to reveal and explain different properties of the function.
+Standard F.IF.9,"Compare properties of two functions each represented in a different way (algebraically, graphically, numerically in tables, or by verbal descriptions). For example, given a graph of one quadratic function and an algebraic expression for another, say which has the larger maximum."
+
+# Strand: FUNCTIONS-Building Functions (F.BF)
+,Build a function that models a relationship between two quantities. Develop models for more complex or sophisticated situations (Standards F.BF.1). Build new functions from existing functions (Standards F.BF.3–4).
+Standard F.BF.1,Write a function that describes a relationship between two quantities. ★
+b.,"Combine standard function types using arithmetic operations. For example, build a function that models the temperature of a cooling body by adding a constant function to a decaying exponential, and relate these functions to the model."
+Standard F.BF.3,"Identify the effect on the graph of replacing f(x) by f(x) + k, k f(x), f(kx), and f(x + k) for specific values of k (both positive and negative); find the value of k given the graphs. Note the effect of multiple transformations on a single function and the common effect of each transformation across function types. Include functions defined only by a graph. Experiment with cases and illustrate an explanation of the effects on the graph using technology. Include recognizing even and odd functions from their graphs and algebraic expressions for them."
+Standard F.BF.4,Find inverse functions.
+a.,"Solve an equation of the form f(x) = c for a simple function f that has an inverse and write an expression for the inverse. Include linear, quadratic, exponential, logarithmic, rational, square root, and cube root functions. For example, f(x) = 2x³ or f(x) = (x+1)/(x-1) for x ≠ 1."
+
+# Strand: FUNCTIONS-Linear, Quadratic, and Exponential Models (F.LE)
+,"Construct and compare linear, quadratic, and exponential models and solve problems (Standards F.LE.3–4). Interpret expressions for functions in terms of the situation it models."
+csv
+,
+Introduce f(x) = ex as a model for continuous growth (Standard F.LE.5).,
+■Standard F.LE.3 Observe using graphs and tables that a quantity increasing exponentially,
+"eventually exceeds a quanitity increasing linearly, quadratically, or (more generally) as a",
+polynomial function.,
+"■ Standard F.LE.4 For exponential models, express as a logarithm the solution to abct = d",
+"where a, c, and d are numbers and the base b is 2, 10, or e; evaluate the logarithm using",
+technology. Include the relationship between properties of logarithms and properties of,
+"exponents, such as the connection between the properties of exponents and the basic",
+logarithm property that log xy = log x + log y.,
+"■ Standard F.LE.5 Interpret the parameters in a linear, quadratic, or exponential function in",
+terms of a context.,
+,
+#Strand: FUNCTIONS-Trigonometric Functions (F.TF),
+Extend the domain of trigonometric functions using the unit circle (Standards F.TF.1-3).,
+Model periodic phenomena with trigonometric functions (Standards F.TF.5-7).,
+Standard F.TF.1 Understand radian measure of an angle as the length of the arc on the,
+unit circle subtended by the angle.,
+Standard F.TF.2 Explain how the unit circle in the coordinate plane enables the extension,
+"of trigonometric functions to all real numbers, interpreted as radian measures of angles",
+traversed counterclockwise around the unit circle.,
+"Standard F.TF.3 Use special triangles to determine geometrically the values of sine, co-",
+"sine, tangent for N/3, N/4 and N6, and use the unit circle to express the values of sine,",
+"cosine, and tangent for N – x, П + x, and 2N − x in terms of their values for x, where x is",
+any real number.,
+Standard F.TF.5 Choose trigonometric functions to model periodic phenomena with,
+"specified amplitude, frequency, and midline.",
+Standard F.TF.7 Use inverse functions to solve trignometric equations that arise in mod-,
+eling context; evaluate the solutions using technology and interpret them in terms of,
+context. Limit solutions to a given interval. ★,
+,
+"#Strand: GEOMETRY—Similarity, Right Triangles, and Trigonometry (G.SRT)",
+Apply trigonometry to general triangles. With respect to the general case of the Laws of Sines,
+"and Cosines, the definitions of sine and cosine must be extended to obtuse angles (Standards",
+G.SRT.9-11).,
+Standard G.SRT.9 Derive the formula A = 1½ ab sin(C) for the area of a triangle by drawing,
+an auxiliary line from a vertex perpendicular to the opposite side.,
+Standard G.SRT.10 Prove the Laws of Sines and Cosines and use them to solve problems.,
+csv
+# Table: Strand: NUMBER AND QUANTITY-Complex Number System (N.CN)
+,
+Standard N.CN.3,Find the conjugate of a complex number; use conjugates to find moduli and quotients of complex numbers.
+Standard N.CN.4,"Represent complex numbers on the complex plane in rectangular form and polar form (including real and imaginary numbers), and explain why the rectangular form of a given complex number represents the same number."
+Standard N.CN.5,"Represent addition, subtraction, multiplication, and conjugation of complex numbers geometrically on the complex plane; use properties of this representation for computation. For example, (-1 + √3 i)3 = 8 because (-1 + √3 i) has modulus 2 and argument 120°."
+Standard N.CN.6,"Calculate the distance between numbers in the complex plane as the modulus of the difference, and the midpoint of a segment as the average of the numbers at its endpoints."
+Standard N.CN.10,Multiply complex numbers in polar form and use DeMoivre's Theorem to find roots of complex numbers.
+
+# Table: Strand: FUNCTIONS—Interpreting Functions (F.IF)
+,
+Standard F.IF.7,"Graph functions expressed symbolically, and show key features of the graph, by hand in simple cases and using technology for more complicated cases."
+d,"Graph rational functions, identifying zeros, asymptotes, and point discontinuities when suitable factorizations are available, and showing end behavior."
+f,Define a curve parametrically and draw its graph.
+
+# Table: Strand: FUNCTIONS-Building Functions (F.BF)
+,
+Standard F.BF.1,Write a function that describes a relationship between two quantities.
+c,"Compose functions. For example, if T(y) is the temperature in the atmosphere as a function of height, and h(t) is the height of a weather balloon as a function of time, then T(h(t)) is the temperature at the location of the weather balloon as a function of time."
+csv
+Standard,Description
+F.BF.4,Find inverse functions.
+F.BF.4b,Verify by composition that one function is the inverse of another.
+F.BF.4c,"Read values of an inverse function from a graph or a table, given that the function has an inverse."
+F.BF.4d,Produce an invertible function from a non-invertible function by restricting the domain.
+F.BF.5,"Understand the inverse relationship between exponents and logarithms, and use this relationship to solve problems involving logarithms and exponents."
+F.TF.4,Use the unit circle to explain symmetry (odd and even) and periodicity of trigonometric functions.
+F.TF.6,Understand that restricting a trigonometric function to a domain on which it is always increasing or always decreasing allows its inverse to be constructed.
+F.TF.7,"Use the inverse functions to solve trigonometric equations that arise in the modeling contexts; evaluate the solutions using technology, and interpret them in terms of the context."
+F.TF.9,"Prove the addition and subtraction formulas for sine, cosine, and tangent, and use them to solve problems."
+G.GMD.2,Give an informal argument using Cavalieri's principle for the formulas for the volume of a sphere and other solid figures.
+S.CP.9,Use permutations and combinations to compute probabilities of compound events and solve problems.
+csv
+# Table: MATHEMATICAL PRACTICES
+,MATHEMATICAL PRACTICES
+1.,Make sense of problems and persevere in solving them.
+2.,Reason abstractly and quantitatively.
+3.,Construct viable arguments and critique the reasoning of others.
+4.,Model with mathematics.
+5.,Use appropriate tools strategically.
+6.,Attend to precision.
+7.,Look for and make use of structure.
+8.,Look for and express regularity in repeated reasoning.
+csv
+Strand,Description
+Standard P.MP.1,"Make sense of problems and persevere in solving them. Explain the meaning of a problem and look for entry points to its solution. Analyze givens, constraints, relationships, and goals. Make conjectures about the form and meaning of the solution, plan a solution pathway, and continually monitor progress asking, ""Does this make sense?"" Consider analogous problems, make connections between multiple representations, identify the correspondence between different approaches, look for trends, and transform algebraic expressions to highlight meaningful mathematics. Check answers to problems using a different method."
+Standard P.MP.2,"Reason abstractly and quantitatively. Make sense of the quantities and their relationships in problem situations. Translate between context and algebraic representations by contextualizing and decontextualizing quantitative relationships. This includes the ability to decontextualize a given situation, representing it algebraically and manipulating symbols fluently as well as the ability to contextualize algebraic representations to make sense of the problem."
+Standard P.MP.3,"Construct viable arguments and critique the reasoning of others. Understand and use stated assumptions, definitions, and previously established results in constructing arguments. Make conjectures and build a logical progression of statements to explore the truth of their conjectures. Justify conclusions and communicate them to others. Respond to the arguments of others by listening, asking clarifying questions, and critiquing the reasoning of others."
+Standard P.MP.4,"Model with mathematics. Apply mathematics to solve problems arising in everyday life, society, and the workplace. Make assumptions and approximations, identifying important quantities to construct a mathematical model. Routinely interpret mathematical results in the context of the situation and reflect on whether the results make sense, possibly improving the model if it has not served its purpose."
+Standard P.MP.5,"Use appropriate tools strategically. Consider the available tools and be sufficiently familiar with them to make sound decisions about when each tool might be helpful, recognizing both the insight to be gained as well as the limitations. Identify relevant external mathematical resources and use them to pose or solve problems. Use tools to explore and deepen their understanding of concepts."
+Standard P.MP.6,"Attend to precision. Communicate precisely to others. Use explicit definitions in discussion with others and in their own reasoning. They state the meaning of the symbols they choose. Specify units of measure and label axes to clarify the correspondence with quantities in a problem. Calculate accurately and efficiently, express numerical answers with a degree of precision appropriate for the problem context."
+csv
+Standard,Description
+Standard P.MP.7,"Look for and make use of structure. Look closely at mathematical relationships to identify the underlying structure by recognizing a simple structure within a more complicated structure. See complicated things, such as some algebraic expressions, as single objects or as being composed of several objects. For example, see 5-3(x - y)² as 5 minus a positive number times a square and use that to realize that its value cannot be more than 5 for any real numbers x and y."
+Standard P.MP.8,"Look for and express regularity in repeated reasoning. Notice if reasoning is repeated, and look for both generalizations and shortcuts. Evaluate the reasonableness of intermediate results by maintaining oversight of the process while attending to the details."
+Strand,NUMBER AND QUANTITY-Vector and Matrix Quantities (N.VM)
+,Represent and model with vector quantities (Standards 1-3). Perform operations on vectors (Standards 4-5). Perform operations on matrices and use matrices in applications (Standards 6-13).
+Standard N.VM.1,"Recognize vector quantities as having both magnitude and direction. Represent vector quantities by directed line segments, and use appropriate symbols for vectors and their magnitudes (e.g., v, |v|, ||v|\, v)."
+Standard N.VM.2,Find the components of a vector by subtracting the coordinates of an initial point from the coordinates of a terminal point.
+Standard N.VM.3,Solve problems involving velocity and other quantities that can be represented by vectors.
+Standard N.VM. 4,Add and subtract vectors.
+a.,"Add vectors end to end, component-wise, and by the parallelogram rule. Understand that the magnitude of a sum of two vectors is typically not the sum of the magnitudes."
+b.,"Given two vectors in magnitude and direction form, determine the magnitude and direction of their sum."
+c.,"Understand vector subtraction v – w as v + (−w), where –w is the additive inverse of w, with the same magnitude as w and pointing in the opposite direction. Represent vector subtraction graphically by connecting the tips in the appropriate order, and perform vector subtraction component-wise."
+Standard N.VM.5,Multiply a vector by a scalar.
+a.,"Represent scalar multiplication graphically by scaling vectors and possibly reversing their direction; perform scalar multiplication component-wise, e.g., as c(vx, vy) = (cvx, cvy)."
+csv
+# Table: N/A
+csv
+Standard N.CN.6,"Calculate the distance between numbers in the complex plane as the
+modulus of the difference, and the midpoint of a segment as the average of the num-
+bers at its endpoints."
+Standard N.CN.10,"Multiply complex numbers in polar form and use DeMoivre's Theorem
+to find roots of complex numbers."
+
+# Strand: ALGEBRA: REASONING WITH EQUATIONS AND INEQUALITIES (A.REI)
+Solve systems of equations (Standards 8-9).
+Standard A.REI.8,"Represent a system of linear equations as a single matrix equation in a
+vector variable."
+Standard A.REI.9,"Find the inverse of a matrix, if it exists, and use it to solve systems of
+linear equations (using technology for matrices of dimension 3 x 3 or greater)."
+
+# Strand: FUNCTIONS—Interpreting Functions (F.IF)
+"Analyze functions using different representations (Standard 7, 10–11)."
+Standard F.IF.7,"Graph functions expressed symbolically, and show key features of the
+graph, by hand in simple cases and using technology for more complicated cases."
+d.,"Graph rational functions, identifying zeros, asymptotes, and point discontinuities
+when suitable factorizations are available, and showing end behavior."
+f.,Define a curve parametrically and draw its graph.
+Standard F.IF.10,"Use sigma notation to represent the sum of a finite arithmetic or geo-
+metric series."
+Standard F.IF.11,"Represent series algebraically, graphically, and numerically."
+
+# Strand: FUNCTIONS-Building Functions (F.BF)
+"Build a function that models a relationship between two quantities (Standard 1). Build new
+functions from existing functions (Standard 4-5)."
+Standard F.BF.1,Write a function that describes a relationship between two quantities.
+c.,"Compose functions. For example, if T(y) is the temperature in the atmosphere as a
+function of height, and h(t) is the height of a weather balloon as a function of time, then
+T(h(t)) is the temperature at the location of the weather balloon as a function of time."
+Standard F.BF.4,Find inverse functions.
+b.,Verify by composition that one function is the inverse of another.
+csv
+,
+c.,"Read values of an inverse function from a graph or a table, given that the function has an inverse."
+d.,Produce an invertible function from a non-invertible function by restricting the domain.
+Standard F.BF.5,Understand the inverse relationship between exponents and logarithms and use this relationship to solve problems involving logarithms and exponents.
+Strand,FUNCTIONS-Trigonometric Functions (F.TF)
+,Extend the domain of trigonometric functions using the unit circle (Standard 4). Model periodic phenomena with trigonometric functions (Standard 6-7). Prove and apply trigonometric identities (Standard 9).
+Standard F.TF.4,Use the unit circle to explain symmetry (odd and even) and periodicity of trigonometric functions.
+Standard F.TF.6,Understand that restricting a trigonometric function to a domain on which it is always increasing or always decreasing allows its inverse to be constructed.
+Standard F.TF.7,"Use inverse functions to solve trigonometric equations that arise in modeling contexts; evaluate the solutions using technology, and interpret them in terms of the context"
+Standard F.TF.9,"Prove the addition and subtraction formulas for sine, cosine, and tangent, and use them to solve problems."
+Strand,GEOMETRY-Geometric Measurement and Dimension (G.GMD)
+,Explain volume formulas and use them to solve problems (Standard 2).
+Standard G.GMD.2,Give an informal argument using Cavalieri's principle for the formulas for the volume of a sphere and other solid figures.
+Strand,GEOMETRY-Expressing Geometric Properties With Equations (G.GPE)
+,Translate between the geometric description and the equation for a conic section (Standards 2-3).
+Standard G.GPE.2,Derive the equation of a parabola given a focus and a directrix.
+Standard G.GPE.3,"Derive the equations of ellipses and hyperbolas given the foci, using the fact that the sum or difference of distances from the foci is constant."
+csv
+Strand,Description
+Standard S.CP.2,"Understand that two events A and B are independent if the probability of A and B occurring together is the product of their probabilities, and use this characterization to determine if they are independent."
+Standard S.CP.3,"Understand the conditional probability of A given B as P(A and B)/P(B), and interpret independence of A and B as saying that the conditional probability of B given A is the same as the probability of B."
+Standard S.CP.7,"Apply the Addition Rule, P(A or B) = P(A) + P(B) – P(A and B), and interpret the answer in terms of the model."
+Standard S.CP.8,"Apply the general Multiplication Rule in a uniform probability model, P(A andB) = P(A)P(B|A) = P(B)P(A\B), and interpret the answer in terms of the model."
+Standard S.CP.9,Use permutations and combinations to compute probabilities of compound events and solve problems.
+There is no tabular data in this image.
+District,Name,City
+District 1,Jennie L. Earl,Morgan, UT
+District 2,Scott L. Hansen,Liberty, UT
+District 3,Matt Hymas,Stansbury Park, UT
+District 4,Brent J. Strate,South Ogden, UT
+District 5,Laura Belnap,Bountiful, UT
+District 6,Stacey Hutchings,Kearns, UT
+District 7,Carol Barlow Lear,"Salt Lake City, UT"
+District 8,Janet A. Cannon,Holladay, UT
+District 9,Cindy Davis,"Cedar Hills, UT"
+District 10,Molly Hart,Sandy, UT
+District 11,Natalie Cline,Bluffdale, UT
+District 12,James Moss Jr.,Midway, UT
+District 13,Randy Boothe,"Spanish Fork, UT"
+District 14,Mark Huntsman,Fillmore, UT
+District 15,Kristan Norton,"St. George, UT"
+,Sydnee Dickson,"State Superintendent
+of Public Instruction"
+,Lorraine Austin,Secretary to the Board
+csv
+# Table: SECONDARY SUPPLEMENTAL MATHEMATICS STANDARDS
+Course,Page
+College Prep Mathematics,55
+Introductory Calculus,61
+Introductory Statistics,65
+Mathematical Decision Making for Life,71
+Mathematics of Personal Finance,77
+Modern Mathematics,85
+COLLEGE PREP MATHEMATICS
+Prerequisite: Secondary III
+College Prep Math formalizes and reinforces concepts from the Secondary Mathematics series
+to provide students with the foundational skills and understanding prerequisite to College
+Algebra (1050). Students will reason abstractly and quantitatively while solving linear and
+quadratic equations and linear inequalities. They will efficiently use polynomial and rational
+expressions and functions, radicals and complex numbers, and exponential and logarithmic
+expressions and functions to model and solve mathematical problems. They will explore conic
+sections and represent parabolic data. Throughout this course, students will make sense of
+problems and persevere in solving them, use tools strategically, and attend to precision.
+Standard I: Students will develop fluency with the language and operations of alge-
+bra to evaluate, analyze, and solve problems.
+Objective 1: Perform operations and simplify expressions with rational,
+irrational, and complex numbers.
+a. Rewrite expressions involving radicals and rational exponents using
+the properties of exponents.
+b. Add, subtract, multiply, and divide radical expressions.
+c. Simplify expressions involving complex numbers and express them
+in standard form, a + bi.
+Objective 2: Solve systems of equations and inequalities.
+a. Solve systems of linear equations in two variables algebraically and
+graphically.
+b. Solve a simple system consisting of a linear equation and a quadratic
+equation in two variables algebraically and graphically.
+c. Use matrices to solve systems of linear equations.*
+d. Model and solve problems arising from authentic situations using
+systems of equations and inequalities.
+Objective 3: Solve and graph quadratic equations.
+a. Use the method of completing the square to transform any quadrat-
+ic equation into an equation of the form (x – p)² = q, and use this to
+derive the quadratic formula.
+b. Solve quadratic equations by inspection, taking square roots, factor-
+ing, completing the square, and using the quadratic formula.
+c. Model and solve real-world situations using quadratic relationships
+in two variables.
+ADA Compliant May 2021
+csv
+# Table: Mathematical Language and Symbols Students Should Use
+asymptote,completing the square,complex number,radical
+compound inequality,extraneous root,quadratic formula,minimum
+rational,irrational,system of equations
+maximum,intercept,
+csv
+# Table: Mathematical Language and Symbols Students Should Use:
+domain,exponential function,function,f(x)
+interval notation,inverse,logarithm,parameter
+parent function,piecewise function,range,relation
+transformation,intercept,maximum,minimum
+csv
+# Table: Mathematical Language and Symbols Students Should Use:
+eccentricity,ellipse,foci,hyperbola,parabola
+vertex,parallel,perpendicular,,
+Pythagorean Theorem,directrix,,,
+csv
+# Table: Mathematical Language and Symbols Students Should Use
+bivariate,categorical,cumulative frequency plot
+interquartile range,measures of center,measures of variability (spread)
+normal distribution,quantitative data,univariate,regression
+csv
+INTRODUCTORY CALCULUS
+Prerequisite: Pre-calculus or Math 1050
+UTAH CORE STATE STANDARDS for MATHEMATICS
+
+Standard I,Students will develop a conceptual understanding of limits and the characteristics of functions.
+Objective 1,"Analyze and perform applications using characteristics of functions, including polynomial, radical, rational, piece-wise, power, exponential, and logarithmic functions."
+a,Sketch graphs showing key features of functions.
+b,"Perform transformations of functions graphically and algebraically by changing one or more parameters in y = af (x), y = f (ax), y = f ( x) + a, and y = f (x + a) for both positive and negative a."
+c,"Describe and analyze local and global behavior of functions, including increasing, decreasing, asymptotic and end behavior."
+d,Recognize even and odd functions from their graphs and algebraic expressions for them.
+e,"Identify the domain, range, and other attributes of families of functions."
+Objective 2,Demonstrate an understanding of the nature of limits.
+a,Estimate the limit of a function at a point using graphs and tables.
+b,Calculate limits using algebra.
+c,Calculate limits involving infinity.
+d,Use the asymptotic behavior of a function to identify limits.
+Objective 3,Understand the concept of continuity as a property of functions.
+a,Understand the definition of continuity as it applies to functions.
+b,Understand the role of limits in continuity.
+c,"Demonstrate an understanding of the implications of continuity on the graphs of functions, including use of the Intermediate Value Theorem and Extreme Value Theorem."
+csv
+Mathematical Language and Symbols Students Should Use:,,,
+polynomial,radical,rational,piece-wise
+exponential,logarithmic,f(x),power
+asymptote,even function,odd function,limit
+continuity,Intermediate Value Theorem,Extreme Value Theorem,
+csv
+# Table: Mathematical Language and Symbols Students Should Use
+Term,Related Term
+rate of change,derivative
+product rule,quotient rule
+local linearity,implicit differentiation
+,"AY, DY"
+," ""AX"," DX"""
+differentiable,power rule
+composite function,chain rule
+csv
+Mathematical Language and Symbols Students Should Use:,,,
+average value,definite integral,Riemann sum,antiderivative
+Fundamental Theorem of Calculus,∫f(x),,
+csv
+# No tables found in the document
+csv
+# Table: Mathematical Language and Symbols Students Should Use: data
+survey,SRS (simple random sampling),cluster sampling
+stratified sampling,systematic sampling,observation
+treatment,control,placebo
+blocking,census,blinding
+consumer price index,causality,percent change
+,correlation,
+csv
+# Table: Mathematical Language and Symbols Students Should Use
+quantitative data,categorical data,dot plot,stem plot,bar graph
+frequency table,mean,median,mode,range
+IQR (inter-quartile range),,standard deviation,,
+standardized scores,skewed,outlier,quartile,percentile
+normal distribution,mean,standard,deviation,
+68%-95%-99.7% rule,,,,
+csv
+# Table title: Mathematical Language and Symbols Students Should Use
+bivariate data,linear and non-linear data,slope,rate of change
+regression,correlation,coefficient,scatter plot
+interpolation,extrapolation,prediction,hypothesis test
+confidence interval,,,
+csv
+# Table: Mathematical Language and Symbols Students Should Use
+theoretical,subjective and experimental probability,independence
+conditionalprobability,two-way table,permutation
+simulation,tree diagram,addition and multiplication laws
+"P(A), P(A|B), nCr, nPr",,combination
+csv
+Standard I,Students will use mathematical analysis to manage personal resources and make financially sound decisions.
+Objective 1,"Determine, represent and analyze mathematical models for various types of income calculations."
+a.,"Compute and compare hourly wages, given commissions or salaries and hours worked."
+b.,"Compute gross earnings based on commissions, salaries, hourly wages, or piece-work."
+c.,Compute net earnings after common payroll deductions.
+d.,Research and compare annual earnings for various employment opportunities.
+Objective 2,"Create, represent, and justify personal budgets."
+a.,"Create spreadsheets, tables, and charts that represent personal income and expenses."
+b.,"Calculate the total costs of owning a car, including monthly payments, insurance, maintenance, and fuel."
+c.,"Analyze and model periodic monthly expenditures, including those that change during the year such, as heating and cooling costs."
+Objective 3,Analyze mathematical models related to investing and borrowing money.
+a.,Compute and compare the anticipated earnings for investments and savings plans.
+b.,Interpret stock market data charts.
+c.,"Research and predict retirement income from savings, Social Security benefits, pensions, and investments."
+csv
+# Table: Mathematical Language and Symbols Students Should Use
+APR (fixed and variable),adjustments,annual fees,bi-weekly
+capital gain/loss,compound interest,co-payment,deductible
+deductions,FICA,future value,graduated
+gross,index,interest,net
+percent change,premium,principal,semi-monthly
+stocks,weighted average,yield,
+csv
+# Table: Mathematical Language and Symbols Students Should Use
+amplitude,area,cyclical,exponential,iteration
+linear,logistic,matrix,piecewise,perimeter
+period,recursion,scalar,surface area,volume
+csv
+bias,combination,conditional,expected value
+experiment,experimental probability,fair decision
+frequency table,independent,sample,survey
+observational study,permutation,randomization
+theoretical probability,tree diagram,variability,Venn diagram
+"measures of central tendency (mean, median, mode)","measures of spread (range, standard deviation)"
+csv
+Mathematical Language and Symbols Students Should Use:,,
+•algorithm,•counterexample,•critical paths
+•flow chart,•logic,•minimal spanning trees
+•truth table,•vertex-edge graph,•Euler path
+csv
+# Table: Mathematical and Financial Language and Symbols Students Should Use
+decimals,percent,estimate,exponent
+rate,rational numbers,integers,net
+irrational numbers,graduated commission,gross,exempt
+deductions,FICA,adjustments,annual fees
+APR (fixed vs. variable),weekly,52 week high and low
+percent change,simple moving average,arithmetic average
+bi-weekly,semi-monthly,monthly,commission
+capital gain/loss,CD,bonds,stocks
+mutual funds,premium,future value,deductibles
+co-payments,withholdings,expenditures,balances
+
+# Table: Exploratory Concepts and Skills
+NASDAQ,NYSE,S & P,Dow Jones,Tax forms
+csv
+# Table: Mathematical and Financial Language and Symbols Students Should Use
+plots,interpolate,extrapolate,data
+information,charts,graphs,regression
+benefit packages,amortization charts,bankruptcy,tax tables
+csv
+# Table: Mathematical and Financial Language and Symbols Students Should Use
+function,linear,non-linear,extrapolate
+rate,average,stock splits,dividend income
+earnings,exponential growth,exponential decay,
+csv
+Mathematical and Financial Language and Symbols Students Should Use
+decimals,percent,exponent,rate,fluctuations
+compound interest,interpolate,extrapolate,mean,median
+mode,estimate,variable rate of change,units,consumer costs
+constant rate of change,total,simple interest,
+gains,losses,variance,
+inflation,,,,,
+csv
+# Table: Mathematical and Financial Language and Symbols Students Should Use
+wages,investments,self-employment,leave
+retirement,cost-of-living,economic effect,entrepreneur
+csv
+# Table: Mathematical and Financial Language and Symbols Students Should Use
+insurance,auto insurance,health insurance,disability
+renter's insurance,homeowners insurance,term,long term
+whole life,deductible,premium,grace period
+wills,trusts,,
+csv
+,
+MODERN MATHEMATICS,
+Prerequisite: Secondary Math II,
+
+,
+Standard 1: Students will expand number sense to understand the language and operations of number systems.,
+Objective 1: Use concepts of number theory and information systems to effectively manage large amounts of data.,
+a.,Expand understanding of the decimal system by exploring other number-base systems.
+b.,Use various methods to write and decipher codes.
+c.,"Determine validity of ISBN, UPC and credit card numbers using modular arithmetic."
+d.,Compute using modular arithmetic.
+"Objective 2: Use matrices to model, organize, and solve problems involving multiple variables.",
+a.,Use matrices as a way to organize information.
+b.,Perform basic matrix calculations to solve problems in context.
+c.,Use matrices and technology to solve systems of linear equations.
+Objective 3: Recognize sequences as mathematical patterns and use them to model authentic situations.,
+a.,Find the nth term in arithmetic or geometric sequences.
+b.,Represent arithmetic and geometric sequences explicitly and recursively.
+c.,Explore sequences to model authentic situations.
+csv
+# Table 1: Mathematical Language and Symbols Students Should Use
+term1,term2,term3,term4
+binary,hexadecimal,matrix/matrices,UPC
+inductive reasoning,deductive reasonin,ISBN,modular
+exponential growth,Fibonacci sequence,Pascal's triangle,
+arithmetic,,,
+
+# Table 2: Mathematical Language and Symbols Students Should Use
+term1,term2,term3,term4
+exponential functions,logarithm,maximize,minimize
+Linear programming,constraints,base,exponent
+objective function,,,
+csv
+# Table: Mathematical Language and Symbols Students Should Use:
+Chaos Theory,strange attractors,scaling,bifurcation
+dynamic system,connectedness,completeness,regularity
+Golden ratio,Graph Theory,initial sensitivity,butterfly effect
+fractal,,,
+csv
+# Table: Mathematical Language and Symbols Students Should Use:
+conditional,unconditional,multiplication rule
+probability tree,stem plot,line plot
+histogram,mean,median,quartile
+standard deviation,univariate,bivariate
+correlation coefficient,regression,survey
+observational study,experiment,control group,placebo
+Venn diagram,two-way table,permutation,combination
+csv
+# Table: Mathematical Language and Symbols Students Should Use
+Term,Term2,Term3
+Venn diagram,truth table,logic notation
+compound statement,conditional statement,equivalent statement
+intersection,union,subset
+empty set,complement,cardinality
+"Ø, €, C, N,U,",bounded,unbounded
+,countable,uncountable
+csv
+# No tables found
+There is no tabular data in this image.

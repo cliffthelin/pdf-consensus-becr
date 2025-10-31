@@ -1,0 +1,3223 @@
+{
+  "document": {
+    "title": "tmpioh2s6nw",
+    "type": "document",
+    "metadata": {
+      "date": "",
+      "author": "",
+      "version": "",
+      "pages": "44"
+    },
+    "sections": [
+      {
+        "id": "page_1_section_1",
+        "title": "APPENDICES",
+        "level": 1,
+        "content": "Utah Secondary\nSupplemental Standards\nfor\nMATHEMATICS\nHigh School (9–12)\n\nAdopted May 2021\nby the\nUtah State Board of Education\n\nUtah State Board of Education Seal with flame and \"1896\"",
+        "subsections": []
+      },
+      {
+        "id": "page_2_section_1",
+        "title": "Utah Core Standards Policy Background",
+        "level": 1,
+        "content": "The Utah State Board of Education, in January of 1984, established policy requiring the identification of specific core standards to be met by all K-12 students in order to graduate from Utah's secondary schools. The Utah State Board of Education regularly updates the Utah Core Standards, while parents, teachers, and local school boards continue to control the curriculum choices that reflect local values.\n\nThe Utah Core Standards are aligned to scientifically based content standards. They drive high quality instruction through statewide comprehensive expectations for all students. The standards outline essential knowledge, concepts, and skills to be mastered at each grade level or within a critical content area. The standards provide a foundation for ensuring learning within the classroom.",
+        "subsections": []
+      },
+      {
+        "id": "page_3_section_1",
+        "title": "UTAH STATE BOARD OF EDUCATION",
+        "level": 1,
+        "content": "250 East 500 South P.O. Box 144200 Salt Lake City, UT 84114-4200\nhttps://schools.utah.gov/board",
+        "subsections": []
+      },
+      {
+        "id": "page_4_section_1",
+        "title": "",
+        "level": 1,
+        "content": "ADA Compliant May 2021",
+        "subsections": []
+      },
+      {
+        "id": "page_5_section_1",
+        "title": "SECONDARY SUPPLEMENTAL MATHEMATICS STANDARDS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_7_section_utah_core_standards",
+        "title": "UTAH CORE STATE STANDARDS for MATHEMATICS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_7_section_college_prep_mathematics",
+        "title": "COLLEGE PREP MATHEMATICS",
+        "level": 1,
+        "content": "College Prep Math formalizes and reinforces concepts from the Secondary Mathematics series to provide students with the foundational skills and understanding prerequisite to College Algebra (1050). Students will reason abstractly and quantitatively while solving linear and quadratic equations and linear inequalities. They will efficiently use polynomial and rational expressions and functions, radicals and complex numbers, and exponential and logarithmic expressions and functions to model and solve mathematical problems. They will explore conic sections and represent parabolic data. Throughout this course, students will make sense of problems and persevere in solving them, use tools strategically, and attend to precision.",
+        "subsections": [
+          {
+            "id": "page_7_subsection_standard_i",
+            "title": "Standard I: Students will develop fluency with the language and operations of algebra to evaluate, analyze, and solve problems.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_8_section_utah_core_standards",
+        "title": "UTAH CORE STATE STANDARDS for MATHEMATICS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_8_objective_4",
+            "title": "Objective 4: Simplify rational and radical expressions and solve and graph rational and radical equations.",
+            "level": 2,
+            "content": "",
+            "subsections": [
+              {
+                "id": "page_8_objective_4_math_language",
+                "title": "Mathematical Language and Symbols Students Should Use:",
+                "level": 3,
+                "content": "",
+                "subsections": []
+              }
+            ]
+          },
+          {
+            "id": "page_8_standard_II",
+            "title": "Standard II: Students will understand and represent functions and analyze function behavior.",
+            "level": 2,
+            "content": "",
+            "subsections": [
+              {
+                "id": "page_8_standard_II_objective_1",
+                "title": "Objective 1: Understand the concept of a function and use function notation.",
+                "level": 3,
+                "content": "",
+                "subsections": []
+              },
+              {
+                "id": "page_8_standard_II_objective_2",
+                "title": "Objective 2: Analyze functions using different representations.",
+                "level": 3,
+                "content": "",
+                "subsections": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_9_section_utah_core_standards",
+        "title": "UTAH CORE STATE STANDARDS for MATHEMATICS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_9_objective_3",
+            "title": "Objective 3: Build new functions from existing functions.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_9_objective_4",
+            "title": "Objective 4: Construct exponential models and use them to solve problems.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_9_objective_5",
+            "title": "Objective 5: Understand the inverse relationship between exponents and logarithms and use this relationship to solve problems.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_10_section_1",
+        "title": "UTAH CORE STATE STANDARDS for MATHEMATICS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_10_section_1_subsection_1",
+            "title": "Standard III: Students will apply geometric concepts in modeling situations.",
+            "level": 2,
+            "content": "",
+            "subsections": [
+              {
+                "id": "page_10_section_1_subsection_1_objective_1",
+                "title": "Objective 1: Use coordinate algebra to represent and analyze geometric situations.",
+                "level": 3,
+                "content": "",
+                "subsections": []
+              },
+              {
+                "id": "page_10_section_1_subsection_1_objective_2",
+                "title": "Objective 2: Translate between the geometric descriptions and the equations for conic sections.",
+                "level": 3,
+                "content": "",
+                "subsections": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_11_standard_iv",
+        "title": "Standard IV: Students will apply statistical methods to make informed decisions.*",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_11_standard_iv_objective_1",
+            "title": "Objective 1: Formulate questions and answer these questions by organizing, summarizing, and analyzing data.",
+            "level": 2,
+            "content": "a. Collect data, and classify the data as univariate or bivariate and categorical or quantitative.\nb. Summarize distributions using measures of center and variability, and communicate findings coherently using graphical representations and data summaries.\nc. Use the mean and standard deviation of normally distributed data to estimate population percentages.\nd. Fit a function to bivariate data.",
+            "subsections": []
+          },
+          {
+            "id": "page_11_standard_iv_objective_2",
+            "title": "Objective 2: Make inferences and justify conclusions using data.",
+            "level": 2,
+            "content": "a. Understand statistics as a process for making inferences about population parameters based on a random sample from that population.\nb. Make inferences and justify conclusions based on data collection.\nc. Use data from a sample survey to estimate a population mean or proportion.",
+            "subsections": []
+          },
+          {
+            "id": "page_11_standard_iv_objective_3",
+            "title": "Objective 3: Use the rules of probability to compute probabilities, and use probabilities to interpret data.",
+            "level": 2,
+            "content": "a. Understand and calculate probabilities of independent events.\nb. Understand and calculate conditional probabilities.\nc. Use permutations and combinations to compute probabilities of compound events and solve problems.\nd. Calculate expected values and use them to solve problems.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_13_section_utah_core_state_standards",
+        "title": "UTAH CORE STATE STANDARDS for MATHEMATICS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_13_section_introductory_calculus_standards",
+        "title": "INTRODUCTORY CALCULUS STANDARDS",
+        "level": 1,
+        "content": "Introductory Calculus is a year-long course where students will develop a conceptual understanding of limits, derivatives, and integrals through discovery and applications. Students will study polynomial, radical, exponential, logarithmic, and rational functions with an emphasis on graphical analysis preparatory to the study of limits. Students will compare the concept of slope with the formal definition of the derivative as well as develop and apply different techniques of integration to model and solve a variety of problems. Students will survey the basic topics of calculus and demonstrate their application in a wide variety of fields. Students will explore calculus concepts through inquiry using technology and develop explicit methods to use calculus in applications.",
+        "subsections": [
+          {
+            "id": "page_13_section_introductory_calculus_standard_i",
+            "title": "Standard I: Students will develop a conceptual understanding of limits and the characteristics of functions.",
+            "level": 2,
+            "content": "",
+            "subsections": [
+              {
+                "id": "page_13_section_introductory_calculus_standard_i_objective_1",
+                "title": "Objective 1: Analyze and perform applications using characteristics of functions, including polynomial, radical, rational, piece-wise, power, exponential, and logarithmic functions.",
+                "level": 3,
+                "content": "",
+                "subsections": []
+              },
+              {
+                "id": "page_13_section_introductory_calculus_standard_i_objective_2",
+                "title": "Objective 2: Demonstrate an understanding of the nature of limits.",
+                "level": 3,
+                "content": "",
+                "subsections": []
+              },
+              {
+                "id": "page_13_section_introductory_calculus_standard_i_objective_3",
+                "title": "Objective 3: Understand the concept of continuity as a property of functions.",
+                "level": 3,
+                "content": "",
+                "subsections": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_14_section_1",
+        "title": "Mathematical Language and Symbols Students Should Use",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_14_section_2",
+        "title": "Standard II: Students will understand the derivative as an instantaneous rate of change and will use it to analyze curves, optimize values, and model rates of change in applied contexts.",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_14_section_2_subsection_1",
+            "title": "Objective 1: Develop an understanding of derivatives graphically, numerically, and analytically.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_14_section_2_subsection_2",
+            "title": "Objective 2: Manipulate and simplify derivatives using properties.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_14_section_2_subsection_3",
+            "title": "Objective 3: Solve application problems involving polynomial, exponential, and logarithmic models, including applications in business, economics, and physics.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_15_section_mathematical_language",
+        "title": "Mathematical Language and Symbols Students Should Use:",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_15_section_standard_iii",
+        "title": "Standard III: Students will develop and apply different techniques of integration to model and solve a variety of problems.",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_15_objective_1",
+            "title": "Objective 1: Use various numerical methods to approximate definite integrals of functions represented as equations, graphs, and tables.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_15_objective_2",
+            "title": "Objective 2: Use the Fundamental Theorem of Calculus to find definite integrals and to solve differential equations.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_15_objective_3",
+            "title": "Objective 3: Model, solve, and interpret applications of antiderivatives.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_16_section_1",
+        "title": "UTAH CORE STATE STANDARDS for MATHEMATICS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_16_section_1_subsection_1",
+            "title": "Mathematical Language and Symbols Students Should Use:",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_17_section_introductory_statistics",
+        "title": "INTRODUCTORY STATISTICS",
+        "level": 1,
+        "content": "Statistics is a branch of mathematics that explores concrete connections with everyday living. Students will develop critical thinking skills with life-long application. Students will gather, graph, examine, compare and interpret data using technology, including graphing calculators or computer statistics software. They will describe data and make informed decisions and predictions based on data. *Note: The course may be taught as a one-semester or two semester course. Content marked with * may be reduced in depth or eliminated for a one-semester course.*",
+        "subsections": [
+          {
+            "id": "page_17_standard_i",
+            "title": "Standard I: Students will understand, use, and evaluate random processes underlying statistical analysis.",
+            "level": 2,
+            "content": "",
+            "subsections": [
+              {
+                "id": "page_17_objective_1",
+                "title": "Objective 1: Use sample survey data collected through random samples to draw conclusions about populations.",
+                "level": 3,
+                "content": "",
+                "subsections": [],
+                "lists": [
+                  {
+                    "id": "page_17_objective_1_list_1",
+                    "type": "ordered",
+                    "title": "",
+                    "items": [
+                      "Recognize sources of bias in surveys, and discuss how surveys may be intentionally biased to support certain agendas.",
+                      "Explain the importance of randomness in good survey design.",
+                      "Pose a question, choose an appropriate method of random selection, conduct a survey, and summarize the results in graphical displays.",
+                      "Distinguish between different survey designs such as SRS, cluster sampling, stratified sampling, and systematic sampling.*"
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "page_17_objective_2",
+                "title": "Objective 2: Describe and use the features of good experimental design, such as random assignment of treatments, controls, placebos, blinding, and blocking.",
+                "level": 3,
+                "content": "",
+                "subsections": [],
+                "lists": [
+                  {
+                    "id": "page_17_objective_2_list_1",
+                    "type": "ordered",
+                    "title": "",
+                    "items": [
+                      "Distinguish between an observational study and an experiment, and be able to select which method is appropriate to collect desired information.",
+                      "Recognize possible sources of bias in various experiments, and describe how the features of good experimental design will reduce bias.",
+                      "Pose a question, conduct one or more simple experiments using appropriate features of experimental design for the data that is being collected, and summarize the results in graphical displays.",
+                      "Explain the importance of experimental ethics, and debate historical violations of experimental ethics.*"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "lists": []
+          }
+        ],
+        "lists": []
+      },
+      {
+        "id": "page_18_section_1",
+        "title": "Objective 3: Discuss and interpret surveys, experiments, and observations using information from government data, current events, medical experiments, polls, and news media.",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_18_section_1_subsection_1",
+            "title": "Mathematical Language and Symbols Students Should Use:",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_18_section_2",
+        "title": "Standard II: Students will summarize and interpret data.",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_18_section_2_subsection_1",
+            "title": "Objective 1: Interpret and display data by selecting appropriate graphical methods.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_18_section_2_subsection_2",
+            "title": "Objective 2: Summarize data and be able to use technology such as calculators or computer software to assist in calculations.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_19_section_utah_core_standards",
+        "title": "UTAH CORE STATE STANDARDS for MATHEMATICS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_19_objective_3",
+            "title": "Objective 3: Use data summaries to interpret and compare data.",
+            "level": 2,
+            "content": "",
+            "subsections": [],
+            "lists": [
+              {
+                "id": "page_19_objective_3_list",
+                "type": "ordered",
+                "title": "",
+                "items": [
+                  "Describe and compare individual performances in terms of quartiles, percentiles and standard deviations.",
+                  "Interpret differences in shape, center, and spread in the context of the data sets, accounting for possible effects of outliers.",
+                  "Use statistics appropriate to the shape of the data distribution to compare center and spread of two or more different data sets."
+                ]
+              }
+            ],
+            "tables": [],
+            "key_value_pairs": []
+          },
+          {
+            "id": "page_19_objective_4",
+            "title": "Objective 4: Describe the characteristics of the normal distribution, and create an understanding of the standard deviation as a measure of spread.",
+            "level": 2,
+            "content": "",
+            "subsections": [
+              {
+                "id": "page_19_math_language_symbols",
+                "title": "Mathematical Language and Symbols Students Should Use:",
+                "level": 3,
+                "content": "",
+                "subsections": [],
+                "lists": [],
+                "tables": [
+                  {
+                    "id": "page_19_math_terms_table",
+                    "title": "",
+                    "headers": [],
+                    "rows": [
+                      [
+                        "quantitative data",
+                        "categorical data",
+                        "dot plot",
+                        "stem plot",
+                        "bar graph"
+                      ],
+                      [
+                        "frequency table",
+                        "mean",
+                        "median",
+                        "mode",
+                        "range"
+                      ],
+                      [
+                        "IQR (inter-quartile range)",
+                        "standardized scores",
+                        "standard deviation",
+                        "outlier",
+                        "percentile"
+                      ],
+                      [
+                        "skewed",
+                        "mean",
+                        "outlier",
+                        "quartile",
+                        ""
+                      ],
+                      [
+                        "normal distribution",
+                        "standard",
+                        "standard",
+                        "deviation",
+                        ""
+                      ],
+                      [
+                        "68%–95%–99.7% rule",
+                        "",
+                        "",
+                        "",
+                        ""
+                      ]
+                    ]
+                  }
+                ],
+                "key_value_pairs": []
+              }
+            ],
+            "lists": [
+              {
+                "id": "page_19_objective_4_list",
+                "type": "ordered",
+                "title": "",
+                "items": [
+                  "Examine data sets that approximate the normal distribution, and recognize the characteristics of data that are normally distributed.",
+                  "Compare individual measurements using the mean and standard deviation to find standardized scores and identify unusual data points.",
+                  "Use the 68%–95%–99.7% rule to determine the probability of events.",
+                  "Use the 68%–95%–99.7% rule to create and explain confidence intervals.*"
+                ]
+              }
+            ],
+            "tables": [],
+            "key_value_pairs": []
+          },
+          {
+            "id": "page_19_standard_iii",
+            "title": "Standard III: Students will make inferences and justify conclusions based on data.",
+            "level": 2,
+            "content": "",
+            "subsections": [
+              {
+                "id": "page_19_standard_iii_objective_1",
+                "title": "Objective 1: Summarize, represent, and interpret bivariate data.",
+                "level": 3,
+                "content": "",
+                "subsections": [],
+                "lists": [
+                  {
+                    "id": "page_19_standard_iii_objective_1_list",
+                    "type": "ordered",
+                    "title": "",
+                    "items": [
+                      "Create and use graphs of bivariate data to visually assess trends and recognize patterns.",
+                      "Calculate regression lines and correlation coefficients for linear data using technology such as calculators or computer software.",
+                      "Use regression equations to make appropriate predictions.",
+                      "Interpret the slope (rate of change) and the intercept (constant term) of a linear model in the context of the data.",
+                      "Make predictions based on patterns and trends of non-linear data, such as seasonal data, tidal tables, sunspots, and population changes.*"
+                    ]
+                  }
+                ],
+                "tables": [],
+                "key_value_pairs": []
+              }
+            ],
+            "lists": [],
+            "tables": [],
+            "key_value_pairs": []
+          }
+        ],
+        "lists": [],
+        "tables": [],
+        "key_value_pairs": []
+      },
+      {
+        "id": "page_20_section_1_utah_core_standards",
+        "title": "UTAH CORE STATE STANDARDS for MATHEMATICS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_20_objective_2",
+            "title": "Objective 2: Display and compare data to make predictions and formulate conclusions.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_20_objective_3",
+            "title": "Objective 3: Make inferences and justify conclusions from sample surveys, experiments, and observational studies.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_20_math_language_symbols",
+            "title": "Mathematical Language and Symbols Students Should Use:",
+            "level": 3,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_20_standard_4",
+            "title": "Standard IV: Students will understand and use probability rules.",
+            "level": 2,
+            "content": "",
+            "subsections": [
+              {
+                "id": "page_20_standard_4_objective_1a",
+                "title": "Objective 1: Use the rules of probability to calculate independent and conditional probabilities in real contexts.",
+                "level": 3,
+                "content": "",
+                "subsections": []
+              },
+              {
+                "id": "page_20_standard_4_objective_1b",
+                "title": "Objective 1: Use the rules of probability to calculate independent and conditional probabilities in real contexts.",
+                "level": 3,
+                "content": "",
+                "subsections": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_21_section_1",
+        "title": "Page 21 Content",
+        "level": 1,
+        "content": "# UTAH CORE STATE STANDARDS for MATHEMATICS\n\n## Objective 2: Adapt probability models to solve real-world problems.\n\na. Perform simulations to estimate probability outcomes using technology and objects such as coins, spinners, cards, and dice.\nb. Identify and explain common misconceptions regarding probability, including long-run vs. short-run behavior.\nc. Discuss probability applications in decision making, using terms such as \"odds\" and \"risk,\" including applications in insurance, medical treatments, and extreme sports.*\n\n## Objective 3: Use probability to make decisions and analyze outcomes.*\n\na. Calculate expected values and use them to solve problems.*\nb. Develop a probability distribution for a random variable and find the expected value.*\nc. Weigh the possible outcomes of a decision by assigning probabilities to payoff values and finding expected values.*\nd. Use probabilities to make fair decisions.*\n\n## Mathematical Language and Symbols Students Should Use:\n\n<table>\n  <tr>\n    <td>theoretical<br>conditional probability<br>simulation<br>P(A), P(A|B), $_n$C$_r$, $_nP_r$</td>\n    <td>subjective and experimental probability<br>two-way table<br>tree diagram</td>\n    <td>independence<br>permutation<br>addition and multiplication laws</td>\n  </tr>\n</table>\n\n<footer>INTRODUCTORY STATISTICS | &lt;page_number&gt;69&lt;/page_number&gt;</footer>\n<footer>ADA Compliant May 2021</footer>",
+        "subsections": []
+      },
+      {
+        "id": "page_22_section_1",
+        "title": "",
+        "level": 1,
+        "content": "ADA Compliant May 2021",
+        "subsections": []
+      },
+      {
+        "id": "page_23_section_mathematical_decision_making_for_life",
+        "title": "MATHEMATICAL DECISION MAKING FOR LIFE",
+        "level": 1,
+        "content": "Mathematical Decision Making is a four-quarter course for seniors. The course includes mathematical decision making in finance, modeling, probability and statistics, and making choices. The four quarters of instruction are independent of each other, allowing students to enter and exit the course quarterly. Students will make sense of authentic problems and persevere in solving them. They will reason abstractly and quantitatively while communicating mathematics to others. Students will use appropriate tools, including technology, to model mathematics. Students will use structure and regularity of reasoning to describe mathematical situations and solve problems.",
+        "subsections": [
+          {
+            "id": "page_23_section_quarter_a_mathematical_decision_making_finance",
+            "title": "QUARTER A—MATHEMATICAL DECISION MAKING: FINANCE",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_24_section_utah_core_standards",
+        "title": "UTAH CORE STATE STANDARDS for MATHEMATICS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_24_objective_loan_costs",
+            "title": "Loan Cost Computations and Comparisons",
+            "level": 2,
+            "content": "",
+            "subsections": [],
+            "lists": [
+              {
+                "id": "page_24_objective_loan_costs_list",
+                "type": "ordered",
+                "title": "",
+                "items": [
+                  "Compute the costs of loans for monthly payments.",
+                  "Compare time and costs required to borrow money compared to saving for purchase of an item.",
+                  "Analyze various types of loans to determine the best loan for a given situation."
+                ]
+              }
+            ]
+          },
+          {
+            "id": "page_24_objective_4_analyze_data",
+            "title": "Objective 4: Analyze numerical data to make quantitative and qualitative decisions.",
+            "level": 2,
+            "content": "",
+            "subsections": [],
+            "lists": [
+              {
+                "id": "page_24_objective_4_data_decisions_list",
+                "type": "ordered",
+                "title": "",
+                "items": [
+                  "Research, compare, and contrast published ratios, rates, ratings, averages, weighted averages, and indices to make informed decisions.",
+                  "Use spreadsheets to manage large quantities of data.",
+                  "Understand and analyze situations involving large numbers, such as national debt or national budgets."
+                ]
+              }
+            ]
+          }
+        ],
+        "lists": []
+      },
+      {
+        "id": "page_24_section_mathematical_language",
+        "title": "Mathematical Language and Symbols Students Should Use:",
+        "level": 1,
+        "content": "",
+        "subsections": [],
+        "lists": []
+      },
+      {
+        "id": "page_24_section_quarter_b_modeling",
+        "title": "QUARTER B—MATHEMATICAL DECISION MAKING: MODELING",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_24_standard_ii_mathematical_models",
+            "title": "Standard II: Students will use mathematical models to organize, communicate, and solve problems.",
+            "level": 2,
+            "content": "",
+            "subsections": [
+              {
+                "id": "page_24_objective_1_matrices",
+                "title": "Objective 1: Use matrices to represent and analyze mathematical situations.",
+                "level": 3,
+                "content": "",
+                "subsections": [],
+                "lists": [
+                  {
+                    "id": "page_24_objective_1_matrices_list",
+                    "type": "ordered",
+                    "title": "",
+                    "items": [
+                      "Use matrices to represent and manipulate data.",
+                      "Multiply matrices by scalars to produce new matrices.",
+                      "Add, subtract, and multiply matrices of appropriate dimensions.",
+                      "Use matrices to represent geometric transformations.",
+                      "Use matrices to solve applied problems."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "page_24_objective_2_geometric_tools",
+                "title": "Objective 2: Model mathematical problems with geometric tools.",
+                "level": 3,
+                "content": "",
+                "subsections": [],
+                "lists": [
+                  {
+                    "id": "page_24_objective_2_geometric_tools_list",
+                    "type": "ordered",
+                    "title": "",
+                    "items": [
+                      "Use geometric methods to solve design problems.",
+                      "Calculate measures of perimeter, surface area, area, and volume, and apply those measures to relevant situations."
+                    ]
+                  }
+                ]
+              }
+            ],
+            "lists": []
+          }
+        ],
+        "lists": []
+      },
+      {
+        "id": "page_25_section_objective_3_change",
+        "title": "Objective 3: Use mathematics to model and solve problems involving change.",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_25_section_objective_3_math_language",
+            "title": "Mathematical Language and Symbols Students Should Use:",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_25_section_quarter_c_math_decision_making",
+        "title": "QUARTER C—MATHEMATICAL DECISION MAKING: PROBABILITY AND STATISTICS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_25_section_quarter_c_standard_iii",
+            "title": "Standard III: Students will use statistics and probability to make decisions.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_25_section_quarter_c_objective_1_stats_info",
+            "title": "Objective 1: Understand and communicate statistical information.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_25_section_quarter_c_objective_2_inferences",
+            "title": "Objective 2: Develop and evaluate inferences and predictions that are based on data.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_25_section_quarter_c_objective_3_apply_stats",
+            "title": "Objective 3: Apply statistical methods to design and conduct a survey or an experiment.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_26_section_1_math_standards",
+        "title": "UTAH CORE STATE STANDARDS for MATHEMATICS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_26_objective_4",
+            "title": "Objective 4: Use the rules of probability to calculate independent and conditional probabilities in real contexts.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_26_objective_5",
+            "title": "Objective 5: Analyze risk and return in the context of everyday situations.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_26_section_math_language",
+            "title": "Mathematical Language and Symbols Students Should Use:",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_27_section_utah_core_standards",
+        "title": "UTAH CORE STATE STANDARDS for MATHEMATICS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_27_section_quarter_d",
+            "title": "QUARTER D—MATHEMATICAL DECISION MAKING: USING MODELS TO MAKE CHOICES",
+            "level": 2,
+            "content": "",
+            "subsections": [
+              {
+                "id": "page_27_standard_iv",
+                "title": "Standard IV: Students will use mathematical models to analyze situations and make choices.",
+                "level": 2,
+                "content": "",
+                "subsections": []
+              },
+              {
+                "id": "page_27_section_mathematical_language_symbols",
+                "title": "Mathematical Language and Symbols Students Should Use:",
+                "level": 2,
+                "content": "",
+                "subsections": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_28_section_1",
+        "title": "",
+        "level": 1,
+        "content": "| 76\n\nADA Compliant May 2021",
+        "subsections": []
+      },
+      {
+        "id": "page_29_section_utah_core_standards",
+        "title": "UTAH CORE STATE STANDARDS for MATHEMATICS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_29_section_mathematics_of_personal_finance",
+            "title": "MATHEMATICS OF PERSONAL FINANCE",
+            "level": 2,
+            "content": "Mathematics of Personal Finance is designed for students in their junior or senior year of high school. The course represents content from mathematics and personal finance that are essential for students who will assume roles as consumers, money managers and members of a global workforce. Successful completion of all four quarters of this course will fulfill 1 credit of supplemental mathematics requirements.",
+            "subsections": [
+              {
+                "id": "page_29_standard_i",
+                "title": "Standard I: Students will use number sense, perform operations, solve problems and make decisions using rational and irrational numbers to set and implement financial goals.",
+                "level": 3,
+                "content": "",
+                "subsections": [
+                  {
+                    "id": "page_29_objective_1",
+                    "title": "Objective 1: Determine, represent and analyze mathematical models and formulas for various types of financial calculations.",
+                    "level": 4,
+                    "content": "",
+                    "subsections": [],
+                    "lists": [
+                      {
+                        "id": "page_29_objective_1_list",
+                        "type": "ordered",
+                        "title": "",
+                        "items": [
+                          "Use financial formulas that require operations with real numbers.",
+                          "Interpret the meaning of integers in financial situations.",
+                          "Use the irrational number e to evaluate continuously compounded interest.",
+                          "Calculate net and gross income."
+                        ]
+                      }
+                    ],
+                    "key_value_pairs": []
+                  },
+                  {
+                    "id": "page_29_objective_2",
+                    "title": "Objective 2: Analyze financial plans and calculated costs of personal finance.",
+                    "level": 4,
+                    "content": "",
+                    "subsections": [],
+                    "lists": [
+                      {
+                        "id": "page_29_objective_2_list",
+                        "type": "ordered",
+                        "title": "",
+                        "items": [
+                          "Describe the value and use of savings in financial planning.",
+                          "Explain how government regulations protect savers.",
+                          "Compare the risk, return, liquidity, and costs for savings and investments.",
+                          "Describe the value of investing and types of investments in the financial planning process.",
+                          "Explain the effects of inflation on savings and investments.",
+                          "Analyze the relationship between risk and return.",
+                          "Describe and select appropriate financial products for different financial goals."
+                        ]
+                      }
+                    ],
+                    "key_value_pairs": []
+                  },
+                  {
+                    "id": "page_29_objective_3",
+                    "title": "Objective 3: Complete calculations associated with personal finance and financial planning using technology.",
+                    "level": 4,
+                    "content": "",
+                    "subsections": [],
+                    "lists": [
+                      {
+                        "id": "page_29_objective_3_list",
+                        "type": "ordered",
+                        "title": "",
+                        "items": [
+                          "Calculate future value of investments and present value of investments.",
+                          "Calculate stock market transaction fees, stock splits and dividend income.",
+                          "Compute monthly payments for loans of different types."
+                        ]
+                      }
+                    ],
+                    "key_value_pairs": []
+                  }
+                ],
+                "lists": [],
+                "key_value_pairs": []
+              }
+            ],
+            "lists": [],
+            "key_value_pairs": [
+              {
+                "key": "Prerequisite",
+                "value": "Currently enrolled in or successful completion of Secondary Math II"
+              }
+            ]
+          }
+        ],
+        "lists": [],
+        "key_value_pairs": []
+      },
+      {
+        "id": "page_30_section_1",
+        "title": "Learning Objectives (continued)",
+        "level": 1,
+        "content": "",
+        "subsections": [],
+        "lists": [
+          {
+            "id": "page_30_section_1_list_1",
+            "type": "ordered",
+            "title": "",
+            "items": [
+              "Determine the required time to pay off loans.",
+              "Compute the anticipated earnings for investments and savings plans.",
+              "Compute average daily balances on loans and investments."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_30_section_2",
+        "title": "Mathematical and Financial Language and Symbols Students Should Use",
+        "level": 1,
+        "content": "",
+        "subsections": [],
+        "lists": [
+          {
+            "id": "page_30_section_2_list_1",
+            "type": "unordered",
+            "title": "",
+            "items": [
+              "decimals",
+              "rate",
+              "irrational numbers",
+              "deductions",
+              "APR (fixed vs. variable)",
+              "percent change",
+              "bi-weekly",
+              "capital gain/loss",
+              "mutual funds",
+              "co-payments",
+              "investments",
+              "percent",
+              "rational numbers",
+              "graduated commission",
+              "FICA",
+              "weekly",
+              "simple moving average",
+              "semi-monthly",
+              "CD",
+              "premium",
+              "withholdings",
+              "estimate",
+              "integers",
+              "gross",
+              "adjustments",
+              "52 week high and low",
+              "arithmetic average",
+              "monthly",
+              "bonds",
+              "future value",
+              "expenditures",
+              "exponent",
+              "net",
+              "exempt",
+              "annual fees",
+              "commission",
+              "stocks",
+              "deductibles",
+              "balances"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_30_section_3",
+        "title": "Exploratory Concepts and Skills",
+        "level": 1,
+        "content": "",
+        "subsections": [],
+        "lists": [
+          {
+            "id": "page_30_section_3_list_1",
+            "type": "unordered",
+            "title": "",
+            "items": [
+              "NASDAQ",
+              "NYSE",
+              "S & P",
+              "Dow Jones",
+              "Tax forms"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_30_section_4",
+        "title": "Standard II: Students will use graphs, charts and tables for financial decision-making and planning.",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_30_section_4_subsection_1",
+            "title": "Objective 1: Summarize and interpret information from graphs, tables and charts.",
+            "level": 2,
+            "content": "",
+            "subsections": [],
+            "lists": [
+              {
+                "id": "page_30_section_4_subsection_1_list_1",
+                "type": "ordered",
+                "title": "",
+                "items": [
+                  "Create and interpret scatter plots, line graphs, bar graphs, circle graphs, histograms, and pictographs associated with finances.",
+                  "Use regression to interpolate and extrapolate data associated with finances.",
+                  "Use charts, tables and graphs to identify and track fixed and variable expenses and assets.",
+                  "Use spreadsheets to evaluate data.",
+                  "Interpret stock market data charts."
+                ]
+              }
+            ]
+          },
+          {
+            "id": "page_30_section_4_subsection_2",
+            "title": "Objective 2: Solve problems using graphical representations",
+            "level": 2,
+            "content": "",
+            "subsections": [],
+            "lists": [
+              {
+                "id": "page_30_section_4_subsection_2_list_1",
+                "type": "ordered",
+                "title": "",
+                "items": [
+                  "Represent the value of an employee benefit package graphically.",
+                  "Compare different employee benefit packages in the same job.",
+                  "Compare different employee benefit packages in different jobs.",
+                  "Analyze graphs displaying various interest rates on returns of investment."
+                ]
+              }
+            ]
+          }
+        ],
+        "lists": []
+      },
+      {
+        "id": "page_31_section_utah_core_standards",
+        "title": "UTAH CORE STATE STANDARDS for MATHEMATICS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_31_section_mathematical_financial_language",
+        "title": "Mathematical and Financial Language and Symbols Students Should Use",
+        "level": 2,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_31_section_exploratory_concepts_skills",
+        "title": "Exploratory Concepts and Skills",
+        "level": 2,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_31_section_standard_iii",
+        "title": "Standard III: Students will use algebra associated with personal finances.",
+        "level": 2,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_31_objective_1_analyze_financial_plans",
+            "title": "Objective 1: Analyze monthly, annual, and life-long financial plans.",
+            "level": 3,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_31_objective_2_functions_finance_planning",
+            "title": "Objective 2: Work with functions associated with finance and financial planning.",
+            "level": 3,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_31_objective_3_growth_decay_models",
+            "title": "Objective 3: Determine, represent and analyze relationships for various types of growth and decay models.",
+            "level": 3,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_80_section_additional_skills",
+        "title": "Additional Skills",
+        "level": 1,
+        "content": "",
+        "subsections": [],
+        "tables": [],
+        "lists": [
+          {
+            "id": "page_80_list_additional_skills",
+            "type": "ordered",
+            "title": "",
+            "items": [
+              "Calculate purchasing power."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_80_section_math_financial_language",
+        "title": "Mathematical and Financial Language and Symbols Students Should Use",
+        "level": 1,
+        "content": "",
+        "subsections": [],
+        "tables": [
+          {
+            "id": "page_80_table_math_financial_terms",
+            "title": "",
+            "headers": [],
+            "rows": [
+              [
+                "function",
+                "linear",
+                "non-linear",
+                "extrapolate"
+              ],
+              [
+                "rate",
+                "average",
+                "stock splits",
+                "dividend income"
+              ],
+              [
+                "earnings",
+                "exponential growth",
+                "exponential decay",
+                ""
+              ]
+            ]
+          }
+        ],
+        "lists": []
+      },
+      {
+        "id": "page_80_section_exploratory_concepts",
+        "title": "Exploratory Concepts and Skills",
+        "level": 1,
+        "content": "",
+        "subsections": [],
+        "tables": [],
+        "lists": [
+          {
+            "id": "page_80_list_exploratory_concepts",
+            "type": "unordered",
+            "title": "",
+            "items": [
+              "Explore national debt projections",
+              "Calculate income and taxes for a vocation in which they are interested"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_80_section_standard_iv",
+        "title": "Standard IV: Students will use rational decision making for financial planning.",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_80_objective_1",
+            "title": "Objective 1: Create, represent and justify personal monthly and yearly budgets.",
+            "level": 2,
+            "content": "",
+            "subsections": [],
+            "tables": [],
+            "lists": [
+              {
+                "id": "page_80_objective_1_list",
+                "type": "ordered",
+                "title": "",
+                "items": [
+                  "Create spreadsheets, tables, or charts that represent personal income and expenses.",
+                  "Design a plan to reach a specific financial goal.",
+                  "List advantages of designing and following a personal financial plan.",
+                  "Analyze the role of cultural, social, and emotional influences on financial behavior."
+                ]
+              },
+              {
+                "id": "page_80_objective_2_list",
+                "type": "ordered",
+                "title": "",
+                "items": [
+                  "Recognize that individuals are responsible for their finances.",
+                  "Describe the social and economic consequences of bankruptcy.",
+                  "Describe the consequences of excessive debt including increased consumer costs, inflation, and family instability.",
+                  "Evaluate the role of emotions when making financial decisions."
+                ]
+              },
+              {
+                "id": "page_80_objective_3_list",
+                "type": "ordered",
+                "title": "",
+                "items": [
+                  "Create budgets for various earning opportunities including fluctuations in income.",
+                  "Follow and explain the earnings or losses associated with a given investment in the market.",
+                  "Collect, organize and interpret data associated with utilities, cash flow, housing, food, entertainment, medical, and transportation expenses.",
+                  "Compare various vehicles for attaining short-term and long-term financial goals."
+                ]
+              }
+            ]
+          }
+        ],
+        "tables": [],
+        "lists": []
+      },
+      {
+        "id": "page_33_section_1",
+        "title": "UTAH CORE STATE STANDARDS for MATHEMATICS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_33_section_1_subsection_1",
+            "title": "Mathematical and Financial Language and Symbols Students Should Use",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_33_section_1_subsection_2",
+            "title": "Exploratory Concepts and Skills",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_33_section_1_subsection_3",
+            "title": "Standard V: Students will understand and explain the relationship between income sources and career preparation.",
+            "level": 2,
+            "content": "",
+            "subsections": [
+              {
+                "id": "page_33_section_1_subsection_3_objective_1",
+                "title": "Objective 1: Identify various forms of income and analyze factors that affect income.",
+                "level": 3,
+                "content": "",
+                "subsections": []
+              },
+              {
+                "id": "page_33_section_1_subsection_3_objective_2",
+                "title": "Objective 2: Identify and understand required income withholdings.",
+                "level": 3,
+                "content": "",
+                "subsections": []
+              },
+              {
+                "id": "page_33_section_1_subsection_3_objective_3",
+                "title": "Objective 3: Analyze criteria for selecting a career and the impact of career choices on income and financial stability.",
+                "level": 3,
+                "content": "",
+                "subsections": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_34_section_mathematical_financial_language",
+        "title": "Mathematical and Financial Language and Symbols Students Should Use",
+        "level": 2,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_34_section_exploratory_concepts_skills",
+        "title": "Exploratory Concepts and Skills",
+        "level": 2,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_34_section_standard_vi",
+        "title": "Standard VI: Students will use principles of money management.",
+        "level": 2,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_34_objective_1_balanced_budget",
+            "title": "Objective 1: Describe the role of planning and maintaining a balanced budget.",
+            "level": 3,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_34_objective_2_credit_uses_costs",
+            "title": "Objective 2: Understand credit uses and costs.",
+            "level": 3,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_35_section_1",
+        "title": "UTAH CORE STATE STANDARDS for MATHEMATICS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_35_section_1_subsection_1",
+            "title": "Objective 3: Describe the impact of credit on money management.",
+            "level": 2,
+            "content": "a. Compare the advantages and disadvantages of different payment methods.\nb. Compare the services of various types of financial institutions and identify advantages of comparison shopping before selecting financial services.\nc. Describe the relationship between a credit rating and the cost of credit and factors that affect credit worthiness.\nd. Explain the value of credit reports and scores to borrowers and lenders.",
+            "subsections": []
+          },
+          {
+            "id": "page_35_section_1_subsection_2",
+            "title": "Objective 4: Describe the rights and responsibilities of buyers and sellers under consumer protection laws.",
+            "level": 2,
+            "content": "a. Explain the purposes and features of consumer protection laws, agencies and sources of assistances.\nb. Describe ways to avoid identity theft and fraud.\nc. Explain the importance of understanding financial contracts.\nd. List possible actions a consumer can take in response to excessive debt and collection practices.\ne. Describe ways to avoid financial scams and schemes designed to defraud consumers.",
+            "subsections": []
+          },
+          {
+            "id": "page_35_section_1_subsection_3",
+            "title": "Objective 5: Discuss the purposes for insurance and risk management.",
+            "level": 2,
+            "content": "a. Identify common types of insurance and their terminology.\nb. Describe how insurance and other risk-management strategies protect against financial loss.\nc. Discuss insurance needs at various life stages.\nd. Identify the importance of estate planning.\ne. Discuss the consequences of being under-insured.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_36_section_1",
+        "title": "Accessibility Information",
+        "level": 1,
+        "content": "ADA Compliant May 2021",
+        "subsections": []
+      },
+      {
+        "id": "page_37_section_modern_mathematics_standards",
+        "title": "MODERN MATHEMATICS STANDARDS",
+        "level": 1,
+        "content": "This course introduces students to topics in modern mathematics as they apply to real-world contexts. The course extends students’ understanding of the mathematics developed in Algebra 1 and Geometry. The course is intended to help students develop an understanding of how mathematics describes and explains the world in which they live. Students will extend their mathematical literacy, problem-solving skills, and enthusiasm for the power and beauty of mathematics as a tool for quantifying their world.\n\nTeachers will select a minimum of five objectives per semester to explore, and may modify indicators to meet those objectives. Teachers are encouraged to select topics which are of particular interest to their students. Because the topics within the course are not intended to build on one another, students may enter or exit the class throughout the academic year.",
+        "subsections": [
+          {
+            "id": "page_37_standard_1",
+            "title": "Standard 1: Students will expand number sense to understand the language and operations of number systems.",
+            "level": 2,
+            "content": "",
+            "subsections": [
+              {
+                "id": "page_37_standard_1_objective_1",
+                "title": "Objective 1: Use concepts of number theory and information systems to effectively manage large amounts of data.",
+                "level": 3,
+                "content": "a. Expand understanding of the decimal system by exploring other number-base systems.\nb. Use various methods to write and decipher codes.\nc. Determine validity of ISBN, UPC and credit card numbers using modular arithmetic.\nd. Compute using modular arithmetic.",
+                "subsections": []
+              },
+              {
+                "id": "page_37_standard_1_objective_2",
+                "title": "Objective 2: Use matrices to model, organize, and solve problems involving multiple variables.",
+                "level": 3,
+                "content": "a. Use matrices as a way to organize information.\nb. Perform basic matrix calculations to solve problems in context.\nc. Use matrices and technology to solve systems of linear equations.",
+                "subsections": []
+              },
+              {
+                "id": "page_37_standard_1_objective_3",
+                "title": "Objective 3: Recognize sequences as mathematical patterns and use them to model authentic situations.",
+                "level": 3,
+                "content": "a. Find the nth term in arithmetic or geometric sequences.\nb. Represent arithmetic and geometric sequences explicitly and recursively.\nc. Explore sequences to model authentic situations.",
+                "subsections": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_38_section_1",
+        "title": "Mathematical Language and Symbols Students Should Use:",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_38_section_2",
+        "title": "Standard II: Students will use functions to model and solve problems.",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_38_section_2_subsection_1",
+            "title": "Objective 1: Use linear systems of equations and inequalities to model and solve problems.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_38_section_2_subsection_2",
+            "title": "Objective 2: Use exponential functions to model and solve problems.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_38_section_3",
+        "title": "Mathematical Language and Symbols Students Should Use:",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_38_section_4",
+        "title": "Standard III: Students will solve problems using symmetry, transformations, graphs, and measurement.",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_38_section_4_subsection_1",
+            "title": "Objective 1: Use concepts of Chaos Theory to describe the behavior of dynamic systems that are highly sensitive to initial conditions.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_38_section_4_subsection_2",
+            "title": "Objective 2: Use concepts from Graph Theory to model and solve problems.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_39_section_utah_core_standards",
+        "title": "UTAH CORE STATE STANDARDS for MATHEMATICS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_39_objective_3",
+            "title": "Objective 3: Extend geometry ideas to analyze art, architecture, music, and nature.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_39_section_mathematical_language",
+        "title": "Mathematical Language and Symbols Students Should Use:",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_39_section_standard_iv",
+        "title": "Standard IV: Students will understand and apply concepts from probability and statistics to solve problems.",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_39_objective_1_standard_iv",
+            "title": "Objective 1: Use the rules of probability to calculate independent and conditional probabilities in real contexts.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_39_objective_2_standard_iv",
+            "title": "Objective 2: Use graphs and numerical summaries to describe univariate data.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_40_section_utah_core_standards",
+        "title": "UTAH CORE STATE STANDARDS for MATHEMATICS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_40_objective_3",
+            "title": "Objective 3: Use graphs and numerical summaries to describe and analyze bivariate data.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_40_objective_4",
+            "title": "Objective 4: Use appropriate sampling techniques to describe a population.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_40_standard_v",
+        "title": "Standard V: Students will think logically and solve problems.",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_40_standard_v_objective_1",
+            "title": "Objective 1: Solve standard and non-standard problems.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_40_standard_v_objective_2",
+            "title": "Objective 2: Use logical reasoning to create convincing arguments and develop patterns of successful decision making.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_41_section_1",
+        "title": "Page 41 Content",
+        "level": 1,
+        "content": "# UTAH CORE STATE STANDARDS for MATHEMATICS\n\nb. Use truth tables to determine the veracity of compound and conditional logic statements.\nc. Identify equivalent logic statements.\n\n**Objective 3: Represent and compare finite and infinite groups using sets.**\n\na. Use set notation to represent groups.\nb. Use Venn diagrams to represent and solve problems involving combinations of sets.\nc. Use Venn diagrams and set notation to explore the real number system.\nd. Use Venn diagrams and set notation to explore logic.\n\n## Mathematical Language and Symbols Students Should Use:\n\n<table>\n  <tr>\n    <td>Venn diagram</td>\n    <td>truth table</td>\n    <td>logic notation</td>\n  </tr>\n  <tr>\n    <td>compound statement</td>\n    <td>conditional statement</td>\n    <td>equivalent statement</td>\n  </tr>\n  <tr>\n    <td>intersection</td>\n    <td>union</td>\n    <td>subset</td>\n  </tr>\n  <tr>\n    <td>empty set</td>\n    <td>complement</td>\n    <td>cardinality</td>\n  </tr>\n  <tr>\n    <td>$\\varnothing$, $\\in$, $\\subset$, $\\cap$, $\\cup$</td>\n    <td>bounded</td>\n    <td>unbounded</td>\n  </tr>\n  <tr>\n    <td></td>\n    <td>countable</td>\n    <td>uncountable</td>\n  </tr>\n</table>\n\n<footer>MODERN MATHEMATICS STANDARDS | &lt;page_number&gt;89&lt;/page_number&gt;</footer>\n<footer>ADA Compliant May 2021</footer>",
+        "subsections": []
+      },
+      {
+        "id": "page_42_section_1",
+        "title": "",
+        "level": 1,
+        "content": "ADA Compliant May 2021",
+        "subsections": []
+      },
+      {
+        "id": "page_43_section_1",
+        "title": "",
+        "level": 1,
+        "content": "☐ inside back cover",
+        "subsections": []
+      },
+      {
+        "id": "page_44_section_utah_state_board_of_education",
+        "title": "Utah State Board of Education",
+        "level": 1,
+        "content": "250 East 500 South\nP.O. Box 144200\nSalt Lake City, Utah 84114-4200\n\nSydnee Dickson, Interim State\nSuperintendent of Public Instruction\n\nUtah State Board of Education Seal with flame and \"1896\"",
+        "subsections": []
+      }
+    ],
+    "summary": {
+      "main_topics": [],
+      "key_findings": [],
+      "action_items": [],
+      "important_dates": []
+    },
+    "tables": [
+      {
+        "id": "page_3_table_1",
+        "title": "",
+        "headers": [
+          "District",
+          "Name",
+          "City"
+        ],
+        "rows": [
+          [
+            "District 1",
+            "Jennie L. Earl",
+            "Morgan, UT"
+          ],
+          [
+            "District 2",
+            "Scott L. Hansen",
+            "Liberty, UT"
+          ],
+          [
+            "District 3",
+            "Matt Hymas",
+            "Stansbury Park, UT"
+          ],
+          [
+            "District 4",
+            "Brent J. Strate",
+            "South Ogden, UT"
+          ],
+          [
+            "District 5",
+            "Laura Belnap",
+            "Bountiful, UT"
+          ],
+          [
+            "District 6",
+            "Stacey Hutchings",
+            "Kearns, UT"
+          ],
+          [
+            "District 7",
+            "Carol Barlow Lear",
+            "Salt Lake City, UT"
+          ],
+          [
+            "District 8",
+            "Janet A. Cannon",
+            "Holladay, UT"
+          ],
+          [
+            "District 9",
+            "Cindy Davis",
+            "Cedar Hills, UT"
+          ],
+          [
+            "District 10",
+            "Molly Hart",
+            "Sandy, UT"
+          ],
+          [
+            "District 11",
+            "Natalie Cline",
+            "Bluffdale, UT"
+          ],
+          [
+            "District 12",
+            "James Moss Jr.",
+            "Midway, UT"
+          ],
+          [
+            "District 13",
+            "Randy Boothe",
+            "Spanish Fork, UT"
+          ],
+          [
+            "District 14",
+            "Mark Huntsman",
+            "Fillmore, UT"
+          ],
+          [
+            "District 15",
+            "Kristan Norton",
+            "St. George, UT"
+          ],
+          [
+            "",
+            "Sydnee Dickson",
+            "State Superintendent\nof Public Instruction"
+          ],
+          [
+            "",
+            "Lorraine Austin",
+            "Secretary to the Board"
+          ]
+        ]
+      },
+      {
+        "id": "page_5_table_1",
+        "title": "",
+        "headers": [
+          "Subject",
+          "Page Number"
+        ],
+        "rows": [
+          [
+            "College Prep Mathematics",
+            "55"
+          ],
+          [
+            "Introductory Calculus Standards",
+            "61"
+          ],
+          [
+            "Introductory Statistics Standards",
+            "65"
+          ],
+          [
+            "Mathematical Decision Making for Life Standards",
+            "71"
+          ],
+          [
+            "Mathematics of Personal Finance Standards",
+            "77"
+          ],
+          [
+            "Modern Mathematics Standards",
+            "85"
+          ]
+        ]
+      },
+      {
+        "id": "page_8_objective_4_math_language_table_1",
+        "title": "",
+        "headers": [],
+        "rows": [
+          [
+            "asymptote",
+            "completing the square",
+            "complex number"
+          ],
+          [
+            "compound inequality",
+            "extraneous root",
+            "quadratic formula"
+          ],
+          [
+            "rational",
+            "irrational",
+            "radical"
+          ],
+          [
+            "maximum",
+            "intercept",
+            "minimum"
+          ]
+        ]
+      },
+      {
+        "id": "page_9_table_math_language",
+        "title": "Mathematical Language and Symbols Students Should Use:",
+        "headers": [],
+        "rows": [
+          [
+            "domain",
+            "exponential function",
+            "function",
+            "f(x)"
+          ],
+          [
+            "interval notation",
+            "inverse",
+            "logarithm",
+            "parameter"
+          ],
+          [
+            "parent function",
+            "piecewise function",
+            "range",
+            "relation"
+          ],
+          [
+            "transformation",
+            "intercept",
+            "maximum",
+            "minimum"
+          ]
+        ]
+      },
+      {
+        "id": "page_10_table_1",
+        "title": "Mathematical Language and Symbols Students Should Use:",
+        "headers": [],
+        "rows": [
+          [
+            "eccentricity",
+            "ellipse",
+            "foci",
+            "hyperbola",
+            "parabola"
+          ],
+          [
+            "vertex",
+            "parallel",
+            "perpendicular",
+            "",
+            ""
+          ],
+          [
+            "Pythagorean Theorem",
+            "directrix",
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      {
+        "id": "page_11_table_mathematical_language",
+        "title": "Mathematical Language and Symbols Students Should Use:",
+        "headers": [],
+        "rows": [
+          [
+            "bivariate",
+            "categorical",
+            "cumulative frequency plot"
+          ],
+          [
+            "interquartile range",
+            "measures of center",
+            "measures of variability (spread)"
+          ],
+          [
+            "normal distribution",
+            "quantitative data",
+            "univariate"
+          ],
+          [
+            "",
+            "",
+            "regression"
+          ]
+        ]
+      },
+      {
+        "id": "page_14_table_1",
+        "title": "Mathematical Language and Symbols Students Should Use",
+        "headers": [],
+        "rows": [
+          [
+            "polynomial",
+            "radical",
+            "rational",
+            "piece-wise",
+            "power"
+          ],
+          [
+            "exponential",
+            "logarithmic",
+            "$f(x)$",
+            "",
+            "$\\lim_{x \\to n} f(x)$"
+          ],
+          [
+            "asymptote",
+            "even function",
+            "odd function",
+            "limit",
+            ""
+          ],
+          [
+            "continuity",
+            "Intermediate Value Theorem",
+            "",
+            "Extreme Value Theorem",
+            ""
+          ]
+        ]
+      },
+      {
+        "id": "page_15_table_mathematical_language",
+        "title": "Mathematical Language and Symbols Students Should Use:",
+        "headers": [],
+        "rows": [
+          [
+            "rate of change",
+            "derivative",
+            "differentiable",
+            "power rule"
+          ],
+          [
+            "product rule",
+            "quotient rule",
+            "composite function",
+            "chain rule"
+          ],
+          [
+            "local linearity",
+            "implicit differentiation",
+            "$\\frac{\\Delta Y}{\\Delta X}, \\frac{DY}{DX}$",
+            ""
+          ]
+        ]
+      },
+      {
+        "id": "page_18_table_1",
+        "title": "",
+        "headers": [],
+        "rows": [
+          [
+            "data,",
+            "SRS (simple random sampling)",
+            "cluster sampling"
+          ],
+          [
+            "survey",
+            "systematic sampling",
+            "observation"
+          ],
+          [
+            "stratified sampling",
+            "experiment",
+            "blinding"
+          ],
+          [
+            "treatment",
+            "control",
+            ""
+          ],
+          [
+            "blocking",
+            "census",
+            ""
+          ],
+          [
+            "consumer price index",
+            "causality",
+            "percent change"
+          ],
+          [
+            "",
+            "",
+            "correlation"
+          ]
+        ]
+      },
+      {
+        "id": "page_20_table_1_math_terms",
+        "title": "",
+        "headers": [],
+        "rows": [
+          [
+            "bivariate data",
+            "linear and non-linear data",
+            "slope",
+            "rate of change"
+          ],
+          [
+            "regression",
+            "correlation",
+            "coefficient",
+            "scatter plot"
+          ],
+          [
+            "interpolation",
+            "extrapolation",
+            "prediction",
+            "hypothesis test"
+          ],
+          [
+            "confidence interval",
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      {
+        "id": "page_24_table_math_terms",
+        "title": "Mathematical Language and Symbols",
+        "headers": [
+          "Term 1",
+          "Term 2",
+          "Term 3",
+          "Term 4"
+        ],
+        "rows": [
+          [
+            "APR (fixed and variable)",
+            "adjustments",
+            "annual fees",
+            "bi-weekly"
+          ],
+          [
+            "capital gain/loss",
+            "compound interest",
+            "co-payment",
+            "deductible"
+          ],
+          [
+            "deductions",
+            "FICA",
+            "future value",
+            "graduated"
+          ],
+          [
+            "gross",
+            "index",
+            "interest",
+            "net"
+          ],
+          [
+            "percent change",
+            "premium",
+            "principal",
+            "semi-monthly"
+          ],
+          [
+            "stocks",
+            "weighted average",
+            "yield",
+            ""
+          ]
+        ]
+      },
+      {
+        "id": "page_25_table_math_language_symbols",
+        "title": "Mathematical Language and Symbols Students Should Use",
+        "headers": [],
+        "rows": [
+          [
+            "amplitude",
+            "area",
+            "cyclical",
+            "exponential",
+            "iteration"
+          ],
+          [
+            "linear",
+            "logistic",
+            "matrix",
+            "piecewise",
+            "perimeter"
+          ],
+          [
+            "period",
+            "recursion",
+            "scalar",
+            "surface area",
+            "volume"
+          ]
+        ]
+      },
+      {
+        "id": "page_31_table_math_finance_terms",
+        "title": "Mathematical and Financial Language and Symbols Students Should Use",
+        "headers": [
+          "Col1",
+          "Col2",
+          "Col3",
+          "Col4"
+        ],
+        "rows": [
+          [
+            "plots",
+            "interpolate",
+            "extrapolate",
+            "data"
+          ],
+          [
+            "information",
+            "charts",
+            "graphs",
+            "regression"
+          ],
+          [
+            "benefit packages",
+            "amortization charts",
+            "bankruptcy",
+            "tax tables"
+          ]
+        ]
+      },
+      {
+        "id": "page_33_table_1",
+        "title": "Mathematical and Financial Language and Symbols Students Should Use",
+        "headers": [],
+        "rows": [
+          [
+            "decimals",
+            "percent",
+            "exponent",
+            "rate",
+            "fluctuations"
+          ],
+          [
+            "compound interest",
+            "interpolate",
+            "extrapolate",
+            "mean",
+            "median"
+          ],
+          [
+            "mode",
+            "estimate",
+            "variable rate of change",
+            "",
+            ""
+          ],
+          [
+            "constant rate of change",
+            "total",
+            "simple interest",
+            "units",
+            ""
+          ],
+          [
+            "gains",
+            "losses",
+            "variance",
+            "consumer costs",
+            ""
+          ],
+          [
+            "inflation",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      {
+        "id": "page_34_table_mathematical_financial_terms",
+        "title": "Mathematical and Financial Language and Symbols Students Should Use",
+        "headers": [
+          "Term 1",
+          "Term 2",
+          "Term 3",
+          "Term 4"
+        ],
+        "rows": [
+          [
+            "wages",
+            "investments",
+            "self-employment",
+            "leave"
+          ],
+          [
+            "retirement",
+            "cost-of-living",
+            "economic effect",
+            "entrepreneur"
+          ]
+        ]
+      },
+      {
+        "id": "page_35_table_1",
+        "title": "Mathematical and Financial Language and Symbols Students Should Use",
+        "headers": [],
+        "rows": [
+          [
+            "insurance",
+            "auto insurance",
+            "health insurance",
+            "disability"
+          ],
+          [
+            "renter's insurance",
+            "homeowners insurance",
+            "term",
+            "long term"
+          ],
+          [
+            "whole life",
+            "deductible",
+            "premium",
+            "grace period"
+          ],
+          [
+            "wills",
+            "trusts",
+            "",
+            ""
+          ]
+        ]
+      },
+      {
+        "id": "page_38_table_1",
+        "title": "Mathematical Language and Symbols Students Should Use",
+        "headers": [],
+        "rows": [
+          [
+            "binary",
+            "hexadecimal",
+            "matrix/matrices"
+          ],
+          [
+            "inductive reasoning",
+            "deductive reasonin",
+            "ISBN"
+          ],
+          [
+            "exponential growth",
+            "Fibonacci sequence",
+            "Pascal's triangle"
+          ],
+          [
+            "arithmetic",
+            "",
+            "UPC"
+          ],
+          [
+            "",
+            "",
+            "modular"
+          ]
+        ]
+      },
+      {
+        "id": "page_38_table_2",
+        "title": "Mathematical Language and Symbols Students Should Use",
+        "headers": [],
+        "rows": [
+          [
+            "exponential functions",
+            "logarithm",
+            "maximize",
+            "minimize"
+          ],
+          [
+            "Linear programming",
+            "constraints",
+            "base",
+            "exponent"
+          ],
+          [
+            "objective function",
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      {
+        "id": "page_39_table_mathematical_terms",
+        "title": "Mathematical Language and Symbols Students Should Use",
+        "headers": [],
+        "rows": [
+          [
+            "Chaos Theory",
+            "strange attractors",
+            "scaling",
+            "bifurcation"
+          ],
+          [
+            "dynamic system",
+            "connectedness",
+            "completeness",
+            "regularity"
+          ],
+          [
+            "Golden ratio",
+            "Graph Theory",
+            "initial sensitivity",
+            "butterfly effect"
+          ],
+          [
+            "fractal",
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      {
+        "id": "page_40_math_language_table",
+        "title": "Mathematical Language and Symbols Students Should Use:",
+        "headers": [
+          "Column 1",
+          "Column 2",
+          "Column 3",
+          "Column 4"
+        ],
+        "rows": [
+          [
+            "conditional probability tree",
+            "unconditional stem plot",
+            "multiplication rule",
+            "quartile"
+          ],
+          [
+            "histogram",
+            "mean",
+            "line plot",
+            "placebo"
+          ],
+          [
+            "standard deviation",
+            "univariate regression",
+            "median",
+            "combination"
+          ],
+          [
+            "correlation coefficient",
+            "experiment",
+            "bivariate",
+            ""
+          ],
+          [
+            "observational study",
+            "two-way table",
+            "survey",
+            ""
+          ],
+          [
+            "Venn diagram",
+            "",
+            "control group",
+            ""
+          ],
+          [
+            "",
+            "",
+            "permutation",
+            ""
+          ]
+        ]
+      }
+    ],
+    "lists": [
+      {
+        "id": "page_7_list_objective_1",
+        "type": "ordered",
+        "title": "Objective 1: Perform operations and simplify expressions with rational, irrational, and complex numbers.",
+        "items": [
+          "Rewrite expressions involving radicals and rational exponents using the properties of exponents.",
+          "Add, subtract, multiply, and divide radical expressions.",
+          "Simplify expressions involving complex numbers and express them in standard form, $a + bi$."
+        ]
+      },
+      {
+        "id": "page_7_list_objective_2",
+        "type": "ordered",
+        "title": "Objective 2: Solve systems of equations and inequalities.",
+        "items": [
+          "Solve systems of linear equations in two variables algebraically and graphically.",
+          "Solve a simple system consisting of a linear equation and a quadratic equation in two variables algebraically and graphically.",
+          "Use matrices to solve systems of linear equations.*",
+          "Model and solve problems arising from authentic situations using systems of equations and inequalities."
+        ]
+      },
+      {
+        "id": "page_7_list_objective_3",
+        "type": "ordered",
+        "title": "Objective 3: Solve and graph quadratic equations.",
+        "items": [
+          "Use the method of completing the square to transform any quadratic equation into an equation of the form $(x - p)^2 = q$, and use this to derive the quadratic formula.",
+          "Solve quadratic equations by inspection, taking square roots, factoring, completing the square, and using the quadratic formula.",
+          "Model and solve real-world situations using quadratic relationships in two variables."
+        ]
+      },
+      {
+        "id": "page_8_objective_4_list_1",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Simplify and rewrite simple rational expressions in different forms using algebraic techniques, including long division.",
+          "Solve rational equations.",
+          "Solve radical equations in one variable, including those with extraneous solutions.",
+          "Graph rational functions, identifying domain, range, zeros and asymptotes, and showing end behavior."
+        ]
+      },
+      {
+        "id": "page_8_standard_II_objective_1_list_1",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Understand that a function from one set (called the domain) to another set (called the range) assigns to each element of the domain exactly one element of the range.",
+          "Determine when a relation is a function.",
+          "Use function notation, evaluate functions for inputs in their domains, and interpret statements that use function notation in terms of a context."
+        ]
+      },
+      {
+        "id": "page_8_standard_II_objective_2_list_1",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Graph linear, quadratic, square root, cube root, piecewise, and polynomial functions expressed symbolically, and show key features of the graphs—by hand in simple cases, and using technology for more complicated cases.",
+          "Identify key features of functions from either graphs or equations.",
+          "Write a function in different but equivalent forms to reveal and explain different properties of the function.",
+          "Compare properties of two functions, each represented in a different way (algebraically, graphically, numerically in tables, or by verbal description)."
+        ]
+      },
+      {
+        "id": "page_9_objective_3_list",
+        "type": "ordered",
+        "title": "Objective 3: Build new functions from existing functions. - Items",
+        "items": [
+          "Combine standard function types using arithmetic operations.",
+          "Compose functions.",
+          "Find the inverse of a function when it exists.",
+          "Produce an invertible function from a non-invertible function by restricting the domain.",
+          "Graph functions using transformations of parent functions."
+        ]
+      },
+      {
+        "id": "page_9_objective_4_list",
+        "type": "ordered",
+        "title": "Objective 4: Construct exponential models and use them to solve problems. - Items",
+        "items": [
+          "Understand that exponential functions grow by equal factors over equal intervals.",
+          "Recognize and model situations in which a quantity grows or decays by a constant percent rate per unit interval relative to another.",
+          "Construct exponential functions, including geometric sequences, when given a graph, a description of a relationship, or two input-output pairs.",
+          "Graph exponential functions.",
+          "Interpret the parameters in an exponential function in terms of a context."
+        ]
+      },
+      {
+        "id": "page_9_objective_5_list",
+        "type": "ordered",
+        "title": "Objective 5: Understand the inverse relationship between exponents and logarithms and use this relationship to solve problems. - Items",
+        "items": [
+          "Simplify, expand, or condense simple logarithmic expressions.",
+          "Connect the manipulation of logarithmic expressions with the laws of exponents.",
+          "Convert logarithms between bases.",
+          "Graph logarithmic functions.",
+          "Model and solve authentic problem situations using logarithms."
+        ]
+      },
+      {
+        "id": "page_10_list_1",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Prove the slope criteria for parallel and perpendicular lines and solve related problems.",
+          "Use coordinates to compute perimeters of polygons and areas of triangles and rectangles using the distance formula.",
+          "Use coordinates to model geometric problems involving distances and relationships and apply those models to contextual situations.*"
+        ]
+      },
+      {
+        "id": "page_10_list_2",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Derive the equation of a circle, given center and radius, using the Pythagorean Theorem.",
+          "Complete the square to find the center and radius of a circle when given the equation.",
+          "Write an equation of a parabola in the form $y = a(x-h)^2 + k$ when given the graph or equation, or when given the focus and directrix.",
+          "Identify the vertices, foci, and intercepts of ellipses and hyperbolas with centers at the origin.*",
+          "Derive the equations of ellipses and hyperbolas given the foci, using the fact that the sum or difference of distances from the foci is constant.*"
+        ]
+      },
+      {
+        "id": "page_13_list_objective_1_items",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Sketch graphs showing key features of functions.",
+          "Perform transformations of functions graphically and algebraically by changing one or more parameters in $y = af(x)$, $y = f(ax)$, $y = f(x) + a$, and $y = f(x + a)$ for both positive and negative $a$.",
+          "Describe and analyze local and global behavior of functions, including increasing, decreasing, asymptotic and end behavior.",
+          "Recognize even and odd functions from their graphs and algebraic expressions for them.",
+          "Identify the domain, range, and other attributes of families of functions."
+        ]
+      },
+      {
+        "id": "page_13_list_objective_2_items",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Estimate the limit of a function at a point using graphs and tables.",
+          "Calculate limits using algebra.",
+          "Calculate limits involving infinity.",
+          "Use the asymptotic behavior of a function to identify limits."
+        ]
+      },
+      {
+        "id": "page_13_list_objective_3_items",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Understand the definition of continuity as it applies to functions.",
+          "Understand the role of limits in continuity.",
+          "Demonstrate an understanding of the implications of continuity on the graphs of functions, including use of the Intermediate Value Theorem and Extreme Value Theorem."
+        ]
+      },
+      {
+        "id": "page_14_list_1",
+        "type": "unordered",
+        "title": "Objective 1: Develop an understanding of derivatives graphically, numerically, and analytically.",
+        "items": [
+          "Interpret derivatives as a limit of average rates or as an instantaneous rate of change in various contexts.",
+          "Define derivatives as the limit of the difference quotient.",
+          "Estimate, calculate, and interpret the derivative of a function.",
+          "Approximate a slope using local linearity, secant lines and tangent lines.",
+          "Discover and understand the implications of continuity for differentiability."
+        ]
+      },
+      {
+        "id": "page_14_list_2",
+        "type": "unordered",
+        "title": "Objective 2: Manipulate and simplify derivatives using properties.",
+        "items": [
+          "Find derivatives of polynomial functions using the power rule.",
+          "Understand and use derivative rules for sums, products, and quotients of functions.",
+          "Calculate the derivative of a composite function using the chain rule.",
+          "Find derivatives by implicit differentiation with respect to a specified variable."
+        ]
+      },
+      {
+        "id": "page_14_list_3",
+        "type": "unordered",
+        "title": "Objective 3: Solve application problems involving polynomial, exponential, and logarithmic models, including applications in business, economics, and physics.",
+        "items": [
+          "Construct a framework for the application of derivative by solving various real-life problems.",
+          "Use optimization techniques to maximize and/or minimize functions.",
+          "Graph functions to illustrate curves.",
+          "Explain the meaning of the second derivative.",
+          "Model rates of change, including related rates problems."
+        ]
+      },
+      {
+        "id": "page_15_objective_1_list",
+        "type": "ordered",
+        "title": "Objective 1: Use various numerical methods to approximate definite integrals of functions represented as equations, graphs, and tables.",
+        "items": [
+          "Understand the definite integral of a function as the area under the graph of that function between two points.",
+          "Approximate the area under the curve by using areas of familiar geometric shapes.",
+          "Approximate the area under the curve by using left, right, and midpoint Riemann sums.",
+          "Approximate the area under the curve by using trapezoidal sums.",
+          "Recognize the definite integral as a limit of Riemann sums."
+        ]
+      },
+      {
+        "id": "page_15_objective_2_list",
+        "type": "ordered",
+        "title": "Objective 2: Use the Fundamental Theorem of Calculus to find definite integrals and to solve differential equations.",
+        "items": [
+          "Understand antidifferentiation and the indefinite integral in terms of reversing the operation of differentiation.",
+          "Understand that the antiderivative is unique up to a constant.",
+          "Relate antiderivatives and definite integrals by the Fundamental Theorem of Calculus.",
+          "Use an initial condition to find a specific antiderivative.",
+          "Create slope fields from differential equations and use them to draw possible antiderivatives.",
+          "Understand properties of integrals."
+        ]
+      },
+      {
+        "id": "page_15_objective_3_list",
+        "type": "ordered",
+        "title": "Objective 3: Model, solve, and interpret applications of antiderivatives.",
+        "items": [
+          "Approximate and evaluate change in various contexts numerically, algebraically, and graphically.",
+          "Use integration techniques to solve geometric problems, including finding the area between two curves.",
+          "Use integration techniques to solve problems in physics."
+        ]
+      },
+      {
+        "id": "page_16_list_1",
+        "type": "unordered",
+        "title": "Mathematical Language and Symbols Students Should Use:",
+        "items": [
+          "average value",
+          "Fundamental Theorem of Calculus",
+          "definite integral $\\int\\limits_{a}^{b} f(x)$",
+          "Riemann sum",
+          "antiderivative"
+        ]
+      },
+      {
+        "id": "page_18_list_1",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Consider the reasonableness of claims of data from various sources, using examples to illustrate the uses and misuses of statistics that appear in the media.",
+          "Distinguish between causality and correlation, and be able to recognize unwarranted conclusions.",
+          "Recognize when data is misrepresented by graphical manipulation, such as modified axes or use of incorrect visual proportions.",
+          "Discuss the role of government reports such as the consumer price index for making comparisons in data.*",
+          "Calculate percent change and perform simple calculations for price changes over the years due to inflation.*"
+        ]
+      },
+      {
+        "id": "page_18_list_2",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Distinguish between quantitative and categorical data.",
+          "Use quantitative data to create dot plots, stem plots, histograms, box plots, and scatter plots and use them to make sense of the data.",
+          "Use categorical data to create circle graphs, bar graphs and frequency tables and use them to make sense of the data."
+        ]
+      },
+      {
+        "id": "page_18_list_3",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Calculate measures of center, and estimate center from data presented in a variety of forms, such as charts, tables, and graphs.",
+          "Select and interpret appropriate measures of spread.",
+          "Describe the distribution of data considering shape, skewness, modality, and outliers."
+        ]
+      },
+      {
+        "id": "page_20_list_objective_2_items",
+        "type": "ordered",
+        "title": "Objective 2: Display and compare data to make predictions and formulate conclusions.",
+        "items": [
+          "a. Describe the effect of outliers on predictions.",
+          "b. Recognize and discuss the pitfalls of extrapolation in predictions.",
+          "c. Compare actual data measurements with predicted values, and discuss the reasonableness of predictions."
+        ]
+      },
+      {
+        "id": "page_20_list_objective_3_items",
+        "type": "ordered",
+        "title": "Objective 3: Make inferences and justify conclusions from sample surveys, experiments, and observational studies.",
+        "items": [
+          "a. Understand statistics as a process for making inferences about population parameters based on a random sample from that population.",
+          "b. Understand and interpret confidence intervals generated from data.*",
+          "c. Use the results of hypothesis testing to interpret sample data and draw conclusions.*"
+        ]
+      },
+      {
+        "id": "page_20_list_standard_4_objective_1a_items",
+        "type": "ordered",
+        "title": "Objective 1: Use the rules of probability to calculate independent and conditional probabilities in real contexts.",
+        "items": [
+          "a. Distinguish between subjective, experimental, and theoretical probability.",
+          "b. Calculate probabilities using addition and multiplication rules, tree diagrams, and twoway tables using correct probability notation."
+        ]
+      },
+      {
+        "id": "page_20_list_standard_4_objective_1b_items",
+        "type": "ordered",
+        "title": "Objective 1: Use the rules of probability to calculate independent and conditional probabilities in real contexts.",
+        "items": [
+          "a. Distinguish between subjective, experimental, and theoretical probability.",
+          "b. Calculate probabilities using addition and multiplication rules, tree diagrams, and twoway tables using correct probability notation.",
+          "c. Calculate conditional probabilities of compound events using two-way tables and Venn diagrams.",
+          "d. Use permutations and combinations to find probabilities.*"
+        ]
+      },
+      {
+        "id": "page_23_list_objective_1",
+        "type": "ordered",
+        "title": "Objective 1: Determine, represent and analyze mathematical models for various types of income calculations.",
+        "items": [
+          "Compute and compare hourly wages, given commissions or salaries and hours worked.",
+          "Compute gross earnings based on commissions, salaries, hourly wages, or piece-work.",
+          "Compute net earnings after common payroll deductions.",
+          "Research and compare annual earnings for various employment opportunities."
+        ]
+      },
+      {
+        "id": "page_23_list_objective_2",
+        "type": "ordered",
+        "title": "Objective 2: Create, represent, and justify personal budgets.",
+        "items": [
+          "Create spreadsheets, tables, and charts that represent personal income and expenses.",
+          "Calculate the total costs of owning a car, including monthly payments, insurance, maintenance, and fuel.",
+          "Analyze and model periodic monthly expenditures, including those that change during the year such, as heating and cooling costs."
+        ]
+      },
+      {
+        "id": "page_23_list_objective_3",
+        "type": "ordered",
+        "title": "Objective 3: Analyze mathematical models related to investing and borrowing money.",
+        "items": [
+          "Compute and compare the anticipated earnings for investments and savings plans.",
+          "Interpret stock market data charts.",
+          "Research and predict retirement income from savings, Social Security benefits, pensions, and investments."
+        ]
+      },
+      {
+        "id": "page_25_list_objective_3_change_items",
+        "type": "ordered",
+        "title": "Objective 3: Use mathematics to model and solve problems involving change",
+        "items": [
+          "Analyze and solve problems involving models for linear, exponential, and logistic growth and decay.",
+          "Identify, model, and solve problems involving cyclical change that can be represented using trigonometric functions.",
+          "Identify, model, and solve problems involving change that can be represented with a piecewise function.",
+          "Model and solve problems involving recursion or iteration."
+        ]
+      },
+      {
+        "id": "page_25_list_quarter_c_objective_1_stats_info_items",
+        "type": "ordered",
+        "title": "Objective 1: Understand and communicate statistical information",
+        "items": [
+          "Report results of statistical studies in both oral and written form, including graphical representations.",
+          "Describe strengths and weaknesses of sampling techniques, data and graphical displays, and interpretations of summary statistics.",
+          "Identify uses and misuses of statistical analyses."
+        ]
+      },
+      {
+        "id": "page_25_list_quarter_c_objective_2_inferences_items",
+        "type": "ordered",
+        "title": "Objective 2: Develop and evaluate inferences and predictions that are based on data",
+        "items": [
+          "Understand and evaluate random processes underlying statistical experiments.",
+          "Determine possible sources of statistical bias and describe the potential impact of such bias on a study.",
+          "Make inferences and justify conclusions from sample surveys, experiments, and observational studies.",
+          "Use data from a sample survey to estimate a population mean or proportion."
+        ]
+      },
+      {
+        "id": "page_25_list_quarter_c_objective_3_apply_stats_items",
+        "type": "ordered",
+        "title": "Objective 3: Apply statistical methods to design and conduct a survey or an experiment",
+        "items": [
+          "Formulate a question that can be analyzed using statistical methods.",
+          "Determine possible sources of variability of data, including both those that can and cannot be controlled."
+        ]
+      },
+      {
+        "id": "page_26_list_objective_partial",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Identify the population of interest, select an appropriate sampling technique, and collect data.",
+          "Create graphical displays of data.",
+          "Calculate and compare measures of central tendency, spread, and unusual features in data."
+        ]
+      },
+      {
+        "id": "page_26_objective_4_list",
+        "type": "ordered",
+        "title": "Objective 4: Use the rules of probability to calculate independent and conditional probabilities in real contexts.",
+        "items": [
+          "Distinguish between subjective, experimental, and theoretical probability.",
+          "Calculate probabilities using addition and multiplication rules, tree diagrams, and two-way tables using correct probability notation.",
+          "Calculate conditional probabilities of compound events using two-way tables and Venn diagrams.",
+          "Use permutations and combinations to find probabilities."
+        ]
+      },
+      {
+        "id": "page_26_objective_5_list",
+        "type": "ordered",
+        "title": "Objective 5: Analyze risk and return in the context of everyday situations.",
+        "items": [
+          "Construct and analyze tree diagrams, Venn diagrams, and area models to make decisions in problem situations.",
+          "Construct and interpret two-way frequency tables of data.",
+          "Weigh the possible outcomes of a decision by assigning probabilities to payoff values and finding expected values.",
+          "Use probabilities to make fair decisions.",
+          "Analyze decisions and strategies using probability concepts."
+        ]
+      },
+      {
+        "id": "page_26_math_terms_list",
+        "type": "unordered",
+        "title": "Mathematical Language and Symbols Students Should Use:",
+        "items": [
+          "bias",
+          "experiment",
+          "frequency table",
+          "observational study",
+          "theoretical probability",
+          "measures of central tendency (mean, median, mode)",
+          "measures of spread (range, standard deviation)",
+          "combination",
+          "experimental probability",
+          "independent",
+          "permutation",
+          "tree diagram",
+          "conditional",
+          "sample",
+          "randomization",
+          "variability",
+          "expected value",
+          "fair decision",
+          "survey",
+          "Venn diagram"
+        ]
+      },
+      {
+        "id": "page_27_list_objective_1_items",
+        "type": "ordered",
+        "title": "Objective 1: Construct viable arguments and critique the reasoning of others.",
+        "items": [
+          "Use stated assumptions, definitions, and previously established results to construct an argument.",
+          "Make conjectures and build a logical progression of statements to explore the truth of conjectures.",
+          "Recognize and use counterexamples.",
+          "Justify and communicate conclusions, and respond to the arguments of others.",
+          "Compare two plausible arguments and make decisions based on correct logic."
+        ]
+      },
+      {
+        "id": "page_27_list_objective_2_items",
+        "type": "ordered",
+        "title": "Objective 2: Analyze and evaluate the mathematics behind various ranking and selection methods.",
+        "items": [
+          "Analyze and apply various ranking algorithms to determine an appropriate method for a given situation.",
+          "Evaluate various voting and selection processes to determine an appropriate method for a given situation.",
+          "Analyze and apply various algorithms for making fair divisions."
+        ]
+      },
+      {
+        "id": "page_27_list_objective_3_items",
+        "type": "ordered",
+        "title": "Objective 3: Construct, analyze, and interpret flow charts.",
+        "items": [
+          "Construct flowcharts to describe processes or problem-solving procedures.",
+          "Analyze flowcharts and follow procedures to solve problems.",
+          "Evaluate efficiency of control processes.",
+          "List requirements and restrictions needed for a suggested algorithm."
+        ]
+      },
+      {
+        "id": "page_27_list_objective_4_items",
+        "type": "ordered",
+        "title": "Objective 4: Use a variety of graphical models to represent network and scheduling problems.",
+        "items": [
+          "Solve scheduling problems using mathematical models.",
+          "Explore shortest route and fastest route situations.",
+          "Solve precedence or critical paths problems to facilitate “what if” scenarios."
+        ]
+      },
+      {
+        "id": "page_27_list_mathematical_language_symbols",
+        "type": "unordered",
+        "title": "Mathematical Language and Symbols",
+        "items": [
+          "algorithm",
+          "flow chart",
+          "truth table",
+          "counterexample",
+          "logic",
+          "vertex-edge graph",
+          "critical paths",
+          "Euler path",
+          "minimal spanning trees"
+        ]
+      },
+      {
+        "id": "page_31_list_utah_core_standards_graphs",
+        "type": "ordered",
+        "title": "UTAH CORE STATE STANDARDS for MATHEMATICS",
+        "items": [
+          "Graph the costs of various aspects of renting a home vs. purchasing a home.",
+          "Graph the growth of different long term investments and income earnings.",
+          "Graph linear and exponential functions associated with finance."
+        ]
+      },
+      {
+        "id": "page_31_list_exploratory_concepts",
+        "type": "unordered",
+        "title": "Exploratory Concepts and Skills",
+        "items": [
+          "Creating plots",
+          "Evaluation of when to use different types of graphs",
+          "Regressions"
+        ]
+      },
+      {
+        "id": "page_31_list_objective_1_skills",
+        "type": "ordered",
+        "title": "Objective 1: Analyze monthly, annual, and life-long financial plans.",
+        "items": [
+          "Compare time and costs required to pay off a loan compared to saving for a purchase.",
+          "Compute monthly net and gross earnings based on various earning possibilities.",
+          "Compute annual net and gross earnings based on various earning possibilities.",
+          "Calculate present and future investment values.",
+          "Use algebraic functions to calculate average daily balances on loans and investments."
+        ]
+      },
+      {
+        "id": "page_31_list_objective_2_skills",
+        "type": "ordered",
+        "title": "Objective 2: Work with functions associated with finance and financial planning.",
+        "items": [
+          "Interpret the rate of change of functions associated with financial planning.",
+          "Represent financial scenarios with linear and non-linear functions.",
+          "Use functions to make predictions for future financial values.",
+          "Distinguish between financial contexts that result in linear and non-linear functions."
+        ]
+      },
+      {
+        "id": "page_31_list_objective_3_skills",
+        "type": "ordered",
+        "title": "Objective 3: Determine, represent and analyze relationships for various types of growth and decay models.",
+        "items": [
+          "Compute depreciation problems that involve exponential decay.",
+          "Compute inflation problems that involve exponential growth.",
+          "Identify growth and decay situations from real world problems."
+        ]
+      },
+      {
+        "id": "page_33_list_1",
+        "type": "unordered",
+        "title": "Exploratory Concepts and Skills",
+        "items": [
+          "Creating spreadsheets and data tables.",
+          "Extrapolating data, interpolating data.",
+          "Writing programs for predicting future values.",
+          "Writing and evaluating formulas."
+        ]
+      },
+      {
+        "id": "page_33_list_2",
+        "type": "ordered",
+        "title": "Objective 1: Identify various forms of income and analyze factors that affect income.",
+        "items": [
+          "Identify sources of income.",
+          "Compare common employee benefits.",
+          "Compare income to the cost-of-living in various geographical areas.",
+          "Analyze how economic conditions affect income."
+        ]
+      },
+      {
+        "id": "page_33_list_3",
+        "type": "ordered",
+        "title": "Objective 2: Identify and understand required income withholdings.",
+        "items": [
+          "List the reasons for taxation and uses of tax revenues.",
+          "Describe the purposes of Social Security and Medicare.",
+          "Identify wages and withholding on an employee payment record.",
+          "Demonstrate how to complete personal state and federal income tax forms."
+        ]
+      },
+      {
+        "id": "page_33_list_4",
+        "type": "ordered",
+        "title": "Objective 3: Analyze criteria for selecting a career and the impact of career choices on income and financial stability.",
+        "items": [
+          "Describe the correlation between income and a worker's skills, education, the value of the work to society, condition of the economy, and the supply and demand for workers.",
+          "Develop career plans that include educational requirements, skill development, and income potential.",
+          "Analyze the costs and benefits of obtaining additional education or developing new skills for the workplace.",
+          "Identify the risks and rewards of entrepreneurship/self-employment."
+        ]
+      },
+      {
+        "id": "page_34_list_exploratory_concepts",
+        "type": "unordered",
+        "title": "Exploratory Concepts and Skills",
+        "items": [
+          "Creating spreadsheets.",
+          "Compare early retirement benefits to full retirement benefits of Social Security",
+          "Create case studies of income earnings for various careers"
+        ]
+      },
+      {
+        "id": "page_34_list_objective_1_actions",
+        "type": "ordered",
+        "title": "Objective 1: Describe the role of planning and maintaining a balanced budget.",
+        "items": [
+          "Develop, monitor, and evaluate a personal budget.",
+          "Discuss opportunity costs and trade-offs on budget implementation.",
+          "Identify and discuss the social and personal consequences of not following a budget.",
+          "Compare and evaluate various tools available for keeping track of budgets.",
+          "Demonstrate knowledge of financial transactions, checking and savings accounts associated financial services.",
+          "Demonstrate how to manage a checking account.",
+          "Evaluate the impact of major purchases on budgeting."
+        ]
+      },
+      {
+        "id": "page_34_list_objective_2_actions",
+        "type": "ordered",
+        "title": "Objective 2: Understand credit uses and costs.",
+        "items": [
+          "Discuss the history and role of credit.",
+          "List basic types of credit.",
+          "Describe the risks and responsibilities associated with using credit.",
+          "Identify methods of establishing and maintaining a good credit rating.",
+          "Explain the purpose of co-signers and collateral when applying for a loan.",
+          "Identify warning signs of credit abuse and ways to correct credit problems.",
+          "Calculate and compare costs associated with the use of credit.",
+          "Calculate how long it takes to repay debt and the total costs when a borrower makes minimum payments."
+        ]
+      },
+      {
+        "id": "page_35_list_1",
+        "type": "unordered",
+        "title": "Exploratory Concepts and Skills",
+        "items": [
+          "Estate planning",
+          "Exploring risk management sources",
+          "Comparison shopping for insurance"
+        ]
+      },
+      {
+        "id": "page_38_list_1",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Use algebra and technology to solve systems of linear equations.",
+          "Use linear programming to maximize or minimize an objective function in context."
+        ]
+      },
+      {
+        "id": "page_38_list_2",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Graph and evaluate exponential functions.",
+          "Use an exponential function to generate values and make predictions in problems that involve exponential growth and decay.",
+          "Understand the inverse relationship between exponents and logarithms and use this relationship to solve problems."
+        ]
+      },
+      {
+        "id": "page_38_list_3",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Distinguish between dynamic and non-dynamic systems.",
+          "Create fractals with and without technology.",
+          "Use fractals to describe dynamic systems.",
+          "Investigate the effects of different initial conditions on dynamic systems using technology."
+        ]
+      },
+      {
+        "id": "page_38_list_4",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Use graphs to represent the relations of various structures and networks.",
+          "Identify characteristics of a given graph."
+        ]
+      },
+      {
+        "id": "page_39_list_utah_core_standards_general",
+        "type": "ordered",
+        "title": "Additional Graph Applications",
+        "items": [
+          "Classify graphs according to structure.",
+          "Solve problems of practical interest using graphs."
+        ]
+      },
+      {
+        "id": "page_39_list_objective_3_items",
+        "type": "ordered",
+        "title": "Extend geometry ideas to analyze art, architecture, music, and nature",
+        "items": [
+          "Describe artistic and natural structures and phenomena in terms of transformations, symmetry and fractals.",
+          "Identify projections used in art, architecture, and music.",
+          "Analyze the use of proportion in art, architecture, and music."
+        ]
+      },
+      {
+        "id": "page_39_list_objective_1_standard_iv_items",
+        "type": "ordered",
+        "title": "Use the rules of probability to calculate independent and conditional probabilities in real contexts",
+        "items": [
+          "Distinguish between subjective, experimental, and theoretical probability.",
+          "Calculate probabilities using addition and multiplication rules, tree diagrams, and twoway tables using correct probability notation.",
+          "Calculate conditional probabilities of compound events using two-way tables and Venn diagrams.",
+          "Use permutations and combinations to find probabilities."
+        ]
+      },
+      {
+        "id": "page_39_list_objective_2_standard_iv_items",
+        "type": "ordered",
+        "title": "Use graphs and numerical summaries to describe univariate data",
+        "items": [
+          "Display numerical univariate data using stemplots, line plots and histograms.",
+          "Describe the center and spread of a distribution using mean and standard deviation or median and quartiles.",
+          "Analyze distributions, and be able to explain what may have caused the distribution to be normal, symmetrical, skewed left, skewed right, or bimodal.",
+          "Use the empirical rule (68–95–99.7) to determine the proportion of a normally distributed population that falls within a given range of values."
+        ]
+      },
+      {
+        "id": "page_40_objective_3_list",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Use technology to graph bivariate data and calculate the regression line of the scatterplot.",
+          "Calculate the correlation coefficient of bivariate data using technology and use correlation to determine the direction and strength of the regression line.",
+          "Use a regression line to make predictions and analyze characteristics of data."
+        ]
+      },
+      {
+        "id": "page_40_objective_4_list",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Compare and contrast survey, observation, and experimental methods for obtaining sample data.",
+          "Select a simple random sample from a given population.",
+          "Design an experiment using randomization.",
+          "Identify improper sampling techniques when taking sample surveys.",
+          "Generalize results of a survey or experiment."
+        ]
+      },
+      {
+        "id": "page_40_standard_v_objective_1_list",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Use a variety of problem-solving strategies such as drawing a picture, making a systematic list, eliminating possibilities, looking for patterns, guessing and checking, identifying sub-problems, analyzing units, solving a related problem, working backwards, or using Venn diagrams to solve contextual problems.",
+          "Connect problem-solving strategies to traditional algorithms.",
+          "Describe how various problem-solving strategies are related."
+        ]
+      },
+      {
+        "id": "page_40_standard_v_objective_2_list",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Use logic notation to create propositions or logic statements."
+        ]
+      }
+    ],
+    "key_value_pairs": [
+      {
+        "key": "ADA Compliant",
+        "value": "May 2021"
+      },
+      {
+        "key": "ADA Compliant",
+        "value": "May 2021"
+      },
+      {
+        "key": "page_number",
+        "value": "53"
+      },
+      {
+        "key": "ADA Compliant",
+        "value": "May 2021"
+      },
+      {
+        "key": "Prerequisite",
+        "value": "Secondary III"
+      },
+      {
+        "key": "ADA Compliant",
+        "value": "May 2021"
+      },
+      {
+        "key": "Prerequisite",
+        "value": "Pre-calculus or Math 1050"
+      },
+      {
+        "key": "Prerequisite",
+        "value": "Secondary Math II"
+      },
+      {
+        "key": "INTRODUCTORY STATISTICS",
+        "value": "68"
+      },
+      {
+        "key": "ADA Compliant",
+        "value": "May 2021"
+      },
+      {
+        "key": "Prerequisite",
+        "value": "Secondary Mathematics II"
+      },
+      {
+        "key": "Standard I",
+        "value": "Students will use mathematical analysis to manage personal resources and make financially sound decisions."
+      },
+      {
+        "key": "Objective 1",
+        "value": "Construct viable arguments and critique the reasoning of others."
+      },
+      {
+        "key": "Objective 2",
+        "value": "Analyze and evaluate the mathematics behind various ranking and selection methods."
+      },
+      {
+        "key": "Objective 3",
+        "value": "Construct, analyze, and interpret flow charts."
+      },
+      {
+        "key": "Objective 4",
+        "value": "Use a variety of graphical models to represent network and scheduling problems."
+      },
+      {
+        "key": "MATHEMATICS OF PERSONAL FINANCE",
+        "value": "83"
+      },
+      {
+        "key": "Prerequisite",
+        "value": "Secondary Math II"
+      },
+      {
+        "key": "ADA Compliant",
+        "value": "May 2021"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "test_timestamp": "2024-01-01T12:00:00Z",
+  "pdf_processed": "C:\\Projects\\PDFConcensus\\Source_docs\\English Language Arts Standards\\-English Language Arts Standards.pdf",
+  "pdf_analysis": {
+    "total_pages": 62,
+    "total_blocks": 1066,
+    "blocks_with_text": 1066,
+    "total_text_characters": 92507,
+    "block_classification": {
+      "horizontal": 886,
+      "vertical": 56,
+      "square_mixed": 124,
+      "percentages": {
+        "horizontal": 83.11444652908068,
+        "vertical": 5.253283302063791,
+        "square_mixed": 11.632270168855536
+      }
+    }
+  },
+  "associations_processed": {
+    "count": 10,
+    "formats": [
+      "txt",
+      "json",
+      "md",
+      "csv",
+      "html"
+    ],
+    "total_size": 1272587,
+    "files": [
+      "-English Language Arts Standards (1).html",
+      "-English Language Arts Standards (1).md",
+      "-English Language Arts Standards (2).txt",
+      "-English Language Arts Standards.csv",
+      "-English Language Arts Standards.json",
+      "-English Language Arts Standards.txt",
+      "-English Language Arts Standards2.md",
+      "-English Language Arts Standards_test1.txt",
+      "-English Language Arts Standards_test2.txt",
+      "-English Language Arts Standards_test3.csv"
+    ]
+  },
+  "consensus_processing": {
+    "consensus_available": true,
+    "blocks_processed": 15,
+    "total_variations": 150,
+    "consensus_decisions": 15,
+    "average_variations_per_block": 10.0
+  },
+  "output_files": {
+    "gbg_analysis": "output\\complete_system_simple_test\\gbg_complete_analysis.json",
+    "consensus_results": "output\\complete_system_simple_test\\consensus_detailed_results.json",
+    "variations_ndjson": "output\\complete_system_simple_test\\pdf_variations.ndjson",
+    "consensus_ndjson": "output\\complete_system_simple_test\\consensus_decisions.ndjson",
+    "associations_metadata": "output\\complete_system_simple_test\\associations_metadata.json"
+  },
+  "system_validation": {
+    "gbg_processor_working": true,
+    "block_extraction_working": true,
+    "association_loading_working": true,
+    "variation_creation_working": true,
+    "consensus_processing_working": true,
+    "ndjson_output_working": true
+  }
+}

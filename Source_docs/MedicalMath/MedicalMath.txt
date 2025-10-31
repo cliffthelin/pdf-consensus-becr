@@ -1,0 +1,774 @@
+{
+  "document": {
+    "title": "tmpeczltiqj",
+    "type": "document",
+    "metadata": {
+      "date": "",
+      "author": "",
+      "version": "",
+      "pages": "7"
+    },
+    "sections": [
+      {
+        "id": "page_1_section_strands_standards",
+        "title": "STRANDS AND STANDARDS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_1_section_medical_math",
+            "title": "MEDICAL MATH",
+            "level": 2,
+            "content": "&lt;img&gt;CTE Logo with text \"Learning that works for Utah\"&lt;/img&gt;",
+            "subsections": []
+          },
+          {
+            "id": "page_1_section_course_description",
+            "title": "Course Description",
+            "level": 2,
+            "content": "An instructional program that prepares students with skills to compute mathematical equations related to healthcare. The course integrates medical-physiological concepts and mathematics. Students will engage in math activities including problem solving, reasoning and proof, communication, connections, and representations.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_2_strand_1",
+        "title": "STRAND 1",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_2_strand_1_uses_of_mathematics_in_healthcare",
+            "title": "Uses of Mathematics in Healthcare",
+            "level": 2,
+            "content": "",
+            "subsections": [
+              {
+                "id": "page_2_strand_1_standard_1",
+                "title": "Standard 1",
+                "level": 3,
+                "content": "Analyze the use of medical mathematics in the healthcare system. Strand 1 Performance Skill listed below",
+                "subsections": [],
+                "tables": [],
+                "lists": [
+                  {
+                    "id": "page_2_strand_1_standard_1_list_1",
+                    "type": "unordered",
+                    "title": "",
+                    "items": [
+                      "Explore different healthcare careers and the math used within the career.",
+                      "Compare and contrast at least two different careers."
+                    ]
+                  }
+                ],
+                "key_value_pairs": []
+              }
+            ],
+            "tables": [],
+            "lists": [],
+            "key_value_pairs": []
+          }
+        ],
+        "tables": [],
+        "lists": [],
+        "key_value_pairs": []
+      },
+      {
+        "id": "page_2_strand_2",
+        "title": "STRAND 2",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_2_strand_2_common_mathematical_operations_as_used_in_healthcare",
+            "title": "Common Mathematical Operations as Used in Healthcare",
+            "level": 2,
+            "content": "",
+            "subsections": [
+              {
+                "id": "page_2_strand_2_standard_1",
+                "title": "Standard 1",
+                "level": 3,
+                "content": "Compute fluently and make reasonable estimates.",
+                "subsections": [],
+                "tables": [],
+                "lists": [
+                  {
+                    "id": "page_2_strand_2_standard_1_list_1",
+                    "type": "unordered",
+                    "title": "",
+                    "items": [
+                      "Evaluate and simplify numerical expressions containing rational numbers using the order of operations.",
+                      "Compute solutions to problems and determine the reasonableness of an answer by relating them to applied scenarios",
+                      "Whole numbers: Supplies and inventories, Intake and output, Cholesterol, Quantities, Nutrition, Vital signs labs, Lever systems, Laboratory Values"
+                    ]
+                  }
+                ],
+                "key_value_pairs": []
+              },
+              {
+                "id": "page_2_strand_2_standard_2",
+                "title": "Standard 2",
+                "level": 3,
+                "content": "Represent rational numbers in a variety of ways.",
+                "subsections": [],
+                "tables": [],
+                "lists": [
+                  {
+                    "id": "page_2_strand_2_standard_2_list_1",
+                    "type": "unordered",
+                    "title": "",
+                    "items": [
+                      "Choose appropriate and convenient forms of rational numbers for solving problems and representing answers (e.g., decimal, fraction, or percent).",
+                      "Compute solutions to problems and determine the reasonableness of an answer by relating them to applied scenarios.",
+                      "Decimals: Tools, instruments, Nutrition, Weights, Rounding, Temperature, EKG's, Medications, Laboratory values"
+                    ]
+                  }
+                ],
+                "key_value_pairs": []
+              }
+            ],
+            "tables": [],
+            "lists": [],
+            "key_value_pairs": []
+          }
+        ],
+        "tables": [],
+        "lists": [],
+        "key_value_pairs": []
+      },
+      {
+        "id": "page_3_section_medical_math",
+        "title": "MEDICAL MATH",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_3_section_medical_math_standard_3",
+            "title": "Standard 3",
+            "level": 2,
+            "content": "Identify relationships among rational numbers and operations involving these numbers.",
+            "subsections": []
+          },
+          {
+            "id": "page_3_section_medical_math_standard_4",
+            "title": "Standard 4",
+            "level": 2,
+            "content": "Calculate percentages.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_3_section_strand_3",
+        "title": "STRAND 3",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_3_section_strand_3_ratios_proportions",
+            "title": "Ratios and Proportions",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_3_section_strand_3_standard_1",
+            "title": "Standard 1",
+            "level": 2,
+            "content": "Evaluate, solve, and analyze mathematical situations using algebraic properties and symbols.",
+            "subsections": []
+          },
+          {
+            "id": "page_3_section_strand_3_standard_2",
+            "title": "Standard 2",
+            "level": 2,
+            "content": "Use ratios to compare data.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_4_section_medical_math",
+        "title": "MEDICAL MATH",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_4_section_strand_4",
+        "title": "STRAND 4",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_4_subsection_strand_4_gathering_data",
+            "title": "Gathering Data (Use of Medical Instruments)",
+            "level": 2,
+            "content": "",
+            "subsections": [
+              {
+                "id": "page_4_subsection_strand_4_standard_1",
+                "title": "Standard 1",
+                "level": 3,
+                "content": "Use patterns, relations, and functions to represent mathematical situations.",
+                "subsections": []
+              },
+              {
+                "id": "page_4_subsection_strand_4_standard_2",
+                "title": "Standard 2",
+                "level": 3,
+                "content": "Represent quantitative relationships using mathematical models and symbols.",
+                "subsections": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_4_section_strand_5",
+        "title": "STRAND 5",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_4_subsection_strand_5_interpreting_data",
+            "title": "Interpreting Data",
+            "level": 2,
+            "content": "",
+            "subsections": [
+              {
+                "id": "page_4_subsection_strand_5_standard_1",
+                "title": "Standard 1",
+                "level": 3,
+                "content": "Formulate and answer questions by collecting, organizing, and analyzing statistical data.",
+                "subsections": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_5_section_medical_math",
+        "title": "MEDICAL MATH",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_5_section_standard_2",
+        "title": "Standard 2",
+        "level": 1,
+        "content": "Apply basic concepts of probability.",
+        "subsections": []
+      },
+      {
+        "id": "page_5_section_strand_6",
+        "title": "STRAND 6",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_5_subsection_math_for_medications",
+            "title": "Math for Medications",
+            "level": 2,
+            "content": "",
+            "subsections": [
+              {
+                "id": "page_5_subsection_standard_1",
+                "title": "Standard 1",
+                "level": 3,
+                "content": "Compute fluently and make reasonable estimates.",
+                "subsections": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_6_section_medical_math",
+        "title": "MEDICAL MATH",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_6_section_medical_math_standard_2",
+            "title": "Standard 2",
+            "level": 2,
+            "content": "Evaluate, solve, and analyze mathematical situations using algebraic properties and symbols.",
+            "subsections": []
+          },
+          {
+            "id": "page_6_section_medical_math_standard_3",
+            "title": "Standard 3",
+            "level": 2,
+            "content": "Represent quantitative relationships using mathematical models and symbols.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_6_section_strand_7",
+        "title": "STRAND 7",
+        "level": 1,
+        "content": "Medical Accounting and Business",
+        "subsections": [
+          {
+            "id": "page_6_section_strand_7_standard_1",
+            "title": "Standard 1",
+            "level": 2,
+            "content": "Apply systems of order.",
+            "subsections": []
+          },
+          {
+            "id": "page_6_section_strand_7_standard_2",
+            "title": "Standard 2",
+            "level": 2,
+            "content": "Evaluate, solve, and analyze mathematical situations using algebraic properties and symbols.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_6_section_strand_8",
+        "title": "STRAND 8",
+        "level": 1,
+        "content": "Exponents and Logarithms",
+        "subsections": [
+          {
+            "id": "page_6_section_strand_8_standard_1",
+            "title": "Standard 1",
+            "level": 2,
+            "content": "Use properties of exponentials to solve equations.",
+            "subsections": []
+          },
+          {
+            "id": "page_6_section_strand_8_standard_2",
+            "title": "Standard 2",
+            "level": 2,
+            "content": "Use properties of logarithms to solve equations.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_6_section_performance_skills",
+        "title": "Performance Skills",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_7_section_medical_math",
+        "title": "MEDICAL MATH",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_7_section_workplace_skills",
+        "title": "Workplace Skills",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      }
+    ],
+    "summary": {
+      "main_topics": [],
+      "key_findings": [],
+      "action_items": [],
+      "important_dates": []
+    },
+    "tables": [
+      {
+        "id": "page_1_table_course_details",
+        "title": "",
+        "headers": [
+          "Field",
+          "Value"
+        ],
+        "rows": [
+          [
+            "Intended Grade Level",
+            "11-12"
+          ],
+          [
+            "Units of Credit",
+            "0.5"
+          ],
+          [
+            "Core Code",
+            "36.01.00.00.150"
+          ],
+          [
+            "Concurrent Enrollment Core Code",
+            "N/A"
+          ],
+          [
+            "Prerequisite",
+            "Secondary Math 2 PLUS a Health Science Course"
+          ],
+          [
+            "Skill Certification Test Number",
+            ""
+          ],
+          [
+            "Test Weight",
+            ""
+          ],
+          [
+            "License Area of Concentration",
+            "CTE and/or Secondary Education 6-12"
+          ],
+          [
+            "Required Endorsement(s)",
+            ""
+          ],
+          [
+            "Endorsement 1",
+            "Medical Math"
+          ],
+          [
+            "Endorsement 2",
+            ""
+          ],
+          [
+            "Endorsement 3",
+            ""
+          ]
+        ]
+      }
+    ],
+    "lists": [
+      {
+        "id": "page_3_list_standard_3_applications",
+        "type": "unordered",
+        "title": "Applications for Standard 3",
+        "items": [
+          "Compute solutions to problems and determine the reasonableness of an answer by relating them to applied scenarios.",
+          "Fractions"
+        ]
+      },
+      {
+        "id": "page_3_list_standard_3_fractions_sub_topics",
+        "type": "unordered",
+        "title": "Fractions Sub-topics for Standard 3",
+        "items": [
+          "Tools, instruments",
+          "Weights",
+          "Estimation",
+          "EKG's",
+          "Medications",
+          "Laboratory values",
+          "Conversions (Fahrenheit/Celsius)"
+        ]
+      },
+      {
+        "id": "page_3_list_standard_4_applications",
+        "type": "unordered",
+        "title": "Applications for Standard 4",
+        "items": [
+          "Compute solutions to problems and determine the reasonableness of an answer by relating them to applied scenarios.",
+          "Compute solutions to problems and determine the reasonableness of an answer by relating them to applied scenarios.",
+          "Chemical solutions",
+          "Laboratory values",
+          "Growth charts",
+          "Medications",
+          "Nutrition",
+          "Intake/output",
+          "Target heart rate",
+          "Stroke volume",
+          "Cardiac output",
+          "Blood loss",
+          "Body surface area, burns",
+          "Oxygen saturation"
+        ]
+      },
+      {
+        "id": "page_3_list_strand_3_standard_1_applications",
+        "type": "unordered",
+        "title": "Applications for Strand 3 Standard 1",
+        "items": [
+          "Solve proportions that include algebraic first-degree expressions (solve for x or use dimensional analysis).",
+          "Nutrition",
+          "Chemical solutions",
+          "Dosage conversions"
+        ]
+      },
+      {
+        "id": "page_3_list_strand_3_standard_2_applications",
+        "type": "unordered",
+        "title": "Applications for Strand 3 Standard 2",
+        "items": [
+          "Laboratory values"
+        ]
+      },
+      {
+        "id": "page_4_list_medical_math_topics",
+        "type": "unordered",
+        "title": "MEDICAL MATH topics",
+        "items": [
+          "Medications",
+          "Diseases (statistics)analysis)."
+        ]
+      },
+      {
+        "id": "page_4_list_strand_4_standard_1_items",
+        "type": "unordered",
+        "title": "Standard 1 items",
+        "items": [
+          "Compute solutions to problems and determine the reasonableness of an answer by relating them to applied scenarios.",
+          "    - Conversions",
+          "    - Metric units",
+          "    - Time (12/24)",
+          "    - Roman numerals (Arabic/Roman)",
+          "    - Temperature (Celsius/Fahrenheit)",
+          "    - Pre/Post workout weight analysis",
+          "    - Body composition",
+          "    - Pharmacology"
+        ]
+      },
+      {
+        "id": "page_4_list_strand_4_standard_2_items",
+        "type": "unordered",
+        "title": "Standard 2 items",
+        "items": [
+          "Find and interpret rates of change by analyzing graphical and numerical data.",
+          "Understand measurable attributes of objects and the units, systems, and processes of measurement.",
+          "Solve problems using visualization and spatial reasoning.",
+          "Instruments",
+          "    - IV flow rates",
+          "    - Macro/micro drops (tubing)",
+          "    - Syringes",
+          "    - Rulers, tape measures",
+          "    - Scales",
+          "    - Goniometry, ROM",
+          "    - Centrifuges",
+          "    - Sphygmomanometer gauges (blood pressure)",
+          "    - Pulse oximeters",
+          "    - Oxygen flow rates",
+          "    - Thermometers"
+        ]
+      },
+      {
+        "id": "page_4_list_strand_5_standard_1_items",
+        "type": "unordered",
+        "title": "Standard 1 items",
+        "items": [
+          "Collect, record, organize, and display a set of statistical data.",
+          "Determine whether the pattern of the data is linear or nonlinear when given in a list, table, or graph."
+        ]
+      },
+      {
+        "id": "page_5_list_medical_math_skills",
+        "type": "unordered",
+        "title": "MEDICAL MATH skills",
+        "items": [
+          "Interpret the correlation between two variables as positive, negative, or having no correlation.",
+          "Find a line of best fit by estimation, choosing two points, or using technology for a given set of statistical data.",
+          "Analyze the meaning of the slope and y-intercept of a line of best fit as it relates to the statistical data set.",
+          "Find mean, median, mode, and range for a statistical data set.",
+          "Analyze the meaning of the maximum or minimum and intercepts of the regression equation as they relate to a given set of bivariate data.",
+          "Make predictions and estimations and determine their reasonableness using a regression equation (line of best fit).",
+          "Graphs and charts"
+        ]
+      },
+      {
+        "id": "page_5_list_graphs_and_charts_types",
+        "type": "unordered",
+        "title": "Graphs and charts types",
+        "items": [
+          "Interpreting charts and graphs",
+          "Temperature, pulse, respiration graphs",
+          "Intake and output charts",
+          "Height, weight, measurement graphs",
+          "Cardiac output",
+          "Medication errors",
+          "Census",
+          "Acuities",
+          "Disease, mortality rates",
+          "Job outlook, projections",
+          "Treatment prognosis",
+          "Clinical trials",
+          "Healthcare costs",
+          "Effectiveness (facilities, providers)",
+          "Wellness indicators",
+          "Reliability and validity",
+          "Body mass index (BMI)",
+          "Body composition",
+          "Epidemiology"
+        ]
+      },
+      {
+        "id": "page_5_list_standard_2_probability_concepts",
+        "type": "unordered",
+        "title": "Standard 2 probability concepts",
+        "items": [
+          "Determine and express the probability of an event as a fraction, percent, ratio, or decimal.",
+          "Determine the conditional probability of an event (false positive/false negative)."
+        ]
+      },
+      {
+        "id": "page_5_list_standard_1_computation_skills",
+        "type": "unordered",
+        "title": "Standard 1 computation skills",
+        "items": [
+          "Reading drug labels",
+          "Interpreting prescriptions/Patient instructions"
+        ]
+      },
+      {
+        "id": "page_6_list_medical_math_standard_2_items",
+        "type": "unordered",
+        "title": "Medical Math Standard 2 Items",
+        "items": [
+          "Simplify and evaluate numerical expressions (including integer exponents and square roots), algebraic expressions, formulas, and equations.",
+          "Using medical reference materials to determine if calculated dosages are safe."
+        ]
+      },
+      {
+        "id": "page_6_list_medical_math_standard_3_items",
+        "type": "unordered",
+        "title": "Medical Math Standard 3 Items",
+        "items": [
+          "Dosing",
+          "Dosage conversions"
+        ]
+      },
+      {
+        "id": "page_6_list_strand_7_standard_1_items",
+        "type": "unordered",
+        "title": "Strand 7 Standard 1 Items",
+        "items": [
+          "Numerical filing",
+          "Appointment scheduling"
+        ]
+      },
+      {
+        "id": "page_6_list_strand_7_standard_2_items",
+        "type": "unordered",
+        "title": "Strand 7 Standard 2 Items",
+        "items": [
+          "Maintaining accounts",
+          "Checks, deposit slips, and receipts",
+          "Calculating cash transactions/Payroll",
+          "Budgeting",
+          "Depreciation, amortization",
+          "Insurance"
+        ]
+      },
+      {
+        "id": "page_6_list_strand_8_standard_1_items",
+        "type": "unordered",
+        "title": "Strand 8 Standard 1 Items",
+        "items": [
+          "Radiation exposure",
+          "Half life"
+        ]
+      },
+      {
+        "id": "page_6_list_strand_8_standard_2_items",
+        "type": "unordered",
+        "title": "Strand 8 Standard 2 Items",
+        "items": [
+          "pH"
+        ]
+      },
+      {
+        "id": "page_6_list_performance_skills_items",
+        "type": "unordered",
+        "title": "Performance Skills Items",
+        "items": [
+          "Oral presentation on chosen healthcare career mathematics.",
+          "Use healthcare career choice to create a business model."
+        ]
+      },
+      {
+        "id": "page_7_list_workplace_skills",
+        "type": "unordered",
+        "title": "Workplace Skills",
+        "items": [
+          "Critical thinking",
+          "Collaboration",
+          "Communication (Oral/Written)",
+          "Organization",
+          "Technical skills",
+          "Consumer awareness",
+          "Commercial awareness",
+          "Legal requirements/ expectations",
+          "Interpersonal relationships"
+        ]
+      }
+    ],
+    "key_value_pairs": [
+      {
+        "key": "Intended Grade Level",
+        "value": "11-12"
+      },
+      {
+        "key": "Units of Credit",
+        "value": "0.5"
+      },
+      {
+        "key": "Core Code",
+        "value": "36.01.00.00.150"
+      },
+      {
+        "key": "Concurrent Enrollment Core Code",
+        "value": "N/A"
+      },
+      {
+        "key": "Prerequisite",
+        "value": "Secondary Math 2 PLUS a Health Science Course"
+      },
+      {
+        "key": "Skill Certification Test Number",
+        "value": ""
+      },
+      {
+        "key": "Test Weight",
+        "value": ""
+      },
+      {
+        "key": "License Area of Concentration",
+        "value": "CTE and/or Secondary Education 6-12"
+      },
+      {
+        "key": "Required Endorsement(s)",
+        "value": ""
+      },
+      {
+        "key": "Endorsement 1",
+        "value": "Medical Math"
+      },
+      {
+        "key": "Endorsement 2",
+        "value": ""
+      },
+      {
+        "key": "Endorsement 3",
+        "value": ""
+      },
+      {
+        "key": "REVISED",
+        "value": "SEPTEMBER 2020"
+      },
+      {
+        "key": "REVISED",
+        "value": "SEPTEMBER 2020"
+      },
+      {
+        "key": "REVISED",
+        "value": "SEPTEMBER 2020"
+      },
+      {
+        "key": "REVISED",
+        "value": "SEPTEMBER 2020"
+      },
+      {
+        "key": "REVISED",
+        "value": "SEPTEMBER 2020"
+      }
+    ]
+  }
+}

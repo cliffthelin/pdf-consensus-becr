@@ -1,0 +1,2436 @@
+{
+  "metadata": {
+    "source_old": "English_Language_Arts_Standards__strict.md",
+    "source_new": "ELA_verified_auto.md",
+    "diff_count_pages": 56,
+    "notes": "Line-level differences; each item is an array of two objects with keys {source, line}."
+  },
+  "differences": [
+    {
+      "literal_page": 5,
+      "document_page": "1",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 6,
+      "document_page": "I",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 7,
+      "document_page": "ix",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 8,
+      "document_page": "I",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 9,
+      "document_page": "12",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 10,
+      "document_page": "3",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "3"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "4"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "5"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "6"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "7"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "8"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 11,
+      "document_page": "5",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "5"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "6"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "7"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "8"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "3"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "4"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 12,
+      "document_page": "4",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 13,
+      "document_page": "I",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 14,
+      "document_page": "I",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 15,
+      "document_page": "3",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 16,
+      "document_page": "c",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 17,
+      "document_page": "5",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "3"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 18,
+      "document_page": "4",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "4"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 19,
+      "document_page": "c",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "5"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 20,
+      "document_page": "3",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "6"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 21,
+      "document_page": "1",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "7"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 22,
+      "document_page": "3",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "8"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 23,
+      "document_page": "3",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "9"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 24,
+      "document_page": "1",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "0"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 25,
+      "document_page": "c",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 26,
+      "document_page": "ic",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 27,
+      "document_page": "2",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "3"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 28,
+      "document_page": "i",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "4"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 29,
+      "document_page": "c",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "5"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 30,
+      "document_page": "I",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "6"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 31,
+      "document_page": "3",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "7"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 32,
+      "document_page": "i",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "8"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 33,
+      "document_page": "c",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "9"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 34,
+      "document_page": "c",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "0"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 35,
+      "document_page": "4",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 36,
+      "document_page": "c",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 37,
+      "document_page": "4",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "3"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 38,
+      "document_page": "c",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "4"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 39,
+      "document_page": "5",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "5"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 40,
+      "document_page": "c",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "6"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 41,
+      "document_page": "5",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "7"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 42,
+      "document_page": "c",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "8"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 43,
+      "document_page": "6",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "9"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 44,
+      "document_page": "c",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "3"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "0"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 45,
+      "document_page": "c",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "3"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 46,
+      "document_page": "d",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "3"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 47,
+      "document_page": "4",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "3"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "3"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 48,
+      "document_page": "I",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "3"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "4"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 49,
+      "document_page": "c",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "3"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "5"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 50,
+      "document_page": "c",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "3"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "6"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 51,
+      "document_page": "c",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "3"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "7"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 52,
+      "document_page": "I",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "3"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "8"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 53,
+      "document_page": "I",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "3"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "9"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 54,
+      "document_page": "c",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "4"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "0"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 55,
+      "document_page": "c",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "4"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 56,
+      "document_page": "c",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "4"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 57,
+      "document_page": "I",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "4"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "3"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 58,
+      "document_page": "I",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "4"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "4"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 59,
+      "document_page": "c",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "4"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "5"
+          }
+        ]
+      ]
+    },
+    {
+      "literal_page": 60,
+      "document_page": "c",
+      "lines": [
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "1"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "2"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "4"
+          }
+        ],
+        [
+          {
+            "source": "English_Language_Arts_Standards__strict.md",
+            "line": ""
+          },
+          {
+            "source": "ELA_verified_auto.md",
+            "line": "6"
+          }
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,485 @@
+{
+  "document": {
+    "title": "tmp2nps4e0n",
+    "type": "document",
+    "metadata": {
+      "date": "",
+      "author": "",
+      "version": "",
+      "pages": "7"
+    },
+    "sections": [
+      {
+        "id": "page_1_section_secondary_mathematics_utah_core_changes",
+        "title": "Secondary Mathematics Utah Core Changes",
+        "level": 1,
+        "content": "How to read the grade level standards",
+        "subsections": []
+      },
+      {
+        "id": "page_1_section_grade_6_core_changes",
+        "title": "Grade 6 Core changes",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_3_section_grade_7_core_changes",
+        "title": "Grade 7 Core changes",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_3_section_grade_8_core_changes",
+        "title": "Grade 8 Core changes",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_4_section_secondary_i_core_changes",
+        "title": "Secondary I Core changes",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_5_section_secondary_ii_core_changes",
+        "title": "Secondary II Core changes",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_6_section_1",
+        "title": "Secondary III Core changes",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      }
+    ],
+    "summary": {
+      "main_topics": [],
+      "key_findings": [],
+      "action_items": [],
+      "important_dates": []
+    },
+    "tables": [
+      {
+        "id": "page_1_table_grade_6_core_changes",
+        "title": "",
+        "headers": [
+          "Standard",
+          "Modified/Added/Removed"
+        ],
+        "rows": [
+          [
+            "Throughout",
+            "Examples added or modified to several standards to clarify limits and expectations in Sixth grade. Examples of where this occurs: 6.RP.2, 6.RP.3b, 6.NS.6, 6.EE.2, 6.EE.4,"
+          ],
+          [
+            "6.RP.2\nModified/\nFootnote\nmoved into\nstandard",
+            "Understand the concept of a unit rate $a/b$ associated with a ratio $a:b$ with $b≠0$, and use rate language in the context of a ratio relationship. *For example,* The following are examples of rate language: \"This recipe has a ratio of 3_4 cups of flour to 4_2 cups of sugar, so the rate is 3/4 cup 2 cups of flour for each cup of sugar.\" \"We paid $75 for 15 hamburgers, which is a rate of $5 per hamburger.\" (In sixth grade, unit rates are limited to non-complex fractions.)"
+          ],
+          [
+            "6.RP.3\nmodified",
+            "Use ratio and rate reasoning to solve real-world (**with a context**) and mathematical (**void of context**) problems, e.g., by using strategies such as, reasoning about tables of equivalent ratios, tape diagrams, double number line diagrams, or equations involving unit rate problems."
+          ]
+        ]
+      },
+      {
+        "id": "page_2_table_1",
+        "title": "",
+        "headers": [
+          "Standard",
+          "Modified/Added/Removed"
+        ],
+        "rows": [
+          [
+            "6.NS.1\nmodified",
+            "Interpret and compute quotients of fractions. and solve word problems involving division of fractions by fractions, e.g., by using visual fraction models and equations to represent the problem. For example, create a story context for (2/3) + (3/4) and use a visual fraction model to show the quotient; use the relationship between multiplication and division to explain that (2/3) + (3/4) = 8/9 because 3/4 of 8/9 is 2/3. (In general, (a/b) + (c/d) = ad/bc.) How much chocolate will each person get if 3 people share 1/2 lb of chocolate equally? How many 3/4-cup servings are in 2/3 of a cup of yogurt? How wide is a rectangular strip of land with length 3/4 mi and area 1/2 square mi?"
+          ],
+          [
+            "",
+            "a. Compute quotients of fractions by fractions, for example, by applying strategies such as visual fraction models, equations, and the relationship between multiplication and division, to represent problems."
+          ],
+          [
+            "",
+            "b. Solve real-world problems involving division of fractions by fractions. For example, how much chocolate will each person get if three people share 1/2 pound of chocolate equally? How many 3/4-cup servings are in 2/3 of a cup of yogurt? How wide is a rectangular strip of land with length 3/4 mile and area 1/2 square mile?"
+          ],
+          [
+            "6.NS.3\nadded",
+            "Fluently add, subtract, multiply, and divide multi-digit decimals using the standard algorithm for each operation."
+          ],
+          [
+            "",
+            "a. Fluently divide multi-digit decimals using the standard algorithm, limited to a whole number dividend with a decimal divisor or a decimal dividend with a whole number divisor.\nb. Solve division problems in which both the dividend and the divisor are multi-digit decimals; develop the standard algorithm by using models, the meaning of division, and place value understanding."
+          ],
+          [
+            "6.EE.2\nmodified",
+            "Write, read, and evaluate expressions in which letters represent numbers."
+          ],
+          [
+            "",
+            "a. Write expressions that record operations with numbers and with letters representing numbers. For example: Express the calculation \"Subtract y from 5\" as 5 - y. \"Jane had $105.00 in her bank account. One year later she had x dollars more. Write an expression that shows her new balance\" as $105.00 + x."
+          ],
+          [
+            "",
+            "b. Identify parts of an expression using mathematical terms (sum, term, product, factor, quotient, coefficient); view one or more parts of an expression as a single entity and a sum of two terms. For example, describe the expression 2 {8 + 7} as a product of two factors; view {8 + 7} as both a single entity and a sum of two terms."
+          ],
+          [
+            "",
+            "c. Evaluate expressions at specific values of their variables. Include expressions that arise from formulas used in real-world problems. Perform arithmetic operations, including those involving whole-number exponents, in the conventional order applying the Order of Operations when there are no parentheses to specify a particular order (Order of Operations). For example, use the formulas V = s³ and A = 6 s² to find the volume and surface area of a cube with sides of length s = 1/2."
+          ],
+          [
+            "6.G.1\nmodified",
+            "Find the area of right triangles, other triangles, special quadrilaterals, and polygons by composing and decomposing into rectangles, or decomposing into triangles and/or other shapes; apply these techniques in the context of solving real-world and mathematical problems."
+          ]
+        ]
+      },
+      {
+        "id": "page_3_table_1",
+        "title": "",
+        "headers": [
+          "Standard",
+          "Modified/Added/Removed"
+        ],
+        "rows": [
+          [
+            "6.SP.2\nmodified",
+            "Understand that a set of data collected to answer a statistical question has a distribution which can be described by its center, spread/range and overall shape."
+          ]
+        ]
+      },
+      {
+        "id": "page_3_table_2",
+        "title": "",
+        "headers": [
+          "Standard",
+          "Modified/Added/Deleted"
+        ],
+        "rows": [
+          [
+            "7.SP.1\nmodified",
+            "Understand that statistics can be used to gain information about a population by examining a sample of the population, and that generalizations about a population from a sample are valid only if the sample is representative of that population. Understand that random sampling tends is more likely to produce representative samples and support valid inferences."
+          ],
+          [
+            "7.SP.3\nmodified",
+            "Informally assess the degree of visual overlap of two numerical data distributions with similar variabilities, estimating the difference between the centers by expressing it as a multiple of a measure of variability. *For example, the mean height of players on the basketball team is 10 cm greater than the mean height of players on the soccer team, about approximately twice the variability (mean absolute deviation) on either team; on a dot plot, the separation between the two distributions of heights is noticeable.*"
+          ]
+        ]
+      },
+      {
+        "id": "page_3_table_3",
+        "title": "",
+        "headers": [
+          "Standard",
+          "Modified/Added/Deleted"
+        ],
+        "rows": [
+          [
+            "8.NS.3\nAdded",
+            "8.NS.3 - Understand how to perform operations and simplify radicals with emphasis on square roots."
+          ],
+          [
+            "8.EE.7\nmodified",
+            "Solve linear equations and inequalities in one variable."
+          ],
+          [
+            "8.EE.7b\nmodified",
+            "Solve single variable linear equations and inequalities with rational number coefficients, including equations and inequalities whose solutions require expanding expressions using the distributive property and collecting like terms."
+          ],
+          [
+            "8.EE.7c\nadded",
+            "8.EE.7c - Solve single variable absolute value equations."
+          ],
+          [
+            "8.EE.8b\nmodified",
+            "Solve systems of two linear equations in two variables algebraically, and estimate solutions by graphing the equations graphically, approximating when solutions are not integers. Solve simple cases by inspection. *For example, 3x + 2y = 5 and 3x + 2y = 6 have no solution because 3x + 2y cannot simultaneously be 5 and 6.*"
+          ]
+        ]
+      },
+      {
+        "id": "page_4_table_grade_8_standard_modifications",
+        "title": "Grade 8 Standard Modifications",
+        "headers": [
+          "Standard",
+          "Description"
+        ],
+        "rows": [
+          [
+            "8.EE.8c modified",
+            "Solve real-world and mathematical problems leading to two linear equations in two variables graphically. For example, given coordinates for two pairs of points, determine whether the line through the first pair of points intersects the line through the second pair."
+          ],
+          [
+            "8.F.1 Footnote moved into standard",
+            "Understand that a function is a rule that assigns to each input exactly one output. The graph of a function is the set of ordered pairs consisting of an input and the corresponding output. (Function notation is not required in grade 8.)"
+          ],
+          [
+            "8.G.3 modified",
+            "Observe that orientation of the plane is preserved in rotations and translations, but not with reflections. Describe the effect of dilations, translations, rotations, and reflections on two-dimensional figures using coordinates."
+          ],
+          [
+            "8.G.6 modified",
+            "Explore and explain proofs of the Pythagorean Theorem and its converse."
+          ],
+          [
+            "8.SP.3 Footnote moved into standard",
+            "Use the equation of a linear model to solve problems in the context of bivariate measurement data, interpreting the slope and intercept. For example, in a linear model for a biology experiment, interpret a slope of 1.5 cm/hr as meaning that an additional hour of sunlight each day is associated with an additional 1.5 cm in mature plant height. (Calculating equations for a linear model is not expected in grade 8.)"
+          ]
+        ]
+      },
+      {
+        "id": "page_4_table_secondary_i_core_changes",
+        "title": "Secondary I Core changes",
+        "headers": [
+          "Standard",
+          "Modified/Added/Moved/Deleted"
+        ],
+        "rows": [
+          [
+            "Throughout",
+            "\"Linear\" and \"exponential\" added to several standards indicating the emphasis of these two functions in Secondary Mathematics I. Examples of where this occurs: I.A.REI.1, I.F.IF.9, I.F.BF.3, I.S.ID.6"
+          ],
+          [
+            "Throughout",
+            "\"Quadratic\", \"rational\" and other functions removed from several standards and placed in appropriate Secondary Mathematics courses. Examples of where this occurs: I.A.CED.1, I.A.REI.11, I.F.IF.7a, e, I.F.IF.9, I.F.BF.3, I.F.LE.3"
+          ],
+          [
+            "I.A.REI.3 modified/ \"b\" added",
+            "Solve equations and inequalities in one variable. a. Equations with coefficients represented by letters. b. Compound inequalities in one variable, including absolute value inequalities. c. Solve simple exponential equations that rely only on application of the laws of exponents, such as $5^x = 125$ or $2^x = 1/16$"
+          ],
+          [
+            "I.A.REI.6 modified",
+            "Solve systems of linear equations exactly and approximately (e.g., with graphs) (numerically, algebraically, graphically), focusing on pairs of linear equations in two variables."
+          ],
+          [
+            "I.F.IF.4 modified",
+            "For a function that models a relationship between two quantities, interpret key features of graphs and tables in terms of the quantities, and sketch graphs showing key features given a verbal description of the relationship. Key features include intercepts; intervals where"
+          ]
+        ]
+      },
+      {
+        "id": "page_5_table_1",
+        "title": "",
+        "headers": [
+          "Standard ID",
+          "Description/Modification"
+        ],
+        "rows": [
+          [
+            "",
+            "the function is increasing, decreasing, positive, or negative; relative maximums and minimums; symmetries; <b>and</b> end behavior; <u>and periodicity</u>."
+          ],
+          [
+            "I.F.BF.3 modified",
+            "Identify the effect on the graph of replacing $f(x)$ by $f(x) + k$, $kf(x)$, $f(kx)$, and $f(x+k)$ for specific values of $k$ (both positive and negative); find the value of $k$ given the graphs.<br><u>Relate the vertical translation of a linear function to its y-intercept.</u> Experiment with cases and illustrate an explanation of the effects on the graph using technology. <i>Include recognizing even and odd functions from their graphs and algebraic expressions for them.</i>"
+          ],
+          [
+            "I.S.ID.3 modified",
+            "Interpret differences in shape, center, and spread in the context of the data sets, accounting for possible effects of extreme data points (outliers). <u>Calculate the weighted average of a distribution and interpret it as a measure of center.</u>"
+          ],
+          [
+            "I.S.ID.5 moved",
+            "Moved to Secondary II"
+          ]
+        ]
+      },
+      {
+        "id": "page_5_table_2",
+        "title": "",
+        "headers": [
+          "Standard",
+          "Modified/Added/Moved/Deleted"
+        ],
+        "rows": [
+          [
+            "Throughout",
+            "\"Quadratic\", \"quadratic, exponential, and linear\" and key concepts specific to this course (such as \"Limit to multiplications that involve $i^2$ as the highest power of $i$\") added to several standards to clarify limits and expectations in Secondary Mathematics II. Examples of where this occurs: II.N.CN.1, II.N.CN.2, II.A.SSE.1, II.F.IF.5, II.F.IF.9, II.F.BF.3, II.F.LE.3, II.F.TF"
+          ],
+          [
+            "Throughout",
+            "\"Rational\" functions and other concepts removed from several standards and placed in appropriate Secondary Mathematics courses. Example of where this occurs: II.A.SSE.1"
+          ],
+          [
+            "II.A.SSE.1b modified",
+            "a. Interpret quadratic and exponential expressions that represent a quantity in terms of its context.<br>b. Interpret complicated increasingly more complex expressions by viewing one or more of their parts as a single entity. <i>For example, interpret P(1+r)^n as the product of P and a factor not depending on P.</i> Exponents are extended from the integer exponents to rational exponents focusing on those that represent square or cube roots."
+          ],
+          [
+            "II.A.CED.4 modified",
+            "Rearrange formulas to highlight a quantity of interest, using the same reasoning as in solving equations; extend to formulas involving squared variables. <i>For example, rearrange the formula for the volume of a cylinder V = πr² h.</i>"
+          ],
+          [
+            "II.F.IF.7b Modified/moved",
+            "Graph square root, cube root, and piecewise-defined functions, including step functions and absolute value functions. Compare and contrast absolute value and piecewise-"
+          ]
+        ]
+      },
+      {
+        "id": "page_6_table_1",
+        "title": "",
+        "headers": [
+          "Standard/Code",
+          "Description"
+        ],
+        "rows": [
+          [
+            "",
+            "defined functions with linear, quadratic, and exponential functions. Highlight issues of domain, range, and usefulness when examining piecewise-defined functions. (crossed out functions moved to Secondary Math III)"
+          ],
+          [
+            "II.F.BF.4b\nmoved",
+            "Moved to Secondary Math III"
+          ],
+          [
+            "II.G.GPE.2\nmoved",
+            "Moved to Secondary Math II Honors"
+          ],
+          [
+            "I.S.ID.5\nadded",
+            "Summarize categorical data for two categories in two-way frequency tables. Interpret relative frequencies in the context of the data (including joint, marginal, and condition relative frequencies). Recognize possible associations and trends in the date. (Moved from Secondary Math I)"
+          ],
+          [
+            "II.S.CP.2\nmoved",
+            "Moved to Secondary Math II Honors"
+          ],
+          [
+            "II.S.CP.3\nmoved",
+            "Moved to Secondary Math II Honors"
+          ],
+          [
+            "II.S.CP.7\nmoved",
+            "Moved to Secondary Math II Honors"
+          ],
+          [
+            "II.S.CP.8\nmoved",
+            "Moved to Secondary Math II Honors"
+          ],
+          [
+            "II.S.CP.9\nmoved",
+            "Moved to Secondary Math III Honors"
+          ],
+          [
+            "II.S.MD.1\nremoved",
+            "Removed from core"
+          ],
+          [
+            "II.S.MD.2\nremoved",
+            "Removed from core"
+          ]
+        ]
+      },
+      {
+        "id": "page_6_table_2",
+        "title": "",
+        "headers": [
+          "Standard",
+          "Modified/Added/Removed"
+        ],
+        "rows": [
+          [
+            "Throughout",
+            "\"Polynomial\", \"rational\" functions, key concepts specific to this course (such as \"limit to polynomials with real coefficients\"), and examples added to several standards to clarify limits and expectations in Secondary Mathematics III. Examples of where this occurs: II.N.CN.1, III.A.SSE.1b, III.A.CED.3, III.A.CED.4, III.F.BF.3"
+          ],
+          [
+            "Throughout",
+            "Examples and other concepts removed from several standards and placed in appropriate Secondary Mathematics courses. Examples of where this occurs: III.N.CN.9, III.A.SSE.1b, , III.A.CED.3, III.A.CED.4, III.A.APR.1"
+          ],
+          [
+            "III.A.SSE.1b\nmodified",
+            "Interpret polynomial and rational expressions that represent a quantity in terms of its context.\nb. Interpret complex expressions by viewing one or more of their parts as a single entity. For example, interpret P(1+r)n as the product of P and a factor not depending on P examine the behavior of P(1+r/n)nt as n becomes large."
+          ]
+        ]
+      },
+      {
+        "id": "page_7_table_1",
+        "title": "",
+        "headers": [
+          "Standard ID",
+          "Description"
+        ],
+        "rows": [
+          [
+            "III. A.SSE.4 modified",
+            "Derive Understand the formula for the sum of a series (when the common ration is not 1), and use the formula to solve problems.a. Derive the formula for the sum of an arithmetic series.b. Derive the formula for the sum of a geometric series, and use the formula to solve problems. Extend to infinite geometric series. For example, calculate mortgage payments."
+          ],
+          [
+            "III.F.IF.7b, d modified",
+            "b. Graph square root, cube root, and piecewise-defined functions, including step functions and absolute value functions. Compare and contrast square root, cubed root, and step functions with all other functions.d. (Moved from Secondary Math III Honors) Graph rational functions, identifying zeros and asymptotes when suitable factorizations are available, and showing end behavior."
+          ],
+          [
+            "III.F.BF.4a modified",
+            "Find inverse functions.a. Solve an equation of the form f(x) = c for a simple function f that has an inverse and write an expression for the inverse. Include linear, quadratic, exponential, logarithmic, rational, square root, and cube root functions. For example, f(x) = 2x3 or f(x) = (x+1)/(x-1) for x ≠ 1."
+          ],
+          [
+            "III.F.LE.3 added",
+            "Observe using graphs and tables that a quantity increasing exponentially eventually exceeds a quantity increasing linearly, quadratically, or (more generally) as a polynomial function. (standard existed, but added to Secondary Math III)"
+          ],
+          [
+            "III.F.LE.5 added",
+            "Interpret the parameters in a linear, quadratic, or exponential function in terms of a context. (standard existed, but added to Secondary Math III)"
+          ],
+          [
+            "III.F.TF.7 moved",
+            "Use inverse functions to solve trigonometric equations that arise in modeling context; evaluate the solutions using technology and interpret them in terms of context. Limit solutions to a given interval. (Moved from Secondary Math III Honors)"
+          ],
+          [
+            "III.S.IC.2 removed",
+            "Removed from Core"
+          ],
+          [
+            "III.S.IC.5 removed",
+            "Removed from Core"
+          ]
+        ]
+      }
+    ],
+    "key_value_pairs": [
+      {
+        "key": "Standards",
+        "value": "define what students should understand and be able to do."
+      },
+      {
+        "key": "Strands",
+        "value": "(formerly known as Domains) are groups of related standards. The paragraph beneath each strand is a description of the standards (often references are made to specific standards within this paragraph)."
+      },
+      {
+        "key": "Format Changes",
+        "value": "Cluster Titles have been removed to be consistent with other subject area cores. They have been combined and are a **Description** of the Strand. In high school, the instructional notes located within the cluster have been embedded into the standards to provide clarity and specify depth of a given standard."
+      },
+      {
+        "key": "Core changes: Key - Bold",
+        "value": "Addition to standards not previously in the core are **bold**."
+      },
+      {
+        "key": "Core changes: Key - Underline",
+        "value": "Relocation of standards information from footnotes (middle school) or instructional notes (high school) are **underlined**."
+      },
+      {
+        "key": "Core changes: Key - Strikethrough",
+        "value": "Removals use **strikethrough**."
+      },
+      {
+        "key": "ADA Compliant",
+        "value": "5/23/2018"
+      },
+      {
+        "key": "ADA Compliant",
+        "value": "5/23/2018"
+      },
+      {
+        "key": "ADA Compliant",
+        "value": "5/23/2018"
+      },
+      {
+        "key": "ADA Compliant",
+        "value": "5/23/2018"
+      },
+      {
+        "key": "ADA Compliant",
+        "value": "5/23/2018"
+      }
+    ]
+  }
+}

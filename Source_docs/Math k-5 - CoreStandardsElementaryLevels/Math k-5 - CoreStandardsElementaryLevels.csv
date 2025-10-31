@@ -1,0 +1,567 @@
+There is no tabular data in this image.
+There are no tables in this image.
+I'm sorry, but there is no tabular data in this document.
+There is no tabular data in this image.
+csv
+District,Name,City
+District 1,Terryl Warner,"Hyrum, UT 84319"
+District 2,Spencer F. Stokes,"Ogden, UT 84403"
+District 3,Linda B. Hansen,"West Valley City, UT 84120"
+District 4,David L. Thomas,"South Weber, UT 84405"
+District 5,Laura Belnap,"Bountiful, UT 84010"
+District 6,Brittney Cummins,"West Valley City, UT 84120"
+District 7,Leslie B. Castle,"Salt Lake City, UT 84108"
+District 8,Jennifer A. Johnson,"Murray, UT 84107"
+District 9,Joel Wright,"Cedar Hills, UT 84062"
+District 10,David L. Crandall,"Draper, UT 84020"
+District 11,Jefferson Moss,"Saratoga Springs, UT 84045"
+District 12,Dixie L. Allen,"Vernal, UT 84078"
+District 13,Stan Lockhart,"Provo, UT 84604"
+District 14,Mark Huntsman,"Fillmore, UT 84631"
+District 15,Barbara W. Corry,"Cedar City, UT 84720"
+,Sydnee Dickson,Interim State Superintendent of Public Instruction
+,Lorraine Austin,Secretary to the Board
+csv
+,
+Introduction,ix
+Mathematics Elementary Courses (K-5),1
+Kindergarten,3
+Grade 1,9
+Grade 2,15
+Grade 3,21
+Grade 4,29
+Grade 5,37
+csv
+# Table: Table 4.1.1: Summary of the Number of Projects and Total Project Costs by Sector
+
+Sector,Number of Projects,Total Project Costs (Millions of US$)
+Agriculture,1,1.0
+Education,1,1.0
+Health,1,1.0
+Industry,1,1.0
+Mining,1,1.0
+Power,1,1.0
+Transport,1,1.0
+Water,1,1.0
+Total,8,8.0
+csv
+# No tables found in the document
+csv
+# Table: 2019-2020 School Year Calendar
+Month,Day,Event
+August,26,First Day of School
+September,2,Labor Day - No School
+October,14,Columbus Day - No School
+November,11,Veterans Day - No School
+November,27-29,Thanksgiving Break - No School
+December,23-January 3,Winter Break - No School
+January,20,Martin Luther King Day - No School
+February,17,Presidents Day - No School
+March,16,Staff Development Day - No School
+April,6-10,Spring Break - No School
+May,25,Memorial Day - No School
+June,12,Last Day of School
+csv
+// Table: No table could be extracted from the document
+Strand,Description
+Standard K.MP.1,"Make sense of problems and persevere in solving them. Explain the meaning of a problem, look for entry points to begin work on the problem, and plan and choose a solution pathway. When a solution pathway does not make sense, look for another pathway that does. Explain connections between various solution strategies and representations. Upon finding a solution, look back at the problem to determine whether the solution is reasonable and accurate, often checking answers to problems using a different method or approach."
+Standard K.MP.2,"Reason abstractly and quantitatively. Make sense of quantities and their relationships in problem situations. Contextualize quantities and operations by using images or stories. Decontextualize a given situation and represent it symbolically. Interpret symbols as having meaning, not just as directions to carry out a procedure. Know and flexibly use different properties of operations, numbers, and geometric objects."
+Standard K.MP.3,"Construct viable arguments and critique the reasoning of others. Use stated assumptions, definitions, and previously established results to construct arguments. Explain and justify the mathematical reasoning underlying a strategy, solution, or conjecture by using concrete referents such as objects, drawings, diagrams, and actions. Listen to or read the arguments of others, decide whether they make sense, ask useful questions to clarify or improve the arguments, and build on those arguments."
+Standard K.MP.4,"Model with mathematics. Identify the mathematical elements of a situation and create a mathematical model that shows the relationships among them. Identify important quantities in a contextual situation, use mathematical models to show the relationships of those quantities, analyze the relationships, and draw conclusions. Models may be verbal, contextual, visual, symbolic, or physical."
+Standard K.MP.5,"Use appropriate tools strategically. Consider the tools that are available when solving a mathematical problem, whether in a real-world or mathematical context. Choose tools that are relevant and useful to the problem at hand, such as physical objects, drawings, diagrams, physical tools, technologies, or mathematical tools such as estimation or a particular strategy or algorithm."
+Standard K.MP.6,"Attend to precision. Communicate precisely to others by crafting careful explanations that communicate mathematical reasoning by referring specifically to each important mathematical element, describing the relationships among them, and connecting their words clearly to representations. Calculate accurately and efficiently, and use clear and concise notation to record work."
+csv
+Standard,Description
+K.MP.7,"Look for and make use of structure. Recognize and apply the structures of mathematics, such as patterns, place value, the properties of operations, or the flexibility of numbers. See complicated things as single objects or as being composed of several objects."
+K.MP.8,Look for and express regularity in repeated reasoning. Notice repetitions in mathematics when solving multiple related problems. Use observations and reasoning to find shortcuts or generalizations. Evaluate the reasonableness of intermediate results.
+
+# Strand: COUNTING AND CARDINALITY (K.CC)
+Standard,Description
+K.CC.1,Count to 100 by ones and by tens.
+K.CC.2,Count forward beginning from a given number within the known sequence (instead of having to begin at 1).
+K.CC.3,"Read and write numbers using base ten numerals from 0 to 20. Represent a number of objects with a written numeral, in or out of sequence (0 represents a count of no objects)."
+K.CC.4,Understand the relationship between numbers and quantities; connect counting to cardinality.
+K.CC.4a,"When counting objects, say the numbers in the standard order. Pair each quantity of objects with one and only one number, and each number with the correct quantity of objects."
+K.CC.4b,Understand that the last number said represents the number of objects counted. The number of objects is the same regardless of their arrangement or the order in which they were counted.
+K.CC.4c,Understand that each successive number refers to a quantity that is one greater than the previous number.
+K.CC.5,"Use counting to answer questions about ""how many.” For example, 20 or fewer objects arranged in a line, a rectangular array, or circle; 10 or fewer objects in a scattered configuration. Using a number from 1-20, count out that many objects."
+K.CC.6,"Use matching or counting strategies to identify whether the number of objects in one group is greater than, less than, or equal to the number of objects in another group. Include groups with up to ten objects."
+K.CC.7,"Compare two numbers between 1 and 10 presented as written numerals using ""greater than,"" ""less than,"" or ""equal to."""
+csv
+Strand,Description
+OPERATIONS AND ALGEBRAIC THINKING (K.OA),"Understand addition as putting together and adding to, and understand subtraction as taking apart and taking from (Standards K.OA.1-5)."
+K.OA.1,"Represent addition and subtraction with objects, fingers, mental images, simple drawings, or sounds. For example, use clapping, act out situations, and use verbal explanations, expressions, or equations."
+K.OA.2,Solve addition and subtraction word problems within 10. Use objects or drawings to represent the problem.
+K.OA.3,"Decompose numbers less than or equal to 10 into pairs in more than one way by using objects or drawings. Record each decomposition by a drawing or equation. For example, 5 = 2 + 3 and 5 = 4 + 1."
+K.OA.4,"Make sums of 10 using any number from 1 to 9. For example, 2 + 8 = 10. Use objects or drawings to represent and record the answer."
+K.OA.5,Fluently add and subtract using numbers within 5.
+
+# NUMBER AND OPERATIONS IN BASE TEN (K.NBT)
+Strand,Description
+NUMBER AND OPERATIONS IN BASE TEN (K.NBT),Compose and decompose numbers 11-19 to gain foundations for place value (Standard Κ.ΝΒΤ.1).
+K.NBT.1,"Compose and decompose numbers from 11-19 into ten ones and some further ones. Use objects or drawings and record each composition or decomposition by a drawing or equation. For example, 18 = 10 + 8. Understand that these numbers are composed of ten ones and one, two, three, four, five, six, seven, eight, or nine ones."
+
+# MEASUREMENT AND DATA (K.MD)
+Strand,Description
+MEASUREMENT AND DATA (K.MD),Describe and compare measurable attributes of objects (Standards K.MD.1-2) and classify objects and count the number of objects in each category (Standard K.MD.3).
+K.MD.1,"Describe measurable attributes of objects, such as length or weight. Describe several measurable attributes of a single object."
+K.MD.2,"Directly compare two objects with a measurable attribute in common, to see which object has ""more of""/""less of"" the attribute, and describe the difference. For example, directly compare the length of two pencils and describe one as shorter or longer."
+K.MD.3,Classify objects into given categories; count the numbers of objects in each category and sort the categories by count. Limit the category counts to less than or equal to 10.
+Strand,Description
+GEOMETRY (K.G),"Identify and describe shapes, including squares, circles, triangles, rectangles, hexagons, cubes, cones, cylinders, and spheres (Standards K.G.1-3). Analyze, compare, create, and compose shapes (Standards K.G.4-6)."
+Standard,Description
+K.G.1,"Describe objects in the environment using names of shapes, and describe the relative positions of these objects using terms such as above, below, beside, in front of, behind, and next to."
+K.G.2,Correctly name shapes regardless of their orientations or overall sizes.
+K.G.3,"Identify shapes as two-dimensional (""flat"") or three-dimensional (""solid"")."
+K.G.4,"Analyze, compare, and sort two- and three-dimensional shapes and objects, in different sizes and orientations, using informal language to describe their similarities, differences, and other attributes (for example, color, size, shape, number of sides)."
+K.G.5,Model and create shapes from components such as sticks and clay balls.
+K.G.6,"Compose simple shapes to form larger shapes. For example, “Can you join these two triangles with full sides touching to make a rectangle?"""
+csv
+UTAH CORE STATE STANDARDS for MATHEMATICS
+Mathematics | Grade 1
+"In Grade 1, instructional time should focus on four critical areas: (1) developing understanding
+of addition, subtraction, and strategies for addition and subtraction within 20; (2) developing
+understanding of whole number relationships and place value, including grouping in tens
+and ones; (3) developing understanding of linear measurement and measuring lengths as
+iterating length units; and (4) reasoning about attributes of, and composing and decomposing
+geometric shapes."
+"(1) Students will develop strategies for adding and subtracting whole numbers based on
+their prior work with small numbers. They will use a variety of models, including discrete
+objects and length-based models (for example, cubes connected to form lengths), to model
+add-to, take-from, put-together, and take-apart; compare situations to develop meaning
+for the operations of addition and subtraction; and develop strategies to solve arithmetic
+problems with these operations. Students will understand connections between counting
+and addition and subtraction (for example, adding two is the same as counting on two). They
+will use properties of addition to add whole numbers and to create and use increasingly
+sophisticated strategies based on these properties (for example, ""making tens"") to solve
+addition and subtraction problems within 20. By comparing a variety of solution strate-
+gies, children will build their understanding of the relationship between addition and
+subtraction."
+"(2) Students will develop, discuss, and use efficient, accurate, and generalizable methods
+to add within 100 and subtract multiples of 10. They will compare whole numbers (at least
+to 100) to develop understanding of and solve problems involving their relative sizes. They
+will think of whole numbers between 10 and 100 in terms of tens and ones (especially
+recognizing the numbers 11 to 19 as composed of a ten and some ones). Through activi-
+ties that build number sense, they will understand the order of the counting numbers and
+their relative magnitudes."
+"(3) Students will develop an understanding of the meaning and processes of measure-
+ment, including underlying concepts such as iterating (the mental activity of building up
+the length of an object with equal-sized units) and the transitivity principle for indirect
+measurement."
+"(4) Students will compose and decompose plane or solid figures (for example, put two tri-
+angles together to make a quadrilateral) and build understanding of part-whole relation-
+ships, as well as the properties of the original and composite shapes. As they combine
+shapes, they will recognize them from different perspectives and orientations, describe
+their geometric attributes, and determine how they are alike and different to develop the
+background for measurement and for initial understandings of properties such as congru-
+ence and symmetry."
+csv
+Standard,Description
+Standard 1.MP.1,"Make sense of problems and persevere in solving them. Explain the meaning of a problem, look for entry points to begin work on the problem, and plan and choose a solution pathway. When a solution pathway does not make sense, look for another pathway that does. Explain connections between various solution strategies and representations. Upon finding a solution, look back at the problem to determine whether the solution is reasonable and accurate, often checking answers to problems using a different method or approach."
+Standard 1.MP.2,"Reason abstractly and quantitatively. Make sense of quantities and their relationships in problem situations. Contextualize quantities and operations by using images or stories. Decontextualize a given situation and represent it symbolically. Interpret symbols as having meaning, not just as directions to carry out a procedure. Know and flexibly use different properties of operations, numbers, and geometric objects."
+Standard 1.MP.3,"Construct viable arguments and critique the reasoning of others. Use stated assumptions, definitions, and previously established results to construct arguments. Explain and justify the mathematical reasoning underlying a strategy, solution, or conjecture by using concrete referents such as objects, drawings, diagrams, and actions. Listen to or read the arguments of others, decide whether they make sense, ask useful questions to clarify or improve the arguments, and build on those arguments."
+Standard 1.MP.4,"Model with mathematics. Identify the mathematical elements of a situation and create a mathematical model that shows the relationships among them. Identify important quantities in a contextual situation, use mathematical models to show the relationships of those quantities, analyze the relationships, and draw conclusions. Models may be verbal, contextual, visual, symbolic, or physical."
+Standard 1.MP.5,"Use appropriate tools strategically. Consider the tools that are available when solving a mathematical problem, whether in a real-world or mathematical context. Choose tools that are relevant and useful to the problem at hand, such as physical objects, drawings, diagrams, physical tools, technologies, or mathematical tools, such as estimation or a particular strategy or algorithm."
+Standard 1.MP.6,"Attend to precision. Communicate precisely to others by crafting careful explanations that communicate mathematical reasoning by referring specifically to each important mathematical element, describing the relationships among them, and connecting their words clearly to representations. Calculate accurately and efficiently, and use clear and concise notation to record work."
+csv
+Standard 1.MP.7,"Look for and make use of structure. Recognize and apply the structures of mathematics such as patterns, place value, the properties of operations, or the flexibility of numbers. See complicated things as single objects or as being composed of several objects."
+Standard 1.MP.8,Look for and express regularity in repeated reasoning. Notice repetitions in mathematics when solving multiple related problems. Use observations and reasoning to find shortcuts or generalizations. Evaluate the reasonableness of intermediate results.
+Strand,OPERATIONS AND ALGEBRAIC THINKING (1.OA)
+,"Represent and solve problems involving addition and subtraction within 20 (Standards 1.OA. 1-2, 1.0A.5-6). Understand and apply properties of operations and the relationship between addition and subtraction (Standards 1.OA.3-4). Work with addition and subtraction equations (Standards 1.OA.7-8)."
+Standard 1.OA.1,"Use addition and subtraction within 20 to solve word problems involving situations of adding to, taking from, putting together, taking apart, and comparing, with unknowns in all positions. For example, use objects, drawings, and equations with a symbol for the unknown number to represent the problem."
+Standard 1.OA.2,"Solve word problems that call for addition of three whole numbers whose sum is less than or equal to 20. For example, use objects, drawings, and equations with a symbol for the unknown number to represent the problem."
+Standard 1.OA.3,"Apply properties of operations as strategies to add and subtract. For example: If 8 + 3 = 11 is known, then 3 + 8 = 11 is also known. (Commutative property of addition.) To add 2 + 6 + 4, the second two numbers can be added to make a ten, so 2 + 6 + 4 = 2 + 10 =12. (Associative property of addition.) First grade students need not use formal terms for these properties."
+Standard 1.OA.4,"Understand subtraction as an unknown-addend problem. For example, subtract 10 – 8 by finding the number that makes 10 when added to 8."
+Standard 1.OA.5,"Relate counting to addition and subtraction. For example, by counting on 2 to add 2."
+Standard 1.0A.6,Add and subtract within 20.
+a.,"Use strategies such as counting on; making ten (for example, 8 + 6 = 8 + 2 + 4 = 10 + 4 = 14); decomposing a number leading to a ten (for example, 13 - 4 = 13 – 3 - 1 = 10-1 = 9); using the relationship between addition and subtraction (for example, knowing that 8 + 4 = 12, one knows 12 – 8 = 4); and creating equivalent but easier or known sums (for example, adding 6 + 7 by creating the known equivalent 6 + 6 + 1 = 12 + 1 = 13)."
+b.,"By the end of Grade 1, demonstrate fluency for addition and subtraction within 10."
+csv
+,
+Standard 1.OA.7,"Understand the meaning of the equal sign, and determine whether equations involving addition and subtraction are true or false. For example, which of the following equations are true and which are false? 6 = 6, 7 = 8 – 1, 5 + 2 = 2 + 5, 4 + 1 = 5 + 2."
+Standard 1.0A.8,"Determine the unknown whole number in an addition or subtraction equation relating three whole numbers. For example, determine the unknown number that makes the equation true in each of the equations 8 + ? = 11, 5 = ? – 3, 6 + 6 = ?"
+csv
+Strand,Standard,Description
+MEASUREMENT AND DATA (1.MD),1.MD.1,Order three objects by length; compare the lengths of two objects indirectly by using a third object.
+MEASUREMENT AND DATA (1.MD),1.MD.2,"Express the length of an object as a whole number of length units, by laying multiple copies of a shorter object (the length unit) end to end; understand that the length measurement of an object is the number of same-size length units that span it with no gaps or overlaps. Limit to contexts where the object being measured is spanned by a whole number of length units with no gaps or overlaps."
+MEASUREMENT AND DATA (1.MD),1.MD.3,Tell and write time in hours and half-hours using analog and digital clocks.
+MEASUREMENT AND DATA (1.MD),1.MD.4,"Organize, represent, and interpret data with up to three categories; ask and answer questions about the total number of data points, how many in each category, and how many more or less are in one category than in another."
+MEASUREMENT AND DATA (1.MD),1.MD.5,"Identify the values of pennies, nickels, dimes and quarters, and know their comparative values. (For example, a dime is of greater value than a nickel.) Use appropriate notation to designate a coin's value. (For example, 5¢.)"
+GEOMETRY (1.G),1.G.1,"Distinguish between defining attributes (for example, triangles are closed and three-sided) versus non-defining attributes (for example, color, orientation, overall size); build and draw shapes that possess defining attributes."
+GEOMETRY (1.G),1.G.2,Compose shapes.
+GEOMETRY (1.G),1.G.3,"Partition circles and rectangles into two and four equal shares; describe the shares using the words halves, fourths, and quarters; and use the phrases half of, fourth of, and quarter of. Describe the whole as two or four of the shares. Understand that, for these examples, decomposing into more equal shares creates smaller shares."
+There is no tabular data in this image.
+csv
+Strand,MATHEMATICAL PRACTICES (2.MP)
+Standard,Description
+2.MP.1,"Make sense of problems and persevere in solving them. Explain the meaning of a problem, look for entry points to begin work on the problem, and plan and choose a solution pathway. When a solution pathway does not make sense, look for another pathway that does. Explain connections between various solution strategies and representations. Upon finding a solution, look back at the problem to determine whether the solution is reasonable and accurate, often checking answers to problems using a different method or approach."
+2.MP.2,"Reason abstractly and quantitatively. Make sense of quantities and their relationships in problem situations. Contextualize quantities and operations by using images or stories. Decontextualize a given situation and represent it symbolically. Interpret symbols as having meaning, not just as directions to carry out a procedure. Know and flexibly use different properties of operations, numbers, and geometric objects."
+2.MP.3,"Construct viable arguments and critique the reasoning of others. Use stated assumptions, definitions, and previously established results to construct arguments. Explain and justify the mathematical reasoning underlying a strategy, solution, or conjecture by using concrete referents such as objects, drawings, diagrams, and actions. Listen to or read the arguments of others, decide whether they make sense, ask useful questions to clarify or improve the arguments, and build on those arguments."
+2.MP.4,"Model with mathematics. Identify the mathematical elements of a situation and create a mathematical model that shows the relationships among them. Identify important quantities in a contextual situation, use mathematical models to show the relationships of those quantities, analyze the relationships, and draw conclusions. Models may be verbal, contextual, visual, symbolic, or physical."
+2.MP.5,"Use appropriate tools strategically. Consider the tools that are available when solving a mathematical problem, whether in a real-world or mathematical context. Choose tools that are relevant and useful to the problem at hand, such as drawings, diagrams, technologies, and physical objects and tools, as well as mathematical tools such as estimation or a particular strategy or algorithm."
+2.MP.6,"Attend to precision. Communicate precisely to others by crafting careful explanations that communicate mathematical reasoning by referring specifically to each important mathematical element, describing the relationships among them, and connecting their words clearly to representations. Calculate accurately and efficiently, and use clear and concise notation to record work."
+csv
+,,,
+csv
+,
+a.,"100 can be thought of as a bundle of ten tens called a ""hundred."""
+b.,"The numbers 100, 200, 300, 400, 500, 600, 700, 800, 900 refer to one, two, three, four,
+five, six, seven, eight, or nine hundreds (and 0 tens and 0 ones)."
+Standard 2.NBT.2,"Count within 1,000; skip-count by fives, tens, and hundreds."
+Standard 2.NBT.3,"Read and write numbers to 1,000 using base-ten numerals, number
+names, and expanded form."
+Standard 2.NBT.4,"Compare two three-digit numbers based on meanings of the
+hundreds, tens, and ones digits, using >, =, and < symbols to record the results of
+comparisons."
+Standard 2.NBT.5,"Fluently add and subtract within 100 using strategies based on
+place value, properties of operations, and/or the relationship between addition and
+subtraction."
+Standard 2.NBT.6,"Add up to four two-digit numbers using strategies based on place
+value and properties of operations."
+Standard 2.NBT.7,"Add and subtract within 1,000 using concrete models or drawings
+and strategies based on place value, properties of operations, and/or the relationship
+between addition and subtraction; relate the strategy to a written method. Understand
+that in adding or subtracting three-digit numbers, one adds or subtracts hundreds and
+hundreds, tens and tens, and ones and ones, and that it is sometimes necessary to com-
+pose or decompose tens or hundreds."
+Standard 2.NBT.8,"Mentally add 10 or 100 to a given number 100-900, and mentally sub-
+tract 10 or 100 from a given number 100-900."
+Standard 2.NBT.9,"Explain why addition and subtraction strategies work, using place
+value and the properties of operations. Explanations may be supported by drawings or
+objects."
+
+# Strand: MEASUREMENT AND DATA (2.MD)
+,
+,"Measure and estimate lengths in standard units (Standards 2.MD.1-4) and relate addition and
+subtraction to length (Standards 2.MD.5–6). Work with time and money (Standards 2.MD.7-
+8). Represent and interpret data (Standards 2.MD.9–10)."
+Standard 2.MD.1,"Measure the length of an object by selecting and using appropriate
+tools such as rulers, yardsticks, meter sticks, and measuring tapes."
+Standard 2.MD.2,"Measure the length of an object twice, using length units of different
+lengths for the two measurements; describe how the two measurements relate to the
+size of the unit chosen."
+Standard 2.MD.3,"Estimate lengths using units of inches, feet, centimeters, and meters."
+csv
+Standard,Description
+2.MD.4,"Measure to determine how much longer one object is than another, expressing the length difference in terms of a standard length unit. For example, after measuring a pencil and a crayon, a student uses the measurements to determine that the pencil is two inches longer than the crayon."
+2.MD.5,"Use addition and subtraction within 100 to solve word problems involving lengths that are given in the same units. For example, use drawings (such as drawings of rulers) and equations with a symbol for the unknown number to represent the problem."
+2.MD.6,"Represent whole numbers as lengths from 0 on a number line diagram with equally spaced points corresponding to the numbers 0, 1, 2... Represent whole-number sums and differences within 100 on a number line diagram."
+2.MD.7,"Tell and write time from analog and digital clocks to the nearest five minutes, using a.m. and p.m."
+2.MD.8,"Solve word problems involving dollar bills, quarters, dimes, nickels, and pennies, using $ and ¢ symbols appropriately. For example, if you have 2 dimes and 3 pennies, how many cents do you have?"
+2.MD.9,"Generate measurement data by measuring lengths of several objects to the nearest whole unit, or by making repeated measurements of the same object. Show the measurements by making a line plot, where the horizontal scale is marked off in whole-number units."
+2.MD.10,"Draw a picture graph and a bar graph (with single-unit scale) to represent a data set with up to four categories. Solve simple put-together, take-apart, and comparison problems using information presented in a bar graph."
+2.G.1,"Recognize and draw shapes having specified attributes, such as a given number of angles or a given number of equal faces. Sizes are compared directly or visually, not compared by measuring. Identify triangles, quadrilaterals, pentagons, hexagons, and cubes."
+2.G.2,Partition a rectangle into rows and columns of same-size squares and count to find the total number of squares.
+2.G.3,"Partition circles and rectangles into two, three, or four equal shares; describe the shares using the words halves, thirds, half of, a third of, etc.; and describe the whole as two halves, three thirds, or four fourths. Recognize that equal shares of identical wholes need not have the same shape."
+Mathematics | Grade 3
+```csv
+,
+csv
+Strand,MATHEMATICAL PRACTICES (3.MP)
+,"The Standards for Mathematical Practice in Third Grade describe mathematical habits of mind that teachers should seek to develop in their students. Students become mathematically proficient in engaging with mathematical content and concepts as they learn, experience, and apply these skills and attitudes (Standards 3.MP.1-8)."
+Standard,"3.MP.1 Make sense of problems and persevere in solving them. Explain the meaning of a problem, look for entry points to begin work on the problem, and plan and choose a solution pathway. When a solution pathway does not make sense, look for another pathway that does. Explain connections between various solution strategies and representations. Upon finding a solution, look back at the problem to determine whether the solution is reasonable and accurate, often checking answers to problems using a different method or approach."
+Standard,"3.MP.2 Reason abstractly and quantitatively. Make sense of quantities and their relationships in problem situations. Contextualize quantities and operations by using images or stories. Decontextualize a given situation and represent it symbolically. Interpret symbols as having meaning, not just as directions to carry out a procedure. Know and flexibly use different properties of operations, numbers, and geometric objects."
+Standard,"3.MP.3 Construct viable arguments and critique the reasoning of others. Use stated assumptions, definitions, and previously established results to construct arguments. Explain and justify the mathematical reasoning underlying a strategy, solution, or conjecture by using concrete referents such as objects, drawings, diagrams, and actions. Listen to or read the arguments of others, decide whether they make sense, ask useful questions to clarify or improve the arguments, and build on those arguments."
+Standard,"3.MP.4 Model with mathematics. Identify the mathematical elements of a situation and create a mathematical model that shows the relationships among them. Identify important quantities in a contextual situation, use mathematical models to show the relationships of those quantities, analyze the relationships, and draw conclusions. Models may be verbal, contextual, visual, symbolic, or physical."
+Standard,"3.MP.5 Use appropriate tools strategically. Consider the tools that are available when solving a mathematical problem, whether in a real-world or mathematical context. Choose tools that are relevant and useful to the problem at hand, such as drawings, diagrams, technologies, and physical objects and tools, as well as mathematical tools such as estimation or a particular strategy or algorithm."
+Standard,"3.MP.6 Attend to precision. Communicate precisely to others by crafting careful explanations that communicate mathematical reasoning by referring specifically to each important mathematical element, describing the relationships among them, and connecting their words clearly to representations. Calculate accurately and efficiently, and use clear and concise notation to record work."
+csv
+Standard,Description
+Standard 3.MP.7,"Look for and make use of structure. Recognize and apply the structures of mathematics such as patterns, place value, the properties of operations, or the flexibility of numbers. See complicated things as single objects or as being composed of several objects."
+Standard 3.MP.8,Look for and express regularity in repeated reasoning. Notice repetitions in mathematics when solving multiple related problems. Use observations and reasoning to find shortcuts or generalizations. Evaluate the reasonableness of intermediate results.
+
+# Strand: OPERATIONS AND ALGEBRAIC THINKING (3.0A)
+Description
+Represent and solve problems involving multiplication and division within 100 (Standards 3.OA.1–4 and Standard 3.OA.7). Demonstrate understanding of the properties of multiplication and the relationship between multiplication and division (Standards 3.OA.5–6). Use the four operations to identify and explain patterns in arithmetic (Standards 3.OA.8–9).
+Standard 3.OA.1,"Interpret the products of whole numbers, such as interpreting 5 × 7 as the total number of objects in 5 groups of 7 objects each. For example, describe a context in which a total number of objects can be expressed as 5 × 7."
+Standard 3.OA.2,"Interpret whole-number quotients of whole numbers. For example, interpret 56 ÷ 8 as the number of objects in each share when 56 objects are partitioned equally into eight shares (partitive), or as a number of shares when 56 objects are partitioned into equal shares of eight objects each (quotative)."
+Standard 3.OA.3,"Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities. For example, use drawings and equations with a symbol for the unknown number to represent the problem."
+Standard 3.OA.4,"Determine the unknown whole number in a multiplication or division equation relating three whole numbers. For example, determine the unknown number—product, factor, quotient, dividend, or divisor—that makes the equation true in each of the equations 8 x ? = 48, 5 = ? ÷ 3, and 6 x 6 = ?"
+Standard 3.OA.5,"Apply properties of operations as strategies to multiply and divide. For example: If 6 x 4 = 24 is known, then 4 x 6 = 24 is also known (commutative property of multiplication). 3 x 5 x 2 can be found by 3 x 5 = 15, then 15 x 2 = 30, or by 5 x 2 = 10, then 3 x 10 = 30 (associative property of multiplication). Knowing that 8 x 5 = 40 and 8 x 2 = 16, one can find 8 x 7 as 8 x (5 + 2) = (8 x 5) + (8 x 2) = 40 + 16 = 56 (distributive property). (Third grade students may, but need not, use formal terms for these properties.)"
+Standard 3.OA.6,"Understand division as an unknown-factor problem. Understand the relationship between multiplication and division (multiplication and division are inverse operations). For example, find 32 ÷ 8 by finding the number that makes 32 when multiplied by 8."
+csv
+Standard,Description
+3.OA.7,Fluently multiply and divide.
+a.,"Fluently multiply and divide within 100, using strategies such as the relationship between multiplication and division or properties of operations. (For example, knowing that 8 x 5 = 40, one knows 40 ÷ 5 = 8.)"
+b.,"By the end of Grade 3, know from memory all products of two one-digit numbers."
+3.OA.8,Solve two-step word problems.
+a.,Solve two-step word problems using the four operations. Know how to perform operations in the conventional order when there are no parentheses to specify a particular order (Order of Operations). (Limit to problems posed with whole numbers and having whole number answers.)
+b.,Represent two-step problems using equations with a letter standing for the unknown quantity. Create accurate equations to match word problems.
+c.,"Assess the reasonableness of answers using mental computation and estimation strategies, including rounding."
+3.OA.9,"Identify arithmetic patterns (including patterns in the addition table or multiplication table), and explain them using properties of operations. For example, observe that four times a number is always even, and explain why four times a number can be decomposed into two equal addends."
+3.NBT.1,Use place value understanding to round whole numbers to the nearest 10 or 100.
+3.NBT.2,"Fluently add and subtract within 1,000 using strategies and algorithms based on place value, properties of operations, and/or the relationship between addition and subtraction."
+3.NBT.3,"Multiply one-digit whole numbers by multiples of 10 in the range 10–90 (for example, 9 x 80 and 5 x 60) using strategies based on place value and properties of operations."
+3.NF.1,Understand that a unit fraction has a numerator of one and a non-zero denominator.
+csv
+UTAH CORE STATE STANDARDS for MATHEMATICS
+"units such as cubic centimeters [cc or cm3] and finding the geometric volume of a con-
+tainer.) Add, subtract, multiply, or divide to solve one-step word problems involving masses
+of objects or volumes of liquids that are given in the same units, for example, by using draw-
+ings (such as a beaker with a measurement scale) to represent the problem. (Excludes multi-
+plicative comparison problems.)"
+"■ Standard 3.MD.3 Draw a scaled picture graph and a scaled bar graph to represent a data
+set with several categories. Solve one- and two-step ""how many more"" and ""how many
+less"" problems using information presented in scaled bar graphs. For example, draw a bar
+graph in which each square in the bar graph might represent five pets."
+"■ Standard 3.MD.4 Generate measurement data by measuring lengths using rulers marked
+with halves and fourths of an inch. Show the data by making a line plot where the hori-
+zontal scale is marked off in appropriate units-whole numbers, halves, or quarters."
+"Standard 3.MD.5 Recognize area as an attribute of plane figures and understand con-
+cepts of area measurement."
+"a. A square with side length one unit, called ""a unit square,"" is said to have ""one square
+unit"" of area, and can be used to measure area."
+"b. A plane figure which can be covered without gaps or overlaps by n unit squares is
+said to have an area of n square units."
+"Standard 3.MD.6 Measure area by counting unit squares (square centimeters, square me-
+ters, square inches, square feet, and improvised units)."
+"Standard 3.MD.7 Relate area to the operations of multiplication and addition (refer to
+3.ΟΑ.5)."
+"a. Find the area of a rectangle with whole-number side lengths by tiling it, and show
+that the area is the same as would be found by multiplying the side lengths."
+"b. Multiply side lengths to find areas of rectangles with whole-number side lengths in
+the context of solving real-world and mathematical problems, and represent whole-
+number products as rectangular areas in mathematical reasoning."
+"c. Use tiling to show in a concrete case that the area of a rectangle with whole-number
+side lengths a and b + c is the sum of a x b and a x c. Use area models to represent
+the distributive property in mathematical reasoning."
+"d. Recognize area as additive. Find areas of rectilinear figures by decomposing them
+into non- overlapping rectangles and adding the areas of the non-overlapping parts,
+applying this technique to solve real-world problems."
+"Standard 3.MD.8 Solve real-world and mathematical problems involving perimeters of
+polygons, including finding the perimeter given the side lengths, finding an unknown
+side length, and exhibiting rectangles with the same perimeter and different areas or
+with the same area and different perimeters."
+There is no tabular data in this image.
+csv
+UTAH CORE STATE STANDARDS for MATHEMATICS
+Mathematics | Grade 4
+"In Grade 4, instructional time should focus on three critical areas: (1) developing
+understanding and fluency with multi-digit multiplication, and developing understanding of
+dividing to find quotients involving multi-digit dividends; (2) developing an understanding
+of fraction equivalence, addition and subtraction of fractions with like denominators, and
+multiplication of fractions by whole numbers; and (3) understanding that geometric figures
+can be analyzed and classified based on their properties, such as having parallel sides,
+perpendicular sides, particular angle measures, and symmetry."
+"(1) Students will generalize their understanding of place value to 1,000,000, understand-
+ing the relative sizes of numbers in each place. They will apply their understanding of
+models for multiplication (equal-sized groups, arrays, area models), place value, and prop-
+erties of operations, in particular the distributive property, as they develop, discuss, and
+use efficient, accurate, and generalizable methods to compute products of multi-digit
+whole numbers. Depending on the numbers and the context, they will select and accu-
+rately apply appropriate methods to estimate or mentally calculate products. They will
+develop fluency with efficient procedures for multiplying whole numbers, understand and
+explain why the procedures work based on place value and properties of operations, and
+use them to solve problems. Students will apply their understanding of models for divi-
+sion, place value, properties of operations, and the relationship of division to multiplica-
+tion as they develop, discuss, and use efficient, accurate, and generalizable procedures to
+find quotients involving multi-digit dividends. They will select and accurately apply ap-
+propriate methods to estimate and mentally calculate quotients, and interpret remainders
+based upon the context."
+"(2) Students will develop understanding of fraction equivalence and operations with frac-
+tions. They will recognize that two different fractions can be equal (for example, 15/9 =
+5/3), and they will develop methods for generating and recognizing equivalent fractions.
+Students will extend previous understandings about how fractions are built from unit frac-
+tions, composing fractions from unit fractions, decomposing fractions into unit fractions,
+and using the meaning of fractions and the meaning of multiplication to multiply a frac-
+tion by a whole number."
+"(3) Students will describe, analyze, compare, and classify two-dimensional shapes.
+Through building, drawing, and analyzing two-dimensional shapes, students will deepen
+their understanding of properties of two-dimensional objects and their use in solving
+problems involving symmetry."
+csv
+,
+UTAH CORE STATE STANDARDS for MATHEMATICS,
+Mathematical PRACTICES (4.MP),
+The Standards for Mathematical Practice in Fourth Grade describe mathematical habits of,
+mind that teachers should seek to develop in their students. Students become mathematical-,
+"ly proficient in engaging with mathematical content and concepts as they learn, experience,",
+and apply these skills and attitudes (Standards 4.MP.1-8).,
+Standard 4.MP.1,Make sense of problems and persevere in solving them. Explain the
+,"meaning of a problem, look for entry points to begin work on the problem, and plan"
+,"and choose a solution pathway. When a solution pathway does not make sense, look for"
+,another pathway that does. Explain connections between various solution strategies
+,"and representations. Upon finding a solution, look back at the problem to determine"
+,"whether the solution is reasonable and accurate, often checking answers to problems"
+,using a different method or approach.
+Standard 4.MP.2,Reason abstractly and quantitatively. Make sense of quantities and
+,their relationships in problem situations. Contextualize quantities and operations by
+,using images or stories. Decontextualize a given situation and represent it symboli-
+,"cally. Interpret symbols as having meaning, not just as directions to carry out a proce-"
+,"dure. Know and flexibly use different properties of operations, numbers, and geometric"
+,objects.
+Standard 4.MP.3,Construct viable arguments and critique the reasoning of others.
+,"Use stated assumptions, definitions, and previously established results to construct"
+,"arguments. Explain and justify the mathematical reasoning underlying a strategy, solu-"
+,"tion, or conjecture by using concrete referents such as objects, drawings, diagrams, and"
+,"actions. Listen to or read the arguments of others, decide whether they make sense, ask"
+,"useful questions to clarify or improve the arguments, and build on those arguments."
+Standard 4.MP.4,Model with mathematics. Identify the mathematical elements of a
+,situation and create a mathematical model that shows the relationships among them.
+,"Identify important quantities in a contextual situation, use mathematical models to"
+,"show the relationships of those quantities, analyze the relationships, and draw conclu-"
+,"sions. Models may be verbal, contextual, visual, symbolic, or physical."
+Standard 4.MP.5,Use appropriate tools strategically. Consider the tools that are avail-
+,"able when solving a mathematical problem, whether in a real-world or mathematical"
+,"context. Choose tools that are relevant and useful to the problem at hand, such as draw-"
+,"ings, diagrams, technologies, and physical objects and tools, as well as mathematical"
+,tools such as estimation or a particular strategy or algorithm.
+Standard 4.MP.6,Attend to precision. Communicate precisely to others by crafting care-
+,ful explanations that communicate mathematical reasoning by referring specifically to
+,"each important mathematical element, describing the relationships among them, and"
+,"connecting their words clearly to representations. Calculate accurately and efficiently,"
+,and use clear and concise notation to record work.
+csv
+,
+Standard 4.MP.7,"Look for and make use of structure. Recognize and apply the structures of mathematics such as patterns, place value, the properties of operations, or the flexibility of numbers. See complicated things as single objects or as being composed of several objects."
+Standard 4.MP.8,Look for and express regularity in repeated reasoning. Notice repetitions in mathematics when solving multiple related problems. Use observations and reasoning to find shortcuts or generalizations. Evaluate the reasonableness of intermediate results.
+Strand,OPERATIONS AND ALGEBRAIC THINKING (4.0A)
+,"Use the four operations with whole numbers (addition, subtraction, multiplication, and division) to solve problems (Standards 4.OA.1–3). Gain familiarity with factors and multiples (Standard 4.OA.4). Generate and analyze numeric and shape patterns (Standard 4.ΟΑ.5)."
+Standard 4.OA.1,"Interpret a multiplication equation as a comparison (for example, interpret 35 = 5 x 7 as a statement that 35 is 5 times as many as 7 and 7 times as many as 5). Represent verbal statements of multiplicative comparisons as multiplication equations."
+Standard 4.OA.2,"Multiply or divide to solve word problems involving multiplicative comparison, for example, by using drawings and equations with a symbol for the unknown number to represent the problem, distinguishing multiplicative comparison from additive comparison."
+Standard 4.OA.3,"Solve multi-step word problems posed with whole numbers and having whole-number answers using the four operations, including problems in which remainders must be interpreted."
+a.,Represent these problems using equations with a letter standing for the unknown quantity.
+b.,"Assess the reasonableness of answers using mental computation and estimation strategies, including rounding."
+Standard 4.OA.4,Find all factor pairs for a whole number in the range 1-100. Recognize that a whole number is a multiple of each of its factors. Determine whether a given whole number in the range 1-100 is a multiple of a given one-digit number. Determine whether a given whole number in the range 1-100 is prime or composite.
+Standard 4.OA.5,"Generate a number or shape pattern that follows a given rule. Identify apparent features of the pattern that were not explicit in the rule itself. For example, given the rule ""add 3"" and the starting number 1, generate terms in the resulting sequence and observe that the terms appear to alternate between odd and even numbers. Explain informally why the numbers will continue to alternate in this way."
+csv
+Strand,NUMBER AND OPERATIONS IN BASE TEN (4.NBT)
+,"Generalize place value understanding for multi-digit whole numbers by analyzing patterns,
+writing whole numbers in a variety of ways, making comparisons, and rounding (Standards
+4.NBT.1-3). Use place value understanding and properties of operations to perform multi-
+digit addition, subtraction, multiplication, and division using a one-digit divisor (Standards
+4.NBT.4-6). Expectations in this strand are limited to whole numbers less than or equal to
+1,000,000."
+Standard,"4.NBT.1 Recognize that in a multi-digit whole number, a digit in one place repre-
+sents ten times what it represents in the place to its right. For example, recognize that 700
+÷ 70 = 10 by applying concepts of place value and division."
+Standard,"4.NBT.2 Read and write multi-digit whole numbers using base-ten numer-
+als, number names, and expanded form. Compare two multi-digit numbers based on
+meanings of the digits in each place, using >, =, and < symbols to record the results of
+comparisons."
+Standard,"4.NBT.3 Use place value understanding to round multi-digit whole numbers to
+any place."
+Standard,"4.NBT.4 Fluently add and subtract multi-digit whole numbers using the stan-
+dard algorithm."
+Standard,"4.NBT.5 Multiply a whole number of up to four digits by a one-digit whole
+number, and multiply two two-digit numbers, using strategies based on place value and
+the properties of operations. Illustrate and explain the calculation by using equations,
+rectangular arrays, and/or area models."
+Standard,"4.NBT.6 Find whole-number quotients and remainders with up to four-digit
+dividends and one-digit divisors, using strategies based on place value, the properties
+of operations, and/or the relationship between multiplication and division. Illustrate and
+explain the calculation by using equations, rectangular arrays, and/or area models."
+
+# Table: NUMBER AND OPERATIONS-FRACTIONS (4.NF)
+Strand,NUMBER AND OPERATIONS-FRACTIONS (4.NF)
+,"Extend understanding of equivalence and ordering of fractions (Standards 4.NF.1–2). Build
+fractions from unit fractions by applying and extending previous understandings of opera-
+tions on whole numbers (Standards 4.NF.3-4). Understand decimal notation to the hun-
+dredths and compare decimal fractions with denominators of 10 and 100 (Standards 4.NF.5-
+7). Denominators for fourth grade are limited to 2, 3, 4, 5, 6, 8, 10, 12, and 100."
+Standard,"4.NF.1 Explain why a fraction a/b is equivalent to a fraction (n x a)/(n x b) by us-
+ing visual fraction models, with attention to how the number and size of the parts differ
+even though the two fractions themselves are the same size. Use this principle to recog-
+nize and generate equivalent fractions."
+Standard,"4.NF.2 Compare two fractions with different numerators and different denomi-
+nators, for example, by creating common denominators or numerators, or by comparing to a"
+csv
+Standard,Description
+4.NF.3,"Understand a fraction a/b with a > 1 as a sum of fractions 1/b. In other words, any fraction is a sum of unit fractions."
+,Understand addition and subtraction of fractions as joining and separating parts referring to the same whole.
+,"Decompose a fraction into a sum of fractions with the same denominator in more than one way, recording each decomposition by an equation. Justify decompositions, for example, by using a visual fraction model. For example, 3/8 = 1/8 + 1/8 + 1/8; 3/8 = 1/8 + 2/8; 2 1/8 = 1 + 1 + 1/8; 2 1/8 = 8/8 + 8/8 + 1/8."
+,"Add and subtract mixed numbers with like denominators, for example, by replacing each mixed number with an equivalent fraction, and/or by using properties of operations and the relationship between addition and subtraction. For example, 3 1/4 + 2 1/4 = 13/4 + 9/4 = 22/4; 3 1/4 + 2 1/4 = (3+ 2) + (1/4 + 1/4) = 5 + 2/4 = 5 2/4, which is equivalent to 22/4."
+,"Solve word problems involving addition and subtraction of fractions referring to the same whole and having like denominators, for example, by using visual fraction models and equations to represent the problem."
+4.NF.4,Apply and extend previous understandings of multiplication to multiply a fraction by a whole number.
+,"Understand a fraction a/b as a multiple of 1/b. For example, use a visual fraction model to represent 5/4 as the product 5 x (1/4), recording the conclusion by the equation 5/4 = 5 x (1/4)."
+,"Understand a multiple of a/b as a multiple of 1/b, and use this understanding to multiply a fraction by a whole number. For example, use a visual fraction model to express 3 x (2/5) as 6 x (1/5), recognizing this product as 6/5. (In general, n x (a/b) = (n x a)/b)."
+,"Solve word problems involving multiplication of a fraction by a whole number (for example, by using visual fraction models and equations to represent the problem). For example, if each person at a party will eat 3/8 of a pound of roast beef, and there will be five people at the party, how many pounds of roast beef will be needed? Between what two whole numbers does your answer lie?"
+4.NF.5,"Express a fraction with denominator 10 as an equivalent fraction with denominator 100, and use this technique to add two fractions with respective denominators 10 and 100. For example, express 3/10 as 30/100, and add 3/10 + 4/100 = 34/100."
+4.NF.6,"Use decimal notation for fractions with denominators 10 or 100. For example, rewrite 0.62 as 62/100, describe a length as 0.62 meters; locate 0.62 on a number line diagram."
+csv
+Standard 4.MD.1 Conversion Table Example,,
+Feet,Inches,
+1,12,
+2,24,
+3,36,
+csv
+,
+csv
+UTAH CORE STATE STANDARDS for MATHEMATICS
+Mathematics | Grade 5
+"In Grade 5, instructional time should focus on three critical areas: (1) developing fluency with
+addition and subtraction of fractions, and developing understanding of the multiplication of
+fractions and of division of fractions in limited cases (unit fractions divided by whole numbers
+and whole numbers divided by unit fractions); (2) extending division to two-digit divisors,
+integrating decimal fractions into the place value system and developing understanding of
+operations with decimals to hundredths, and developing fluency with whole number and
+decimal operations; and (3) developing understanding of volume."
+"(1) Students will apply their understanding of fractions and fraction models to represent
+the addition and subtraction of fractions with unlike denominators as equivalent calcula-
+tions with like denominators. They will develop fluency in calculating sums and differenc-
+es of fractions, and make reasonable estimates of them. Students will also use the mean-
+ing of fractions, of multiplication and division, and the relationship between multiplication
+and division to understand and explain why the procedures for multiplying and dividing
+fractions make sense. (Note: This is limited to the case of dividing unit fractions by whole
+numbers and whole numbers by unit fractions.)"
+"(2) Students will develop understanding of why division procedures work based on the
+meaning of base-ten numerals and properties of operations. They will finalize fluency
+with multi-digit addition, subtraction, multiplication, and division. They will apply their
+understandings of models for decimals, decimal notation, and properties of operations
+to add and subtract decimals to hundredths. They will develop fluency in these computa-
+tions, and make reasonable estimates of their results. Students will use the relationship
+between decimals and fractions, as well as the relationship between finite decimals and
+whole numbers (e.g., a finite decimal multiplied by an appropriate power of 10 is a whole
+number), to understand and explain why the procedures for multiplying and dividing fi-
+nite decimals make sense. They will compute products and quotients of decimals to hun-
+dredths efficiently and accurately."
+"(3) Students will recognize volume as an attribute of three-dimensional space. They will
+understand that volume can be measured by finding the total number of same-size units
+of volume required to fill the space without gaps or overlaps. They will understand that a
+one-unit-by-one-unit-by-one-unit cube is the standard unit for measuring volume. They
+will select appropriate units, strategies, and tools for solving problems that involve esti-
+mating and measuring volume. They will decompose three-dimensional shapes and find
+volumes of right rectangular prisms by viewing them as decomposed into layers of arrays
+of cubes. They will measure necessary attributes of shapes in order to determine volumes
+to solve real-world and mathematical problems."
+csv
+Strand,Description
+Standard 5.MP.1,"Make sense of problems and persevere in solving them. Explain the meaning of a problem, look for entry points to begin work on the problem, and plan and choose a solution pathway. When a solution pathway does not make sense, look for another pathway that does. Explain connections between various solution strategies and representations. Upon finding a solution, look back at the problem to determine whether the solution is reasonable and accurate, often checking answers to problems using a different method or approach."
+Standard 5.MP.2,"Reason abstractly and quantitatively. Make sense of quantities and their relationships in problem situations. Contextualize quantities and operations by using images or stories. Decontextualize a given situation and represent it symbolically. Interpret symbols as having meaning, not just as directions to carry out a procedure. Know and flexibly use different properties of operations, numbers, and geometric objects."
+Standard 5.MP.3,"Construct viable arguments and critique the reasoning of others. Use stated assumptions, definitions, and previously established results to construct arguments. Explain and justify the mathematical reasoning underlying a strategy, solution, or conjecture by using concrete referents such as objects, drawings, diagrams, and actions. Listen to or read the arguments of others, decide whether they make sense, ask useful questions to clarify or improve the arguments, and build on those arguments."
+Standard 5.MP.4,"Model with mathematics. Identify the mathematical elements of a situation and create a mathematical model that shows the relationships among them. Identify important quantities in a contextual situation, use mathematical models to show the relationships of those quantities, analyze the relationships, and draw conclusions. Models may be verbal, contextual, visual, symbolic, or physical."
+Standard 5.MP.5,"Use appropriate tools strategically. Consider the tools that are available when solving a mathematical problem, whether in a real-world or mathematical context. Choose tools that are relevant and useful to the problem at hand, such as drawings, diagrams, technologies, and physical objects and tools, as well as mathematical tools such as estimation or a particular strategy or algorithm."
+Standard 5.MP.6,"Attend to precision. Communicate precisely to others by crafting careful explanations that communicate mathematical reasoning by referring specifically to each important mathematical element, describing the relationships among them, and connecting their words clearly to representations. Calculate accurately and efficiently, and use clear and concise notation to record work."
+csv
+Standard,Description
+5.MP.7,"Look for and make use of structure. Recognize and apply the structures of mathematics such as patterns, place value, the properties of operations, or the flexibility of numbers. See complicated things as single objects or as being composed of several objects."
+5.MP.8,Look for and express regularity in repeated reasoning. Notice repetitions in mathematics when solving multiple related problems. Use observations and reasoning to find shortcuts or generalizations. Evaluate the reasonableness of intermediate results.
+
+# Table: 5.OA Standards
+Standard,Description
+5.OA.1,"Use parentheses, brackets, or braces in numerical expressions, and evaluate expressions with these symbols."
+5.OA.2,Write and interpret simple numerical expressions.
+5.OA.2a,"Write simple expressions that record calculations with numbers. For example, use 2 x (8+7) to express the calculation ""add 8 and 7, then multiply by 2."""
+5.OA.2b,"Interpret numerical expressions without evaluating them. For example, use conceptual understanding of multiplication to interpret 3 x (18939 + 921) as being three times as large as 18932 + 921 without calculating the indicated sum or product."
+5.OA.3,"Generate two numerical patterns using two given rules. Identify apparent relationships between corresponding terms. Form ordered pairs consisting of corresponding terms from the two patterns, and graph the ordered pairs on a coordinate plane. For example, given the rule ""add 3"" and the starting number 0, and given the rule ""add 6"" and the starting number 0, generate terms in the resulting sequences, and observe that the terms in one sequence are twice the corresponding terms in the other sequence. Explain informally why this is so."
+
+# Table: 5.NBT Standards
+Standard,Description
+5.NBT.1,"Recognize that in a multi-digit number, a digit in one place represents 10 times as much as it represents in the place to its right and 1/10 of what it represents in the place to its left."
+5.NBT.2,"Explain patterns in the number of zeros of the product when multiplying a number by powers of 10, and explain patterns in the placement of the decimal point when a decimal is multiplied or divided by a power of 10. Use whole-number exponents to denote powers of 10."
+csv
+Standard,Description
+5.NBT.3,"Read, write, and compare decimals to thousandths."
+,"a. Read and write decimals to thousandths using base-ten numerals, number names, and expanded form. For example, 347.392 = 3 x 100 + 4 x 10 + 7 x 1 + 3 x (1/10) + 9 x (1/100) + 2 x (1/1000)."
+,"b. Compare two decimals to thousandths based on meanings of the digits in each place, using >, =, and < symbols to record the results of comparisons."
+5.NBT.4,Use place value understanding to round decimals to any place.
+5.NBT.5,Fluently multiply multi-digit whole numbers using the standard algorithm.
+5.NBT.6,"Find whole-number quotients of whole numbers with up to four-digit dividends and two-digit divisors, using strategies based on place value, the properties of operations, and/or the relationship between multiplication and division. Illustrate and explain the calculation by using equations, rectangular arrays, and/or area models."
+5.NBT.7,"Add, subtract, multiply, and divide decimals to hundredths, using concrete models or drawings and strategies based on place value, properties of opera- tions, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used. In this standard, dividing decimals is limited to a whole number dividend with a decimal divisor or a decimal dividend with a whole number divisor. Compare the value of the quotient on the basis of the values of the dividend and divisor."
+5.NF.1,"Add and subtract fractions with unlike denominators (including mixed numbers) by replacing given fractions with equivalent fractions in such a way as to pro- duce an equivalent sum or difference of fractions with like denominators. For example, 2/3 + 5/4 = 8/12 + 15/12 = 23/12. (In general, a/b + c/d = (ad + bc)/bd.)"
+5.NF.2,"Solve real-world problems involving addition and subtraction of frac- tions referring to the same whole, including cases of unlike denominators by, for ex- ample, using visual fraction models or equations to represent the problem. Use benchmark fractions and number sense of fractions to estimate mentally and assess the reasonable- ness of answers. For example, recognize 2/5 + 1/2 = 3/7 as an incorrect result, by observing that 3/7 < 1/2."
+5.NF.3,"Interpret a fraction as division of the numerator by the denominator (a/b = a + b). Solve real-world problems involving division of whole numbers leading to answers in the form of fractions or mixed numbers, through the use of visual fraction"
+csv
+# No tables found in the document
+There is no table in this image.
+There is no tabular data in this image.

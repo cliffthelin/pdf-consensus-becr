@@ -1,0 +1,624 @@
+{
+  "timestamp": "2025-10-31T03:36:27.767519",
+  "total_test_files": 102,
+  "passed_files": 50,
+  "failed_files": 51,
+  "timeout_files": 1,
+  "total_duration": 195.03100109100342,
+  "average_duration_per_file": 1.9120686381470924,
+  "file_stats": {
+    "tests\\unit\\test_advanced_engine_integration.py": {
+      "total_functions": 0,
+      "duration": 1.148613452911377,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_alignment.py": {
+      "total_functions": 0,
+      "duration": 0.8660709857940674,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_analytics_dashboard.py": {
+      "total_functions": 0,
+      "duration": 13.220011711120605,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_analytics_engine.py": {
+      "total_functions": 0,
+      "duration": 1.0326616764068604,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_analytics_export.py": {
+      "total_functions": 0,
+      "duration": 1.0714762210845947,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_analytics_reporting.py": {
+      "total_functions": 0,
+      "duration": 1.054473876953125,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_analyze_missing_files_and_functions.py": {
+      "total_functions": 0,
+      "duration": 0.8891410827636719,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_association_alignment.py": {
+      "total_functions": 0,
+      "duration": 1.0572965145111084,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_association_manager.py": {
+      "total_functions": 0,
+      "duration": 1.0517730712890625,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_association_parsers.py": {
+      "total_functions": 0,
+      "duration": 3.3403432369232178,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_associationmupdf_matcher.py": {
+      "total_functions": 0,
+      "duration": 0.8719310760498047,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_build_test_catalog.py": {
+      "total_functions": 0,
+      "duration": 0.862572431564331,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_catalog_enhancement.py": {
+      "total_functions": 0,
+      "duration": 1.033219575881958,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_catalog_validation.py": {
+      "total_functions": 0,
+      "duration": 1.0509445667266846,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_character_consistency.py": {
+      "total_functions": 0,
+      "duration": 1.0580370426177979,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_client.py": {
+      "total_functions": 0,
+      "duration": 0.8482038974761963,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_comprehensive_engine_gbg_processor.py": {
+      "total_functions": 0,
+      "duration": 0.8798336982727051,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_config_forms.py": {
+      "total_functions": 0,
+      "duration": 1.0729751586914062,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_configuration_manager.py": {
+      "total_functions": 0,
+      "duration": 1.0622410774230957,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_configuration_validation.py": {
+      "total_functions": 0,
+      "duration": 1.0275442600250244,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_consensus_guard.py": {
+      "total_functions": 0,
+      "duration": 0.8132691383361816,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_consensus_merge.py": {
+      "total_functions": 0,
+      "duration": 1.0672316551208496,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_consensus_policy.py": {
+      "total_functions": 0,
+      "duration": 1.110443353652954,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_consensus_score.py": {
+      "total_functions": 0,
+      "duration": 1.2991752624511719,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_consensus_scoring.py": {
+      "total_functions": 0,
+      "duration": 1.0576999187469482,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_consistency_integration.py": {
+      "total_functions": 0,
+      "duration": 1.070058822631836,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_coverage_tracker.py": {
+      "total_functions": 0,
+      "duration": 0.8736326694488525,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_dashboard.py": {
+      "total_functions": 0,
+      "duration": 0.8501503467559814,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_docling_engine.py": {
+      "total_functions": 0,
+      "duration": 0.8686854839324951,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_dual_output_processor.py": {
+      "total_functions": 0,
+      "duration": 0.8411269187927246,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_dynamic_reprocessor.py": {
+      "total_functions": 0,
+      "duration": 0.8613464832305908,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_engine_analytics.py": {
+      "total_functions": 0,
+      "duration": 0.8958520889282227,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_engine_config.py": {
+      "total_functions": 0,
+      "duration": 1.0079073905944824,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_engine_configuration.py": {
+      "total_functions": 0,
+      "duration": 1.0508697032928467,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_engine_processing.py": {
+      "total_functions": 0,
+      "duration": 30,
+      "status": "timeout",
+      "error": "Test timed out after 30s"
+    },
+    "tests\\unit\\test_engine_validation_system.py": {
+      "total_functions": 0,
+      "duration": 1.050724744796753,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_engine_validator.py": {
+      "total_functions": 0,
+      "duration": 0.865286111831665,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_enginesmupdf_engine.py": {
+      "total_functions": 0,
+      "duration": 0.8638079166412354,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_enhanced_catalog_fields.py": {
+      "total_functions": 0,
+      "duration": 1.1605839729309082,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_enhanced_character_combination.py": {
+      "total_functions": 0,
+      "duration": 1.086724042892456,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_enhanced_engine_configuration.py": {
+      "total_functions": 0,
+      "duration": 1.1649527549743652,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_enhanced_ndjson_output.py": {
+      "total_functions": 0,
+      "duration": 0.8278532028198242,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_export.py": {
+      "total_functions": 0,
+      "duration": 0.9331314563751221,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_extraction_engines.py": {
+      "total_functions": 0,
+      "duration": 1.0880377292633057,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_features_anomalies.py": {
+      "total_functions": 0,
+      "duration": 1.094435214996338,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_features_context.py": {
+      "total_functions": 0,
+      "duration": 1.2251174449920654,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_features_language.py": {
+      "total_functions": 0,
+      "duration": 1.128654956817627,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_features_lengths.py": {
+      "total_functions": 0,
+      "duration": 1.21600341796875,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_file_manager.py": {
+      "total_functions": 0,
+      "duration": 1.0040209293365479,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_full_pdf_processing_requirement.py": {
+      "total_functions": 0,
+      "duration": 1.050093412399292,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_function_catalog_validation.py": {
+      "total_functions": 0,
+      "duration": 1.1151437759399414,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_function_discovery.py": {
+      "total_functions": 0,
+      "duration": 1.142524003982544,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_functions_analyze_project_test_coverage.py": {
+      "total_functions": 0,
+      "duration": 0.9731612205505371,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_functions_detect_missing_functions.py": {
+      "total_functions": 0,
+      "duration": 0.8787674903869629,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_functions_enhance_catalog_fields.py": {
+      "total_functions": 0,
+      "duration": 0.9068901538848877,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_functions_validate_catalog.py": {
+      "total_functions": 0,
+      "duration": 0.9486649036407471,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_functions_visual_ocr_testing_functions.py": {
+      "total_functions": 0,
+      "duration": 0.9834001064300537,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_gbg_guided_tesseract_engine.py": {
+      "total_functions": 0,
+      "duration": 23.82176423072815,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_gbg_integrated_processor.py": {
+      "total_functions": 0,
+      "duration": 0.8957972526550293,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_gui_debugger_enhancement.py": {
+      "total_functions": 0,
+      "duration": 1.104543924331665,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_handlers.py": {
+      "total_functions": 0,
+      "duration": 0.9536342620849609,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_image_extractor.py": {
+      "total_functions": 0,
+      "duration": 0.8857457637786865,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_image_ignore_configuration.py": {
+      "total_functions": 0,
+      "duration": 1.2965235710144043,
+      "status": "passed",
+      "error": "sys:1: DeprecationWarning: builtin type swigvarlink has no __module__ attribute\n"
+    },
+    "tests\\unit\\test_immutable_runners.py": {
+      "total_functions": 0,
+      "duration": 1.158782958984375,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_integrated_processor.py": {
+      "total_functions": 0,
+      "duration": 0.9608924388885498,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_io_validation.py": {
+      "total_functions": 0,
+      "duration": 1.187697172164917,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_io_validation_real.py": {
+      "total_functions": 0,
+      "duration": 1.1210620403289795,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_issue_analysis.py": {
+      "total_functions": 0,
+      "duration": 1.1121132373809814,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_kreuzberg_engine.py": {
+      "total_functions": 0,
+      "duration": 0.9168534278869629,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_manager.py": {
+      "total_functions": 0,
+      "duration": 0.9514291286468506,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_mapping_iou.py": {
+      "total_functions": 0,
+      "duration": 1.1241357326507568,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_mcp_handlers.py": {
+      "total_functions": 0,
+      "duration": 1.1220347881317139,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_mcp_protocol.py": {
+      "total_functions": 0,
+      "duration": 1.114494800567627,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_mcp_test_runner.py": {
+      "total_functions": 0,
+      "duration": 0.9502336978912354,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_mcp_validation.py": {
+      "total_functions": 0,
+      "duration": 1.2378342151641846,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_missing_function_detection.py": {
+      "total_functions": 0,
+      "duration": 1.1128461360931396,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_ndjson_io.py": {
+      "total_functions": 0,
+      "duration": 0.9920024871826172,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_normalization.py": {
+      "total_functions": 0,
+      "duration": 1.2236049175262451,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_ocr_optimization.py": {
+      "total_functions": 0,
+      "duration": 1.1013386249542236,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_optimize_tesseract_for_clear_text.py": {
+      "total_functions": 0,
+      "duration": 0.9827210903167725,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_paddleocr_engine.py": {
+      "total_functions": 0,
+      "duration": 0.9843807220458984,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_parsers.py": {
+      "total_functions": 0,
+      "duration": 0.8846378326416016,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_pdf_metadata.py": {
+      "total_functions": 0,
+      "duration": 1.2184178829193115,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_performance_tracker.py": {
+      "total_functions": 0,
+      "duration": 0.8846070766448975,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_prd_spec.py": {
+      "total_functions": 0,
+      "duration": 1.1446666717529297,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_project_analysis.py": {
+      "total_functions": 0,
+      "duration": 1.1264936923980713,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_project_manager.py": {
+      "total_functions": 0,
+      "duration": 1.1451144218444824,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_project_structure.py": {
+      "total_functions": 0,
+      "duration": 0.907036304473877,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_protocol.py": {
+      "total_functions": 0,
+      "duration": 0.9909021854400635,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_pymupdf_matcher.py": {
+      "total_functions": 0,
+      "duration": 1.1047241687774658,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_report_generator.py": {
+      "total_functions": 0,
+      "duration": 1.0116229057312012,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_server.py": {
+      "total_functions": 0,
+      "duration": 0.901707649230957,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_setup_validation.py": {
+      "total_functions": 0,
+      "duration": 2.583890438079834,
+      "status": "passed",
+      "error": "sys:1: DeprecationWarning: builtin type swigvarlink has no __module__ attribute\n"
+    },
+    "tests\\unit\\test_src_functions_analyze_project_test_coverage.py": {
+      "total_functions": 0,
+      "duration": 1.016395092010498,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_tesseract_engine.py": {
+      "total_functions": 0,
+      "duration": 23.896570682525635,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_tesseract_matcher.py": {
+      "total_functions": 0,
+      "duration": 0.982933759689331,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_test_execution_tracker.py": {
+      "total_functions": 0,
+      "duration": 1.0788781642913818,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_test_runner.py": {
+      "total_functions": 0,
+      "duration": 1.1115083694458008,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_validate_setup.py": {
+      "total_functions": 0,
+      "duration": 0.8859500885009766,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_validation.py": {
+      "total_functions": 0,
+      "duration": 0.9811110496520996,
+      "status": "passed",
+      "error": ""
+    },
+    "tests\\unit\\test_visual_ocr_functions.py": {
+      "total_functions": 0,
+      "duration": 1.0623822212219238,
+      "status": "failed",
+      "error": ""
+    },
+    "tests\\unit\\test_visual_ocr_testing_tool.py": {
+      "total_functions": 0,
+      "duration": 0.9241909980773926,
+      "status": "passed",
+      "error": ""
+    }
+  },
+  "success_rate": 0.49019607843137253
+}

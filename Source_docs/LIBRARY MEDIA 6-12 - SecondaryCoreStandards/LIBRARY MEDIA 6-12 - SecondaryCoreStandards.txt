@@ -1,0 +1,604 @@
+{
+  "document": {
+    "title": "tmp485070ux",
+    "type": "document",
+    "metadata": {
+      "date": "",
+      "author": "",
+      "version": "",
+      "pages": "18"
+    },
+    "sections": [
+      {
+        "id": "page_1_section_1",
+        "title": "UTAH CORE STANDARDS",
+        "level": 1,
+        "content": "6–12 LIBRARY MEDIA",
+        "subsections": []
+      },
+      {
+        "id": "page_2_section_1",
+        "title": "Image Description",
+        "level": 1,
+        "content": "A close-up photograph of a person's hand holding a small, dark, shiny object between their thumb and index finger. The background is out of focus.",
+        "subsections": []
+      },
+      {
+        "id": "page_3_section_1",
+        "title": "UTAH CORE STATE STANDARDS for LIBRARY MEDIA",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_3_section_1_subsection_1",
+            "title": "GRADES 6–12",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_4_section_1",
+        "title": "Utah Core Standards Policy and Purpose",
+        "level": 1,
+        "content": "The Utah State Board of Education, in January of 1984, established policy requiring the identification of specific core standards to be met by all K-12 students in order to graduate from Utah's secondary schools. The Utah State Board of Education regularly updates the Utah Core Standards, while parents, teachers, and local school boards continue to control the curriculum choices that reflect local values.\n\nThe Utah Core Standards are aligned to scientifically based content standards. They drive high quality instruction through statewide comprehensive expectations for all students. The standards outline essential knowledge, concepts, and skills to be mastered at each grade level or within a critical content area. The standards provide a foundation for ensuring learning within the classroom.",
+        "subsections": []
+      },
+      {
+        "id": "page_5_section_1",
+        "title": "UTAH STATE BOARD OF EDUCATION",
+        "level": 1,
+        "content": "250 East 500 South P.O. Box 144200 Salt Lake City, UT 84114-4200\nhttp://schoolboard.utah.gov",
+        "subsections": []
+      },
+      {
+        "id": "page_6_section_1",
+        "title": "",
+        "level": 1,
+        "content": "A close-up photograph of a person's hand holding a small, dark, shiny object between their thumb and index finger. The background is out of focus.",
+        "subsections": []
+      },
+      {
+        "id": "page_7_section_1_introduction",
+        "title": "Introduction",
+        "level": 1,
+        "content": "The school library program is critical to the learning process. The necessary skills for college and career ready students include being literate in a wide range of digital, visual, textual, and technological formats. Students need to be able to access, evaluate, and process information strategically and methodically in order to make informed decisions and create products involving critical thinking skills.\n\nHighly qualified teacher librarians, working in collaboration with content area teachers, provide research- and inquiry-based instruction in order to develop the students’ ability to find and use information to support their academic learning and personal development. These Utah Standards for Library Media were created by certified teacher librarians to demonstrate the integration of information literacy skills across all curricular areas.\n\nThe standards are organized into three clusters:\n\nThese standards, which incorporate inquiry-based learning as well as other research model strategies, will be taught in collaboration with content area teachers, not in isolation by the teacher librarian. This collaboration will deepen student learning, foster independent reading, develop reading stamina, build task resiliency, strengthen text dependent writing, and increase the students’ information literacy knowledge. Informative handouts, tutorials, and implementation tools are available through the Utah State Board of Education web-site and the Utah Education Network.",
+        "subsections": []
+      },
+      {
+        "id": "page_8_section_1",
+        "title": "",
+        "level": 1,
+        "content": "A close-up photograph of a person's hand holding a small, dark, shiny object between their thumb and index finger. The background is out of focus.",
+        "subsections": []
+      },
+      {
+        "id": "page_9_section_reading_engagement",
+        "title": "Reading Engagement",
+        "level": 1,
+        "content": "Libraries support independent readers by providing a variety of materials for informational and leisure reading. Reading extensively strengthens stamina and broadens students’ global perspective. The goal is to recognize individual students’ interests and needs and provide materials in a variety of formats, genres, and languages, at varied reading levels.",
+        "subsections": [
+          {
+            "id": "page_9_section_reading_engagement_strand_1",
+            "title": "Strand 1: READING TO PURSUE INTELLECTUAL, PERSONAL, AND EMOTIONAL GROWTH FOR LIFE",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_10_section_1",
+        "title": "UTAH CORE STATE STANDARDS for LIBRARY MEDIA , GRADES 6–12",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_11_section_1",
+        "title": "UTAH CORE STATE STANDARDS for LIBRARY MEDIA , GRADES 6–12",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_11_section_2",
+        "title": "Information and Research",
+        "level": 1,
+        "content": "Students need the lifelong skills of selecting information from a wide variety of sources, assessing its worth, and applying newfound knowledge to problems, preparing them for learning, doing, and problem solving in college, career and throughout life. The goal is to instruct students in a multi-step research process that is adaptable. As students gain research skills, they develop self-confidence in solving information problems in an environment where information resources and technologies have become increasingly complex.",
+        "subsections": [
+          {
+            "id": "page_11_section_2_subsection_1",
+            "title": "Strand 2: DEFINING AN INFORMATION PROBLEM AND IDENTIFYING INFORMATION NEEDED",
+            "level": 2,
+            "content": "",
+            "subsections": [
+              {
+                "id": "page_11_section_2_subsection_1_standard_1",
+                "title": "Standard 1: Define an information problem.",
+                "level": 3,
+                "content": "",
+                "subsections": [
+                  {
+                    "id": "page_11_section_2_subsection_1_standard_1_item_a",
+                    "title": "a. Analyze the task to identify the information problem.",
+                    "level": 4,
+                    "content": "",
+                    "subsections": []
+                  },
+                  {
+                    "id": "page_11_section_2_subsection_1_standard_1_item_b",
+                    "title": "b. Seek clarification from teachers and others",
+                    "level": 4,
+                    "content": "",
+                    "subsections": []
+                  },
+                  {
+                    "id": "page_11_section_2_subsection_1_standard_1_item_c",
+                    "title": "c. Select and narrow or broaden topics into a manageable focus.",
+                    "level": 4,
+                    "content": "",
+                    "subsections": []
+                  },
+                  {
+                    "id": "page_11_section_2_subsection_1_standard_1_item_d",
+                    "title": "d. Conceptualize the form of the final product based on target audience, assignment constraints, and criteria for evaluation.",
+                    "level": 4,
+                    "content": "",
+                    "subsections": []
+                  }
+                ]
+              },
+              {
+                "id": "page_11_section_2_subsection_1_standard_2",
+                "title": "Standard 2: Identify the information needed.",
+                "level": 3,
+                "content": "",
+                "subsections": [
+                  {
+                    "id": "page_11_section_2_subsection_1_standard_2_item_a",
+                    "title": "a. Analyze the task and information needed in terms of students’ previous knowledge.",
+                    "level": 4,
+                    "content": "",
+                    "subsections": []
+                  },
+                  {
+                    "id": "page_11_section_2_subsection_1_standard_2_item_b",
+                    "title": "b. Compile and refine a range of significant questions by considering the amount, format, location and type of information to guide inquiry.",
+                    "level": 4,
+                    "content": "",
+                    "subsections": []
+                  },
+                  {
+                    "id": "page_11_section_2_subsection_1_standard_2_item_c",
+                    "title": "c. Select and narrow or broaden keyword search terms.",
+                    "level": 4,
+                    "content": "",
+                    "subsections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "page_11_section_2_subsection_2",
+            "title": "Strand 3: IDENTIFYING, EVALUATING, AND SELECTING SOURCES",
+            "level": 2,
+            "content": "",
+            "subsections": [
+              {
+                "id": "page_11_section_2_subsection_2_standard_1",
+                "title": "Standard 1: Determine a wide range of general and specific sources.",
+                "level": 3,
+                "content": "",
+                "subsections": [
+                  {
+                    "id": "page_11_section_2_subsection_2_standard_1_item_a",
+                    "title": "a. Develop an information search strategy.",
+                    "level": 4,
+                    "content": "",
+                    "subsections": []
+                  },
+                  {
+                    "id": "page_11_section_2_subsection_2_standard_1_item_b",
+                    "title": "b. Identify potential information sources and access tools.",
+                    "level": 4,
+                    "content": "",
+                    "subsections": []
+                  }
+                ]
+              },
+              {
+                "id": "page_11_section_2_subsection_2_standard_2",
+                "title": "Standard 2: Select relevant sources.",
+                "level": 3,
+                "content": "",
+                "subsections": [
+                  {
+                    "id": "page_11_section_2_subsection_2_standard_2_item_a",
+                    "title": "a. Evaluate print and digital sources for relevancy, accuracy, validity, credibility, availability, currency, authority, accessibility within time limits, and ease of use.",
+                    "level": 4,
+                    "content": "",
+                    "subsections": []
+                  },
+                  {
+                    "id": "page_11_section_2_subsection_2_standard_2_item_b",
+                    "title": "b. Apply an understanding of the difference between primary and secondary sources.",
+                    "level": 4,
+                    "content": "",
+                    "subsections": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_12_strand_4",
+        "title": "Strand 4: LOCATING SOURCES AND ACCESSING INFORMATION",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_12_strand_4_standard_1",
+            "title": "Standard 1: Locate identified sources and access information within sources.",
+            "level": 2,
+            "content": "a. Understand the library layout, the library classification system, and the circulation process. b. Demonstrate how to navigate library catalogs, web browsers, and databases. c. Locate sources with divergent perspectives that answer research questions by considering primary and secondary sources, general and subject-specific references, and scholarly and popular articles. d. Locate potential digital, print, artifacts and human sources to meet the research need. e. Revise and focus search by demonstrating the effective use of location skills and advanced search strategies.",
+            "subsections": []
+          },
+          {
+            "id": "page_12_strand_4_standard_2",
+            "title": "Standard 2: Access information within sources.",
+            "level": 2,
+            "content": "a. Apply relevant information access skills using table of contents, indexes, keyword searches, and related subjects.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_12_strand_5",
+        "title": "Strand 5: ENGAGING WITH AND EXTRACTING INFORMATION",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_12_strand_5_standard_1",
+            "title": "Standard 1: Engage with information by reading, listening, and viewing sources in a variety of formats.",
+            "level": 2,
+            "content": "a. Use appropriate reading, viewing, and listening skills and strategies to gather evidence to support the research task. b. Build connections between prior knowledge and new information through engaging with information, and collaborate with others to broaden and deepen understanding. c. Gather information by surveying and interviewing others. d. Modify questions, sources, or strategies as needed to accomplish the research task. e. Monitor gathered information for gaps or weaknesses and seek additional sources as necessary.",
+            "subsections": []
+          },
+          {
+            "id": "page_12_strand_5_standard_2",
+            "title": "Standard 2: Extract relevant information that answers the information problem and meets task requirements.",
+            "level": 2,
+            "content": "a. Apply critical thinking skills to evaluate and select information in terms of relevance, accuracy, validity, reliability, currency, authority, completeness, format, point-of-view, and timeliness. b. Distinguish between fact and opinion and evaluate for the presence of bias, prejudice, or propaganda.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_13_section_strand_6",
+        "title": "Strand 6: ORGANIZING, SYNTHESIZING, AND PRESENTING INFORMATION",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_13_section_strand_6_standard_1",
+            "title": "Standard 1: Organize information from multiple sources.",
+            "level": 2,
+            "content": "",
+            "subsections": [],
+            "lists": [
+              {
+                "id": "page_13_section_strand_6_standard_1_list",
+                "type": "ordered",
+                "title": "",
+                "items": [
+                  "Establish a clear purpose for the learning product.",
+                  "Analyze and organize information to support conclusions.",
+                  "Use technology and other information tools to integrate and organize textual, numerical, and pictorial information from multiple sources.",
+                  "Evaluate critically whether or not the selected information supports the proposed conclusions.",
+                  "Follow ethical and legal guidelines in using information, avoiding plagiarism and copyright violations.",
+                  "Create, revise, and refine drafts of the learning product.",
+                  "Finalize the learning product by applying criteria for quality and craftsmanship based on existing models, including assignment criteria and personal standards."
+                ]
+              }
+            ]
+          },
+          {
+            "id": "page_13_section_strand_6_standard_2",
+            "title": "Standard 2: Present research learning products.",
+            "level": 2,
+            "content": "",
+            "subsections": [],
+            "lists": [
+              {
+                "id": "page_13_section_strand_6_standard_2_list",
+                "type": "ordered",
+                "title": "",
+                "items": [
+                  "Present research learning products, using a variety of media formats effectively to promote new understanding.",
+                  "Update and publish learning products, individually or collaboratively, considering fair use and Creative Commons licensing."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_13_section_strand_7",
+        "title": "Strand 7: EVALUATING THE PROCESS AND PRODUCT",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_13_section_strand_7_standard_1",
+            "title": "Standard 1: Assess the process and product for efficiency and effectiveness.",
+            "level": 2,
+            "content": "",
+            "subsections": [],
+            "lists": [
+              {
+                "id": "page_13_section_strand_7_standard_1_list",
+                "type": "ordered",
+                "title": "",
+                "items": [
+                  "Compare and evaluate the process and product with criteria from the original task definition.",
+                  "Assess ability to select sources that are current, valid, authoritative, and relevant to the task.",
+                  "Reflect on personal growth, development of technology skills, ability to collaborate, and personal performance during the research process.",
+                  "Assess development of time-management skills during and after the research process."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_14_section_1",
+        "title": "UTAH CORE STATE STANDARDS for LIBRARY MEDIA , GRADES 6–12",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_15_section_1",
+        "title": "UTAH CORE STATE STANDARDS for LIBRARY MEDIA , GRADES 6–12",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_15_section_2",
+        "title": "Media Engagement",
+        "level": 1,
+        "content": "In order to make informed decisions, students must successfully discern and interpret the messages surrounding them in media. Through collaboration with classroom teachers, these skills can be integrated into curricular units throughout a wide range of core and elective subjects.",
+        "subsections": [
+          {
+            "id": "page_15_section_2_subsection_1",
+            "title": "Strand 8: DEMONSTRATING THAT MEDIA LITERACY IS A LIFE SKILL INTEGRAL TO MODERN CITIZENSHIP AND INFORMED DECISION-MAKING.",
+            "level": 2,
+            "content": "",
+            "subsections": [
+              {
+                "id": "page_15_section_2_subsection_1_standard_1",
+                "title": "Standard 1: Understand and use basic terms and concepts of media with their potential impact, advantages, and limitations.",
+                "level": 3,
+                "content": "",
+                "subsections": []
+              },
+              {
+                "id": "page_15_section_2_subsection_1_standard_2",
+                "title": "Standard 2: Evaluate and select media for appropriate personal, educational, and professional use.",
+                "level": 3,
+                "content": "",
+                "subsections": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_16_section_1",
+        "title": "",
+        "level": 1,
+        "content": "A close-up photograph of a person's hand holding a small, dark, shiny object between their thumb and index finger. The background is out of focus.",
+        "subsections": []
+      },
+      {
+        "id": "page_18_section_1",
+        "title": "Utah State Board of Education",
+        "level": 1,
+        "content": "&lt;img&gt;Utah State Board of Education Seal with \"1896\"&lt;/img&gt;\n250 East 500 South\nP.O. Box 144200\nSalt Lake City, UT 84114-4200\nSydnee Dickson, Ed.D.\nState Superintendent of Public Instruction\nwww.schools.utah.gov",
+        "subsections": []
+      }
+    ],
+    "summary": {
+      "main_topics": [],
+      "key_findings": [],
+      "action_items": [],
+      "important_dates": []
+    },
+    "tables": [
+      {
+        "id": "page_5_table_1",
+        "title": "",
+        "headers": [
+          "District",
+          "Name",
+          "City"
+        ],
+        "rows": [
+          [
+            "District 1",
+            "Terryl Warner",
+            "Hyrum, UT 84319"
+          ],
+          [
+            "District 2",
+            "Spencer F. Stokes",
+            "Ogden, UT 84403"
+          ],
+          [
+            "District 3",
+            "Linda B. Hansen",
+            "West Valley City, UT 84120"
+          ],
+          [
+            "District 4",
+            "David L. Thomas",
+            "South Weber, UT 84405"
+          ],
+          [
+            "District 5",
+            "Laura Belnap",
+            "Bountiful, UT 84010"
+          ],
+          [
+            "District 6",
+            "Brittney Cummins",
+            "West Valley City, UT 84120"
+          ],
+          [
+            "District 7",
+            "Leslie B. Castle",
+            "Salt Lake City, UT 84108"
+          ],
+          [
+            "District 8",
+            "Jennifer A. Johnson",
+            "Murray, UT 84107"
+          ],
+          [
+            "District 9",
+            "Joel Wright",
+            "Cedar Hills, UT 84062"
+          ],
+          [
+            "District 10",
+            "David L. Crandall",
+            "Draper, UT 84020"
+          ],
+          [
+            "District 11",
+            "Jefferson Moss",
+            "Saratoga Springs, UT 84045"
+          ],
+          [
+            "District 12",
+            "Dixie L. Allen",
+            "Vernal, UT 84078"
+          ],
+          [
+            "District 13",
+            "Stan Lockhart",
+            "Provo, UT 84604"
+          ],
+          [
+            "District 14",
+            "Mark Huntsman",
+            "Fillmore, UT 84631"
+          ],
+          [
+            "District 15",
+            "Barbara W. Corry",
+            "Cedar City, UT 84720"
+          ],
+          [
+            "",
+            "Sydnee Dickson",
+            "State Superintendent\nof Public Instruction"
+          ],
+          [
+            "",
+            "Lorraine Austin",
+            "Secretary to the Board"
+          ]
+        ]
+      }
+    ],
+    "lists": [
+      {
+        "id": "page_7_list_1_clusters",
+        "type": "ordered",
+        "title": "The standards are organized into three clusters:",
+        "items": [
+          "Literacy: Reading Engagement",
+          "Literacy: Research and Information",
+          "Literacy: Media Engagement"
+        ]
+      },
+      {
+        "id": "page_9_list_strand_1_main_standards",
+        "type": "unordered",
+        "title": "Standards for Strand 1",
+        "items": [
+          "**Standard 1:** Build reading behaviors for lifelong learning and enjoyment of reading.",
+          "**Standard 2:** Comprehend literary and informational texts."
+        ]
+      },
+      {
+        "id": "page_9_list_standard_1_sub_points",
+        "type": "unordered",
+        "title": "Sub-points for Standard 1",
+        "items": [
+          "Select texts from a variety of formats and genres to read for enjoyment, acquire knowledge, and answer questions.",
+          "Make personal connections while respecting the right to read, seek information, and speak freely.",
+          "Demonstrate resiliency, perseverance and stamina when reading a variety of texts.",
+          "Contribute to a reading and learning community including recommending reading materials to peers.",
+          "Connect with family, neighborhood, and community libraries."
+        ]
+      },
+      {
+        "id": "page_9_list_standard_2_sub_points",
+        "type": "unordered",
+        "title": "Sub-points for Standard 2",
+        "items": [
+          "Apply appropriate reading strategies in literary and informational texts.",
+          "Read, listen to, view, and integrate information to build background knowledge."
+        ]
+      },
+      {
+        "id": "page_13_list_pre_strands",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Validate and compare information in sources, noting differences, contradictions, and types of data or research.",
+          "Use a variety of note-taking strategies.",
+          "Abstract, summarize, and paraphrase.",
+          "Credit appropriate sources using accepted citation format."
+        ]
+      },
+      {
+        "id": "page_14_list_1",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Critique the quality and effectiveness of the process and product and determine areas needing improvement and how to make changes in the future."
+        ]
+      },
+      {
+        "id": "page_15_list_1",
+        "type": "ordered",
+        "title": "Standard 2 Details",
+        "items": [
+          "a. Consult reliable sources to critique and evaluate personal media choices.",
+          "b. Evaluate and select media materials to meet educational, personal, and career needs.",
+          "c. Determine whether the amount of time and attention devoted to media, including social networking, Internet gaming, and texting, is in balance with other activities."
+        ]
+      }
+    ],
+    "key_value_pairs": [
+      {
+        "key": "Adoption Details",
+        "value": "Adopted February 2015 by the Utah State Board of Education"
+      },
+      {
+        "key": "Publication Date",
+        "value": "July 2016"
+      }
+    ]
+  }
+}

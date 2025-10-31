@@ -1,0 +1,198 @@
+{
+  "module": "mcp_integration",
+  "description": "Model Context Protocol integration for external system communication",
+  "total_test_files": 4,
+  "total_tests": 80,
+  "coverage_target": 95.0,
+  "test_files": [
+    {
+      "test_file": "tests/unit/test_mcp_protocol.py",
+      "module_under_test": "src.compareblocks.mcp.protocol",
+      "test_type": "unit",
+      "description": "Unit tests for MCP protocol implementation including message handling, validation, and client management",
+      "test_count": 20,
+      "coverage_target": 95.0,
+      "functions_tested": [
+        "MCPMessage.__post_init__",
+        "MCPMessage.to_dict",
+        "MCPMessage.to_json",
+        "MCPMessage.from_dict",
+        "MCPMessage.from_json",
+        "MCPProtocol.__init__",
+        "MCPProtocol.create_request",
+        "MCPProtocol.create_response",
+        "MCPProtocol.create_error_response",
+        "MCPProtocol.create_notification",
+        "MCPProtocol.validate_message",
+        "MCPProtocol.handle_initialize",
+        "MCPProtocol.subscribe_client",
+        "MCPProtocol.unsubscribe_client",
+        "MCPProtocol.get_subscribers",
+        "MCPProtocol.create_status_update",
+        "MCPProtocol.create_processing_complete"
+      ],
+      "test_categories": [
+        "message_creation",
+        "serialization",
+        "validation",
+        "client_management",
+        "notifications"
+      ],
+      "dependencies": [
+        "json",
+        "uuid",
+        "datetime",
+        "dataclasses"
+      ],
+      "real_data_usage": true,
+      "performance_tests": false,
+      "async_tests": false
+    },
+    {
+      "test_file": "tests/unit/test_mcp_validation.py",
+      "module_under_test": "src.compareblocks.mcp.validation",
+      "test_type": "unit",
+      "description": "Unit tests for MCP validation including schema validation, data sanitization, and security checks",
+      "test_count": 23,
+      "coverage_target": 95.0,
+      "functions_tested": [
+        "MCPValidator.__init__",
+        "MCPValidator.validate_extraction_submission",
+        "MCPValidator.validate_status_request",
+        "MCPValidator.validate_results_request",
+        "MCPValidator.validate_subscription_request",
+        "MCPValidator.sanitize_extraction_data",
+        "MCPValidator.validate_pdf_path",
+        "MCPValidator.get_schema",
+        "MCPValidator.list_schemas"
+      ],
+      "test_categories": [
+        "schema_validation",
+        "data_sanitization",
+        "security_validation",
+        "pdf_path_validation",
+        "error_handling"
+      ],
+      "dependencies": [
+        "jsonschema",
+        "pathlib",
+        "tempfile"
+      ],
+      "real_data_usage": true,
+      "performance_tests": false,
+      "async_tests": false
+    },
+    {
+      "test_file": "tests/unit/test_mcp_handlers.py",
+      "module_under_test": "src.compareblocks.mcp.handlers",
+      "test_type": "unit",
+      "description": "Unit tests for MCP handlers including session management, extraction processing, and status handling",
+      "test_count": 25,
+      "coverage_target": 95.0,
+      "functions_tested": [
+        "ProcessingSession.__init__",
+        "ProcessingSession.update_status",
+        "ProcessingSession.to_dict",
+        "ExtractionHandler.__init__",
+        "ExtractionHandler.handle_submission",
+        "StatusHandler.__init__",
+        "StatusHandler.handle_status_request",
+        "StatusHandler.handle_results_request"
+      ],
+      "test_categories": [
+        "session_management",
+        "extraction_processing",
+        "status_handling",
+        "results_retrieval",
+        "error_handling",
+        "async_processing"
+      ],
+      "dependencies": [
+        "asyncio",
+        "tempfile",
+        "pathlib",
+        "datetime"
+      ],
+      "real_data_usage": true,
+      "performance_tests": true,
+      "async_tests": true
+    },
+    {
+      "test_file": "tests/integration/test_mcp_integration.py",
+      "module_under_test": "src.compareblocks.mcp",
+      "test_type": "integration",
+      "description": "Integration tests for complete MCP system including server-client communication and workflows",
+      "test_count": 12,
+      "coverage_target": 90.0,
+      "functions_tested": [
+        "MCPServer.__init__",
+        "MCPServer.start",
+        "MCPServer.stop",
+        "MCPServer.broadcast_notification",
+        "MCPServer.get_server_info",
+        "MCPServer.get_client_info",
+        "MCPClient.__init__",
+        "MCPClient.connect",
+        "MCPClient.disconnect",
+        "MCPClient.initialize",
+        "MCPClient.submit_extraction",
+        "MCPClient.get_status",
+        "MCPClient.get_results",
+        "MCPClient.subscribe_updates",
+        "MCPClient.unsubscribe_updates",
+        "MCPClient.set_notification_handler",
+        "MCPClient.is_connected",
+        "MCPClient.is_initialized",
+        "MCPClient.get_client_info"
+      ],
+      "test_categories": [
+        "server_client_integration",
+        "websocket_communication",
+        "real_time_notifications",
+        "multi_client_scenarios",
+        "error_handling",
+        "connection_management"
+      ],
+      "dependencies": [
+        "websockets",
+        "asyncio",
+        "tempfile",
+        "pathlib"
+      ],
+      "real_data_usage": true,
+      "performance_tests": true,
+      "async_tests": true
+    }
+  ],
+  "test_execution_order": [
+    "tests/unit/test_mcp_protocol.py",
+    "tests/unit/test_mcp_validation.py",
+    "tests/unit/test_mcp_handlers.py",
+    "tests/integration/test_mcp_integration.py"
+  ],
+  "dependencies": [
+    "websockets>=12.0",
+    "pytest-asyncio>=0.21.0",
+    "jsonschema>=4.19.0"
+  ],
+  "performance_requirements": {
+    "max_test_duration": "30s",
+    "memory_limit": "512MB",
+    "concurrent_clients": 10
+  },
+  "validation_requirements": {
+    "real_pdf_files": true,
+    "schema_compliance": true,
+    "security_validation": true,
+    "async_safety": true
+  },
+  "integration_points": [
+    "src.compareblocks.gbg.processor",
+    "src.compareblocks.consensus.score",
+    "src.compareblocks.config.file_manager",
+    "src.compareblocks.io.schemas"
+  ],
+  "last_updated": "2025-10-27T20:31:10.917308",
+  "test_framework": "pytest",
+  "async_framework": "asyncio"
+}

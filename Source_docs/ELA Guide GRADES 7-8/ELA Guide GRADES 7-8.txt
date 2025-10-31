@@ -1,0 +1,3582 @@
+{
+  "document": {
+    "title": "tmpvtnf6ny0",
+    "type": "document",
+    "metadata": {
+      "date": "",
+      "author": "",
+      "version": "",
+      "pages": "48"
+    },
+    "sections": [
+      {
+        "id": "page_1_section_1",
+        "title": "Utah State Board of Education | Teaching and Learning",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_1_section_1_subsection_1",
+            "title": "A CORE GUIDE TO THE UTAH ENGLISH LANGUAGE ARTS (ELA) STANDARDS",
+            "level": 2,
+            "content": "GRADES 7-8",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_2_section_1",
+        "title": "",
+        "level": 1,
+        "content": "This is a blank page.",
+        "subsections": []
+      },
+      {
+        "id": "page_3_section_1",
+        "title": "GRADES 7-8",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_3_section_1_subsection_1",
+            "title": "UTAH CORE GUIDE",
+            "level": 2,
+            "content": "*for*\n# P-12 ENGLISH LANGUAGE ARTS\n&lt;img&gt;Utah State Board of Education logo&lt;/img&gt;\nUtah State Board of Education | Teaching and Learning"
+          }
+        ]
+      },
+      {
+        "id": "page_4_section_1",
+        "title": "",
+        "level": 1,
+        "content": "This is a blank page.",
+        "subsections": []
+      },
+      {
+        "id": "page_5_section_grades_7_8",
+        "title": "GRADES 7–8",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_5_section_grades_7_8_speaking_listening",
+            "title": "SPEAKING AND LISTENING",
+            "level": 2,
+            "content": "",
+            "subsections": [
+              {
+                "id": "page_5_section_grades_7_8_speaking_listening_7_8_sl_1",
+                "title": "7–8.SL.1",
+                "level": 3,
+                "content": "Students will learn to collaborate, express and listen to ideas, integrate and evaluate information from various sources, use media and visual displays as well as language and grammar strategically to help achieve communicative purposes, and adapt to context and task.",
+                "subsections": [],
+                "lists": [
+                  {
+                    "id": "page_5_section_grades_7_8_speaking_listening_7_8_sl_1_list_standard",
+                    "type": "unordered",
+                    "title": "Standard 7–8.SL.1",
+                    "items": [
+                      "Participate effectively in a range of conversations and collaborations on topics, texts, and issues.",
+                      "a. Respond thoughtfully in democratic discussions that involve decision-making and role-taking and determine if additional information or research is required to deepen the discussion.",
+                      "b. Participate in conversations by asking and responding to questions and provide the opportunity to consider a range of perspectives."
+                    ]
+                  }
+                ],
+                "key_value_pairs": [
+                  {
+                    "key": "Strand",
+                    "value": "SPEAKING AND LISTENING (7–8.SL)"
+                  }
+                ]
+              },
+              {
+                "id": "page_5_section_grades_7_8_speaking_listening_concepts_skills",
+                "title": "CONCEPTS AND SKILLS TO MASTER",
+                "level": 3,
+                "content": "",
+                "subsections": [],
+                "lists": [
+                  {
+                    "id": "page_5_section_grades_7_8_speaking_listening_concepts_skills_list",
+                    "type": "unordered",
+                    "title": "",
+                    "items": [
+                      "Collaborating",
+                      "Reading for comprehension",
+                      "Decision making",
+                      "Turn-taking",
+                      "Researching",
+                      "Asking questions",
+                      "Responding to questions"
+                    ]
+                  }
+                ],
+                "key_value_pairs": []
+              },
+              {
+                "id": "page_5_section_grades_7_8_speaking_listening_critical_background",
+                "title": "CRITICAL BACKGROUND KNOWLEDGE",
+                "level": 3,
+                "content": "",
+                "subsections": [],
+                "lists": [
+                  {
+                    "id": "page_5_section_grades_7_8_speaking_listening_critical_background_list_standard",
+                    "type": "unordered",
+                    "title": "Standard 6.SL.1",
+                    "items": [
+                      "Participate effectively in a range of conversations and collaborations on topics, texts, and issues.",
+                      "a. Respectfully acknowledge comments, claims, and evidence from multiple perspectives and identify contradictions when applicable."
+                    ]
+                  }
+                ],
+                "key_value_pairs": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_6_section_skill_description",
+        "title": "Skill Description",
+        "level": 1,
+        "content": "b. Participate in conversations by posing questions, acknowledging new information, qualifying or justifying responses with reasoning and elaboration, and keeping the discussion on topic.",
+        "subsections": []
+      },
+      {
+        "id": "page_7_section_1",
+        "title": "7–8.SL.2",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_7_section_1_subsection_1",
+            "title": "Strand: SPEAKING AND LISTENING (7–8.SL)",
+            "level": 2,
+            "content": "Students will learn to collaborate, express and listen to ideas, integrate and evaluate information from various sources, use media and visual displays as well as language and grammar strategically to help achieve communicative purposes, and adapt to context and task.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_7_section_2",
+        "title": "CONCEPTS AND SKILLS TO MASTER",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_7_section_3",
+        "title": "CRITICAL BACKGROUND KNOWLEDGE",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_7_section_4",
+        "title": "RELATED STANDARDS: Current Grade Level",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_8_section_grade_7_8_objectives_standards",
+        "title": "",
+        "level": 1,
+        "content": "a. Convey a clear perspective by presenting and citing information, findings, and supporting evidence so that listeners can follow the line of reasoning.",
+        "subsections": []
+      },
+      {
+        "id": "page_8_section_related_standards_future_grade",
+        "title": "RELATED STANDARDS: Future Grade Level",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_8_section_academic_language",
+        "title": "ACADEMIC LANGUAGE",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_8_section_assessment_exemplars",
+        "title": "ASSESSMENT EXEMPLARS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_8_section_standard_7_8_sl_3",
+        "title": "7-8.SL.3",
+        "level": 1,
+        "content": "Students will learn to collaborate, express and listen to ideas, integrate and evaluate information from various sources, use media and visual displays as well as language and grammar strategically to help achieve communicative purposes, and adapt to context and task.",
+        "subsections": []
+      },
+      {
+        "id": "page_9_standard_7_8_sl_3",
+        "title": "Standard 7-8.SL.3",
+        "level": 1,
+        "content": "Use appropriate language, grammar, organization, development, and delivery styles appropriate to purpose and audience for formal or informal contexts.\na. Convey a clear perspective by presenting and citing information, findings, and supporting evidence so that listeners can follow the line of reasoning.",
+        "subsections": []
+      },
+      {
+        "id": "page_9_concepts_and_skills_to_master",
+        "title": "CONCEPTS AND SKILLS TO MASTER",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_9_critical_background_knowledge",
+        "title": "CRITICAL BACKGROUND KNOWLEDGE",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_9_critical_background_knowledge_standard_6_sl_3",
+            "title": "Standard 6.SL.3",
+            "level": 2,
+            "content": "Use appropriate language, grammar, organization, development, and delivery styles appropriate to purpose and audience for formal or informal contexts.\na. Use visual displays of data, including digital media, to convey information and engage the audience.",
+            "subsections": []
+          },
+          {
+            "id": "page_9_critical_background_knowledge_standard_5_sl_3",
+            "title": "Standard 5.SL.3",
+            "level": 2,
+            "content": "Use age-appropriate language, grammar, volume, and clear pronunciation when speaking or presenting.\na. Present claims and findings, sequencing ideas logically and use relevant descriptions, facts, and details to elaborate on main ideas or themes.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_9_related_standards_current_grade_level",
+        "title": "RELATED STANDARDS: Current Grade Level",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_9_related_standards_7_8_sl_1",
+            "title": "Standard 7-8.SL.1",
+            "level": 2,
+            "content": "Participate effectively in a range of conversations and collaborations on topics, texts, and issues.\na. Respond thoughtfully in democratic discussions that involve decision-making and role-taking and determine if additional information or research is required to deepen the discussion.\nb. Participate in conversations by asking and responding to questions and provide the opportunity to consider a range of perspectives.",
+            "subsections": []
+          },
+          {
+            "id": "page_9_related_standards_7_8_sl_2",
+            "title": "Standard 7-8.SL.2",
+            "level": 2,
+            "content": "Evaluate the credibility of multiple sources of information presented in various formats and media to make informed decisions.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_10_standard_7_8_r_5",
+        "title": "Standard 7-8.R.5",
+        "level": 1,
+        "content": "Cite textual evidence that supports an analysis of what the text says explicitly as well as inferences drawn from the text. (RL & RI)",
+        "subsections": []
+      },
+      {
+        "id": "page_10_standard_7_8_w_4",
+        "title": "Standard 7-8.W.4",
+        "level": 1,
+        "content": "Conduct short research projects to craft an argument, answer a question, or provide an analysis.",
+        "subsections": [
+          {
+            "id": "page_10_standard_7_8_w_4_a",
+            "title": "a.",
+            "level": 2,
+            "content": "Gather, assess, and use information from credible sources on the topic.",
+            "subsections": []
+          },
+          {
+            "id": "page_10_standard_7_8_w_4_b",
+            "title": "b.",
+            "level": 2,
+            "content": "Generate ideas to demonstrate understanding of the topic and purpose.",
+            "subsections": []
+          },
+          {
+            "id": "page_10_standard_7_8_w_4_c",
+            "title": "c.",
+            "level": 2,
+            "content": "Avoid plagiarism by quoting, paraphrasing, and citing, using a standard format for citation of evidence.",
+            "subsections": []
+          },
+          {
+            "id": "page_10_standard_7_8_w_4_d",
+            "title": "d.",
+            "level": 2,
+            "content": "Interact and collaborate with others throughout the writing process.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_10_related_standards_future_grade_level",
+        "title": "RELATED STANDARDS: Future Grade Level",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_10_standard_9_10_sl_3",
+            "title": "Standard 9-10.SL.3",
+            "level": 2,
+            "content": "Use appropriate language, grammar, organization, development, and delivery styles appropriate to purpose and audience for formal or informal contexts. Convey a clear perspective by concisely presenting and citing information, findings, and supporting evidence so that listeners can follow the line of reasoning.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_10_academic_language_section",
+        "title": "ACADEMIC LANGUAGE",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_10_assessment_exemplars_section",
+        "title": "ASSESSMENT EXEMPLARS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_11_section_reading",
+        "title": "READING",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_11_section_7-8.r.4",
+            "title": "7-8.R.4",
+            "level": 2,
+            "content": "",
+            "subsections": [
+              {
+                "id": "page_11_section_strand_reading",
+                "title": "Strand: READING (7–8.R)",
+                "level": 3,
+                "content": "Students will learn to proficiently read and comprehend grade level literature and informational text, including seminal U.S. documents of historical and literary significance, at the high end of the grade level text complexity band, with scaffolding as needed. *Standard R.4 includes an asterisk to refer educators back to the Text Complexity Grade Bands and Associated Lexile Ranges in the introduction of the standards.",
+                "subsections": []
+              },
+              {
+                "id": "page_11_section_concepts_skills_to_master",
+                "title": "CONCEPTS AND SKILLS TO MASTER",
+                "level": 3,
+                "content": "",
+                "subsections": []
+              },
+              {
+                "id": "page_11_section_critical_background_knowledge",
+                "title": "CRITICAL BACKGROUND KNOWLEDGE",
+                "level": 3,
+                "content": "",
+                "subsections": []
+              },
+              {
+                "id": "page_11_section_related_standards_current_grade_level",
+                "title": "RELATED STANDARDS: Current Grade Level",
+                "level": 3,
+                "content": "",
+                "subsections": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_12_section_standard_7_8_r_9",
+        "title": "Standard 7-8.R.9",
+        "level": 1,
+        "content": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases, choosing flexibly from a range of strategies. (RL & RI)",
+        "subsections": [
+          {
+            "id": "page_12_subsection_standard_7_8_r_9_a",
+            "title": "a.",
+            "level": 2,
+            "content": "Determine and consult appropriate reference materials to find the pronunciation of a word or determine its precise meaning or its part of speech.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_12_section_standard_7_8_r_8",
+        "title": "Standard 7-8.R.8",
+        "level": 1,
+        "content": "Determine the meaning of words and phrases, including figurative, connotative, and technical meanings. Analyze the impact of specific word choices on meaning, tone, and mood, including words with multiple meanings within a text. (RL & RI)",
+        "subsections": []
+      },
+      {
+        "id": "page_12_section_related_standards_future_grade_level",
+        "title": "RELATED STANDARDS: Future Grade Level",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_12_subsection_standard_9_10_r_4",
+            "title": "Standard 9-10.R.4",
+            "level": 2,
+            "content": "Read grade-level text* with accuracy and fluency to support comprehension. (RL & RI)",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_12_section_7_8_r_5",
+        "title": "7-8.R.5",
+        "level": 1,
+        "content": "Students will learn to proficiently read and comprehend grade level literature and informational text, including seminal U.S. documents of historical and literary significance, at the high end of the grade level text complexity band, with scaffolding as needed.",
+        "subsections": []
+      },
+      {
+        "id": "page_12_section_standard_6_r_5",
+        "title": "Standard 6.R.5",
+        "level": 1,
+        "content": "Cite textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text. (RL & RI)",
+        "subsections": []
+      },
+      {
+        "id": "page_13_section_critical_background_knowledge",
+        "title": "CRITICAL BACKGROUND KNOWLEDGE",
+        "level": 1,
+        "content": "Standard 5.R.5: Identify and refer to evidence from a text when explaining what the text says explicitly and when drawing inferences from the text. (RL & RI)\nStandard 6.R.5: Cite textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text. (RL & RI)",
+        "subsections": []
+      },
+      {
+        "id": "page_13_section_related_standards_current_grade_level",
+        "title": "RELATED STANDARDS: Current Grade Level",
+        "level": 1,
+        "content": "Standard 7-8.R.6: When reading texts, including those from diverse cultures, determine a theme, analyze its development including its relationship to the characters, settings, and plot, and provide an objective summary that includes textual evidence. (RL)\nWhen reading texts, including those from diverse cultures, determine the main idea, analyze its relationship to supporting ideas, and provide an objective summary that includes textual evidence. (RI)\nStandard 7-8.W.1: Write arguments to support claims with logical reasoning, relevant evidence from accurate and credible sources, and provide a conclusion that follows from and supports the argument presented.\na. Introduce claims, distinguish the claims from alternate or opposing claims, and organize the reasons and evidence logically.\nb. Use words, phrases, and clauses to create cohesion and clarify the relationships among claims, counter-claims, reasons, and evidence.\nc. Use appropriate conventions and style for the audience, purpose, and task.\nStandard 7-8.W.2: Write informative/explanatory texts to examine a topic and convey ideas and information through the selection, organization, and analysis of relevant content, and provide a conclusion that supports the information or explanation presented.\na. Introduce a topic, previewing what is to follow; organize ideas and information into broader categories; utilize formatting, graphics, and multimedia related to the topic.",
+        "subsections": []
+      },
+      {
+        "id": "page_14_section_standard_7_8_w_4",
+        "title": "Standard 7-8.W.4",
+        "level": 1,
+        "content": "Conduct short research projects to craft an argument, answer a question, or provide an analysis.",
+        "subsections": []
+      },
+      {
+        "id": "page_14_section_standard_7_8_sl_1",
+        "title": "Standard 7-8.SL.1",
+        "level": 1,
+        "content": "Participate effectively in a range of conversations and collaborations on topics, texts, and issues.",
+        "subsections": []
+      },
+      {
+        "id": "page_14_section_standard_7_8_sl_2",
+        "title": "Standard 7-8.SL.2",
+        "level": 1,
+        "content": "Evaluate the credibility of multiple sources of information presented in various formats and mediums to make informed decisions.",
+        "subsections": []
+      },
+      {
+        "id": "page_14_section_standard_7_8_sl_3",
+        "title": "Standard 7-8.SL.3",
+        "level": 1,
+        "content": "Use appropriate language, grammar, organization, development, and delivery styles appropriate to purpose and audience for formal or informal contexts.",
+        "subsections": []
+      },
+      {
+        "id": "page_14_section_related_standards_future_grade_level",
+        "title": "RELATED STANDARDS: Future Grade Level",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_14_section_standard_9_10_r_5",
+            "title": "Standard 9-10.R.5",
+            "level": 2,
+            "content": "Cite relevant textual evidence to support analysis of what the text says explicitly as well as what inferences can be",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_15_section_initial_context",
+        "title": "",
+        "level": 1,
+        "content": "drawn from the text, including identifying where the text implies ambiguity. (RL & RI)",
+        "subsections": []
+      },
+      {
+        "id": "page_15_section_academic_language",
+        "title": "ACADEMIC LANGUAGE",
+        "level": 1,
+        "content": "Cite, inference, text evidence, and explicit",
+        "subsections": []
+      },
+      {
+        "id": "page_15_section_assessment_exemplars",
+        "title": "ASSESSMENT EXEMPLARS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_15_section_strand_reading",
+        "title": "Strand: READING (7–8.R)",
+        "level": 1,
+        "content": "Students will learn to proficiently read and comprehend grade level literature and informational text, including seminal U.S. documents of historical and literary significance, at the high end of the grade level text complexity band, with scaffolding as needed.",
+        "subsections": [
+          {
+            "id": "page_15_subsection_standard_7_8_r_6",
+            "title": "Standard 7-8.R.6",
+            "level": 2,
+            "content": "When reading texts, including those from diverse cultures, determine a theme, analyze its development including its relationship to the characters, settings, and plot, and provide an objective summary that includes textual evidence. (RL)\n\nWhen reading texts, including those from diverse cultures, determine the main idea, analyze its relationship to supporting ideas, and provide an objective summary that includes textual evidence. (RI)",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_15_section_concepts_skills_to_master",
+        "title": "CONCEPTS AND SKILLS TO MASTER",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_16_section_critical_background_knowledge",
+        "title": "CRITICAL BACKGROUND KNOWLEDGE",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_16_standard_6_r_6",
+            "title": "Standard 6.R.6",
+            "level": 2,
+            "content": "When reading texts, including those from diverse cultures, determine the theme, how characters respond to conflict or how the speaker reflects upon a topic, and summarize the text. (RL)\nWhen reading texts, including those from diverse cultures, determine the main idea of a text, explain how they are supported by key details and summarize the text. (RI)",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_16_section_related_standards_current_grade_level",
+        "title": "RELATED STANDARDS: Current Grade Level",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_16_standard_7_8_r_5",
+            "title": "Standard 7-8.R.5",
+            "level": 2,
+            "content": "Cite textual evidence that supports an analysis of what the text says explicitly as well as inferences drawn from the text. (RL & RI)",
+            "subsections": []
+          },
+          {
+            "id": "page_16_standard_7_8_r_7",
+            "title": "Standard 7-8.R.7",
+            "level": 2,
+            "content": "Analyze the impact of character and plot development on the overall story or drama. (RL)\nAnalyze a complex set of ideas or sequence of events and explain how specific individuals, ideas, or events interact and develop over the course of the text. (RI)",
+            "subsections": []
+          },
+          {
+            "id": "page_16_standard_7_8_w_2",
+            "title": "Standard 7-8.W.2",
+            "level": 2,
+            "content": "Write informative/explanatory texts to examine a topic and convey ideas and information through the selection, organization, and analysis of relevant content, and provide a conclusion that supports the information or explanation presented.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_17_section_standard_7_8_w_3",
+        "title": "Standard 7-8.W.3",
+        "level": 1,
+        "content": "Write narrative texts to develop real or imagined experiences or events using effective technique, well-structured event sequences, descriptive details, and provide a logical resolution.",
+        "subsections": [
+          {
+            "id": "page_17_section_standard_7_8_w_3_a",
+            "title": "a.",
+            "level": 2,
+            "content": "Engage and orient the reader by describing a problem, situation, or observation.",
+            "subsections": []
+          },
+          {
+            "id": "page_17_section_standard_7_8_w_3_b",
+            "title": "b.",
+            "level": 2,
+            "content": "Introduce a setting, narrator and/or characters.",
+            "subsections": []
+          },
+          {
+            "id": "page_17_section_standard_7_8_w_3_c",
+            "title": "c.",
+            "level": 2,
+            "content": "Apply narrative techniques, such as dialogue and description, to develop characters and well-structured event sequences.",
+            "subsections": []
+          },
+          {
+            "id": "page_17_section_standard_7_8_w_3_d",
+            "title": "d.",
+            "level": 2,
+            "content": "Utilize descriptive language to create a mood and tone appropriate to purpose, task, and audience.",
+            "subsections": []
+          },
+          {
+            "id": "page_17_section_standard_7_8_w_3_e",
+            "title": "e.",
+            "level": 2,
+            "content": "Use appropriate conventions and style for the audience, purpose, and task.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_17_section_related_standards_future_grade_level",
+        "title": "RELATED STANDARDS: Future Grade Level",
+        "level": 1,
+        "content": "■ Standard 9-10.R.6: When reading texts, including those from diverse cultures, determine a theme, analyze its development in detail, including how it emerges and is shaped and refined by specific details; provide an objective summary that includes textual evidence. (RL)\nWhen reading texts, including those from diverse cultures, determine two or more main ideas, analyze the main ideas' relationship to supporting ideas, and provide an objective summary that includes textual evidence. (RI)",
+        "subsections": []
+      },
+      {
+        "id": "page_17_section_academic_language",
+        "title": "ACADEMIC LANGUAGE",
+        "level": 1,
+        "content": "Diverse, culture, theme, analyze, develop, main idea, supporting details, objective summary, and text evidence",
+        "subsections": []
+      },
+      {
+        "id": "page_17_section_assessment_exemplars_heading",
+        "title": "ASSESSMENT EXEMPLARS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_18_section_strand_reading",
+        "title": "Strand: READING (7–8.R)",
+        "level": 1,
+        "content": "Students will learn to proficiently read and comprehend grade level literature and informational text, including seminal U.S. documents of historical and literary significance, at the high end of the grade level text complexity band, with scaffolding as needed.",
+        "subsections": []
+      },
+      {
+        "id": "page_18_section_concepts_skills_to_master",
+        "title": "CONCEPTS AND SKILLS TO MASTER",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_18_section_critical_background_knowledge",
+        "title": "CRITICAL BACKGROUND KNOWLEDGE",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_18_section_related_standards_current_grade_level",
+        "title": "RELATED STANDARDS: Current Grade Level",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_19_section_1_ela_guide_7_8",
+        "title": "ENGLISH LANGUAGE ARTS GUIDE GRADE 7–8",
+        "level": 1,
+        "content": "themes or topics, drawing on patterns of events or character types. (RL)\nCompare how two or more texts about the same topic shape their presentations by emphasizing different evidence or advancing different interpretations of facts; identify where the texts disagree on matters of fact or interpretation. (RI)",
+        "subsections": []
+      },
+      {
+        "id": "page_19_section_2_standard_7_8_w_3",
+        "title": "Standard 7-8.W.3",
+        "level": 1,
+        "content": "Write narrative texts to develop real or imagined experiences or events using effective technique, well-structured event sequences, descriptive details, and provide a logical resolution.",
+        "subsections": []
+      },
+      {
+        "id": "page_19_section_3_related_standards_future_grade_level",
+        "title": "RELATED STANDARDS: Future Grade Level",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_19_section_4_academic_language",
+        "title": "ACADEMIC LANGUAGE",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_19_section_5_assessment_exemplars",
+        "title": "ASSESSMENT EXEMPLARS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_20_section_strand_reading",
+        "title": "Strand: READING (7–8.R)",
+        "level": 1,
+        "content": "Students will learn to proficiently read and comprehend grade level literature and informational text, including seminal U.S. documents of historical and literary significance, at the high end of the grade level text complexity band, with scaffolding as needed.",
+        "subsections": []
+      },
+      {
+        "id": "page_20_section_concepts_skills_to_master",
+        "title": "CONCEPTS AND SKILLS TO MASTER",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_20_section_critical_background_knowledge",
+        "title": "CRITICAL BACKGROUND KNOWLEDGE",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_20_section_related_standards_current_grade_level",
+        "title": "RELATED STANDARDS: Current Grade Level",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_21_section_related_standards_future_grade_level",
+        "title": "RELATED STANDARDS: Future Grade Level",
+        "level": 1,
+        "content": "",
+        "subsections": [],
+        "lists": [
+          {
+            "id": "page_21_list_related_standards_future_grade_level",
+            "type": "unordered",
+            "title": "",
+            "items": [
+              "Standard 9-10.R.8: Determine the meaning and impact of words and phrases on meaning, tone, and mood. Analyze figurative language and connotative meanings. Examine domain-specific vocabulary and how language differs across genres and text types. (RL & RI)"
+            ]
+          }
+        ],
+        "key_value_pairs": []
+      },
+      {
+        "id": "page_21_section_academic_language",
+        "title": "ACADEMIC LANGUAGE",
+        "level": 1,
+        "content": "Figurative language, connotative meaning, technical meaning, tone, mood, analysis, and impact",
+        "subsections": [],
+        "lists": [],
+        "key_value_pairs": []
+      },
+      {
+        "id": "page_21_section_assessment_exemplars",
+        "title": "ASSESSMENT EXEMPLARS",
+        "level": 1,
+        "content": "",
+        "subsections": [],
+        "lists": [
+          {
+            "id": "page_21_list_assessment_exemplars",
+            "type": "unordered",
+            "title": "",
+            "items": [
+              "Text dependent questions (e.g., What does the context of this sentence ____________ suggest about the meaning of this ____________ word?)",
+              "Annotation",
+              "Conversation around figurative language meanings and connotative word",
+              "Semantic Feature Analysis",
+              "Frayer Model",
+              "List-Group-Label"
+            ]
+          }
+        ],
+        "key_value_pairs": []
+      },
+      {
+        "id": "page_21_section_7_8_r_9",
+        "title": "7-8.R.9",
+        "level": 1,
+        "content": "Students will learn to proficiently read and comprehend grade level literature and informational text, including seminal U.S. documents of historical and literary significance, at the high end of the grade level text complexity band, with scaffolding as needed.",
+        "subsections": [],
+        "lists": [
+          {
+            "id": "page_21_list_standard_7_8_r_9_details",
+            "type": "unordered",
+            "title": "",
+            "items": [
+              "Standard 7-8.R.9: Determine or clarify the meaning of unknown and multiple-meaning words and phrases, choosing flexibly from a range of strategies. (RL & RI)",
+              "a. Determine and consult appropriate reference materials to find the pronunciation of a word or determine its precise meaning or its part of speech."
+            ]
+          }
+        ],
+        "key_value_pairs": [
+          {
+            "key": "Strand",
+            "value": "READING (7-8.R)"
+          }
+        ]
+      },
+      {
+        "id": "page_21_section_concepts_skills_to_master",
+        "title": "CONCEPTS AND SKILLS TO MASTER",
+        "level": 1,
+        "content": "",
+        "subsections": [],
+        "lists": [
+          {
+            "id": "page_21_list_concepts_skills_to_master",
+            "type": "unordered",
+            "title": "",
+            "items": [
+              "Understanding and use of reference materials",
+              "Understanding of pronunciation marks",
+              "Other strategies to choose from (e.g., context, Greek and Latin roots, etc.)"
+            ]
+          }
+        ],
+        "key_value_pairs": []
+      },
+      {
+        "id": "page_21_section_critical_background_knowledge",
+        "title": "CRITICAL BACKGROUND KNOWLEDGE",
+        "level": 1,
+        "content": "",
+        "subsections": [],
+        "lists": [
+          {
+            "id": "page_21_list_critical_background_knowledge",
+            "type": "unordered",
+            "title": "",
+            "items": [
+              "Standard 6.R.9: Determine or clarify the meaning of unknown and"
+            ]
+          }
+        ],
+        "key_value_pairs": []
+      },
+      {
+        "id": "page_22_section_related_standards_current",
+        "title": "RELATED STANDARDS: Current Grade Level",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_22_section_related_standards_future",
+        "title": "RELATED STANDARDS: Future Grade Level",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_22_section_academic_language",
+        "title": "ACADEMIC LANGUAGE",
+        "level": 1,
+        "content": "Reference materials, Greek and Latin roots, affixes, and strategy",
+        "subsections": []
+      },
+      {
+        "id": "page_22_section_assessment_exemplars",
+        "title": "ASSESSMENT EXEMPLARS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_23_section_1",
+        "title": "7-8.R.10",
+        "level": 1,
+        "content": "Students will learn to proficiently read and comprehend grade level literature and informational text, including seminal U.S. documents of historical and literary significance, at the high end of the grade level text complexity band, with scaffolding as needed.",
+        "subsections": [
+          {
+            "id": "page_23_section_1_subsection_1",
+            "title": "Strand: READING (7–8.R)",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ],
+        "lists": [
+          {
+            "id": "page_23_section_1_list_1",
+            "type": "unordered",
+            "title": "",
+            "items": [
+              "Standard 7-8.R.10: Analyze the structure an author uses to organize a text, and how it contributes to the text meaning. (RL & RI)"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_23_section_2",
+        "title": "CONCEPTS AND SKILLS TO MASTER",
+        "level": 2,
+        "content": "",
+        "subsections": [],
+        "lists": [
+          {
+            "id": "page_23_section_2_list_1",
+            "type": "unordered",
+            "title": "",
+            "items": [
+              "Identifying text structures",
+              "Analyzing how text structures contribute to meaning."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_23_section_3",
+        "title": "CRITICAL BACKGROUND KNOWLEDGE",
+        "level": 2,
+        "content": "",
+        "subsections": [],
+        "lists": [
+          {
+            "id": "page_23_section_3_list_1",
+            "type": "unordered",
+            "title": "",
+            "items": [
+              "Standard 6.RL.10: Analyze how a sentence, paragraph, stanza, chapter, scene, or section fits into the overall structure and how it contributes to the development of theme, main idea, settings, or plot. (RL)",
+              "Analyse how a particular sentence, paragraph, chapter, or section fits into the overall structure of a text and how it contributes to the development of the main idea. (RI)"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_23_section_4",
+        "title": "RELATED STANDARDS: Current Grade Level",
+        "level": 2,
+        "content": "",
+        "subsections": [],
+        "lists": [
+          {
+            "id": "page_23_section_4_list_1",
+            "type": "unordered",
+            "title": "",
+            "items": [
+              "Standard 7-8.R.12: Compare a text to another text in a different medium about the same topic and evaluate the impact of the differences on the audience. (RL & RI)",
+              "Standard 7-8.W.2: Write informative/explanatory texts to examine a topic and convey ideas and information through the selection, organization, and analysis of relevant content, and provide a conclusion that supports the information or explanation presented.\na. Introduce a topic, previewing what is to follow; organize ideas and information into broader categories; utilize formatting, graphics, and multimedia related to the topic.\nb. Develop the topic with relevant facts, definitions, concrete details, quotations, and examples.\nc. Use appropriate and varied transitions to create cohesion and clarify the relationships among ideas."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_24_section_standard_7_8_sl_3",
+        "title": "Standard 7-8.SL.3",
+        "level": 1,
+        "content": "Use appropriate language, grammar, organization, development, and delivery styles appropriate to purpose and audience for formal or informal contexts.",
+        "subsections": []
+      },
+      {
+        "id": "page_24_section_related_standards_future_grade_level",
+        "title": "RELATED STANDARDS: Future Grade Level",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_24_section_academic_language",
+        "title": "ACADEMIC LANGUAGE",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_24_section_assessment_exemplars",
+        "title": "ASSESSMENT EXEMPLARS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_24_section_7_8_r_11",
+        "title": "7-8.R.11",
+        "level": 1,
+        "content": "Students will learn to proficiently read and comprehend grade level literature and informational text, including seminal U.S. documents of historical and literary significance, at the high end of the grade level text complexity band, with scaffolding as needed.",
+        "subsections": []
+      },
+      {
+        "id": "page_25_section_concepts_skills_to_master",
+        "title": "CONCEPTS AND SKILLS TO MASTER",
+        "level": 1,
+        "content": "from that of others and responds to conflicting evidence or viewpoints. (RI)",
+        "subsections": []
+      },
+      {
+        "id": "page_25_section_critical_background_knowledge",
+        "title": "CRITICAL BACKGROUND KNOWLEDGE",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_25_section_related_standards_current_grade_level",
+        "title": "RELATED STANDARDS: Current Grade Level",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_26_section_standard_7_8_sl_1",
+        "title": "Standard 7-8.SL.1",
+        "level": 1,
+        "content": "Participate effectively in a range of conversations and collaborations on topics, texts, and issues.",
+        "subsections": []
+      },
+      {
+        "id": "page_26_section_related_standards_future_grade_level",
+        "title": "RELATED STANDARDS: Future Grade Level",
+        "level": 1,
+        "content": "■ Standard 9-10.R.11: Analyze how an author’s geographic location, identity or background, culture, and time period affect the perspective, point of view,purpose, and implicit/explicit messages of a text. (RL & RI)",
+        "subsections": []
+      },
+      {
+        "id": "page_26_section_academic_language",
+        "title": "ACADEMIC LANGUAGE",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_26_section_assessment_exemplars",
+        "title": "ASSESSMENT EXEMPLARS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_27_section_1",
+        "title": "7–8.R.12",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_27_section_1_subsection_1",
+            "title": "Strand: READING (7–8.R)",
+            "level": 2,
+            "content": "Students will learn to proficiently read and comprehend grade level literature and informational text, including seminal U.S. documents of historical and literary significance, at the high end of the grade level text complexity band, with scaffolding as needed.",
+            "subsections": []
+          },
+          {
+            "id": "page_27_section_1_subsection_2",
+            "title": "CONCEPTS AND SKILLS TO MASTER",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_27_section_1_subsection_3",
+            "title": "CRITICAL BACKGROUND KNOWLEDGE",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_27_section_1_subsection_4",
+            "title": "RELATED STANDARDS: Current Grade Level",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_28_standard_7_8_sl_2",
+        "title": "Standard 7-8.SL.2",
+        "level": 1,
+        "content": "Evaluate the credibility of multiple sources of information presented in various formats and media to make informed decisions.",
+        "subsections": []
+      },
+      {
+        "id": "page_28_standard_7_8_w_1",
+        "title": "Standard 7-8.W.1",
+        "level": 1,
+        "content": "Write arguments to support claims with logical reasoning, relevant evidence from accurate and credible sources, and provide a conclusion that follows from and supports the argument presented.",
+        "subsections": [
+          {
+            "id": "page_28_standard_7_8_w_1_a",
+            "title": "",
+            "level": 2,
+            "content": "Introduce claims, distinguish the claims from alternate or opposing claims, and organize the reasons and evidence logically.",
+            "subsections": []
+          },
+          {
+            "id": "page_28_standard_7_8_w_1_b",
+            "title": "",
+            "level": 2,
+            "content": "Use words, phrases, and clauses to create cohesion and clarify the relationships among claims, counter-claims, reasons, and evidence.",
+            "subsections": []
+          },
+          {
+            "id": "page_28_standard_7_8_w_1_c",
+            "title": "",
+            "level": 2,
+            "content": "Use appropriate conventions and style for the audience, purpose, and task.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_28_standard_7_8_w_2",
+        "title": "Standard 7-8.W.2",
+        "level": 1,
+        "content": "Write informative/explanatory texts to examine a topic and convey ideas and information through the selection, organization, and analysis of relevant content, and provide a conclusion that supports the information or explanation presented.",
+        "subsections": [
+          {
+            "id": "page_28_standard_7_8_w_2_a",
+            "title": "",
+            "level": 2,
+            "content": "Introduce a topic, previewing what is to follow; organize ideas and information into broader categories; utilize formatting, graphics, and multimedia related to the topic.",
+            "subsections": []
+          },
+          {
+            "id": "page_28_standard_7_8_w_2_b",
+            "title": "",
+            "level": 2,
+            "content": "Develop the topic with relevant facts, definitions, concrete details, quotations, and examples.",
+            "subsections": []
+          },
+          {
+            "id": "page_28_standard_7_8_w_2_c",
+            "title": "",
+            "level": 2,
+            "content": "Use appropriate and varied transitions to create cohesion and clarify the relationships among ideas",
+            "subsections": []
+          },
+          {
+            "id": "page_28_standard_7_8_w_2_d",
+            "title": "",
+            "level": 2,
+            "content": "Use precise language and content-specific vocabulary to inform about or explain the topic.",
+            "subsections": []
+          },
+          {
+            "id": "page_28_standard_7_8_w_2_e",
+            "title": "",
+            "level": 2,
+            "content": "Use appropriate conventions and style for the audience, purpose, and task.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_28_related_standards_future_grade_level",
+        "title": "RELATED STANDARDS: Future Grade Level",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_28_standard_9_10_r_12",
+            "title": "Standard 9-10.R.12",
+            "level": 2,
+            "content": "Compare a text to another text in a different medium analyzing the portrayal of the subject, evaluate the advantages and disadvantages of using the different mediums, and explain how and why the content stays faithful to or departs from the text or script. (RL & RI)",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_29_section_academic_language",
+        "title": "ACADEMIC LANGUAGE",
+        "level": 1,
+        "content": "Text medium, analyze, and impact",
+        "subsections": []
+      },
+      {
+        "id": "page_29_section_assessment_exemplars",
+        "title": "ASSESSMENT EXEMPLARS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_29_section_7_8_R_13",
+        "title": "7-8.R.13",
+        "level": 1,
+        "content": "Students will learn to proficiently read and comprehend grade level literature and informational text, including seminal U.S. documents of historical and literary significance, at the high end of the grade level text complexity band, with scaffolding as needed.",
+        "subsections": []
+      },
+      {
+        "id": "page_29_section_concepts_skills_master",
+        "title": "CONCEPTS AND SKILLS TO MASTER",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_29_section_critical_background_knowledge",
+        "title": "CRITICAL BACKGROUND KNOWLEDGE",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_29_section_related_standards_current_grade_level",
+        "title": "RELATED STANDARDS: Current Grade Level",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_30_section_1",
+        "title": "Standard 7-8.W.1",
+        "level": 1,
+        "content": "Write arguments to support claims with logical reasoning, relevant evidence from accurate and credible sources, and provide a conclusion that follows from and supports the argument presented.",
+        "subsections": [
+          {
+            "id": "page_30_section_1_subsection_a",
+            "title": "",
+            "level": 2,
+            "content": "Introduce claims, distinguish the claims from alternate or opposing claims, and organize the reasons and evidence logically.",
+            "subsections": []
+          },
+          {
+            "id": "page_30_section_1_subsection_b",
+            "title": "",
+            "level": 2,
+            "content": "Use words, phrases, and clauses to create cohesion and clarify the relationships among claims, counter-claims, reasons, and evidence.",
+            "subsections": []
+          },
+          {
+            "id": "page_30_section_1_subsection_c",
+            "title": "",
+            "level": 2,
+            "content": "Use appropriate conventions and style for the audience, purpose, and task.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_30_section_2",
+        "title": "Standard 7-8.W.2",
+        "level": 1,
+        "content": "Write informative/explanatory texts to examine a topic and convey ideas and information through the selection, organization, and analysis of relevant content, and provide a conclusion that supports the information or explanation presented.",
+        "subsections": [
+          {
+            "id": "page_30_section_2_subsection_a",
+            "title": "",
+            "level": 2,
+            "content": "Introduce a topic, previewing what is to follow; organize ideas and information into broader categories; utilize formatting, graphics, and multimedia related to the topic.",
+            "subsections": []
+          },
+          {
+            "id": "page_30_section_2_subsection_b",
+            "title": "",
+            "level": 2,
+            "content": "Develop the topic with relevant facts, definitions, concrete details, quotations, and examples.",
+            "subsections": []
+          },
+          {
+            "id": "page_30_section_2_subsection_c",
+            "title": "",
+            "level": 2,
+            "content": "Use appropriate and varied transitions to create cohesion and clarify the relationships among ideas.",
+            "subsections": []
+          },
+          {
+            "id": "page_30_section_2_subsection_d",
+            "title": "",
+            "level": 2,
+            "content": "Use precise language and content-specific vocabulary to inform about or explain the topic.",
+            "subsections": []
+          },
+          {
+            "id": "page_30_section_2_subsection_e",
+            "title": "",
+            "level": 2,
+            "content": "Use appropriate conventions and style for the audience, purpose, and task.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_30_section_3",
+        "title": "RELATED STANDARDS: Future Grade Level",
+        "level": 1,
+        "content": "Standard 9-10.R.13: Not applicable to RL. Delineate and evaluate an argument and specific claims in a text, assessing the validity or fallacy of key statements by examining whether the supporting evidence is relevant and sufficient. Recognize when irrelevant evidence is introduced. (RI)",
+        "subsections": []
+      },
+      {
+        "id": "page_30_section_4",
+        "title": "ACADEMIC LANGUAGE",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_31_section_1",
+        "title": "7-8.R.14",
+        "level": 1,
+        "content": "Students will learn to proficiently read and comprehend grade level literature and informational text, including seminal U.S. documents of historical and literary significance, at the high end of the grade level text complexity band, with scaffolding as needed.",
+        "subsections": [
+          {
+            "id": "page_31_section_1_subsection_1",
+            "title": "Standard 7-8.R.14:",
+            "level": 2,
+            "content": "Compare two or more works of fiction with similar themes or topics, drawing on patterns of events or character types. (RL)\n\nCompare how two or more texts about the same topic shape their presentations by emphasizing different evidence or advancing different interpretations of facts; identify where the texts disagree on matters of fact or interpretation. (RI)",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_31_section_2",
+        "title": "CRITICAL BACKGROUND KNOWLEDGE",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_31_section_2_subsection_1",
+            "title": "Standard 5.R.14:",
+            "level": 2,
+            "content": "Compare stories in the same genre on their approaches to similar themes and topics. (RL) Integrate information from several texts on the same topic in order to write or speak about the subject knowledgeably. (RI)",
+            "subsections": []
+          },
+          {
+            "id": "page_31_section_2_subsection_2",
+            "title": "Standard 6.R.14:",
+            "level": 2,
+            "content": "Compare texts across different media or genres in terms of their approaches to similar themes and topics. (RL) Compare one author’s presentation of events with that of another. (RI)",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_31_section_3",
+        "title": "RELATED STANDARDS: Current Grade Level",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_31_section_3_subsection_1",
+            "title": "Standard 7-8.R.12:",
+            "level": 2,
+            "content": "Compare a text to another text in a different medium about",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_32_previous_standard_continuation",
+        "title": "Previous Standard Continuation",
+        "level": 1,
+        "content": "the same topic and evaluate the impact of the differences on the audience. (RL & RI)",
+        "subsections": []
+      },
+      {
+        "id": "page_32_standard_7_8_R_13",
+        "title": "Standard 7-8.R.13",
+        "level": 1,
+        "content": "Not applicable to RL. Evaluate an argument and specific claims in a text, assessing the validity of key statements by examining whether the supporting evidence is relevant and sufficient. (RI)",
+        "subsections": []
+      },
+      {
+        "id": "page_32_standard_7_8_W_1",
+        "title": "Standard 7-8.W.1",
+        "level": 1,
+        "content": "Write arguments to support claims with logical reasoning, relevant evidence from accurate and credible sources, and provide a conclusion that follows from and supports the argument presented.",
+        "subsections": [
+          {
+            "id": "page_32_standard_7_8_W_1_a",
+            "title": "a.",
+            "level": 2,
+            "content": "Introduce claims, distinguish the claims from alternate or opposing claims, and organize the reasons and evidence logically.",
+            "subsections": []
+          },
+          {
+            "id": "page_32_standard_7_8_W_1_b",
+            "title": "b.",
+            "level": 2,
+            "content": "Use words, phrases, and clauses to create cohesion and clarify the relationships among claims, counter-claims, reasons, and evidence.",
+            "subsections": []
+          },
+          {
+            "id": "page_32_standard_7_8_W_1_c",
+            "title": "c.",
+            "level": 2,
+            "content": "Use appropriate conventions and style for the audience, purpose, and task.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_32_standard_7_8_W_2",
+        "title": "Standard 7-8.W.2",
+        "level": 1,
+        "content": "Write informative/explanatory texts to examine a topic and convey ideas and information through the selection, organization, and analysis of relevant content, and provide a conclusion that supports the information or explanation presented.",
+        "subsections": [
+          {
+            "id": "page_32_standard_7_8_W_2_a",
+            "title": "a.",
+            "level": 2,
+            "content": "Introduce a topic, previewing what is to follow; organize ideas and information into broader categories; utilize formatting, graphics, and multimedia related to the topic.",
+            "subsections": []
+          },
+          {
+            "id": "page_32_standard_7_8_W_2_b",
+            "title": "b.",
+            "level": 2,
+            "content": "Develop the topic with relevant facts, definitions, concrete details, quotations, and examples.",
+            "subsections": []
+          },
+          {
+            "id": "page_32_standard_7_8_W_2_c",
+            "title": "c.",
+            "level": 2,
+            "content": "Use appropriate and varied transitions to create cohesion and clarify the relationships among ideas",
+            "subsections": []
+          },
+          {
+            "id": "page_32_standard_7_8_W_2_d",
+            "title": "d.",
+            "level": 2,
+            "content": "Use precise language and content-specific vocabulary to inform about or explain the topic.",
+            "subsections": []
+          },
+          {
+            "id": "page_32_standard_7_8_W_2_e",
+            "title": "e.",
+            "level": 2,
+            "content": "Use appropriate conventions and style for the audience, purpose, and task.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_32_related_standards_future_grade_level",
+        "title": "RELATED STANDARDS: Future Grade Level",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_32_standard_9_10_R_14",
+            "title": "Standard 9-10.R.14",
+            "level": 2,
+            "content": "Analyze two or more works of fiction with similar themes or topics, drawing on patterns of events, characters types, and stylistic choices. (RL)",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_33_section_reading_objective",
+        "title": "Reading Objective",
+        "level": 1,
+        "content": "Analyze how two or more texts about the same topic shape their presentations by emphasizing different evidence or advancing different interpretations of facts; identify where the texts disagree on matters of fact or interpretation. (RI)",
+        "subsections": []
+      },
+      {
+        "id": "page_33_section_writing",
+        "title": "WRITING",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_33_section_writing_7-8.w.1",
+            "title": "7-8.W.1",
+            "level": 2,
+            "content": "Students will learn to write for a variety of tasks, purposes, and audiences using appropriate grammar/conventions, syntax, and style.",
+            "subsections": []
+          },
+          {
+            "id": "page_33_section_concepts_skills_to_master",
+            "title": "CONCEPTS AND SKILLS TO MASTER",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_34_section_critical_background_knowledge",
+        "title": "CRITICAL BACKGROUND KNOWLEDGE",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_34_section_critical_background_knowledge_standard_4_w_1",
+            "title": "Standard 4.W.1",
+            "level": 2,
+            "content": "Write argumentative pieces on topics and/or texts, supporting a point of view with evidence and information, using linking words and phrases to connect the claim to the evidence, and provide a concluding section related to the claim presented. a. Introduce a topic, state a claim that is supported by evidence, produce complex sentences, and create an organizational structure in which related ideas are grouped to support the writer’s purpose. b. Use appropriate conventions when writing including text cohesion, sentence structure, and phrasing",
+            "subsections": []
+          },
+          {
+            "id": "page_34_section_critical_background_knowledge_standard_5_w_1",
+            "title": "Standard 5.W.1",
+            "level": 2,
+            "content": "Write argumentative pieces on topics and/or texts, supporting a point of view with evidence and information, using linking words, phrases, and clauses to connect the claim to the evidence, and provide a concluding section related to the claim presented. a. Introduce a topic, state a claim supported by evidence, and create an organizational structure in which ideas are logically grouped to support the writer’s purpose. b. Expand, combine, and reduce sentences for meaning, reader/listener interest, and style to develop the argument. c. Use appropriate conventions when writing including text cohesion, sentence structure, and phrasing.",
+            "subsections": []
+          },
+          {
+            "id": "page_34_section_critical_background_knowledge_standard_6_w_1",
+            "title": "Standard 6.W.1",
+            "level": 2,
+            "content": "Write arguments to support claims with clear reasons and relevant evidence, and provide a concluding section related to the argument presented. a. Introduce claims supported by evidence from credible sources, and create an organizational structure in which claims are logically grouped to support the writer’s purpose. b. Use words, phrases, and clauses to clarify the relationships among claims and evidence. c. Use appropriate conventions and style for the audience, purpose, and task.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_34_section_related_standards_current_grade_level",
+        "title": "RELATED STANDARDS: Current Grade Level",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_35_section_grade_7_8_standards",
+        "title": "Grade 7-8 Standards",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_35_standard_7_8_w_4",
+            "title": "Standard 7-8.W.4",
+            "level": 2,
+            "content": "Conduct short research projects to craft an argument, answer a question, or provide an analysis.",
+            "subsections": [],
+            "lists": [
+              {
+                "id": "page_35_standard_7_8_w_4_list",
+                "type": "unordered",
+                "title": "",
+                "items": [
+                  "Gather, assess, and use information from credible sources on the topic.",
+                  "Generate ideas to demonstrate understanding of the topic and purpose.",
+                  "Avoid plagiarism by quoting, paraphrasing, and citing, using a standard format for citation of evidence.",
+                  "Interact and collaborate with others throughout the writing process."
+                ]
+              }
+            ]
+          },
+          {
+            "id": "page_35_standard_7_8_sl_2",
+            "title": "Standard 7-8.SL.2",
+            "level": 2,
+            "content": "Evaluate the credibility of multiple sources of information presented in various formats and media to make informed decisions.",
+            "subsections": [],
+            "lists": []
+          },
+          {
+            "id": "page_35_standard_7_8_r_5",
+            "title": "Standard 7-8.R.5",
+            "level": 2,
+            "content": "Cite textual evidence that supports an analysis of what the text says explicitly as well as inferences drawn from the text. (RL & RI)",
+            "subsections": [],
+            "lists": []
+          },
+          {
+            "id": "page_35_standard_7_8_r_14",
+            "title": "Standard 7-8.R.14",
+            "level": 2,
+            "content": "Compare two or more works of fiction with similar themes or topics, drawing on patterns of events or character types. (RL)\nCompare how two or more texts about the same topic shape their presentations by emphasizing different evidence or advancing different interpretations of facts; identify where the texts disagree on matters of fact or interpretation. (RI)",
+            "subsections": [],
+            "lists": []
+          }
+        ]
+      },
+      {
+        "id": "page_35_section_related_standards_future_grade_level",
+        "title": "RELATED STANDARDS: Future Grade Level",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_35_standard_9_10_w_1",
+            "title": "Standard 9-10.W.1",
+            "level": 2,
+            "content": "Write arguments to support claims in an analysis of complex topics or texts using logical reasoning and relevant evidence, and provide a conclusion that follows from and supports the argument presented.",
+            "subsections": [],
+            "lists": [
+              {
+                "id": "page_35_standard_9_10_w_1_list",
+                "type": "unordered",
+                "title": "",
+                "items": [
+                  "Introduce claims, distinguish the claims from alternate or opposing claims, and create an organization that establishes clear relationships among claims, counterclaims, reasons, and evidence.",
+                  "Develop claims and counterclaims by supplying evidence from accurate, credible sources for each; point out the strengths and limitations that consider the audience.",
+                  "Use words, phrases, and clauses to link the major sections of the text, create cohesion, and clarify the relationships between claims and reasons, between"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_36_section_academic_language",
+        "title": "ACADEMIC LANGUAGE",
+        "level": 1,
+        "content": "",
+        "subsections": [],
+        "lists": [
+          {
+            "id": "page_36_list_academic_language_terms",
+            "type": "unordered",
+            "title": "",
+            "items": [
+              "Reasoning",
+              "relevant",
+              "accurate",
+              "credible sources",
+              "distinguish",
+              "cohesion",
+              "counterclaims"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_36_section_assessment_exemplars",
+        "title": "ASSESSMENT EXEMPLARS",
+        "level": 1,
+        "content": "",
+        "subsections": [],
+        "lists": [
+          {
+            "id": "page_36_list_assessment_exemplars",
+            "type": "unordered",
+            "title": "",
+            "items": [
+              "Graphic organizer that includes claims, counterclaims, reasons, and evidence",
+              "Quick write responses to argumentative prompts",
+              "Writing portfolio of pieces of various lengths, topics, and mediums"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_36_section_5_w_2",
+        "title": "5.W.2",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_36_subsection_strand_writing",
+            "title": "Strand: WRITING (5.W)",
+            "level": 2,
+            "content": "Students will learn to write for a variety of tasks, purposes, and audiences using appropriate grammar/conventions, syntax, and style.",
+            "subsections": [],
+            "lists": []
+          },
+          {
+            "id": "page_36_subsection_standard_7_8_w_2",
+            "title": "Standard 7-8.W.2",
+            "level": 2,
+            "content": "Write informative/explanatory texts to examine a topic and convey ideas and information through the selection, organization, and analysis of relevant content, and provide a conclusion that supports the information or explanation presented.",
+            "subsections": [],
+            "lists": [
+              {
+                "id": "page_36_list_standard_7_8_w_2_points",
+                "type": "ordered",
+                "title": "",
+                "items": [
+                  "Introduce a topic, previewing what is to follow; organize ideas and information into broader categories; utilize formatting, graphics, and multimedia related to the topic.",
+                  "Develop the topic with relevant facts, definitions, concrete details, quotations, and examples.",
+                  "Use appropriate and varied transitions to create cohesion and clarify the relationships among ideas.",
+                  "Use precise language and content-specific vocabulary to inform about or explain the topic.",
+                  "Use appropriate conventions and style for the audience, purpose, and task."
+                ]
+              }
+            ]
+          }
+        ],
+        "lists": []
+      },
+      {
+        "id": "page_36_section_concepts_skills_to_master",
+        "title": "CONCEPTS AND SKILLS TO MASTER",
+        "level": 1,
+        "content": "",
+        "subsections": [],
+        "lists": [
+          {
+            "id": "page_36_list_concepts_skills",
+            "type": "unordered",
+            "title": "",
+            "items": [
+              "Writing informational text to convey ideas and information",
+              "Organizing content"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_37_section_critical_background_knowledge",
+        "title": "CRITICAL BACKGROUND KNOWLEDGE",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_37_section_critical_background_knowledge_standard_5_w_2",
+            "title": "Standard 5.W.2",
+            "level": 2,
+            "content": "Write informative/explanatory pieces to examine a topic that links and conveys ideas and information clearly, using words, phrases, and clauses to show the relationship between ideas, paragraphs, and/or sections, and provide a concluding section related to the information or explanation presented.\n  a. Introduce a topic and group related information in paragraphs and/or sections using organizational structures, produce complex sentences, and text features, including multimedia when useful, to support the writer's purpose.\n  b. Develop the topic using relevant facts, definitions, concrete details, quotations, or examples.\n  c. Use precise language and content-specific vocabulary to inform about or explain the topic.\n  d. Use appropriate conventions when writing including text cohesion, sentence structure, and phrasing.",
+            "subsections": []
+          },
+          {
+            "id": "page_37_section_critical_background_knowledge_standard_6_w_2",
+            "title": "Standard 6.W.2",
+            "level": 2,
+            "content": "Write informative/explanatory texts to examine a topic that conveys ideas and information clearly and provide a concluding section that supports the information or explanation presented.\n  a. Introduce a topic; organize ideas, concepts, and information, using strategies such as definition, classification, comparison/contrast, and cause/effect; include formatting, graphics, and multimedia when useful.\n  b. Develop the topic with relevant facts, definitions, concrete details, quotations, and examples.\n  c. Use appropriate transitions to clarify the relationships among ideas and concepts.\n  d. Use precise language and content-specific vocabulary to inform about or explain the topic.\n  e. Use appropriate conventions and style for the audience, purpose, and task.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_37_section_related_standards_current_grade_level",
+        "title": "RELATED STANDARDS: Current Grade Level",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_37_section_related_standards_current_grade_level_standard_7_8_w_4",
+            "title": "Standard 7-8.W.4",
+            "level": 2,
+            "content": "Conduct short research projects to craft an argument,",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_38_section_standard_7_8_sl_2",
+        "title": "Standard 7-8.SL.2",
+        "level": 1,
+        "content": "Evaluate the credibility of multiple sources of information presented in various formats and media to make informed decisions.",
+        "subsections": []
+      },
+      {
+        "id": "page_38_section_standard_7_8_r_5",
+        "title": "Standard 7-8.R.5",
+        "level": 1,
+        "content": "Cite textual evidence that supports an analysis of what the text says explicitly as well as inferences drawn from the text. (RL & RI)",
+        "subsections": []
+      },
+      {
+        "id": "page_38_section_related_standards_future_grade",
+        "title": "RELATED STANDARDS: Future Grade",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_38_subsection_standard_9_10_w_2",
+            "title": "Standard 9-10.W.2",
+            "level": 2,
+            "content": "Write informative/explanatory texts to examine and convey related ideas and information clearly and accurately through the effective selection, organization, and analysis of content, and provide a conclusion that follows from and supports the information or explanation presented.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_38_section_academic_language",
+        "title": "ACADEMIC LANGUAGE",
+        "level": 1,
+        "content": "Informative/explanatory texts, convey, analysis, relevant facts, concrete details, transitions, and cohesion",
+        "subsections": []
+      },
+      {
+        "id": "page_39_section_assessment_exemplars",
+        "title": "ASSESSMENT EXEMPLARS",
+        "level": 1,
+        "content": "",
+        "subsections": [],
+        "lists": [
+          {
+            "id": "page_39_list_assessment_exemplars",
+            "type": "unordered",
+            "title": "",
+            "items": [
+              "Graphic organizer that shows clear organization of ideas",
+              "Quick write responses that provide explanations and descriptions of information",
+              "Writing portfolio of pieces of various lengths, topics, and mediums"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_39_section_writing_strand",
+        "title": "Strand: WRITING (7-8.W)",
+        "level": 1,
+        "content": "Students will learn to write for a variety of tasks, purposes, and audiences using appropriate grammar/conventions, syntax, and style.",
+        "subsections": [
+          {
+            "id": "page_39_subsection_standard_7_8_w_3",
+            "title": "Standard 7-8.W.3",
+            "level": 2,
+            "content": "Write narrative texts to develop real or imagined experiences or events using effective technique, well-structured event sequences, descriptive details, and provide a logical resolution.",
+            "subsections": [],
+            "lists": [
+              {
+                "id": "page_39_list_standard_7_8_w_3_details",
+                "type": "ordered",
+                "title": "",
+                "items": [
+                  "a. Engage and orient the reader by describing a problem, situation, or observation.",
+                  "b. Introduce a setting, narrator and/or characters.",
+                  "c. Apply narrative techniques, such as dialogue and description, to develop characters and well-structured event sequences.",
+                  "d. Utilize descriptive language to create a mood and tone appropriate to purpose, task, and audience.",
+                  "e. Use appropriate conventions and style for the audience, purpose, and task."
+                ]
+              }
+            ]
+          }
+        ],
+        "lists": []
+      },
+      {
+        "id": "page_39_section_concepts_skills",
+        "title": "CONCEPTS AND SKILLS TO MASTER",
+        "level": 1,
+        "content": "",
+        "subsections": [],
+        "lists": [
+          {
+            "id": "page_39_list_concepts_skills",
+            "type": "unordered",
+            "title": "",
+            "items": [
+              "Developing characters and setting",
+              "Using appropriate pacing within a narrative structure",
+              "Adding sensory details",
+              "Writing a logical resolution to a story"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_39_section_critical_background_knowledge",
+        "title": "CRITICAL BACKGROUND KNOWLEDGE",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_39_subsection_standard_6_w_3",
+            "title": "Standard 6.W.3",
+            "level": 2,
+            "content": "Write narrative texts to develop real or imagined experiences or events using effective technique, relevant descriptive details, well-structured event sequences, and provide a resolution.",
+            "subsections": [],
+            "lists": [
+              {
+                "id": "page_39_list_standard_6_w_3_details",
+                "type": "ordered",
+                "title": "",
+                "items": [
+                  "a. Engage and orient the reader by establishing a context and introducing a narrator and/or characters; organize"
+                ]
+              }
+            ]
+          }
+        ],
+        "lists": []
+      },
+      {
+        "id": "page_40_section_related_standards_current",
+        "title": "RELATED STANDARDS: Current Grade Level",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_40_section_related_standards_future",
+        "title": "RELATED STANDARDS: Future Grade Level",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_41_section_narrative_writing_elements",
+        "title": "Narrative Writing Elements",
+        "level": 1,
+        "content": "event sequences, well-chosen details, and provide a resolution that connects to what is experienced, observed, or resolved over the course of the narrative.",
+        "subsections": []
+      },
+      {
+        "id": "page_41_section_academic_language",
+        "title": "ACADEMIC LANGUAGE",
+        "level": 1,
+        "content": "Informative/explanatory texts, convey, analysis, relevant facts, concrete details, transitions, and cohesion",
+        "subsections": []
+      },
+      {
+        "id": "page_41_section_assessment_exemplars",
+        "title": "ASSESSMENT EXEMPLARS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_41_section_7_8_w_4_overview",
+        "title": "7–8.W.4",
+        "level": 1,
+        "content": "Students will learn to write for a variety of tasks, purposes, and audiences using appropriate grammar/conventions, syntax, and style.",
+        "subsections": [
+          {
+            "id": "page_41_subsection_standard_7_8_w_4",
+            "title": "Standard 7–8.W.4",
+            "level": 2,
+            "content": "Conduct short research projects to craft an argument, answer a question, or provide an analysis.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_42_section_concepts_skills",
+        "title": "CONCEPTS AND SKILLS TO MASTER",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_42_section_critical_background",
+        "title": "CRITICAL BACKGROUND KNOWLEDGE",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_42_subsection_standard_5_w_4",
+            "title": "Standard 5.W.4",
+            "level": 2,
+            "content": "Conduct short research projects to craft an argument or answer a question.",
+            "subsections": []
+          },
+          {
+            "id": "page_42_subsection_standard_6_w_4",
+            "title": "Standard 6.W.4",
+            "level": 2,
+            "content": "Conduct short research projects to craft an argument or answer a question.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_42_section_related_standards",
+        "title": "RELATED STANDARDS: Current Grade Level",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_42_subsection_standard_7_8_r_10",
+            "title": "Standard 7-8.R.10",
+            "level": 2,
+            "content": "Analyze the structure an author uses to organize a text, and how it contributes to the text meaning. (RL & RI)",
+            "subsections": []
+          },
+          {
+            "id": "page_42_subsection_standard_7_8_r_11",
+            "title": "Standard 7-8.R.11",
+            "level": 2,
+            "content": "Analyze how an author develops and contrasts the points of view of different characters or narrators in a text and how this creates a variety of effects (e.g., humor, sadness, suspense). (RL) Determine an author’s point of view or purpose in a text and analyze how the author distinguishes their position from that of others and responds to conflicting evidence or viewpoints. (RI)",
+            "subsections": []
+          },
+          {
+            "id": "page_42_subsection_standard_7_8_r_12",
+            "title": "Standard 7-8.R.12",
+            "level": 2,
+            "content": "Compare a text to another text in a different medium about the same topic and evaluate the impact of the differences on the audience. (RL & RI)",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_43_section_standard_7-8_r_14",
+        "title": "Standard 7-8.R.14",
+        "level": 1,
+        "content": "Compare two or more works of fiction with similar themes or topics, drawing on patterns of events or character types. (RL)\n\nCompare how two or more texts about the same topic shape their presentations by emphasizing different evidence or advancing different interpretations of facts; identify where the texts disagree on matters of fact or interpretation. (RI)",
+        "subsections": []
+      },
+      {
+        "id": "page_43_section_standard_7-8_sl_2",
+        "title": "Standard 7-8.SL.2",
+        "level": 1,
+        "content": "Evaluate the credibility of multiple sources of information presented in various formats and mediums to make informed decisions.",
+        "subsections": []
+      },
+      {
+        "id": "page_43_section_related_standards_future_grade_level",
+        "title": "RELATED STANDARDS: Future Grade Level",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_43_subsection_standard_9-10_w_4",
+            "title": "Standard 9-10.W.4",
+            "level": 2,
+            "content": "Conduct more sustained research projects to craft an argument, answer a question, or provide an analysis",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_43_section_academic_language",
+        "title": "ACADEMIC LANGUAGE",
+        "level": 1,
+        "content": "Argument, analysis, assess, credible plagiarism, paraphrasing, citing, and using a standard format for citation of evidence",
+        "subsections": []
+      },
+      {
+        "id": "page_43_section_assessment_exemplars",
+        "title": "ASSESSMENT EXEMPLARS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_44_section_grammar_chart",
+        "title": "GRAMMAR AND CONVENTIONS PROGRESSION CHART",
+        "level": 1,
+        "content": "The following table provides a suggested list of grammar and conventions for teachers to use when implementing the P-12 Utah English Language Arts Standards, specifically writing standards one through three and speaking and listening standard three. Teaching grammar and conventions is a component of overall language instruction. Therefore, this instruction needs to be embedded within contexts where students are authentically producing and consuming language (i.e., reading, writing, and speaking and listening) rather than taught as isolated skills.",
+        "subsections": [
+          {
+            "id": "page_44_section_language_skills",
+            "title": "Language and Convention Skills",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_46_section_1",
+        "title": "ENGLISH LANGUAGE ARTS GUIDE GRADE 7-8",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_48_section_1_utah_state_board_of_education",
+        "title": "Utah State Board of Education",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      }
+    ],
+    "summary": {
+      "main_topics": [],
+      "key_findings": [],
+      "action_items": [],
+      "important_dates": []
+    },
+    "tables": [
+      {
+        "id": "page_44_table_language_skills",
+        "title": "Language and Convention Skills",
+        "headers": [
+          "GRADE",
+          "P3",
+          "P4",
+          "K",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7-8",
+          "9-10",
+          "11-12"
+        ],
+        "rows": [
+          [
+            "Capitalize the first word in a sentence and the pronoun I.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Use common nouns, verbs, and prepositions.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Distinguish between common and proper nouns and capitalize appropriately.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Use singular and plural nouns with matching verbs.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Use personal, possessive, and indefinite pronouns.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Use reflexive pronouns.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Recognize and correct inappropriate shifts in pronoun number and person.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Recognize and correct vague pronouns (i.e., those with unclear or ambiguous antecedents).",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Use verbs to convey a sense of past, present, and future.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Form and use the past tense of frequently occurring irregular verbs.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Follow subject-verb and pronoun-antecedent agreement.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Recognize and correct inappropriate shifts in verb tense.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      {
+        "id": "page_45_table_1",
+        "title": "",
+        "headers": [
+          "GRADE",
+          "P3",
+          "P4",
+          "K",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7-8",
+          "9-10",
+          "11-12"
+        ],
+        "rows": [
+          [
+            "Use common adjectives, conjunctions, and determiners.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Use adjectives and adverbs, and choose between them depending on what is to be modified.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Use end punctuation for sentences.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Use an apostrophe to form contractions and frequently occurring possessives.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Use punctuation to separate items in a series.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Use punctuation (i.e., commas, parentheses, dashes) to set off nonrestrictive/parenthetical elements.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Select words and phrases for effect.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Produce complete sentences, recognizing and correcting inappropriate fragments and run-ons.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Correctly use frequently confused words and homophones (e.g., to/too/two; there/their).",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Use hyphens correctly.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Choose words and phrases to convey ideas precisely and clearly.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Use correct punctuation for effect (i.e. dashes, semi-colons, etc.)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Vary sentence patterns for meaning, reader/listener interest, and style.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Maintain consistency in style and tone.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Place phrases and clauses within a sentence, recognizing and correcting misplaced and dangling modifiers.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      {
+        "id": "page_46_table_1",
+        "title": "Language Arts Skills by Grade",
+        "headers": [
+          "GRADE",
+          "P3",
+          "P4",
+          "K",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7-8",
+          "9-10",
+          "11-12"
+        ],
+        "rows": [
+          [
+            "Choose language that expresses ideas precisely and concisely, recognizing and eliminating wordiness and redundancy.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "☑",
+            "☑",
+            "☑"
+          ],
+          [
+            "Recognize and correct inappropriate shifts in active/passive voice and mood.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "☑",
+            "☑",
+            "☑"
+          ],
+          [
+            "Use parallel structure.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "☑",
+            "☑",
+            "☑"
+          ]
+        ]
+      }
+    ],
+    "lists": [
+      {
+        "id": "page_6_list_current_grade_standards",
+        "type": "unordered",
+        "title": "RELATED STANDARDS: Current Grade Level",
+        "items": [
+          "**Standard 7-8.R.5:** Cite textual evidence that supports an analysis of what the text says explicitly as well as inferences drawn from the text. (RL & RI)",
+          "**Standard 7-8.SL.3:** Use appropriate language, grammar, organization, development, and delivery styles appropriate to purpose and audience for formal or informal contexts. a. Convey a clear perspective by presenting and citing information, findings, and supporting evidence so that listeners can follow the line of reasoning."
+        ]
+      },
+      {
+        "id": "page_6_list_future_grade_standards",
+        "type": "unordered",
+        "title": "RELATED STANDARDS: Future Grade Level",
+        "items": [
+          "**Standard 9-10.SL.1:** Participate effectively in a range of conversations and collaborations on topics, texts, and issues. a. Respond thoughtfully to diverse perspectives in democratic discussions that involve decision-making and role-taking; synthesize comments, claims, and evidence. b. Participate in conversations by asking and responding to questions and provide the opportunity to consider a range of perspectives and clarify, verify, or challenge ideas and conclusions with evidence. c. Identify contradictions when applicable, and determine if additional information or research is required to deepen the investigation or conversation."
+        ]
+      },
+      {
+        "id": "page_6_list_academic_language",
+        "type": "unordered",
+        "title": "ACADEMIC LANGUAGE",
+        "items": [
+          "Analysis",
+          "collaborate",
+          "claims",
+          "evidence",
+          "contradictions",
+          "perspective",
+          "democratic discussion"
+        ]
+      },
+      {
+        "id": "page_6_list_assessment_exemplars",
+        "type": "unordered",
+        "title": "ASSESSMENT EXEMPLARS",
+        "items": [
+          "Group conversations with observation rubric",
+          "SEED discussion",
+          "Reciprocal teaching"
+        ]
+      },
+      {
+        "id": "page_7_list_1",
+        "type": "unordered",
+        "title": "Specific Standard for 7-8.SL.2 Strand",
+        "items": [
+          "Standard 7-8.SL.2: Evaluate the credibility of multiple sources of information presented in various formats and media to make informed decisions"
+        ]
+      },
+      {
+        "id": "page_7_list_2",
+        "type": "unordered",
+        "title": "Concepts and Skills to Master",
+        "items": [
+          "Evaluating",
+          "Critically thinking",
+          "Fact checking",
+          "Researching"
+        ]
+      },
+      {
+        "id": "page_7_list_3",
+        "type": "unordered",
+        "title": "Critical Background Knowledge Standards",
+        "items": [
+          "Standard 6.SL.2: Interpret credible information presented in various formats and media to make informed decisions.",
+          "Standard 5.SL.2: Investigate information presented in various formats and media in order to make informed decisions and differentiate between fact and fiction.",
+          "Standard 4.SL.2: Clearly summarize information presented in various formats and media and explain how the information pertains to the topic."
+        ]
+      },
+      {
+        "id": "page_7_list_4",
+        "type": "unordered",
+        "title": "Related Standards: Current Grade Level",
+        "items": [
+          "Standard 7-8.SL.1: Participate effectively in a range of conversations and collaborations on topics, texts, and issues.",
+          "a. Respond thoughtfully in democratic discussions that involve decision-making and role-taking and determine if additional information or research is required to deepen the discussion.",
+          "b. Participate in conversations by asking and responding to questions and provide the opportunity to consider a range of perspectives.",
+          "Standard 7-8.SL.3: Use appropriate language, grammar, organization, development, and delivery styles appropriate to purpose and audience for formal or informal contexts."
+        ]
+      },
+      {
+        "id": "page_8_list_grade_7_8_standards",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "**Standard 7-8.R.5:** Cite textual evidence that supports an analysis of what the text says explicitly as well as inferences drawn from the text. (RL & RI)",
+          "**Standard 7-8.RI.13:** Evaluate an argument and specific claims in a text, assessing the validity of key statements by examining whether the supporting evidence is relevant and sufficient. (RI)",
+          "**Standard 7-8.W.4:** Conduct short research projects to craft an argument, answer a question, or provide an analysis. a. Gather, assess, and use information from credible sources on the topic. b. Generate ideas to demonstrate understanding of the topic and purpose. c. Avoid plagiarism by quoting, paraphrasing, and citing, using a standard format for citation of evidence. d. Interact and collaborate with others throughout the writing process."
+        ]
+      },
+      {
+        "id": "page_8_list_future_grade_standards",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "**Standard 9-10.SL.2:** Interpret and evaluate the credibility of multiple sources of information presented in various formats and media to solve problems and make informed decisions."
+        ]
+      },
+      {
+        "id": "page_8_list_academic_terms",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Evaluate",
+          "credibility",
+          "assess",
+          "relevant",
+          "sufficient",
+          "formats"
+        ]
+      },
+      {
+        "id": "page_8_list_assessment_exemplars",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Graphic organizer",
+          "Presentation on identifying credible sources",
+          "Written reflection on process and performance"
+        ]
+      },
+      {
+        "id": "page_9_list_concepts_and_skills_to_master",
+        "type": "unordered",
+        "title": "Concepts and Skills to Master",
+        "items": [
+          "Collaborating",
+          "Evaluating",
+          "Integrating ideas",
+          "Using media/visual displays",
+          "Adapting language to context and tasks",
+          "Using appropriate delivery styles and organization"
+        ]
+      },
+      {
+        "id": "page_10_list_academic_language",
+        "type": "unordered",
+        "title": "ACADEMIC LANGUAGE",
+        "items": [
+          "Credibility",
+          "evaluate",
+          "context",
+          "perspective",
+          "concise",
+          "analyze",
+          "objective",
+          "validity",
+          "formal context",
+          "informal context"
+        ]
+      },
+      {
+        "id": "page_10_list_assessment_exemplars",
+        "type": "unordered",
+        "title": "ASSESSMENT EXEMPLARS",
+        "items": [
+          "Oral presentation with rubric",
+          "Role playing",
+          "Peer evaluation"
+        ]
+      },
+      {
+        "id": "page_11_list_standard_7-8.r.4_definition",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "**Standard 7-8.R.4:** Read grade-level text* with accuracy and fluency to support comprehension. (RL & RI)"
+        ]
+      },
+      {
+        "id": "page_11_list_concepts_and_skills_to_master",
+        "type": "unordered",
+        "title": "CONCEPTS AND SKILLS TO MASTER",
+        "items": [
+          "Fluency including prosody",
+          "Accuracy",
+          "Automaticity (rate)",
+          "Vocabulary and syntax knowledge",
+          "Speaking and writing about the knowledge gained and synthesized from text",
+          "Understanding a variety of text structures and how they support fluency and comprehension [beyond naming the structure(s) of text"
+        ]
+      },
+      {
+        "id": "page_11_list_critical_background_knowledge",
+        "type": "unordered",
+        "title": "CRITICAL BACKGROUND KNOWLEDGE",
+        "items": [
+          "**Standard 5.R.3:** Demonstrate mastery of age-appropriate phonics skills. a. Read and spell all letter-sound correspondences, syllabication patterns, morphology (e.g., roots and affixes), and etymology to accurately read unfamiliar multisyllabic words in context and out of context."
+        ]
+      },
+      {
+        "id": "page_11_list_related_standards_current_grade_level",
+        "type": "unordered",
+        "title": "RELATED STANDARDS: Current Grade Level",
+        "items": [
+          "**Standard 7-8.R.6:** When reading texts, including those from diverse cultures, determine a theme, analyze its development including its relationship to the characters, settings, and plot, and provide an objective summary that includes textual evidence. (RL) When reading texts, including those from diverse cultures, determine the main idea, analyze its relationship to supporting ideas, and provide an objective summary that includes textual evidence. (RI)"
+        ]
+      },
+      {
+        "id": "page_12_list_academic_language",
+        "type": "unordered",
+        "title": "ACADEMIC LANGUAGE",
+        "items": [
+          "Fluency",
+          "prosody",
+          "accuracy",
+          "comprehension",
+          "and text structure"
+        ]
+      },
+      {
+        "id": "page_12_list_assessment_exemplars",
+        "type": "unordered",
+        "title": "ASSESSMENT EXEMPLARS",
+        "items": [
+          "Grade level MAZE",
+          "Comprehension questions",
+          "Vocabulary questions",
+          "Reading grade level passages with accuracy and appropriate rate"
+        ]
+      },
+      {
+        "id": "page_12_list_concepts_and_skills_to_master",
+        "type": "unordered",
+        "title": "CONCEPTS AND SKILLS TO MASTER",
+        "items": [
+          "Analyzing what text says explicitly",
+          "Identifying where to draw inferences"
+        ]
+      },
+      {
+        "id": "page_13_list_1",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Identifying relevant evidence",
+          "Annotating"
+        ]
+      },
+      {
+        "id": "page_14_list_1",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "b. Develop the topic with relevant facts, definitions, concrete details, quotations, and examples.",
+          "c. Use appropriate and varied transitions to create cohesion and clarify the relationships among ideas.",
+          "d. Use precise language and content-specific vocabulary to inform about or explain the topic.",
+          "e. Use appropriate conventions and style for the audience, purpose, and task."
+        ]
+      },
+      {
+        "id": "page_14_list_standard_7_8_w_4_items",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "a. Gather, assess, and use information from credible sources on the topic.",
+          "b. Generate ideas to demonstrate understanding of the topic and purpose.",
+          "c. Avoid plagiarism by quoting, paraphrasing, and citing, using a standard format for citation of evidence.",
+          "d. Interact and collaborate with others throughout the writing process."
+        ]
+      },
+      {
+        "id": "page_14_list_standard_7_8_sl_1_items",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "a. Respond thoughtfully in democratic discussions that involve decision-making and role-taking and determine if additional information or research is required to deepen the discussion.",
+          "b. Participate in conversations by asking and responding to questions and provide the opportunity to consider a range of perspectives."
+        ]
+      },
+      {
+        "id": "page_14_list_standard_7_8_sl_3_items",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "a. Convey a clear perspective by presenting and citing information, findings, and supporting evidence so that listeners can follow the line of reasoning."
+        ]
+      },
+      {
+        "id": "page_15_list_initial_skills",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Gather, assess, and synthesize information from credible sources on the topic.",
+          "Reflect on the evidence and generate ideas to demonstrate understanding of the topic and purpose.",
+          "Avoid plagiarism by quoting, paraphrasing, and citing, using a standard format for citation of evidence.",
+          "Interact and collaborate with others throughout the writing process."
+        ]
+      },
+      {
+        "id": "page_15_list_assessment_exemplars_items",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Answering text-dependent questions (e.g., Select the sentence in the passage that bests supports the author’s main idea.)",
+          "Text annotations and notes",
+          "Graphic organizers with text evidence",
+          "Rubrics or checklists used during class or group discussions evaluating the citations used during discussions"
+        ]
+      },
+      {
+        "id": "page_15_list_concepts_skills_items",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Identifying a theme/main idea"
+        ]
+      },
+      {
+        "id": "page_16_list_initial_bullet_points",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "How characters interact with theme, plot, settings",
+          "How a main idea relates to, supporting ideas",
+          "Providing an objective summary",
+          "Citing textual evidence"
+        ]
+      },
+      {
+        "id": "page_16_list_standard_7_8_w_2_sub_points",
+        "type": "ordered",
+        "title": "Standard 7-8.W.2 Sub-points",
+        "items": [
+          "Introduce a topic, previewing what is to follow; organize ideas and information into broader categories; utilize formatting, graphics, and multimedia related to the topic.",
+          "Develop the topic with relevant facts, definitions, concrete details, quotations, and examples.",
+          "Use appropriate and varied transitions to create cohesion and clarify the relationships among ideas.",
+          "Use precise language and content-specific vocabulary to inform about or explain the topic.",
+          "Use appropriate conventions and style for the audience, purpose, and task."
+        ]
+      },
+      {
+        "id": "page_17_list_assessment_exemplars",
+        "type": "unordered",
+        "title": "ASSESSMENT EXEMPLARS",
+        "items": [
+          "Written response to a prompt about a theme (RL) or main idea and details (RI) (e.g., Explain the theme of a short story, analyze its development including its relationship to the characters, settings, and plot, and provide an objective summary that includes textual evidence.)",
+          "Oral response/discussion describing how details support a main idea",
+          "Summarizations of text or portions of a text",
+          "Written response to summarize a text or portion of a text to answer a question"
+        ]
+      },
+      {
+        "id": "page_18_list_standard_7_8_r_7_details",
+        "type": "unordered",
+        "title": "Standard 7-8.R.7 Details",
+        "items": [
+          "Standard 7-8.R.7: Analyze the impact of character and plot development on the overall story or drama. Analyze a complex set of ideas or sequence of events and explain how specific individuals, ideas, or events interact and develop over the course of the text. (RI)"
+        ]
+      },
+      {
+        "id": "page_18_list_concepts_skills_to_master",
+        "type": "unordered",
+        "title": "CONCEPTS AND SKILLS TO MASTER",
+        "items": [
+          "Analyzing for plot and character development",
+          "Identifying how ideas or events interact and develop"
+        ]
+      },
+      {
+        "id": "page_18_list_critical_background_knowledge",
+        "type": "unordered",
+        "title": "CRITICAL BACKGROUND KNOWLEDGE",
+        "items": [
+          "Standard 6.R.7: Compare two or more characters, settings, or events in a story or drama, drawing on specific details in the text. (RL) Analyze in detail how a key individual, event, or idea is introduced, illustrated, and elaborated in a text. (RI)"
+        ]
+      },
+      {
+        "id": "page_18_list_related_standards_current_grade_level",
+        "type": "unordered",
+        "title": "RELATED STANDARDS: Current Grade Level",
+        "items": [
+          "Standard 7-8.R.10: Analyze the structure an author uses to organize a text, and how it contributes to the text meaning. (RL & RI)",
+          "Standard 7-8.R.11: Analyze how an author develops and contrasts the points of view of different characters or narrators in a text and how this creates a variety of effects (e.g., humor, sadness, suspense. (RL) Determine an author’s point of view or purpose in a text and analyze how the author distinguishes their position from that of others and responds to conflicting evidence or viewpoints. (RI)",
+          "Standard 7-8.R.12: Compare a text to another text in a different medium about the same topic and evaluate the impact of the differences on the audience. (RL & RI)",
+          "Standard 7-8.R.14: Compare two or more works of fiction with similar"
+        ]
+      },
+      {
+        "id": "page_19_list_standard_7_8_w_3_components",
+        "type": "ordered",
+        "title": "Components of Standard 7-8.W.3",
+        "items": [
+          "Engage and orient the reader by describing a problem, situation, or observation.",
+          "Introduce a setting, narrator and/or characters.",
+          "Apply narrative techniques, such as dialogue and description, to develop characters and well-structured event sequences.",
+          "Utilize descriptive language to create a mood and tone appropriate to purpose, task, and audience.",
+          "Use appropriate conventions and style for the audience, purpose, and task."
+        ]
+      },
+      {
+        "id": "page_19_list_related_standards_future_grade",
+        "type": "unordered",
+        "title": "Future Grade Level Standards",
+        "items": [
+          "Standard 9-10.RL.7: Analyze how plot elements and dialogue interact, shape the characters, and propel the action. (RL)",
+          "Analyze how a text makes connections among and distinctions between individuals, ideas, or events through comparisons, analogies, or categories. (RI)"
+        ]
+      },
+      {
+        "id": "page_19_list_academic_language_terms",
+        "type": "unordered",
+        "title": "Academic Language Terms",
+        "items": [
+          "Analyze",
+          "impact",
+          "interact",
+          "sequence"
+        ]
+      },
+      {
+        "id": "page_19_list_assessment_exemplars",
+        "type": "unordered",
+        "title": "Assessment Exemplars",
+        "items": [
+          "Describe a character, event, concept or idea in an oral or written format. (e.g., Describe how the main character impacts the plot and theme of this story)",
+          "Compare (i.e., orally or on a graphic organizer, or written response) relationships of ideas or events.",
+          "Create a timeline and explain (i.e., written, oral, digital).",
+          "Describe steps in a sequence of events or technical procedure (i.e., written, oral, digital)."
+        ]
+      },
+      {
+        "id": "page_20_list_general_explanation",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Explain events, procedures, ideas, or concepts as dictated by a task/prompt in an oral, written, or digital format."
+        ]
+      },
+      {
+        "id": "page_20_list_strand_reading_standard_7_8_r_8",
+        "type": "unordered",
+        "title": "Standard 7-8.R.8",
+        "items": [
+          "Determine the meaning of words and phrases, including figurative, connotative, and technical meanings. Analyze the impact of specific word choices on meaning, tone, and mood, including words with multiple meanings within a text. (RL & RI)"
+        ]
+      },
+      {
+        "id": "page_20_list_concepts_skills_items",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Using word meanings to aid comprehension",
+          "Analyzing impact of author word choice on meaning, tone, and mood"
+        ]
+      },
+      {
+        "id": "page_20_list_critical_background_standard_6_r_8",
+        "type": "unordered",
+        "title": "Standard 6.R.8",
+        "items": [
+          "Determine the meaning of words and phrases, including figurative language, connotative meanings, and figures of speech. Analyze the impact of specific word choices on meaning and tone, including words with multiple meanings within a text. (RL & RI)"
+        ]
+      },
+      {
+        "id": "page_20_list_related_standards_items",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Standard 7-8.R.4: Read grade-level text* with accuracy and fluency to support comprehension. (RL & RI)",
+          "Standard 7-8.R.8: Determine the meaning of words and phrases, including figurative, connotative, and technical meanings. Analyze the impact of specific word choices on meaning, tone, and mood, including words with multiple meanings within a text. (RL & RI)",
+          "Standard 7-8.R.9: Determine or clarify the meaning of unknown and multiple-meaning words and phrases, choosing flexibly from a range of strategies. a. Determine and consult appropriate reference materials to find the pronunciation of a word or determine its precise meaning or its part of speech."
+        ]
+      },
+      {
+        "id": "page_22_list_multiple_meaning_words",
+        "type": "ordered",
+        "title": "multiple-meaning words and phrases, choosing flexibly from a range of strategies. (RL & RI)",
+        "items": [
+          "Consistently use context as a clue to the meaning of a word or phrase.",
+          "Consistently use Greek or Latin affixes and roots as clues to the meaning of a word.",
+          "Consult reference materials to find the pronunciation of a word or determine its precise meaning or its part of speech."
+        ]
+      },
+      {
+        "id": "page_22_list_current_grade_standards",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Standard 7-8.R.4: Read grade-level text* with accuracy and fluency to support comprehension. (RL & RI)",
+          "Standard 7-8.R.8: Determine the meaning of words and phrases, including figurative, connotative, and technical meanings. Analyze the impact of specific word choices on meaning, tone, and mood, including words with multiple meanings within a text. (RL & RI)"
+        ]
+      },
+      {
+        "id": "page_22_list_future_grade_standards",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Standard 9-10.R.9: Determine or clarify the meaning of unknown and multiple-meaning words and phrases choosing flexibly from a range of strategies. (RL & RI)",
+          "a. Identify and correctly use patterns of word parts that indicate different meanings or parts of speech.",
+          "b. Determine and consult appropriate reference materials to find the pronunciation of a word, its precise meaning, its part of speech, or its etymology including Greek or Latin affixes and roots."
+        ]
+      },
+      {
+        "id": "page_22_list_assessment_exemplars",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Activity with Latin and Greek roots (e.g., Study the most common Latin roots and how they form and change word meanings: mal, into, bene etc.)",
+          "Using Reference materials",
+          "Annotation with definitions of words",
+          "Group conversation to identify and discuss word meanings"
+        ]
+      },
+      {
+        "id": "page_24_list_implicit_standard_sub_points_d_e",
+        "type": "ordered",
+        "title": "Implicit Standard Sub-points",
+        "items": [
+          "d. Use precise language and content-specific vocabulary to inform about or explain the topic.",
+          "e. Use appropriate conventions and style for the audience, purpose, and task."
+        ]
+      },
+      {
+        "id": "page_24_list_standard_7_8_sl_3_sub_item_a",
+        "type": "ordered",
+        "title": "Standard 7-8.SL.3 Sub-item",
+        "items": [
+          "a. Convey a clear perspective by presenting and citing information, findings, and supporting evidence so that listeners can follow the line of reasoning."
+        ]
+      },
+      {
+        "id": "page_24_list_related_standard_9_10_r_10",
+        "type": "unordered",
+        "title": "Related Standard: Future Grade Level",
+        "items": [
+          "Standard 9-10.R.10: Analyze and evaluate the effectiveness of the structures an author uses in an exposition, argument, or narrative, including whether the structure makes points or events clear, effective, convincing, or engaging. (RL & RI)"
+        ]
+      },
+      {
+        "id": "page_24_list_academic_language_terms",
+        "type": "unordered",
+        "title": "Academic Language Terms",
+        "items": [
+          "Text Structure",
+          "sequential",
+          "cause and effect",
+          "description",
+          "analyze"
+        ]
+      },
+      {
+        "id": "page_24_list_assessment_exemplars",
+        "type": "unordered",
+        "title": "Assessment Exemplars",
+        "items": [
+          "Graphic organizer of text structures (e.g., In this passage, why did the author organize the information the way they did? Does the organization change the meaning? Why or Why not?)",
+          "Short writing sample using various text structures that includes a rationale for their choices"
+        ]
+      },
+      {
+        "id": "page_24_list_standard_7_8_r_11_description",
+        "type": "unordered",
+        "title": "Standard 7-8.R.11 Description",
+        "items": [
+          "Standard 7-8.R.11: Analyze how an author develops and contrasts the points of view of different characters or narrators in a text and how this creates a variety of effects (e.g., humor, sadness, suspense. (RL) Determine an author’s point of view or purpose in a text and analyze how the author distinguishes their position"
+        ]
+      },
+      {
+        "id": "page_25_list_concepts_skills",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Identifying points of view of characters and narrators",
+          "Describing how characters and narrators create effects",
+          "Identifying author's purpose or point of view",
+          "Explaining how authors respond to conflicting evidence"
+        ]
+      },
+      {
+        "id": "page_26_list_narrative_techniques",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Introduce a setting, narrator and/or characters.",
+          "Apply narrative techniques, such as dialogue and description, to develop characters and well-structured event sequences.",
+          "Utilize descriptive language to create a mood and tone appropriate to purpose, task, and audience.",
+          "Use appropriate conventions and style for the audience, purpose, and task."
+        ]
+      },
+      {
+        "id": "page_26_list_standard_7_8_sl_1_subpoints",
+        "type": "ordered",
+        "title": "Standard 7-8.SL.1 Sub-points",
+        "items": [
+          "Respond thoughtfully in democratic discussions that involve decision-making and role-taking and determine if additional information or research is required to deepen the discussion.",
+          "Participate in conversations by asking and responding to questions and provide the opportunity to consider a range of perspectives."
+        ]
+      },
+      {
+        "id": "page_26_list_academic_language_terms",
+        "type": "unordered",
+        "title": "ACADEMIC LANGUAGE",
+        "items": [
+          "Author’s purpose",
+          "author’s point of view",
+          "analyze",
+          "conflicting evidence",
+          "distinguish"
+        ]
+      },
+      {
+        "id": "page_26_list_assessment_exemplars_items",
+        "type": "unordered",
+        "title": "ASSESSMENT EXEMPLARS",
+        "items": [
+          "Text dependent questions (e.g., Explain how the author develops the protagonist and antagonist differently to create the conflict.).",
+          "Graphic organizer",
+          "Reciprocal teaching with information articles/short fiction",
+          "Write a narrative, using the skills listed in the standard.",
+          "Write an informational piece, using the skills listed in the standard."
+        ]
+      },
+      {
+        "id": "page_27_list_1",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "**Standard 7-8.R.12:** Compare a text to another text in a different medium about the same topic and evaluate the impact of the differences on the audience. (RL & RI)"
+        ]
+      },
+      {
+        "id": "page_27_list_2",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Identifying different mediums of texts",
+          "Evaluating strengths and weakness of various textual mediums",
+          "Analyzing effect of different medium on the audience"
+        ]
+      },
+      {
+        "id": "page_27_list_3",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "**Standard 4.R.12:** Compare a visual or oral presentation of a story or drama with the text itself and identify where each version reflects specific descriptions and directions in the text. (RL)\n    Interpret information presented visually, orally, or quantitatively and explain how the information contributes to an understanding of the text in which it appears. (RI)",
+          "**Standard 5.R.12:** Analyze how the visual and multimedia elements contribute to the meaning, tone, or beauty of a text. (RL)\n    Draw on information from multiple sources including media to locate an answer to a question or to solve a problem. (RI)",
+          "**Standard 6.R.12:** Compare how different mediums, including print and digital media, contribute to the understanding of a text. (RL & RI)"
+        ]
+      },
+      {
+        "id": "page_27_list_4",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "**Standard 7-8.R.14:** Compare two or more works of fiction with similar themes or topics, drawing on patterns of events or character types. (RL)\n    Compare how two or more texts about the same topic shape their presentations by emphasizing different evidence or advancing different interpretations of facts; identify where the texts disagree on matters of fact or"
+        ]
+      },
+      {
+        "id": "page_29_list_assessment_exemplars",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Graphic organizer comparing text mediums and the impacts of these differences on the audience",
+          "SEED discussion(s)",
+          "Written or verbal rationales for the effects of various textual mediums on the audience"
+        ]
+      },
+      {
+        "id": "page_29_list_7_8_R_13_standard_definition",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "**Standard 7-8.R.13:** Not applicable to RL. Evaluate an argument and specific claims in a text, assessing the validity of key statements by examining whether the supporting evidence is relevant and sufficient. (RI)"
+        ]
+      },
+      {
+        "id": "page_29_list_concepts_skills_to_master",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Evaluating an argument and claims",
+          "Assessing validity of an argument",
+          "Determining if supporting evidence is relevant and sufficient"
+        ]
+      },
+      {
+        "id": "page_29_list_critical_background_knowledge_standards",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "**Standard 5.R.13:** Not applicable to RL. Explain how an author uses reasons and evidence to support particular claims in a text, identifying which reasons and evidence support which claims. (RI)",
+          "**Standard 6.R.13:** Not applicable to RL. Evaluate the argument and specific claims in a text, distinguishing claims that are supported by reasons and evidence from claims that are not. (RI)"
+        ]
+      },
+      {
+        "id": "page_29_list_related_standards_current_grade_level",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "**Standard 7-8.SL.2:** Evaluate the credibility of multiple sources of information"
+        ]
+      },
+      {
+        "id": "page_30_list_1",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Assessing",
+          "validity",
+          "relevant",
+          "sufficient",
+          "evaluate",
+          "examining"
+        ]
+      },
+      {
+        "id": "page_31_list_1",
+        "type": "unordered",
+        "title": "ASSESSMENT EXEMPLARS",
+        "items": [
+          "Graphic organizer",
+          "Article annotation with assessment of evidence",
+          "Writing informative/argumentative text(s)",
+          "Presentation showing analysis of evidence"
+        ]
+      },
+      {
+        "id": "page_31_list_2",
+        "type": "unordered",
+        "title": "CONCEPTS AND SKILLS TO MASTER",
+        "items": [
+          "Identifying patterns of events and themes",
+          "Comparing patterns of events or character types",
+          "Describing different interpretations of facts"
+        ]
+      },
+      {
+        "id": "page_33_list_assessment_exemplars",
+        "type": "unordered",
+        "title": "ASSESSMENT EXEMPLARS",
+        "items": [
+          "Venn diagrams or T-charts",
+          "Comparative essays or presentations",
+          "SEED discussions"
+        ]
+      },
+      {
+        "id": "page_33_list_standard_7-8.w.1_subpoints",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Introduce claims, distinguish the claims from alternate or opposing claims, and organize the reasons and evidence logically.",
+          "Use words, phrases, and clauses to create cohesion and clarify the relationships among claims, counter-claims, reasons, and evidence.",
+          "Use appropriate conventions and style for the audience, purpose, and task."
+        ]
+      },
+      {
+        "id": "page_33_list_concepts_skills",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Writing for communication",
+          "Using conventions",
+          "Making and supporting claims",
+          "Using relevant evidence",
+          "Finding accurate and credible source"
+        ]
+      },
+      {
+        "id": "page_34_list_english_language_arts_guide_intro",
+        "type": "unordered",
+        "title": "ENGLISH LANGUAGE ARTS GUIDE GRADE 7–8",
+        "items": [
+          "Organizing reasons and evidence",
+          "Using language to create cohesion and show relationships"
+        ]
+      },
+      {
+        "id": "page_37_list_1",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Writing format (introduction, body, conclusion)",
+          "Citing evidence, using multimedia, identifying relevant content"
+        ]
+      },
+      {
+        "id": "page_38_list_1",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Gather, assess, and use information from credible sources on the topic.",
+          "Generate ideas to demonstrate understanding of the topic and purpose.",
+          "Avoid plagiarism by quoting, paraphrasing, and citing, using a standard format for citation of evidence.",
+          "Interact and collaborate with others throughout the writing process."
+        ]
+      },
+      {
+        "id": "page_38_list_2",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Introduce a topic; organize related ideas and information to make important connections and distinctions; utilize formatting, graphics, and multimedia to show relationships.",
+          "Develop the topic with relevant facts, extended definitions, concrete details, quotations, and examples.",
+          "Use appropriate and varied transitions to link the major sections of the text, create cohesion, and clarify the relationships among related ideas.",
+          "Use precise language and content-specific vocabulary to clarify the relationships of the ideas.",
+          "Use appropriate conventions and style for the audience, purpose, and task."
+        ]
+      },
+      {
+        "id": "page_40_list_narrative_techniques",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "an event sequence that unfolds naturally and logically.",
+          "Use narrative techniques, such as dialogue, description, and pacing, to develop experiences, events, and/or characters.",
+          "Use a variety of transition words, phrases, and clauses to convey sequence and signal shifts from one time frame or setting to another.",
+          "Use precise words, phrases and complex sentences, relevant descriptive details, and sensory language to convey experiences and events.",
+          "Use appropriate conventions and style for the audience, purpose, and task."
+        ]
+      },
+      {
+        "id": "page_40_list_current_grade_standards",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Standard 7-8.R.6: When reading texts, including those from diverse cultures, determine a theme, analyze its development including its relationship to the characters, settings, and plot, and provide an objective summary that includes textual evidence. (RL)\n    When reading texts, including those from diverse cultures, determine the main idea, analyze its relationship to supporting ideas, and provide an objective summary that includes textual evidence. (RI)",
+          "Standard 7-8.R.7: Analyze the impact of character and plot development on the overall story or drama. (RL)\n    Analyze a complex set of ideas or sequence of events and explain how specific individuals, ideas, or events interact and develop over the course of the text. (RI)",
+          "Standard 7-8.R.11: Analyze how an author develops and contrasts the points of view of different characters or narrators in a text and how this creates a variety of effects (e.g., humor, sadness, suspense). (RL)\n    Determine an author’s point of view or purpose in a text and analyze how the author distinguishes their position from that of others and responds to conflicting evidence or viewpoints. (RI)"
+        ]
+      },
+      {
+        "id": "page_40_list_future_grade_standards",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Standard 9-10.W.3: Write narrative texts to develop real or imagined experiences or events using effective technique, well-structured"
+        ]
+      },
+      {
+        "id": "page_41_list_narrative_elements_details",
+        "type": "ordered",
+        "title": "Narrative Elements Details",
+        "items": [
+          "Engage and orient the reader by describing a problem, situation, or observation.",
+          "Establish one or multiple point(s) of view, and introduce a setting, narrator and/or characters.",
+          "Use narrative techniques such as dialogue, pacing, description, reflection, and multiple plot lines, to develop characters and well-structured event sequences.",
+          "Utilize varied syntax techniques and descriptive language to create a mood and tone appropriate to purpose, task, and audience.",
+          "Use appropriate conventions and style for the audience, purpose, and task."
+        ]
+      },
+      {
+        "id": "page_41_list_assessment_exemplars",
+        "type": "unordered",
+        "title": "Assessment Exemplars List",
+        "items": [
+          "Graphic organizer that shows logical narrative structure",
+          "Quick write narrative responses",
+          "Writing portfolio of pieces of various lengths, topics, and mediums"
+        ]
+      },
+      {
+        "id": "page_41_list_standard_7_8_w_4_subpoints",
+        "type": "ordered",
+        "title": "Standard 7–8.W.4 Sub-points",
+        "items": [
+          "Gather, assess, and use information from credible sources on the topic.",
+          "Generate ideas to demonstrate understanding of the topic and purpose.",
+          "Avoid plagiarism by quoting, paraphrasing, and citing, using a standard format for citation of evidence.",
+          "Interact and collaborate with others throughout the writing process."
+        ]
+      },
+      {
+        "id": "page_42_list_concepts_skills",
+        "type": "unordered",
+        "title": "CONCEPTS AND SKILLS TO MASTER",
+        "items": [
+          "Identifying a topic or question",
+          "Researching for credible information",
+          "Synthesizing information",
+          "Citing evidence"
+        ]
+      },
+      {
+        "id": "page_42_list_standard_5_w_4_items",
+        "type": "ordered",
+        "title": "Standard 5.W.4 items",
+        "items": [
+          "Gather, summarize, and paraphrase information and provide a list of relevant sources.",
+          "Elaborate to demonstrate understanding of the topic under investigation.",
+          "Interact and collaborate with others throughout the writing process."
+        ]
+      },
+      {
+        "id": "page_42_list_standard_6_w_4_items",
+        "type": "ordered",
+        "title": "Standard 6.W.4 items",
+        "items": [
+          "Gather, synthesize, and use information from credible sources on the topic.",
+          "Generate ideas to demonstrate understanding of the topic under investigation.",
+          "Avoid plagiarism by quoting or paraphrasing and provide basic bibliographic information for sources.",
+          "Interact and collaborate with others throughout the writing process."
+        ]
+      },
+      {
+        "id": "page_43_list_standard_9-10_w_4_items",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Gather, assess, and synthesize information from credible sources on the topic.",
+          "Reflect on the evidence and generate ideas to demonstrate understanding of the topic and purpose.",
+          "Avoid plagiarism by quoting, paraphrasing, and citing, using a standard format for citation of evidence.",
+          "Interact and collaborate with others throughout the writing process."
+        ]
+      },
+      {
+        "id": "page_43_list_assessment_exemplars_items",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Graphic organizer with evidence of sources explored & short summaries of information from each source",
+          "Paragraph-length responses to a after researching a question or questions",
+          "Writing portfolio of pieces of various lengths, topics, and mediums"
+        ]
+      }
+    ],
+    "key_value_pairs": [
+      {
+        "key": "ADA Compliant",
+        "value": "05.07.2024"
+      },
+      {
+        "key": "Address",
+        "value": "250 East 500 South\nP.O. Box 144200\nSalt Lake City, UT 84114-4200"
+      },
+      {
+        "key": "Superintendent",
+        "value": "Sydnee Dickson, Ed.D."
+      },
+      {
+        "key": "Superintendent Title",
+        "value": "State Superintendent of Public Instruction"
+      },
+      {
+        "key": "Website",
+        "value": "https://www.schools.utah.gov"
+      },
+      {
+        "key": "Strand",
+        "value": "SPEAKING AND LISTENING (7–8.SL)"
+      },
+      {
+        "key": "Strand",
+        "value": "READING (7–8.R)"
+      },
+      {
+        "key": "Main Standard Identifier",
+        "value": "7–8.R.7"
+      },
+      {
+        "key": "7–8.R.8",
+        "value": ""
+      },
+      {
+        "key": "Strand",
+        "value": "READING (7-8.R)"
+      },
+      {
+        "key": "Standard 6.R.11",
+        "value": "Explain how an author's perspective develops the point of view of the narrator or speaker in multiple texts. (RL) Analyze how the author distinguishes a perspective and/or position from that of others. (RI)"
+      },
+      {
+        "key": "Standard 7-8.R.12",
+        "value": "Compare a text to another text in a different medium about the same topic and evaluate the impact of the differences on the audience. (RL & RI)"
+      },
+      {
+        "key": "Standard 7-8.W.2",
+        "value": "Write informative/explanatory texts to examine a topic and convey ideas and information through the selection, organization, and analysis of relevant content, and provide a conclusion that supports the information or explanation presented. a. Introduce a topic, previewing what is to follow; organize ideas and information into broader categories; utilize formatting, graphics, and multimedia related to the topic. b. Develop the topic with relevant facts, definitions, concrete details, quotations, and examples. c. Use appropriate and varied transitions to create cohesion and clarify the relationships among ideas. d. Use precise language and content-specific vocabulary to inform about or explain the topic. e. Use appropriate conventions and style for the audience, purpose, and task."
+      },
+      {
+        "key": "Standard 7-8.W.3",
+        "value": "Write narrative texts to develop real or imagined experiences or events using effective technique, well-structured event sequences, descriptive details, and provide a logical resolution. a. Engage and orient the reader by describing a problem, situation, or observation."
+      },
+      {
+        "key": "Strand",
+        "value": "READING (7–8.R)"
+      },
+      {
+        "key": "Strand",
+        "value": "READING (7–8.R)"
+      },
+      {
+        "key": "ACADEMIC LANGUAGE",
+        "value": "Interpretation, emphasis, and similar"
+      },
+      {
+        "key": "Strand",
+        "value": "WRITING (7–8.W)"
+      },
+      {
+        "key": "Standard 7-8.W.1",
+        "value": "Write arguments to support claims with logical reasoning, relevant evidence from accurate and credible sources, and provide a conclusion that follows from and supports the argument presented."
+      },
+      {
+        "key": "Strand",
+        "value": "WRITING (7–8.W)"
+      },
+      {
+        "key": "Department",
+        "value": "Teaching and Learning"
+      },
+      {
+        "key": "Address",
+        "value": "250 East 500 South P.O. Box 144200 Salt Lake City, UT 84114-4200"
+      },
+      {
+        "key": "Superintendent Name",
+        "value": "Sydnee Dickson, Ed.D."
+      },
+      {
+        "key": "Superintendent Title",
+        "value": "State Superintendent of Public Instruction"
+      },
+      {
+        "key": "Website",
+        "value": "https://www.schools.utah.gov"
+      },
+      {
+        "key": "Footer",
+        "value": "ADA Compliant 05.07.2024"
+      }
+    ]
+  }
+}

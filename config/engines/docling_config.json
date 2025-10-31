@@ -1,0 +1,278 @@
+{
+  "engine_name": "docling",
+  "config_id": "4f9d4667-1a14-48ee-992e-5e5eeea2d2cc",
+  "parent_config_reference": {
+    "parent_config_id": "global-parent-001",
+    "parent_file": "config/engine_configurations.ndjson",
+    "foreign_key_type": "parent_config_id"
+  },
+  "default_optimization_settings": {
+    "format": {
+      "default_value": "json",
+      "auto_optimize": false,
+      "tested": true,
+      "category": "output",
+      "type": "choice",
+      "min_value": null,
+      "max_value": null,
+      "choices": [
+        "json",
+        "markdown",
+        "text"
+      ]
+    },
+    "extract_tables": {
+      "default_value": true,
+      "auto_optimize": true,
+      "tested": true,
+      "category": "extraction",
+      "type": "bool",
+      "min_value": null,
+      "max_value": null,
+      "choices": null
+    },
+    "extract_images": {
+      "default_value": false,
+      "auto_optimize": true,
+      "tested": true,
+      "category": "extraction",
+      "type": "bool",
+      "min_value": null,
+      "max_value": null,
+      "choices": null
+    },
+    "extract_figures": {
+      "default_value": true,
+      "auto_optimize": true,
+      "tested": true,
+      "category": "extraction",
+      "type": "bool",
+      "min_value": null,
+      "max_value": null,
+      "choices": null
+    },
+    "ocr_enabled": {
+      "default_value": true,
+      "auto_optimize": true,
+      "tested": true,
+      "category": "ocr",
+      "type": "bool",
+      "min_value": null,
+      "max_value": null,
+      "choices": null
+    },
+    "table_structure_enabled": {
+      "default_value": true,
+      "auto_optimize": false,
+      "tested": true,
+      "category": "tables",
+      "type": "bool",
+      "min_value": null,
+      "max_value": null,
+      "choices": null
+    },
+    "figure_classification_enabled": {
+      "default_value": true,
+      "auto_optimize": false,
+      "tested": true,
+      "category": "figures",
+      "type": "bool",
+      "min_value": null,
+      "max_value": null,
+      "choices": null
+    },
+    "include_metadata": {
+      "default_value": true,
+      "auto_optimize": false,
+      "tested": true,
+      "category": "output",
+      "type": "bool",
+      "min_value": null,
+      "max_value": null,
+      "choices": null
+    },
+    "include_page_breaks": {
+      "default_value": true,
+      "auto_optimize": false,
+      "tested": true,
+      "category": "output",
+      "type": "bool",
+      "min_value": null,
+      "max_value": null,
+      "choices": null
+    }
+  },
+  "supported_cli_parameters": [
+    {
+      "name": "format",
+      "type": "choice",
+      "description": "Output format",
+      "default": "json",
+      "choices": [
+        "json",
+        "markdown",
+        "text"
+      ],
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": false,
+      "min_value": null,
+      "max_value": null,
+      "category": "output"
+    },
+    {
+      "name": "extract_tables",
+      "type": "bool",
+      "description": "Extract table structures",
+      "default": true,
+      "choices": null,
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": true,
+      "min_value": null,
+      "max_value": null,
+      "category": "extraction"
+    },
+    {
+      "name": "extract_images",
+      "type": "bool",
+      "description": "Extract images",
+      "default": false,
+      "choices": null,
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": true,
+      "min_value": null,
+      "max_value": null,
+      "category": "extraction"
+    },
+    {
+      "name": "extract_figures",
+      "type": "bool",
+      "description": "Extract figures",
+      "default": true,
+      "choices": null,
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": true,
+      "min_value": null,
+      "max_value": null,
+      "category": "extraction"
+    },
+    {
+      "name": "ocr_enabled",
+      "type": "bool",
+      "description": "Enable OCR for images",
+      "default": true,
+      "choices": null,
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": true,
+      "min_value": null,
+      "max_value": null,
+      "category": "ocr"
+    },
+    {
+      "name": "table_structure_enabled",
+      "type": "bool",
+      "description": "Enable table structure detection",
+      "default": true,
+      "choices": null,
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": false,
+      "min_value": null,
+      "max_value": null,
+      "category": "tables"
+    },
+    {
+      "name": "figure_classification_enabled",
+      "type": "bool",
+      "description": "Enable figure classification",
+      "default": true,
+      "choices": null,
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": false,
+      "min_value": null,
+      "max_value": null,
+      "category": "figures"
+    },
+    {
+      "name": "include_metadata",
+      "type": "bool",
+      "description": "Include document metadata",
+      "default": true,
+      "choices": null,
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": false,
+      "min_value": null,
+      "max_value": null,
+      "category": "output"
+    },
+    {
+      "name": "include_page_breaks",
+      "type": "bool",
+      "description": "Include page break markers",
+      "default": true,
+      "choices": null,
+      "required": false,
+      "validation": null,
+      "cli_flag": null,
+      "tested": true,
+      "auto_optimize": false,
+      "min_value": null,
+      "max_value": null,
+      "category": "output"
+    }
+  ],
+  "supported_mcp_functions": [
+    {
+      "name": "docling_convert",
+      "description": "Convert document using Docling",
+      "parameters": {
+        "input_path": "str",
+        "output_format": "str",
+        "extract_tables": "bool",
+        "extract_images": "bool"
+      },
+      "return_format": {
+        "content": "str",
+        "tables": "list",
+        "images": "list",
+        "metadata": "dict"
+      },
+      "required_attributes": [
+        "content"
+      ],
+      "optional_attributes": [
+        "tables",
+        "images",
+        "metadata"
+      ],
+      "version": "1.0"
+    }
+  ],
+  "cli_support": true,
+  "mcp_support": true,
+  "version": "1.0",
+  "last_updated": "2025-10-27T11:42:17.095345",
+  "description": "Default configuration for docling engine"
+}

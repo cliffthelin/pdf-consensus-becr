@@ -1,0 +1,56 @@
+{
+  "execution_tracking_attributes": {
+    "last_run_time": {
+      "type": "string|null",
+      "format": "ISO 8601 timestamp",
+      "description": "Timestamp of the last test execution"
+    },
+    "last_passing_timestamp": {
+      "type": "string|null",
+      "format": "ISO 8601 timestamp",
+      "description": "Timestamp of the last successful test execution"
+    },
+    "last_failure_timestamp": {
+      "type": "string|null",
+      "format": "ISO 8601 timestamp",
+      "description": "Timestamp of the last failed test execution"
+    },
+    "last_error_message": {
+      "type": "string|null",
+      "max_length": 512,
+      "description": "Error message from the last failed execution (truncated to 512 chars)"
+    },
+    "execution_duration": {
+      "type": "number|null",
+      "unit": "seconds",
+      "description": "Duration of the last test execution in seconds"
+    },
+    "execution_count": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Total number of times this test has been executed"
+    },
+    "average_duration": {
+      "type": "number|null",
+      "unit": "seconds",
+      "description": "Average execution duration across all runs"
+    },
+    "success_rate": {
+      "type": "number|null",
+      "minimum": 0.0,
+      "maximum": 1.0,
+      "description": "Success rate as a decimal (0.0 to 1.0)"
+    }
+  },
+  "metadata_enhancements": {
+    "execution_tracking_enabled": {
+      "type": "boolean",
+      "description": "Indicates if execution tracking is enabled for this test"
+    },
+    "last_enhanced": {
+      "type": "string",
+      "format": "ISO 8601 timestamp",
+      "description": "Timestamp when the entry was last enhanced"
+    }
+  }
+}

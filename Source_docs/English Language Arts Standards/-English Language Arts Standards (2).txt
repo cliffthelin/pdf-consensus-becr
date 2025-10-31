@@ -1,0 +1,3777 @@
+{
+  "document": {
+    "title": "tmpqrxjfcnn",
+    "type": "document",
+    "metadata": {
+      "date": "",
+      "author": "",
+      "version": "",
+      "pages": "62"
+    },
+    "sections": [
+      {
+        "id": "page_1_section_1",
+        "title": "UTAH STATE STANDARDS",
+        "level": 1,
+        "content": "May 2023",
+        "subsections": [
+          {
+            "id": "page_1_section_1_subsection_1",
+            "title": "ENGLISH LANGUAGE ARTS",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_3_section_1",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_5_section_1",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_5_section_2",
+        "title": "UTAH STATE BOARD OF EDUCATION",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_6_section_1",
+        "title": "UTAH STATE STANDARDS for P–12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "This is a blank page.",
+        "subsections": []
+      },
+      {
+        "id": "page_7_section_1",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_7_section_2",
+        "title": "TABLE OF CONTENTS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_8_section_1",
+        "title": "UTAH STATE STANDARDS for P–12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "This is a blank page.",
+        "subsections": []
+      },
+      {
+        "id": "page_9_section_1",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_9_section_2",
+        "title": "INTRODUCTION",
+        "level": 1,
+        "content": "The P-12 Utah State Standards for English Language Arts (ELA) were revised by Utah educators in 2022 to identify the key literacy standards necessary for Utah students to master by the end of each grade level. Some standards are mastered in previous grades. If a student has not mastered previous grade-level standards, the teacher will need to intervene in order to fill the student's skill gaps.",
+        "subsections": [
+          {
+            "id": "page_9_section_2_subsection_1",
+            "title": "Organization",
+            "level": 2,
+            "content": "The Utah State Standards are organized into strands, which represent significant areas of learning within content areas. In ELA, these strands are speaking and listening, reading, and writing. Within each strand are standards. All standards are considered essential to master. The skills in the standards require repeated exposure with increasingly complex texts and in increasingly sophisticated contexts. Mastery is only obtained by regular practice over time.",
+            "subsections": []
+          },
+          {
+            "id": "page_9_section_2_subsection_2",
+            "title": "Shifts in the Standards",
+            "level": 2,
+            "content": "Changes in the standards were made to improve the consistency and practicality of the standards. These changes include:",
+            "subsections": []
+          },
+          {
+            "id": "page_9_section_2_subsection_3",
+            "title": "Speaking and Listening Strand",
+            "level": 2,
+            "content": "The following standards offer a focus for speaking and listening instruction each year to help ensure that students gain adequate mastery of a range of skills and applications. Students develop useful interpersonal skills for the classroom and workplace by having the opportunity to listen to each other, respond appropriately, and evaluate what they hear from a variety of sources. The standards stress preparing for and participating effectively in a range of conversations and collaborations. Students advancing through the grades are expected to meet each year's grade-specific standards and retain or further develop skills and un-",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_10_section_1",
+        "title": "UTAH STATE STANDARDS for P–12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "derstandings mastered in preceding grades, including but not limited to, communication and interpersonal skills. Young students may master acquisition of certain speech sounds at different ages. The chart below includes the typical age of acquisition of each sound.",
+        "subsections": [
+          {
+            "id": "page_10_section_1_subsection_1",
+            "title": "Speech Development Progression Chart",
+            "level": 2,
+            "content": "(age in years)",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_11_section_reading_strand",
+        "title": "Reading Strand",
+        "level": 1,
+        "content": "The following reading standards offer a focus for reading instruction while building core knowledge and deepening comprehension. Students advancing through the grades are expected to meet each year's grade-specific standards and retain or further develop skills and understandings mastered in preceding grades by reading increasingly complex texts throughout the grades. Texts should reflect a variety of genres, time periods, topics, perspectives, cultures, and backgrounds. Reading standards include reading literature and reading informational texts. Reading Literature is indicated with (RL) and Reading Informational with (RI).\n\nThe Reading Strand includes the foundational skills in the primary grades. These foundational skills are not an end in and of themselves. Rather, they are necessary and important components of effective, evidence-based reading instruction to develop reading proficiency with the capacity to comprehend texts across a range of types and disciplines. Some readers will need more or less practice with these foundational skills than other readers. The point is to teach students what they need to learn in order to be successful, proficient readers.\n\nAn important part of comprehensive reading instruction is that students acquire knowledge of language, particularly in using accurate academic and domain-specific words and phrases, sufficient for reading, writing, speaking, and listening. Thus, the reading standards weave in language standards focused on vocabulary",
+        "subsections": []
+      },
+      {
+        "id": "page_12_section_1",
+        "title": "UTAH STATE STANDARDS for P–12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "and language comprehension. These skills will help students develop independence as readers and writers when considering a word or phrase important to comprehension.\n\nStudents must also be immersed in reading challenging, complex texts to actively make meaning, answer questions, solve problems, and craft arguments. Text complexity includes qualitative features of text and a range of texts within the quantitative grade band and associated Lexile ranges. Standard R.4 includes an asterisk to refer educators back to the Text Complexity Grade Bands and Associated Lexile Ranges below.",
+        "subsections": [
+          {
+            "id": "page_12_section_1_subsection_1",
+            "title": "Text Complexity Grade Bands and Associated Lexile Ranges",
+            "level": 2,
+            "content": "Engaging students in deep discussions and writing of texts is imperative to their growth and development as readers. Writing and discussion of text focuses on key ideas and details, craft and structure, and integrating knowledge and ideas. Students then need to return to previously-read texts to compare with other texts and synthesize the information from multiple texts for presentations, projects, or additional writing.",
+            "subsections": []
+          },
+          {
+            "id": "page_12_section_1_subsection_2",
+            "title": "Writing Strand",
+            "level": 2,
+            "content": "The following standards offer a focus for writing instruction to ensure that students gain adequate mastery of a range of writing skills and applications to address increasingly demanding content and sources. Students advancing through the grades are expected to meet each year’s grade-specific standards and retain or further develop skills and understandings mastered in preceding grades. Students’ production of writing should focus more on content and ideas rather than on length. Therefore, length requirements per grade are not included in the standards.\n\nStudents will learn to research, plan, draft, revise, edit, and publish. These skills are applicable to many types of writing such as opinion, argumentative, informative, explanatory, and narrative. The standards stress the importance of the reading-writing connection by requiring students to draw upon and",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_13_section_1",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "write evidence from literary and informational texts while weaving in language expectations.",
+        "subsections": []
+      },
+      {
+        "id": "page_14_section_1",
+        "title": "UTAH STATE STANDARDS for P–12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "This is a blank page.",
+        "subsections": []
+      },
+      {
+        "id": "page_15_section_utah_state_standards",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_15_section_standards_preschool_age_3",
+        "title": "STANDARDS: PRESCHOOL-AGE 3",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_15_section_standards_preschool_age_3_strand_1",
+            "title": "Strand 1: SPEAKING AND LISTENING (P3.SL)",
+            "level": 2,
+            "content": "Students will learn to collaborate, express and listen to ideas, integrate and evaluate information from various sources, use media and visual displays as well as language and grammar strategically to help achieve communicative purposes, and adapt to context and task.",
+            "subsections": []
+          },
+          {
+            "id": "page_15_section_standards_preschool_age_3_strand_2",
+            "title": "Strand 2: READING (P3.R)",
+            "level": 2,
+            "content": "Students will learn to proficiently read and comprehend grade-level literature and informational text, including seminal U.S. documents of historical and literary significance, at the high end of the grade-level text complexity band, with scaffolding as needed. *Standard R.4 includes an asterisk to refer educators back to the Text Complexity Grade Bands and Associated Lexile Ranges in the introduction of the standards.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_16_section_utah_standards",
+        "title": "UTAH STATE STANDARDS for P–12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_16_objective_a",
+            "title": "",
+            "level": 2,
+            "content": "With prompting and support, explore rhyming words and alliteration.",
+            "subsections": []
+          },
+          {
+            "id": "page_16_objective_b",
+            "title": "",
+            "level": 2,
+            "content": "With prompting and support, explore syllables in simple words.",
+            "subsections": []
+          },
+          {
+            "id": "page_16_objective_c",
+            "title": "",
+            "level": 2,
+            "content": "With prompting and support, identify initial sounds in spoken language.",
+            "subsections": []
+          },
+          {
+            "id": "page_16_standard_p3_r_3",
+            "title": "Standard P3.R.3: Demonstrate mastery of age-appropriate phonics skills.",
+            "level": 2,
+            "content": "",
+            "subsections": [
+              {
+                "id": "page_16_standard_p3_r_3_a",
+                "title": "",
+                "level": 3,
+                "content": "With prompting and support, begin to identify seven or more consonant names and sounds using one-to-one letter-sound correspondence (alphabetic principle).",
+                "subsections": []
+              },
+              {
+                "id": "page_16_standard_p3_r_3_b",
+                "title": "",
+                "level": 3,
+                "content": "With prompting and support, begin to identify one or more vowel names and short vowel sounds using one-to-one letter-sound correspondence (alphabetic principle).",
+                "subsections": []
+              }
+            ]
+          },
+          {
+            "id": "page_16_standard_p3_r_4",
+            "title": "Standard P3.R.4:",
+            "level": 2,
+            "content": "Begins in kindergarten.",
+            "subsections": []
+          },
+          {
+            "id": "page_16_standard_p3_r_5",
+            "title": "Standard P3.R.5:",
+            "level": 2,
+            "content": "With prompting and support, ask and answer simple questions about a text. (RL & RI)",
+            "subsections": []
+          },
+          {
+            "id": "page_16_standard_p3_r_6_7",
+            "title": "Standard P3.R.6-7:",
+            "level": 2,
+            "content": "With prompting and support, begin to retell simple texts. (RL & RI)",
+            "subsections": []
+          },
+          {
+            "id": "page_16_standard_p3_r_8",
+            "title": "Standard P3.R.8:",
+            "level": 2,
+            "content": "Begins in P4.",
+            "subsections": []
+          },
+          {
+            "id": "page_16_standard_p3_r_9",
+            "title": "Standard P3.R.9:",
+            "level": 2,
+            "content": "Begins in kindergarten.",
+            "subsections": []
+          },
+          {
+            "id": "page_16_standard_p3_r_10",
+            "title": "Standard P3.R.10:",
+            "level": 2,
+            "content": "Begins in grade 1.",
+            "subsections": []
+          },
+          {
+            "id": "page_16_standard_p3_r_11",
+            "title": "Standard P3.R.11:",
+            "level": 2,
+            "content": "Begins in grade 4.",
+            "subsections": []
+          },
+          {
+            "id": "page_16_standard_p3_r_12",
+            "title": "Standard P3.R.12:",
+            "level": 2,
+            "content": "Begins in grade 2.",
+            "subsections": []
+          },
+          {
+            "id": "page_16_standard_p3_r_13",
+            "title": "Standard P3.R.13:",
+            "level": 2,
+            "content": "Begins in grade 2.",
+            "subsections": []
+          },
+          {
+            "id": "page_16_standard_p3_r_14",
+            "title": "Standard P3.R.14:",
+            "level": 2,
+            "content": "Begins in grade 2.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_16_section_strand_3_writing",
+        "title": "Strand 3: WRITING (P3.W)",
+        "level": 1,
+        "content": "Students will learn to write for a variety of tasks, purposes, and audiences using appropriate grammar/conventions, syntax, and style.",
+        "subsections": [
+          {
+            "id": "page_16_standard_p3_w_1_3",
+            "title": "Standard P3.W.1-3:",
+            "level": 2,
+            "content": "With prompting and support, begin to experiment with speaking and writing while representing ideas visually (e.g., scribbles, stamps, stickers, or gluing pictures on paper).",
+            "subsections": []
+          },
+          {
+            "id": "page_16_standard_p3_w_4",
+            "title": "Standard P3.W.4:",
+            "level": 2,
+            "content": "Participate in shared writing projects.",
+            "subsections": [
+              {
+                "id": "page_16_standard_p3_w_4_a",
+                "title": "",
+                "level": 3,
+                "content": "With prompting and support, recall information from",
+                "subsections": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_17_section_1",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "experiences or learned information and share it with others.",
+        "subsections": []
+      },
+      {
+        "id": "page_18_section_1",
+        "title": "UTAH STATE STANDARDS for P–12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_18_section_2",
+        "title": "STANDARDS: PRESCHOOL-AGE 4",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_18_section_2_subsection_1",
+            "title": "Strand 1: SPEAKING AND LISTENING (P4.SL)",
+            "level": 2,
+            "content": "Students will learn to collaborate, express and listen to ideas, integrate and evaluate information from various sources, use media and visual displays as well as language and grammar strategically to help achieve communicative purposes, and adapt to context and task.",
+            "subsections": [
+              {
+                "id": "page_18_section_2_subsection_1_standard_1",
+                "title": "Standard P4.SL.1",
+                "level": 3,
+                "content": "Participate in conversations with peers and adults, using age-appropriate vocabulary on topics and texts.",
+                "subsections": [
+                  {
+                    "id": "page_18_section_2_subsection_1_standard_1_sub_a",
+                    "title": "a.",
+                    "level": 4,
+                    "content": "Follow agreed-upon rules for discussions such as listening to others, staying on topic, and taking turns speaking.",
+                    "subsections": []
+                  },
+                  {
+                    "id": "page_18_section_2_subsection_1_standard_1_sub_b",
+                    "title": "b.",
+                    "level": 4,
+                    "content": "Follow two-step directions.",
+                    "subsections": []
+                  },
+                  {
+                    "id": "page_18_section_2_subsection_1_standard_1_sub_c",
+                    "title": "c.",
+                    "level": 4,
+                    "content": "Express own ideas.",
+                    "subsections": []
+                  }
+                ]
+              },
+              {
+                "id": "page_18_section_2_subsection_1_standard_2",
+                "title": "Standard P4.SL.2",
+                "level": 3,
+                "content": "Speak clearly and audibly in sentences of varying lengths to communicate wants, needs, experiences, thoughts, and emotions.",
+                "subsections": []
+              },
+              {
+                "id": "page_18_section_2_subsection_1_standard_3",
+                "title": "Standard P4.SL.3",
+                "level": 3,
+                "content": "Use age-appropriate language, grammar, volume, and pronunciation when speaking or presenting.",
+                "subsections": []
+              }
+            ]
+          },
+          {
+            "id": "page_18_section_2_subsection_2",
+            "title": "Strand 2: READING (P4.R)",
+            "level": 2,
+            "content": "Students will learn to proficiently read and comprehend grade-level literature and informational text, including seminal U.S. documents of historical and literary significance, at the high end of the grade-level text complexity band, with scaffolding as needed. *Standard R.4 includes an asterisk to refer educators back to the Text Complexity Grade Bands and Associated Lexile Ranges in the introduction of the standards.*",
+            "subsections": [
+              {
+                "id": "page_18_section_2_subsection_2_standard_1",
+                "title": "Standard P4.R.1",
+                "level": 3,
+                "content": "Demonstrate mastery of age-appropriate concepts of print.",
+                "subsections": [
+                  {
+                    "id": "page_18_section_2_subsection_2_standard_1_sub_a",
+                    "title": "a.",
+                    "level": 4,
+                    "content": "Correctly hold a book and demonstrate that print is read from top to bottom, left to right, and from front to back.",
+                    "subsections": []
+                  },
+                  {
+                    "id": "page_18_section_2_subsection_2_standard_1_sub_b",
+                    "title": "b.",
+                    "level": 4,
+                    "content": "Begin to identify frequently seen letters and words, recognizing that words are made up of letters.",
+                    "subsections": []
+                  }
+                ]
+              },
+              {
+                "id": "page_18_section_2_subsection_2_standard_2",
+                "title": "Standard P4.R.2",
+                "level": 3,
+                "content": "Demonstrate mastery of age-appropriate phonological awareness skills.",
+                "subsections": [
+                  {
+                    "id": "page_18_section_2_subsection_2_standard_2_sub_a",
+                    "title": "a.",
+                    "level": 4,
+                    "content": "Recognize rhyming words and alliteration.",
+                    "subsections": []
+                  },
+                  {
+                    "id": "page_18_section_2_subsection_2_standard_2_sub_b",
+                    "title": "b.",
+                    "level": 4,
+                    "content": "With prompting and support, segment words into syllables.",
+                    "subsections": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_19_section_strand_3_writing",
+        "title": "Strand 3: WRITING (P4.W)",
+        "level": 2,
+        "content": "Students will learn to write for a variety of tasks, purposes, and audiences using appropriate grammar/conventions, syntax, and style.",
+        "subsections": []
+      },
+      {
+        "id": "page_20_section_1",
+        "title": "UTAH STATE STANDARDS for P–12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "information using simple drawing and writing (e.g., scribble writing with letter-like formations).",
+        "subsections": []
+      },
+      {
+        "id": "page_21_section_1",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_21_section_2",
+        "title": "STANDARDS: KINDERGARTEN",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_21_section_2_subsection_1",
+            "title": "Strand 1: SPEAKING AND LISTENING (K.SL)",
+            "level": 2,
+            "content": "Students will learn to collaborate, express and listen to ideas, integrate and evaluate information from various sources, use media and visual displays as well as language and grammar strategically to help achieve communicative purposes, and adapt to context and task.",
+            "subsections": [
+              {
+                "id": "page_21_section_2_subsection_1_standard_1",
+                "title": "Standard K.SL.1",
+                "level": 3,
+                "content": "Participate in a range of conversations with peers and adults, using age-appropriate vocabulary on topics and texts.",
+                "subsections": [],
+                "lists": [
+                  {
+                    "id": "list_page_21_section_2_subsection_1_standard_1_items",
+                    "type": "unordered",
+                    "title": "",
+                    "items": [
+                      "Follow agreed-upon rules for discussions such as listening to others, raising hands, and taking turns speaking during discussion.",
+                      "Continue a conversation through multiple exchanges and gain attention appropriately.",
+                      "Express own ideas in small and large groups."
+                    ]
+                  }
+                ],
+                "tables": [],
+                "key_value_pairs": []
+              },
+              {
+                "id": "page_21_section_2_subsection_1_standard_2",
+                "title": "Standard K.SL.2",
+                "level": 3,
+                "content": "Speak clearly and audibly while expressing thoughts, emotions, and ideas.",
+                "subsections": [],
+                "lists": [],
+                "tables": [],
+                "key_value_pairs": []
+              },
+              {
+                "id": "page_21_section_2_subsection_1_standard_3",
+                "title": "Standard K.SL.3",
+                "level": 3,
+                "content": "Use age-appropriate language, grammar, volume, and pronunciation when speaking or presenting and use visual displays, when appropriate, to describe information to others.",
+                "subsections": [],
+                "lists": [],
+                "tables": [],
+                "key_value_pairs": []
+              }
+            ]
+          },
+          {
+            "id": "page_21_section_2_subsection_2",
+            "title": "Strand 2: READING (K.R)",
+            "level": 2,
+            "content": "Students will learn to proficiently read and comprehend grade-level literature and informational text, including seminal U.S. documents of historical and literary significance, at the high end of the grade-level text complexity band, with scaffolding as needed. *Standard R.4 includes an asterisk to refer educators back to the Text Complexity Grade Bands and Associated Lexile Ranges in the introduction of the standards.*",
+            "subsections": [
+              {
+                "id": "page_21_section_2_subsection_2_standard_1",
+                "title": "Standard K.R.1",
+                "level": 3,
+                "content": "Mastered in preschool.",
+                "subsections": [],
+                "lists": [],
+                "tables": [],
+                "key_value_pairs": []
+              },
+              {
+                "id": "page_21_section_2_subsection_2_standard_2",
+                "title": "Standard K.R.2",
+                "level": 3,
+                "content": "Demonstrate mastery of age-appropriate phonological awareness skills.",
+                "subsections": [],
+                "lists": [
+                  {
+                    "id": "list_page_21_section_2_subsection_2_standard_2_items",
+                    "type": "unordered",
+                    "title": "",
+                    "items": [
+                      "Blend and segment words at the syllable level.",
+                      "Identify the initial, medial, and final sound in 2-3 phoneme words.",
+                      "Substitute and delete one base part in a compound word."
+                    ]
+                  }
+                ],
+                "tables": [],
+                "key_value_pairs": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_22_section_1",
+        "title": "UTAH STATE STANDARDS for P–12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_22_standard_k_r_3",
+            "title": "Standard K.R.3",
+            "level": 2,
+            "content": "Demonstrate mastery of age-appropriate phonics skills.",
+            "subsections": [],
+            "lists": [
+              {
+                "id": "page_22_standard_k_r_3_list",
+                "type": "ordered",
+                "title": "",
+                "items": [
+                  "a. Demonstrate mastery of all consonant names and sounds using one-to-one letter-sound correspondence (alphabetic principle).",
+                  "b. Demonstrate mastery of short vowel sounds (/ă/, /ě/, /ī/, /ō/, /ū/) in isolation and in VC and CVC words in single-syllable words.",
+                  "c. Demonstrate mastery of long vowel sounds (/ā/, /ē/, /ī/, /ō/, /ū/) associated with single letters; open syllables in single-syllable words (e.g., be, I, no).",
+                  "d. Demonstrate mastery of segmenting and blending sounds in VC and CVC words when reading.",
+                  "e. Read and spell common irregular words."
+                ]
+              }
+            ]
+          },
+          {
+            "id": "page_22_standard_k_r_4",
+            "title": "Standard K.R.4",
+            "level": 2,
+            "content": "Read grade-level text* with accuracy and fluency to support comprehension. (RL & RI)",
+            "subsections": [],
+            "lists": []
+          },
+          {
+            "id": "page_22_standard_k_r_5",
+            "title": "Standard K.R.5",
+            "level": 2,
+            "content": "With prompting and support, ask and answer questions about key details in a text. (RL & RI)",
+            "subsections": [],
+            "lists": []
+          },
+          {
+            "id": "page_22_standard_k_r_6",
+            "title": "Standard K.R.6",
+            "level": 2,
+            "content": "Retell familiar stories. (RL)\nShare key details from a text. (RI)",
+            "subsections": [],
+            "lists": []
+          },
+          {
+            "id": "page_22_standard_k_r_7",
+            "title": "Standard K.R.7",
+            "level": 2,
+            "content": "Identify the characters, settings, and important events in a story (RL) or pieces of information in a text. (RI)",
+            "subsections": [],
+            "lists": []
+          },
+          {
+            "id": "page_22_standard_k_r_8",
+            "title": "Standard K.R.8",
+            "level": 2,
+            "content": "Ask and answer questions about unknown words in a text. (RL & RI)",
+            "subsections": [],
+            "lists": []
+          },
+          {
+            "id": "page_22_standard_k_r_9",
+            "title": "Standard K.R.9",
+            "level": 2,
+            "content": "Determine or clarify the meaning of multiple-meaning words and phrases in context. (RL & RI)",
+            "subsections": [],
+            "lists": []
+          },
+          {
+            "id": "page_22_standard_k_r_10",
+            "title": "Standard K.R.10",
+            "level": 2,
+            "content": "Begins in grade 1.",
+            "subsections": [],
+            "lists": []
+          },
+          {
+            "id": "page_22_standard_k_r_11",
+            "title": "Standard K.R.11",
+            "level": 2,
+            "content": "Begins in grade 4.",
+            "subsections": [],
+            "lists": []
+          },
+          {
+            "id": "page_22_standard_k_r_12",
+            "title": "Standard K.R.12",
+            "level": 2,
+            "content": "Begins in grade 2.",
+            "subsections": [],
+            "lists": []
+          },
+          {
+            "id": "page_22_standard_k_r_13",
+            "title": "Standard K.R.13",
+            "level": 2,
+            "content": "Begins in grade 2.",
+            "subsections": [],
+            "lists": []
+          },
+          {
+            "id": "page_22_standard_k_r_14",
+            "title": "Standard K.R.14",
+            "level": 2,
+            "content": "Begins in grade 2.",
+            "subsections": [],
+            "lists": []
+          }
+        ]
+      },
+      {
+        "id": "page_23_section_1",
+        "title": "Strand 3: WRITING (K.W)",
+        "level": 1,
+        "content": "Students will learn to write for a variety of tasks, purposes, and audiences using appropriate grammar/conventions, syntax, and style.",
+        "subsections": [
+          {
+            "id": "page_23_section_1_subsection_1",
+            "title": "Standard K.W.1",
+            "level": 2,
+            "content": "Use a combination of drawing and writing to compose opinion pieces that provide a topic and an opinion.\na. Write, produce, and expand a complete sentence.\nb. Use appropriate capitalization and end punctuation.",
+            "subsections": []
+          },
+          {
+            "id": "page_23_section_1_subsection_2",
+            "title": "Standard K.W.2",
+            "level": 2,
+            "content": "Use a combination of drawing and writing to compose informative/explanatory pieces and provide information about the topic.\na. Write, produce, and expand a complete sentence.\nb. Use appropriate capitalization and end punctuation.",
+            "subsections": []
+          },
+          {
+            "id": "page_23_section_1_subsection_3",
+            "title": "Standard K.W.3",
+            "level": 2,
+            "content": "Use a combination of drawing and writing to compose narrative pieces about an event. Provide details about the event in the appropriate sequence and a reaction to what happened.\na. Write, produce, and expand a complete sentence.\nb. Use appropriate capitalization and end punctuation.",
+            "subsections": []
+          },
+          {
+            "id": "page_23_section_1_subsection_4",
+            "title": "Standard K.W.4",
+            "level": 2,
+            "content": "Participate in shared writing projects.\na. Recall information from experiences or learned information.\nb. Interact and collaborate with others throughout the writing process.",
+            "subsections": []
+          },
+          {
+            "id": "page_23_section_1_subsection_5",
+            "title": "Standard K.W.5",
+            "level": 2,
+            "content": "Legibly write all upper- and lowercase manuscript letters.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_24_section_utah_state_standards",
+        "title": "UTAH STATE STANDARDS for P–12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_24_section_grade_1_standards",
+        "title": "STANDARDS: GRADE 1",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_24_section_grade_1_strand_1_speaking_listening",
+            "title": "Strand 1: SPEAKING AND LISTENING (1.SL)",
+            "level": 2,
+            "content": "Students will learn to collaborate, express and listen to ideas, integrate and evaluate information from various sources, use media and visual displays as well as language and grammar strategically to help achieve communicative purposes, and adapt to context and task.",
+            "subsections": []
+          },
+          {
+            "id": "page_24_section_grade_1_strand_2_reading",
+            "title": "Strand 2: : READING (1.R)",
+            "level": 2,
+            "content": "Students will learn to proficiently read and comprehend grade-level literature and informational text, including seminal U.S. documents of historical and literary significance, at the high end of the grade-level text complexity band, with scaffolding as needed. *Standard R.4 includes an asterisk to refer educators back to the Text Complexity Grade Bands and Associated Lexile Ranges in the introduction of the standards.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_25_section_1",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_25_section_1_sub_1",
+            "title": "c. Distinguish long and short vowel sounds in spoken single-syllable words.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_25_section_1_sub_2",
+            "title": "Standard 1.R.3: Demonstrate mastery of age-appropriate phonics skills.",
+            "level": 2,
+            "content": "",
+            "subsections": [
+              {
+                "id": "page_25_section_1_sub_2_sub_1",
+                "title": "a. With prompting and support, identify and begin using consonant and vowel y while reading (i.e., consonant sound: /y/ as in yes, vowel sound: final sound /ī/ as in fly, final sound /ē/ as in baby, and medial sound /ī/ in gym).",
+                "level": 3,
+                "content": "",
+                "subsections": []
+              },
+              {
+                "id": "page_25_section_1_sub_2_sub_2",
+                "title": "b. With prompting and support, identify and begin reading and spelling words with all six syllable types (i.e., open, closed, CVCe, vowel team, vowel-r, consonant -le).",
+                "level": 3,
+                "content": "",
+                "subsections": []
+              },
+              {
+                "id": "page_25_section_1_sub_2_sub_3",
+                "title": "c. Demonstrate mastery of the hard and soft sounds of c and g.",
+                "level": 3,
+                "content": "",
+                "subsections": []
+              },
+              {
+                "id": "page_25_section_1_sub_2_sub_4",
+                "title": "d. Blend words with 4-5 phonemes when reading.",
+                "level": 3,
+                "content": "",
+                "subsections": []
+              },
+              {
+                "id": "page_25_section_1_sub_2_sub_5",
+                "title": "e. Decode two-syllable words by breaking the words into syllables (i.e., open, closed, VCe).",
+                "level": 3,
+                "content": "",
+                "subsections": []
+              },
+              {
+                "id": "page_25_section_1_sub_2_sub_6",
+                "title": "f. Read and spell words with common consonant digraphs (i.e., sh, ch, wh, th, ng).",
+                "level": 3,
+                "content": "",
+                "subsections": []
+              },
+              {
+                "id": "page_25_section_1_sub_2_sub_7",
+                "title": "g. Read age-appropriate compound words.",
+                "level": 3,
+                "content": "",
+                "subsections": []
+              },
+              {
+                "id": "page_25_section_1_sub_2_sub_8",
+                "title": "h. Read words with inflectional endings (i.e., -s, -ed, -ing, -er, -est).",
+                "level": 3,
+                "content": "",
+                "subsections": []
+              },
+              {
+                "id": "page_25_section_1_sub_2_sub_9",
+                "title": "i. Read and spell common irregular words.",
+                "level": 3,
+                "content": "",
+                "subsections": []
+              }
+            ]
+          },
+          {
+            "id": "page_25_section_1_sub_3",
+            "title": "Standard 1.R.4: Read grade-level text* with accuracy and fluency to support comprehension. (RL & RI)",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_25_section_1_sub_4",
+            "title": "Standard 1.R.5: Ask and answer questions about key details in a text. (RL & RI)",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_25_section_1_sub_5",
+            "title": "Standard 1.R.6: Read a variety of texts including those from diverse cultures to identify and retell the main idea and key details of a text. (RL & RI)",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_25_section_1_sub_6",
+            "title": "Standard 1.R.7: Describe characters, settings, and important events in a story (RL) or pieces of information in a text. (RI)",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_25_section_1_sub_7",
+            "title": "Standard 1.R.8: Identify specific words and phrases that express emotion, appeal to the senses, and/or determine the meaning of content-specific words within a text. (RL & RI)",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_25_section_1_sub_8",
+            "title": "Standard 1.R.9: Determine or clarify the meaning of unknown and multiple-meaning words and phrases, choosing flexibly from a range of strategies. (RL & RI)",
+            "level": 2,
+            "content": "",
+            "subsections": [
+              {
+                "id": "page_25_section_1_sub_8_sub_1",
+                "title": "a. Begin using sentence-level context as a clue to the meaning of a word.",
+                "level": 3,
+                "content": "",
+                "subsections": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_26_section_ela_standards",
+        "title": "UTAH STATE STANDARDS for P–12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "b. Identify frequently occurring root words and their inflectional forms.",
+        "subsections": [],
+        "lists": [
+          {
+            "id": "page_26_reading_standards_list",
+            "type": "unordered",
+            "title": "Reading Standards",
+            "items": [
+              "Standard 1.R.10: Identify a variety of texts and explain the differences between literary texts and informational texts. (RL & RI)",
+              "Standard 1.R.11: Begins in grade 4.",
+              "Standard 1.R.12: Begins in grade 2.",
+              "Standard 1.R.13: Begins in grade 2.",
+              "Standard 1.R.14: Begins in grade 2."
+            ]
+          }
+        ],
+        "key_value_pairs": []
+      },
+      {
+        "id": "page_26_strand_3_writing",
+        "title": "Strand 3: WRITING (1.W)",
+        "level": 2,
+        "content": "Students will learn to write for a variety of tasks, purposes, and audiences using appropriate grammar/conventions, syntax, and style.",
+        "subsections": [
+          {
+            "id": "page_26_standard_1_w_1",
+            "title": "Standard 1.W.1",
+            "level": 3,
+            "content": "Write opinion pieces that introduce the topic, state an opinion, supply evidence for the opinion, and provide a concluding statement.",
+            "subsections": [],
+            "lists": [
+              {
+                "id": "page_26_standard_1_w_1_subpoints",
+                "type": "ordered",
+                "title": "",
+                "items": [
+                  "Write, produce, and expand complete simple sentences.",
+                  "Use appropriate conventions when writing."
+                ]
+              }
+            ],
+            "key_value_pairs": []
+          },
+          {
+            "id": "page_26_standard_1_w_2",
+            "title": "Standard 1.W.2",
+            "level": 3,
+            "content": "Write informative/explanatory pieces that introduce a topic, supply facts about the topic, and provide a concluding statement.",
+            "subsections": [],
+            "lists": [
+              {
+                "id": "page_26_standard_1_w_2_subpoints",
+                "type": "ordered",
+                "title": "",
+                "items": [
+                  "Write, produce, and expand complete simple sentences.",
+                  "Use appropriate conventions when writing."
+                ]
+              }
+            ],
+            "key_value_pairs": []
+          },
+          {
+            "id": "page_26_standard_1_w_3",
+            "title": "Standard 1.W.3",
+            "level": 3,
+            "content": "Write narrative pieces that retell two or more events. Provide details regarding the events using temporal words in sequential order and provide a concluding statement.",
+            "subsections": [],
+            "lists": [
+              {
+                "id": "page_26_standard_1_w_3_subpoints",
+                "type": "ordered",
+                "title": "",
+                "items": [
+                  "Write, produce, and expand complete simple sentences.",
+                  "Use appropriate conventions when writing."
+                ]
+              }
+            ],
+            "key_value_pairs": []
+          },
+          {
+            "id": "page_26_standard_1_w_4",
+            "title": "Standard 1.W.4",
+            "level": 3,
+            "content": "Participate in shared research and writing projects.",
+            "subsections": [],
+            "lists": [
+              {
+                "id": "page_26_standard_1_w_4_subpoints",
+                "type": "ordered",
+                "title": "",
+                "items": [
+                  "Recall information from experiences or learned information.",
+                  "Interact and collaborate with others throughout the writing process."
+                ]
+              }
+            ],
+            "key_value_pairs": []
+          },
+          {
+            "id": "page_26_standard_1_w_5",
+            "title": "Standard 1.W.5",
+            "level": 3,
+            "content": "Legibly write all upper- and lowercase manuscript letters.",
+            "subsections": [],
+            "lists": [],
+            "key_value_pairs": []
+          }
+        ],
+        "lists": [],
+        "key_value_pairs": []
+      },
+      {
+        "id": "page_27_section_utah_state_standards_p12_ela",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_27_section_standards_grade_2",
+        "title": "STANDARDS: GRADE 2",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_27_strand_1_speaking_listening",
+            "title": "Strand 1: SPEAKING AND LISTENING (2.SL)",
+            "level": 2,
+            "content": "Students will learn to collaborate, express and listen to ideas, integrate and evaluate information from various sources, use media and visual displays as well as language and grammar strategically to help achieve communicative purposes, and adapt to context and task.\n\n*   **Standard 2.SL.1:** Participate effectively in a range of conversations with various partners, using age-appropriate vocabulary on topics and texts.\n    *   a. Initiate and build on a conversation through multiple exchanges while using appropriate tone and body language.\n    *   b. Seek other's opinions or thoughts and identify other's perspectives.\n*   **Standard 2.SL.2:** Speak clearly and audibly while asking and answering questions about a topic and key details.\n*   **Standard 2.SL.3:** Use age-appropriate language, grammar, volume, and clear pronunciation when speaking or presenting.\n    *   a. Present information, stories, or opinions, sequencing ideas logically and use descriptions, facts, and details.",
+            "subsections": []
+          },
+          {
+            "id": "page_27_strand_2_reading",
+            "title": "Strand2 : READING (2.R)",
+            "level": 2,
+            "content": "Students will learn to proficiently read and comprehend grade-level literature and informational text, including seminal U.S. documents of historical and literary significance, at the high end of the grade-level text complexity band, with scaffolding as needed. *Standard R.4 includes an asterisk to refer educators back to the Text Complexity Grade Bands and Associated Lexile Ranges in the introduction of the standards.\n\n*   **Standard 2.R.1:** Mastered in preschool.\n*   **Standard 2.R.2:** Demonstrate mastery of age-appropriate phonological awareness skills.\n    *   a. Add, delete, and substitute initial, medial, and final sounds in 5–6 phoneme words including blends.\n    *   b. Isolate, pronounce, blend, and segment phonemes in 5–6 phoneme words.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_28_section_1",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_28_standard_2_R_3",
+            "title": "Standard 2.R.3: Demonstrate mastery of age-appropriate phonics skills.",
+            "level": 2,
+            "content": "",
+            "subsections": [
+              {
+                "id": "page_28_standard_2_R_3_a",
+                "title": "",
+                "level": 3,
+                "content": "Identify and begin reading and spelling words with all six syllable types (i.e., open, closed, CVCe, vowel team, vowel-r, consonant -le) in multisyllabic words.",
+                "subsections": []
+              },
+              {
+                "id": "page_28_standard_2_R_3_b",
+                "title": "",
+                "level": 3,
+                "content": "Identify and begin using schwa in multisyllabic words (e.g., ago, away, again, along, afraid) when reading and spelling.",
+                "subsections": []
+              },
+              {
+                "id": "page_28_standard_2_R_3_c",
+                "title": "",
+                "level": 3,
+                "content": "Blend words with 5-6 phonemes when reading.",
+                "subsections": []
+              },
+              {
+                "id": "page_28_standard_2_R_3_d",
+                "title": "",
+                "level": 3,
+                "content": "Decode words with common prefixes and suffixes.",
+                "subsections": []
+              },
+              {
+                "id": "page_28_standard_2_R_3_e",
+                "title": "",
+                "level": 3,
+                "content": "Read and spell age-appropriate compound words.",
+                "subsections": []
+              },
+              {
+                "id": "page_28_standard_2_R_3_f",
+                "title": "",
+                "level": 3,
+                "content": "Read and spell words with common variant digraphs (i.e., ph /f/, gh /f/, ch /sh/ and /ck/).",
+                "subsections": []
+              },
+              {
+                "id": "page_28_standard_2_R_3_g",
+                "title": "",
+                "level": 3,
+                "content": "Read and spell words with common trigraphs (i.e., tch /ch/ and dge /j/).",
+                "subsections": []
+              },
+              {
+                "id": "page_28_standard_2_R_3_h",
+                "title": "",
+                "level": 3,
+                "content": "Read and spell words with hard and soft c and g along with silent letters kn-, -lm, -mb, gh-, and wr-.",
+                "subsections": []
+              },
+              {
+                "id": "page_28_standard_2_R_3_i",
+                "title": "",
+                "level": 3,
+                "content": "Read and spell words with the following diphthongs and vowels (i.e., oi, oy; ou, ow; au, aw; oo, u).",
+                "subsections": []
+              },
+              {
+                "id": "page_28_standard_2_R_3_j",
+                "title": "",
+                "level": 3,
+                "content": "Read and spell words with phonograms (i.e., -old, -ild, -ost, -olt, -ind).",
+                "subsections": []
+              },
+              {
+                "id": "page_28_standard_2_R_3_k",
+                "title": "",
+                "level": 3,
+                "content": "Read and spell common irregular words.",
+                "subsections": []
+              }
+            ]
+          },
+          {
+            "id": "page_28_standard_2_R_4",
+            "title": "Standard 2.R.4: Read grade-level text* with accuracy and fluency to support comprehension. (RL & RI)",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_28_standard_2_R_5",
+            "title": "Standard 2.R.5: Ask and answer questions such as who, what, where, when, why, and how to demonstrate understanding of key details in a text. (RL & RI)",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_28_standard_2_R_6",
+            "title": "Standard 2.R.6: Read a variety of texts including those from diverse cultures, retell the narrative (RL) or informational text (RI) according to the text structure including the main idea.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_28_standard_2_R_7",
+            "title": "Standard 2.R.7: Describe how characters respond to major events and challenges. (RL).",
+            "level": 2,
+            "content": "",
+            "subsections": [
+              {
+                "id": "page_28_standard_2_R_7_sub_1",
+                "title": "",
+                "level": 3,
+                "content": "Describe the connection between a series of historical events, scientific ideas or concepts, or steps in technical procedures in a text. (RI)",
+                "subsections": []
+              }
+            ]
+          },
+          {
+            "id": "page_28_standard_2_R_8",
+            "title": "Standard 2.R.8: Explain how specific words and phrases express emotion, appeal to the senses, or determine the meaning of content-specific words within a text. (RL & RI)",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_28_standard_2_R_9",
+            "title": "Standard 2.R.9: Determine or clarify the meaning of unknown and multiple-meaning words and phrases, choosing flexibly from a range of strategies. (RL & RI)",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_29_section_1",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_29_section_2",
+            "title": "Strand 3: WRITING (2.W)",
+            "level": 2,
+            "content": "Students will learn to write for a variety of tasks, purposes, and audiences using appropriate grammar/conventions, syntax, and style.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_30_section_1",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "b. Use appropriate conventions when writing.",
+        "subsections": [
+          {
+            "id": "page_30_section_1_subsection_1",
+            "title": "Standard 2.W.3: Write narrative pieces in which they retell an elaborated event or short sequence of events; include details to describe actions, thoughts, and emotions using temporal words in sequential order; and provide a concluding statement.",
+            "level": 2,
+            "content": "",
+            "subsections": [],
+            "lists": [
+              {
+                "id": "page_30_section_1_subsection_1_list_1",
+                "type": "ordered",
+                "title": "",
+                "items": [
+                  "Write, produce, expand, and rearrange complete simple and compound sentences.",
+                  "Use appropriate conventions when writing."
+                ]
+              }
+            ]
+          },
+          {
+            "id": "page_30_section_1_subsection_2",
+            "title": "Standard 2.W.4: Participate in shared research and writing projects on a topic.",
+            "level": 2,
+            "content": "",
+            "subsections": [],
+            "lists": [
+              {
+                "id": "page_30_section_1_subsection_2_list_1",
+                "type": "ordered",
+                "title": "",
+                "items": [
+                  "Recall and gather information from provided sources to answer a question about the topic.",
+                  "Interact and collaborate with others throughout the writing process."
+                ]
+              }
+            ]
+          },
+          {
+            "id": "page_30_section_1_subsection_3",
+            "title": "Standard 2.W.5: Fluently write all upper- and lowercase manuscript letters.",
+            "level": 2,
+            "content": "",
+            "subsections": [],
+            "lists": []
+          }
+        ],
+        "lists": []
+      },
+      {
+        "id": "page_31_section_1_title",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_31_section_2_grade_3_standards",
+        "title": "STANDARDS: GRADE 3",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_31_section_2_strand_1_speaking_listening",
+            "title": "Strand 1: SPEAKING AND LISTENING (3.SL)",
+            "level": 2,
+            "content": "Students will learn to collaborate, express and listen to ideas, integrate and evaluate information from various sources, use media and visual displays as well as language and grammar strategically to help achieve communicative purposes, and adapt to context and task.",
+            "subsections": [
+              {
+                "id": "page_31_section_2_strand_1_standard_3_sl_1",
+                "title": "Standard 3.SL.1",
+                "level": 3,
+                "content": "Participate effectively in a range of conversations and collaborations, using age-appropriate vocabulary, on topics, texts, and issues.",
+                "subsections": []
+              },
+              {
+                "id": "page_31_section_2_strand_1_standard_3_sl_2",
+                "title": "Standard 3.SL.2",
+                "level": 3,
+                "content": "Speak clearly and audibly while asking and answering questions about a topic and key details presented in various mediums and formats.",
+                "subsections": []
+              },
+              {
+                "id": "page_31_section_2_strand_1_standard_3_sl_3",
+                "title": "Standard 3.SL.3",
+                "level": 3,
+                "content": "Use age-appropriate language, grammar, volume, and clear pronunciation when speaking or presenting.",
+                "subsections": []
+              }
+            ]
+          },
+          {
+            "id": "page_31_section_2_strand_2_reading",
+            "title": "Strand 2: READING (3.R)",
+            "level": 2,
+            "content": "Students will learn to proficiently read and comprehend grade-level literature and informational text, including seminal U.S. documents of historical and literary significance, at the high end of the grade-level text complexity band, with scaffolding as needed. *Standard R.4 includes an asterisk to refer educators back to the Text Complexity Grade Bands and Associated Lexile Ranges in the introduction of the standards.",
+            "subsections": [
+              {
+                "id": "page_31_section_2_strand_2_standard_3_r_1",
+                "title": "Standard 3.R.1",
+                "level": 3,
+                "content": "Mastered in preschool.",
+                "subsections": []
+              },
+              {
+                "id": "page_31_section_2_strand_2_standard_3_r_2",
+                "title": "Standard 3.R.2",
+                "level": 3,
+                "content": "Demonstrate mastery of age-appropriate phonological awareness skills.",
+                "subsections": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_32_section_1",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_32_standard_3_R_3",
+            "title": "Standard 3.R.3: Demonstrate mastery of age-appropriate phonics skills.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_32_standard_3_R_4",
+            "title": "Standard 3.R.4: Read grade-level text* with accuracy and fluency to support comprehension. (RL & RI)",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_32_standard_3_R_5",
+            "title": "Standard 3.R.5: Ask and answer questions to demonstrate understanding of a text, referring explicitly to the text as the basis for the answers. (RL & RI)",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_32_standard_3_R_6",
+            "title": "Standard 3.R.6: Read a variety of texts including those from diverse cultures, retell the text according to the text structure including the main idea and how key details support the main idea. (RL & RI)",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_32_standard_3_R_7",
+            "title": "Standard 3.R.7: Describe characters in a story and explain how their actions contribute to the sequence of events. (RL) Describe the relationship between a series of historical events, scientific ideas or concepts, or steps in technical procedures in a text, using language that pertains to time, sequence, and cause/effect. (RI)",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_32_standard_3_R_8",
+            "title": "Standard 3.R.8: Determine the meaning of words, phrases, similes, metaphors, and academic and content-specific words within a text. (RL & RI)",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_32_standard_3_R_9",
+            "title": "Standard 3.R.9: Determine or clarify the meaning of unknown and multiple-meaning words and phrases choosing flexibly from a range of strategies. (RL & RI)",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_33_section_1",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_33_section_1_1",
+            "title": "Strand 3: WRITING (3.W)",
+            "level": 2,
+            "content": "Students will learn to write for a variety of tasks, purposes, and audiences using appropriate grammar/conventions, syntax, and style.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_34_section_ela_standards",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_34_standard_3_w_3",
+            "title": "Standard 3.W.3: Write narrative pieces to develop real or imagined experiences or events using effective technique, descriptive details, event sequences, and provide a concluding statement.",
+            "level": 2,
+            "content": "",
+            "subsections": [],
+            "tables": [],
+            "lists": [
+              {
+                "id": "page_34_standard_3_w_3_list_1",
+                "type": "ordered",
+                "title": "",
+                "items": [
+                  "Set the scene and introduce a narrator and/or characters; organize an event sequence that unfolds naturally.",
+                  "Write, produce, and expand simple, compound, and complex sentences.",
+                  "Use dialogue and descriptions of actions, thoughts, and emotions.",
+                  "Use appropriate conventions when writing including text cohesion, sentence structure, and phrasing."
+                ]
+              }
+            ],
+            "key_value_pairs": []
+          },
+          {
+            "id": "page_34_standard_3_w_4",
+            "title": "Standard 3.W.4: Conduct short research projects to build knowledge about a topic.",
+            "level": 2,
+            "content": "",
+            "subsections": [],
+            "tables": [],
+            "lists": [
+              {
+                "id": "page_34_standard_3_w_4_list_1",
+                "type": "ordered",
+                "title": "",
+                "items": [
+                  "Recall and gather relevant information from one or more sources and provide brief notes to demonstrate understanding of the topic.",
+                  "Interact and collaborate with others throughout the writing process."
+                ]
+              }
+            ],
+            "key_value_pairs": []
+          },
+          {
+            "id": "page_34_standard_3_w_5",
+            "title": "Standard 3.W.5: Legibly write all upper- and lowercase cursive and manuscript letters.",
+            "level": 2,
+            "content": "",
+            "subsections": [],
+            "tables": [],
+            "lists": [],
+            "key_value_pairs": []
+          }
+        ],
+        "tables": [],
+        "lists": [
+          {
+            "id": "page_34_ela_standards_list_continuation",
+            "type": "ordered",
+            "title": "",
+            "items": [
+              "details, and group related information and graphics together.",
+              "Write, produce, and expand simple, compound, and complex sentences.",
+              "Use appropriate conventions when writing including text cohesion, sentence structure, and phrasing."
+            ]
+          }
+        ],
+        "key_value_pairs": []
+      },
+      {
+        "id": "page_35_section_1",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": [],
+        "lists": []
+      },
+      {
+        "id": "page_35_section_2",
+        "title": "STANDARDS: GRADE 4",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_35_section_2_subsection_1",
+            "title": "Strand: SPEAKING AND LISTENING (4.SL)",
+            "level": 2,
+            "content": "Students will learn to collaborate, express and listen to ideas, integrate and evaluate information from various sources, use media and visual displays as well as language and grammar strategically to help achieve communicative purposes, and adapt to context and task.",
+            "subsections": [],
+            "lists": [
+              {
+                "id": "page_35_section_2_subsection_1_list_1",
+                "type": "unordered",
+                "title": "",
+                "items": [
+                  "Standard 4.SL.1: Participate effectively in a range of conversations and collaborations, using age-appropriate vocabulary, on topics, texts, and issues.\n    a. Respectfully acknowledge and respond to comments and claims.\n    b. Participate in conversations by asking questions, acknowledging new information, connecting responses with reasoning and elaboration, and keeping the discussion on topic.",
+                  "Standard 4.SL.2: Clearly summarize information presented in various formats and mediums and explain how the information pertains to the topic.",
+                  "Standard 4.SL.3: Use age-appropriate language, grammar, volume, and clear pronunciation when speaking or presenting.\n    a. Include visual displays and/or mediums, when appropriate, to convey information, elaborate, and enhance engagement of presentations."
+                ]
+              }
+            ]
+          },
+          {
+            "id": "page_35_section_2_subsection_2",
+            "title": "Strand: READING (4.R)",
+            "level": 2,
+            "content": "Students will learn to proficiently read and comprehend grade-level literature and informational text, including seminal U.S. documents of historical and literary significance, at the high end of the grade-level text complexity band, with scaffolding as needed. *Standard R.4 includes an asterisk to refer educators back to the Text Complexity Grade Bands and Associated Lexile Ranges in the introduction of the standards.",
+            "subsections": [],
+            "lists": [
+              {
+                "id": "page_35_section_2_subsection_2_list_1",
+                "type": "unordered",
+                "title": "",
+                "items": [
+                  "Standard 4.R.1: Mastered in preschool.",
+                  "Standard 4.R.2: Mastered in grade 3."
+                ]
+              }
+            ]
+          }
+        ],
+        "lists": []
+      },
+      {
+        "id": "page_36_section_1",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_36_standard_4_R_3",
+            "title": "Standard 4.R.3",
+            "level": 2,
+            "content": "Demonstrate mastery of age-appropriate phonics skills.",
+            "subsections": [
+              {
+                "id": "page_36_standard_4_R_3_a",
+                "title": "a.",
+                "level": 3,
+                "content": "Use combined knowledge of all letter-sound correspondences, syllabication patterns, morphology (e.g., roots and affixes), and etymology to accurately read unfamiliar multisyllabic words in context and out of context.",
+                "subsections": []
+              }
+            ]
+          },
+          {
+            "id": "page_36_standard_4_R_4",
+            "title": "Standard 4.R.4",
+            "level": 2,
+            "content": "Read grade-level text* with accuracy and fluency to support comprehension. (RL & RI)",
+            "subsections": []
+          },
+          {
+            "id": "page_36_standard_4_R_5",
+            "title": "Standard 4.R.5",
+            "level": 2,
+            "content": "Refer to details and evidence in a text when explaining what the text says explicitly and when drawing inferences from the text. (RL & RI)",
+            "subsections": []
+          },
+          {
+            "id": "page_36_standard_4_R_6",
+            "title": "Standard 4.R.6",
+            "level": 2,
+            "content": "Read a variety of text types, including those from diverse cultures to determine a theme or main idea and explain how it is supported by key details; summarize texts using textual evidence. (RL & RI)",
+            "subsections": []
+          },
+          {
+            "id": "page_36_standard_4_R_7",
+            "title": "Standard 4.R.7",
+            "level": 2,
+            "content": "Describe in depth a character, setting, or event in a story or drama, drawing on specific details in the text. (RL)\nExplain events, procedures, ideas, or concepts in a historical, scientific, or technical text, including what happened and why, based on specific information in the text. (RI)",
+            "subsections": []
+          },
+          {
+            "id": "page_36_standard_4_R_8",
+            "title": "Standard 4.R.8",
+            "level": 2,
+            "content": "Determine the meaning of words, phrases, figurative language, academic and content-specific words within a text. (RL & RI)",
+            "subsections": []
+          },
+          {
+            "id": "page_36_standard_4_R_9",
+            "title": "Standard 4.R.9",
+            "level": 2,
+            "content": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases, choosing flexibly from a range of strategies. (RL & RI)",
+            "subsections": [
+              {
+                "id": "page_36_standard_4_R_9_a",
+                "title": "a.",
+                "level": 3,
+                "content": "Use context as a clue to the meaning of a word.",
+                "subsections": []
+              },
+              {
+                "id": "page_36_standard_4_R_9_b",
+                "title": "b.",
+                "level": 3,
+                "content": "Use common Greek and Latin affixes and roots as clues to the meaning of a word.",
+                "subsections": []
+              },
+              {
+                "id": "page_36_standard_4_R_9_c",
+                "title": "c.",
+                "level": 3,
+                "content": "Consult reference materials to find the pronunciation and determine or clarify the precise meaning of key words and phrases.",
+                "subsections": []
+              }
+            ]
+          },
+          {
+            "id": "page_36_standard_4_R_10",
+            "title": "Standard 4.R.10",
+            "level": 2,
+            "content": "Analyze and discuss the parts of literary text using terms such as chapter, scene, and stanza. (RL)\nDescribe the overall structure using terms such as sequence, comparison, cause/effect, and problem/solution. (RI)",
+            "subsections": []
+          },
+          {
+            "id": "page_36_standard_4_R_11",
+            "title": "Standard 4.R.11",
+            "level": 2,
+            "content": "Compare the point of view from which different stories are narrated, including the difference between first- and",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_37_section_1",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "third-person narrations. (RL)\nCompare a primary and secondary source on the same event or topic. (RI)",
+        "subsections": []
+      },
+      {
+        "id": "page_37_section_2",
+        "title": "Strand: WRITING (4.W)",
+        "level": 2,
+        "content": "Students will learn to write for a variety of tasks, purposes, and audiences using appropriate grammar/conventions, syntax, and style.",
+        "subsections": []
+      },
+      {
+        "id": "page_38_standard_continuation",
+        "title": "Standard Continuation",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_38_standard_4_w_3",
+        "title": "Standard 4.W.3: Write narrative pieces to develop real or imagined experiences or events using effective technique, descriptive details, clear event sequences, and provide a resolution.",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_38_standard_4_w_4",
+        "title": "Standard 4.W.4: Conduct short research projects to build knowledge through investigation of different aspects of a topic.",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_38_standard_4_w_5",
+        "title": "Standard 4.W.5: Fluently write in cursive and manuscript.",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_39_section_utah_state_standards_p12_ela",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_39_section_standards_grade_5",
+        "title": "STANDARDS: GRADE 5",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_39_subsection_strand_1_speaking_listening",
+            "title": "Strand 1: SPEAKING AND LISTENING (5.SL)",
+            "level": 2,
+            "content": "Students will learn to collaborate, express and listen to ideas, integrate and evaluate information from various sources, use media and visual displays as well as language and grammar strategically to help achieve communicative purposes, and adapt to context and task.",
+            "subsections": []
+          },
+          {
+            "id": "page_39_subsection_strand_2_reading",
+            "title": "Strand 2: READING (5.R)",
+            "level": 2,
+            "content": "Students will learn to proficiently read and comprehend grade-level literature and informational text, including seminal U.S. documents of historical and literary significance, at the high end of the grade-level text complexity band, with scaffolding as needed. *Standard R.4 includes an asterisk to refer educators back to the Text Complexity Grade Bands and Associated Lexile Ranges in the introduction of the standards.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_40_standard_5_R_3",
+        "title": "Standard 5.R.3",
+        "level": 1,
+        "content": "Demonstrate mastery of age-appropriate phonics skills.",
+        "subsections": [
+          {
+            "id": "page_40_standard_5_R_3_a",
+            "title": "a.",
+            "level": 2,
+            "content": "Read and spell all letter-sound correspondences, syllabication patterns, morphology (e.g., roots and affixes), and etymology to accurately read unfamiliar multisyllabic words in context and out of context.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_40_standard_5_R_4",
+        "title": "Standard 5.R.4",
+        "level": 1,
+        "content": "Read grade-level text* with accuracy and fluency to support comprehension. (RL & RI)",
+        "subsections": []
+      },
+      {
+        "id": "page_40_standard_5_R_5",
+        "title": "Standard 5.R.5",
+        "level": 1,
+        "content": "Identify and refer to evidence from a text when explaining what the text says explicitly and when drawing inferences from the text. (RL & RI)",
+        "subsections": []
+      },
+      {
+        "id": "page_40_standard_5_R_6",
+        "title": "Standard 5.R.6",
+        "level": 1,
+        "content": "Determine the theme or main idea of a text including those from diverse cultures and how it is conveyed through particular details and summarize the text. (RL & RI)",
+        "subsections": []
+      },
+      {
+        "id": "page_40_standard_5_R_7",
+        "title": "Standard 5.R.7",
+        "level": 1,
+        "content": "Compare two characters, settings, or events in a story or drama, drawing on specific details in the text. (RL)\nExplain the relationships or interactions between two or more individuals, events, ideas, or concepts in a historical, scientific, or technical text based on specific information in the text. (RI)",
+        "subsections": []
+      },
+      {
+        "id": "page_40_standard_5_R_8",
+        "title": "Standard 5.R.8",
+        "level": 1,
+        "content": "Determine the meaning of words, phrases, figurative language, academic and content-specific words, and analyze their effect on meaning within a text. (RL & RI)",
+        "subsections": []
+      },
+      {
+        "id": "page_40_standard_5_R_9",
+        "title": "Standard 5.R.9",
+        "level": 1,
+        "content": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases, choosing flexibly from a range of strategies. (RL & RI)",
+        "subsections": [
+          {
+            "id": "page_40_standard_5_R_9_a",
+            "title": "a.",
+            "level": 2,
+            "content": "Use context as a clue to the meaning of a word or phrase.",
+            "subsections": []
+          },
+          {
+            "id": "page_40_standard_5_R_9_b",
+            "title": "b.",
+            "level": 2,
+            "content": "Use Greek and Latin affixes and roots as clues to the meaning of a word.",
+            "subsections": []
+          },
+          {
+            "id": "page_40_standard_5_R_9_c",
+            "title": "c.",
+            "level": 2,
+            "content": "Consult reference materials to find the pronunciation and determine the precise meaning of key words and phrases.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_40_standard_5_R_10",
+        "title": "Standard 5.R.10",
+        "level": 1,
+        "content": "Analyze how a series of chapters, scenes, or stanzas fits together to provide the overall structure of a literary text. (RL)\nCompare the overall structure in two or more texts using terms such as sequence, comparison, cause/effect, and problem/solution. (RI)",
+        "subsections": []
+      },
+      {
+        "id": "page_40_standard_5_R_11",
+        "title": "Standard 5.R.11",
+        "level": 1,
+        "content": "Explain how a narrator’s or speaker’s point of view influences how events are described. (RL)\nAnalyze multiple accounts of the same event or topic, noting",
+        "subsections": []
+      },
+      {
+        "id": "page_41_section_reading_standards",
+        "title": "Reading Standards",
+        "level": 1,
+        "content": "",
+        "subsections": [],
+        "lists": [
+          {
+            "id": "page_41_list_reading_standards_r",
+            "type": "unordered",
+            "title": "Reading Standards (R)",
+            "items": [
+              "important similarities and differences in the point of view they represent. (RI)",
+              "**Standard 5.R.12:** Analyze how the visual and multimedia elements contribute to the meaning, tone, or beauty of a text. (RL) Draw on information from multiple sources including media to locate an answer to a question or to solve a problem. (RI)",
+              "**Standard 5.R.13:** Not applicable to RL. Explain how an author uses reasons and evidence to support particular claims in a text, identifying which reasons and evidence support which claims. (RI)",
+              "**Standard 5.R.14:** Compare stories in the same genre on their approaches to similar themes and topics. (RL) Integrate information from several texts on the same topic in order to write or speak about the subject knowledgeably. (RI)"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "page_41_section_writing_strand",
+        "title": "Strand: WRITING (5.W)",
+        "level": 1,
+        "content": "Students will learn to write for a variety of tasks, purposes, and audiences using appropriate grammar/conventions, syntax, and style.",
+        "subsections": [
+          {
+            "id": "page_41_subsection_standard_5_w_1",
+            "title": "Standard 5.W.1",
+            "level": 2,
+            "content": "Write argumentative pieces on topics and/or texts, supporting a point of view with evidence and information, using linking words, phrases, and clauses to connect the claim to the evidence, and provide a concluding section related to the claim presented.",
+            "subsections": [],
+            "lists": [
+              {
+                "id": "page_41_list_standard_5_w_1_components",
+                "type": "unordered",
+                "title": "Components of Standard 5.W.1",
+                "items": [
+                  "a. Introduce a topic, state a claim supported by evidence, and create an organizational structure in which ideas are logically grouped to support the writer's purpose.",
+                  "b. Expand, combine, and reduce sentences for meaning, reader/listener interest, and style to develop the argument.",
+                  "c. Use appropriate conventions when writing including text cohesion, sentence structure, and phrasing."
+                ]
+              }
+            ]
+          },
+          {
+            "id": "page_41_subsection_standard_5_w_2",
+            "title": "Standard 5.W.2",
+            "level": 2,
+            "content": "Write informative/explanatory pieces to examine a topic that links and conveys ideas and information clearly, using words, phrases, and clauses to show the relationship between ideas, paragraphs, and/or sections, and provide a concluding section related to the information or explanation presented.",
+            "subsections": [],
+            "lists": [
+              {
+                "id": "page_41_list_standard_5_w_2_components",
+                "type": "unordered",
+                "title": "Components of Standard 5.W.2",
+                "items": [
+                  "a. Introduce a topic and group related information in paragraphs and/or sections using organizational structures,"
+                ]
+              }
+            ]
+          }
+        ],
+        "lists": []
+      },
+      {
+        "id": "page_42_standard_5_w_3",
+        "title": "Standard 5.W.3: Write narrative pieces to develop real or imagined experiences or events using effective technique, descriptive details, well-structured event sequences, and provide a resolution.",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_42_standard_5_w_3_a",
+            "title": "",
+            "level": 2,
+            "content": "Orient the reader by establishing a situation and introducing a narrator and/or characters; organize an event sequence that unfolds naturally.",
+            "subsections": []
+          },
+          {
+            "id": "page_42_standard_5_w_3_b",
+            "title": "",
+            "level": 2,
+            "content": "Use narrative techniques, such as dialogue, description, and pacing, to develop experiences and events or show the responses of characters to situations.",
+            "subsections": []
+          },
+          {
+            "id": "page_42_standard_5_w_3_c",
+            "title": "",
+            "level": 2,
+            "content": "Use a variety of transitional words, phrases, and clauses to manage the sequence of events.",
+            "subsections": []
+          },
+          {
+            "id": "page_42_standard_5_w_3_d",
+            "title": "",
+            "level": 2,
+            "content": "Use concrete words, phrases, complex sentences, and sensory details to convey experiences and events precisely.",
+            "subsections": []
+          },
+          {
+            "id": "page_42_standard_5_w_3_e",
+            "title": "",
+            "level": 2,
+            "content": "Use appropriate conventions when writing including text cohesion, sentence structure, and phrasing.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_42_standard_5_w_4",
+        "title": "Standard 5.W.4: Conduct short research projects to craft an argument or answer a question.",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_42_standard_5_w_4_a",
+            "title": "",
+            "level": 2,
+            "content": "Gather, summarize, and paraphrase information and provide a list of relevant sources.",
+            "subsections": []
+          },
+          {
+            "id": "page_42_standard_5_w_4_b",
+            "title": "",
+            "level": 2,
+            "content": "Elaborate to demonstrate understanding of the topic under investigation.",
+            "subsections": []
+          },
+          {
+            "id": "page_42_standard_5_w_4_c",
+            "title": "",
+            "level": 2,
+            "content": "Interact and collaborate with others throughout the writing process.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_42_standard_5_w_5",
+        "title": "Standard 5.W.5: Fluently write in cursive and manuscript.",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_43_section_1",
+        "title": "STANDARDS: GRADE 6",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_43_section_1_subsection_1",
+            "title": "Strand 1: SPEAKING AND LISTENING (6.SL)",
+            "level": 2,
+            "content": "Students will learn to collaborate, express and listen to ideas, integrate and evaluate information from various sources, use media and visual displays as well as language and grammar strategically to help achieve communicative purposes, and adapt to context and task.",
+            "subsections": [],
+            "lists": [
+              {
+                "id": "page_43_section_1_subsection_1_list_1",
+                "type": "unordered",
+                "title": "",
+                "items": [
+                  "**Standard 6.SL.1:** Participate effectively in a range of conversations and collaborations on topics, texts, and issues. a. Respectfully acknowledge comments, claims, and evidence from multiple perspectives and identify contradictions when applicable. b. Participate in conversations by posing questions, acknowledging new information, qualifying or justifying responses with reasoning and elaboration, and keeping the discussion on topic.",
+                  "**Standard 6.SL.2:** Interpret credible information presented in various formats and mediums to make informed decisions.",
+                  "**Standard 6.SL.3:** Use appropriate language, grammar, organization, development, and delivery styles appropriate to purpose and audience for formal or informal contexts. a. Use visual displays of data, including digital media, to convey information and engage the audience."
+                ]
+              }
+            ],
+            "key_value_pairs": []
+          },
+          {
+            "id": "page_43_section_1_subsection_2",
+            "title": "Strand 2: READING (6.R)",
+            "level": 2,
+            "content": "Students will learn to proficiently read and comprehend grade-level literature and informational text, including seminal U.S. documents of historical and literary significance, at the high end of the grade-level text complexity band, with scaffolding as needed. *Standard R.4 includes an asterisk to refer educators back to the Text Complexity Grade Bands and Associated Lexile Ranges in the introduction of the standards.",
+            "subsections": [],
+            "lists": [
+              {
+                "id": "page_43_section_1_subsection_2_list_1",
+                "type": "unordered",
+                "title": "",
+                "items": [
+                  "**Standard 6.R.1:** Mastered in preschool.",
+                  "**Standard 6.R.2:** Mastered in grade 3.",
+                  "**Standard 6.R.3:** Mastered in grade 5."
+                ]
+              }
+            ],
+            "key_value_pairs": []
+          }
+        ],
+        "lists": [],
+        "key_value_pairs": []
+      },
+      {
+        "id": "page_44_section_1_utah_state_standards",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_44_standard_6_R_4",
+            "title": "Standard 6.R.4",
+            "level": 2,
+            "content": "Read grade-level text* with accuracy and fluency to support comprehension. (RL & RI)",
+            "subsections": []
+          },
+          {
+            "id": "page_44_standard_6_R_5",
+            "title": "Standard 6.R.5",
+            "level": 2,
+            "content": "Cite textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text. (RL & RI)",
+            "subsections": []
+          },
+          {
+            "id": "page_44_standard_6_R_6",
+            "title": "Standard 6.R.6",
+            "level": 2,
+            "content": "When reading texts, including those from diverse cultures, determine the theme, how characters respond to conflict or how the speaker reflects upon a topic, and summarize the text. (RL)\nWhen reading texts, including those from diverse cultures, determine the main idea of a text, explain how they are supported by key details and summarize the text. (RI)",
+            "subsections": []
+          },
+          {
+            "id": "page_44_standard_6_R_7",
+            "title": "Standard 6.R.7",
+            "level": 2,
+            "content": "Compare two or more characters, settings, or events in a story or drama, drawing on specific details in the text. (RL)\nAnalyze in detail how a key individual, event, or idea is introduced, illustrated, and elaborated in a text. (RI)",
+            "subsections": []
+          },
+          {
+            "id": "page_44_standard_6_R_8",
+            "title": "Standard 6.R.8",
+            "level": 2,
+            "content": "Determine the meaning of words and phrases, including figurative language, connotative meanings, and figures of speech. Analyze the impact of specific word choices on meaning and tone, including words with multiple meanings within a text. (RL & RI)",
+            "subsections": []
+          },
+          {
+            "id": "page_44_standard_6_R_9",
+            "title": "Standard 6.R.9",
+            "level": 2,
+            "content": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases, choosing flexibly from a range of strategies.",
+            "subsections": []
+          },
+          {
+            "id": "page_44_standard_6_R_10",
+            "title": "Standard 6.R.10",
+            "level": 2,
+            "content": "Analyze how a sentence, paragraph, stanza, chapter, scene, or section fits into the overall structure and how it contributes to the development of theme, main idea, settings, or plot. (RL)\nAnalyze how a particular sentence, paragraph, chapter, or section fits into the overall structure of a text and how it contributes to the development of the main idea. (RI)",
+            "subsections": []
+          },
+          {
+            "id": "page_44_standard_6_R_11",
+            "title": "Standard 6.R.11",
+            "level": 2,
+            "content": "Explain how an author's perspective develops the point of view of the narrator or speaker in multiple texts. (RL)",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_45_section_utah_standards_ela",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "Analyze how the author distinguishes a perspective and/or position from that of others. (RI)",
+        "subsections": [
+          {
+            "id": "page_45_subsection_strand_3_writing",
+            "title": "Strand 3: WRITING (6.W)",
+            "level": 2,
+            "content": "Students will learn to write for a variety of tasks, purposes, and audiences using appropriate grammar/conventions, syntax, and style.",
+            "subsections": [],
+            "lists": [
+              {
+                "id": "page_45_list_6w_standards",
+                "type": "unordered",
+                "title": "",
+                "items": [
+                  "Standard 6.W.1: Write arguments to support claims with clear reasons and relevant evidence, and provide a concluding section related to the argument presented. a. Introduce claims supported by evidence from credible sources, and create an organizational structure in which claims are logically grouped to support the writer’s purpose. b. Use words, phrases, and clauses to clarify the relationships among claims and evidence. c. Use appropriate conventions and style for the audience, purpose, and task.",
+                  "Standard 6.W.2: Write informative/explanatory texts to examine a topic that conveys ideas and information clearly and provide a concluding section that supports the information or explanation presented. a. Introduce a topic; organize ideas, concepts, and information, using structures such as definition, classification, comparison/contrast, and cause/effect; include formatting, graphics, and multimedia when useful. b. Develop the topic with relevant facts, definitions, concrete details, quotations, and examples. c. Use appropriate transitions to clarify the relationships among ideas and concepts."
+                ]
+              }
+            ],
+            "key_value_pairs": []
+          }
+        ],
+        "lists": [
+          {
+            "id": "page_45_list_6r_standards",
+            "type": "unordered",
+            "title": "",
+            "items": [
+              "Standard 6.R.12: Compare how different mediums, including print and digital media, contribute to the understanding of a text. (RL & RI)",
+              "Standard 6.R.13: Not applicable to RL. Evaluate the argument and specific claims in a text, distinguishing claims that are supported by reasons and evidence from claims that are not. (RI)",
+              "Standard 6.R.14: Compare texts across different mediums or genres in terms of their approaches to similar themes and topics. (RL) Compare one author’s presentation of events with that of another. (RI)"
+            ]
+          }
+        ],
+        "key_value_pairs": []
+      },
+      {
+        "id": "page_46_section_ela_standards_title",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_46_standard_6_w_3",
+            "title": "Standard 6.W.3: Write narrative texts to develop real or imagined experiences or events using effective technique, relevant descriptive details, well-structured event sequences, and provide a resolution.",
+            "level": 2,
+            "content": "Write narrative texts to develop real or imagined experiences or events using effective technique, relevant descriptive details, well-structured event sequences, and provide a resolution.",
+            "subsections": []
+          },
+          {
+            "id": "page_46_standard_6_w_4",
+            "title": "Standard 6.W.4: Conduct short research projects to craft an argument or answer a question.",
+            "level": 2,
+            "content": "Conduct short research projects to craft an argument or answer a question.",
+            "subsections": []
+          },
+          {
+            "id": "page_46_standard_6_w_5",
+            "title": "Standard 6.W.5: Mastered in grade 5.",
+            "level": 2,
+            "content": "Mastered in grade 5.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_47_section_ela_title",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_47_section_grades_7_8",
+        "title": "STANDARDS: GRADES 7–8",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_47_section_strand_1_sl",
+            "title": "Strand 1: SPEAKING AND LISTENING (7–8.SL)",
+            "level": 2,
+            "content": "Students will learn to collaborate, express and listen to ideas, integrate and evaluate information from various sources, use media and visual displays as well as language and grammar strategically to help achieve communicative purposes, and adapt to context and task.",
+            "subsections": []
+          },
+          {
+            "id": "page_47_section_strand_2_r",
+            "title": "Strand 2: READING (7–8.R)",
+            "level": 2,
+            "content": "Students will learn to proficiently read and comprehend grade-level literature and informational text, including seminal U.S. documents of historical and literary significance, at the high end of the grade-level text complexity band, with scaffolding as needed. *Standard R.4 includes an asterisk to refer educators back to the Text Complexity Grade Bands and Associated Lexile Ranges in the introduction of the standards.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_48_section_1",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_48_section_1_subsection_1",
+            "title": "Standard 7–8.R.3",
+            "level": 2,
+            "content": "Mastered in grade 5.",
+            "subsections": []
+          },
+          {
+            "id": "page_48_section_1_subsection_2",
+            "title": "Standard 7–8.R.4",
+            "level": 2,
+            "content": "Read grade-level text* with accuracy and fluency to support comprehension. (RL & RI)",
+            "subsections": []
+          },
+          {
+            "id": "page_48_section_1_subsection_3",
+            "title": "Standard 7–8.R.5",
+            "level": 2,
+            "content": "Cite textual evidence that supports an analysis of what the text says explicitly as well as inferences drawn from the text. (RL & RI)",
+            "subsections": []
+          },
+          {
+            "id": "page_48_section_1_subsection_4",
+            "title": "Standard 7–8.R.6",
+            "level": 2,
+            "content": "When reading texts, including those from diverse cultures, determine a theme, analyze its development including its relationship to the characters, settings, and plot, and provide an objective summary that includes textual evidence. (RL)\nWhen reading texts, including those from diverse cultures, determine the main idea, analyze its relationship to supporting ideas, and provide an objective summary that includes textual evidence. (RI)",
+            "subsections": []
+          },
+          {
+            "id": "page_48_section_1_subsection_5",
+            "title": "Standard 7–8.R.7",
+            "level": 2,
+            "content": "Analyze the impact of character and plot development on the overall story or drama. (RL)\nAnalyze a complex set of ideas or sequence of events and explain how specific individuals, ideas, or events interact and develop over the course of the text. (RI)",
+            "subsections": []
+          },
+          {
+            "id": "page_48_section_1_subsection_6",
+            "title": "Standard 7–8.R.8",
+            "level": 2,
+            "content": "Determine the meaning of words and phrases, including figurative, connotative, and technical meanings. Analyze the impact of specific word choices on meaning, tone, and mood, including words with multiple meanings within a text. (RL & RI)",
+            "subsections": []
+          },
+          {
+            "id": "page_48_section_1_subsection_7",
+            "title": "Standard 7–8.R.9",
+            "level": 2,
+            "content": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases, choosing flexibly from a range of strategies. (RL & RI)\na. Determine and consult appropriate reference materials to find the pronunciation of a word or determine its precise meaning or its part of speech.",
+            "subsections": []
+          },
+          {
+            "id": "page_48_section_1_subsection_8",
+            "title": "Standard 7–8.R.10",
+            "level": 2,
+            "content": "Analyze the structure an author uses to organize a text, and how it contributes to the text meaning. (RL & RI)",
+            "subsections": []
+          },
+          {
+            "id": "page_48_section_1_subsection_9",
+            "title": "Standard 7–8.R.11",
+            "level": 2,
+            "content": "Analyze how an author develops and contrasts the points of view of different characters or narrators in a text and how this creates a variety of effects (e.g., humor, sadness, suspense). (RL)\nDetermine an author’s point of view or purpose in a text",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_49_section_utah_standards_ela",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "and analyze how the author distinguishes their position from that of others and responds to conflicting evidence or viewpoints. (RI)",
+        "subsections": []
+      },
+      {
+        "id": "page_49_section_strand_3_writing",
+        "title": "Strand 3: WRITING (7-8.W)",
+        "level": 2,
+        "content": "Students will learn to write for a variety of tasks, purposes, and audiences using appropriate grammar/conventions, syntax, and style.",
+        "subsections": []
+      },
+      {
+        "id": "page_50_section_ela_standards_main",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_50_section_standard_7_8_w_3",
+            "title": "Standard 7-8.W.3: Write narrative texts to develop real or imagined experiences or events using effective technique, well-structured event sequences, descriptive details, and provide a logical resolution.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_50_section_standard_7_8_w_4",
+            "title": "Standard 7-8.W.4: Conduct short research projects to craft an argument, answer a question, or provide an analysis.",
+            "level": 2,
+            "content": "",
+            "subsections": []
+          },
+          {
+            "id": "page_50_section_standard_7_8_w_5",
+            "title": "Standard 7-8.W.5:",
+            "level": 2,
+            "content": "Mastered in grade 5.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_51_section_1",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_51_section_2",
+        "title": "STANDARDS: GRADES 9-10",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_51_section_2_subsection_1",
+            "title": "Strand 1: SPEAKING AND LISTENING (9-10.SL)",
+            "level": 2,
+            "content": "Students will learn to collaborate, express and listen to ideas, integrate and evaluate information from various sources, use media and visual displays as well as language and grammar strategically to help achieve communicative purposes, and adapt to context and task.\nStandard 9-10.SL.1: Participate effectively in a range of conversations and collaborations on topics, texts, and issues.\na. Respond thoughtfully to diverse perspectives in democratic discussions that involve decision-making and role-taking; synthesize comments, claims, and evidence.\nb. Participate in conversations by asking and responding to questions and provide the opportunity to consider a range of perspectives and clarify, verify, or challenge ideas and conclusions with evidence.\nc. Identify contradictions when applicable, and determine if additional information or research is required to deepen the investigation or conversation.\nStandard 9-10.SL.2: Interpret and evaluate the credibility of multiple sources of information presented in various formats and mediums to solve problems and make informed decisions.\nStandard 9-10.SL.3: Use appropriate language, grammar, organization, development, and delivery styles appropriate to purpose and audience for formal or informal contexts.\na. Convey a clear perspective by concisely presenting and citing information, findings, and supporting evidence so that listeners can follow the line of reasoning.",
+            "subsections": []
+          },
+          {
+            "id": "page_51_section_2_subsection_2",
+            "title": "Strand 2: READING (9-10.R)",
+            "level": 2,
+            "content": "Students will learn to proficiently read and comprehend grade-level literature and informational text, including seminal U.S. documents of historical and literary significance, at the high end of the grade-level text complexity band, with scaffolding as needed. Standard R.4 includes an asterisk to refer educators back to the Text Complexity Grade Bands and Associated Lexile Ranges in the introduction of the standards.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_52_section_1",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_53_section_1",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_53_section_2",
+        "title": "Strand 3: WRITING (9-10.W)",
+        "level": 2,
+        "content": "Students will learn to write for a variety of tasks, purposes, and audiences using appropriate grammar/conventions, syntax, and style.",
+        "subsections": []
+      },
+      {
+        "id": "page_54_section_1",
+        "title": "Page 54 Content",
+        "level": 1,
+        "content": "# UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS\n\nfrom accurate, credible sources for each; point out the strengths and limitations that consider the audience.\nc. Use words, phrases, and clauses to link the major sections of the text, create cohesion, and clarify the relationships between claims and reasons, between reasons and evidence, and between claims and counterclaims.\nd. Use appropriate conventions and style for the audience, purpose, and task.\n\n■ **Standard 9–10.W.2:** Write informative/explanatory texts to examine and convey related ideas and information clearly and accurately through the effective selection, organization, and analysis of content, and provide a conclusion that follows from and supports the information or explanation presented.\na. Introduce a topic; organize related ideas and information to make important connections and distinctions; utilize formatting, graphics, and multimedia to show relationships.\nb. Develop the topic with relevant facts, extended definitions, concrete details, quotations, and examples.\nc. Use appropriate and varied transitions to link the major sections of the text, create cohesion, and clarify the relationships among related ideas.\nd. Use precise language and content-specific vocabulary to clarify the relationships of the ideas.\ne. Use appropriate conventions and style for the audience, purpose, and task.\n\n■ **Standard 9–10.W.3:** Write narrative texts to develop real or imagined experiences or events using effective technique, well-structured event sequences, well-chosen details, and provide a resolution that connects to what is experienced, observed, or resolved over the course of the narrative.\na. Engage and orient the reader by describing a problem, situation, or observation.\nb. Establish one or multiple point(s) of view, and introduce a setting, narrator and/or characters.\nc. Use narrative techniques such as dialogue, pacing, description, reflection, and multiple plot lines, to develop characters and well-structured event sequences.\nd. Utilize varied syntax techniques and descriptive language to create a mood and tone appropriate to purpose, task, and audience.\ne. Use appropriate conventions and style for the audience, purpose, and task.\n\nP-12 ENGLISH LANGUAGE ARTS | &lt;page_number&gt;40&lt;/page_number&gt;",
+        "subsections": []
+      },
+      {
+        "id": "page_55_section_utah_standards_ela",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_55_subsection_standard_9_10_w_4",
+            "title": "Standard 9–10.W.4",
+            "level": 2,
+            "content": "Conduct more sustained research projects to craft an argument, answer a question, or provide an analysis.",
+            "subsections": []
+          },
+          {
+            "id": "page_55_subsection_standard_9_10_w_5",
+            "title": "Standard 9–10.W.5",
+            "level": 2,
+            "content": "Mastered in grade 5.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_56_section_utah_standards_ela",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": []
+      },
+      {
+        "id": "page_56_section_standards_grades_11_12",
+        "title": "STANDARDS: GRADES 11-12",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_56_subsection_strand_1_speaking_listening",
+            "title": "Strand 1: SPEAKING AND LISTENING (11-12.SL)",
+            "level": 2,
+            "content": "Students will learn to collaborate, express and listen to ideas, integrate and evaluate information from various sources, use media and visual displays as well as language and grammar strategically to help achieve communicative purposes, and adapt to context and task.",
+            "subsections": [],
+            "lists": [
+              {
+                "id": "page_56_strand_1_standards_list",
+                "type": "unordered",
+                "title": "Speaking and Listening Standards",
+                "items": [
+                  "Standard 11-12.SL.1: Participate effectively in a range of conversations and collaborations on topics, texts, and issues.",
+                  "a. Respond thoughtfully to diverse perspectives in democratic discussions that involve decision-making and role-taking; resolve claims and evidence.",
+                  "b. Participate in conversations by asking and responding to questions that examine reasoning and evidence, ensuring the opportunity to consider a range of perspectives, and clarify, verify, or challenge ideas and conclusions with evidence.",
+                  "c. Resolve contradictions when applicable, and determine if additional information or research is required to deepen the investigation or conversation.",
+                  "Standard 11-12.SL.2: Interpret, evaluate, and integrate multiple sources of information presented in various formats and mediums to verify the credibility and accuracy of each source, and note any discrepancies among the data in order to make informed decisions.",
+                  "Standard 11-12.SL.3: Use appropriate language, grammar, organization, development, and delivery styles appropriate to purpose and audience for formal or informal contexts.",
+                  "a. Strategically use visual displays of data and digital media, to convey information and enhance understanding of presentations."
+                ]
+              }
+            ]
+          },
+          {
+            "id": "page_56_subsection_strand_2_reading",
+            "title": "Strand 2: READING (11-12.R)",
+            "level": 2,
+            "content": "Students will learn to proficiently read and comprehend grade-level literature and informational text, including seminal U.S. documents of historical and literary significance, at the high end of the grade-level text complexity band, with scaffolding as needed. *Standard R.4 includes an",
+            "subsections": [],
+            "lists": []
+          }
+        ],
+        "lists": []
+      },
+      {
+        "id": "page_57_section_1",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "*asterisk to refer educators back to the Text Complexity Grade Bands and Associated Lexile Ranges in the introduction of the standards.*",
+        "subsections": []
+      },
+      {
+        "id": "page_58_section_ela_standards",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_58_standard_11_12_r_10",
+            "title": "Standard 11-12.R.10",
+            "level": 2,
+            "content": "Analyze and evaluate the effectiveness of structures across multiple texts about similar topics/themes, including whether the structures make points or events clear, effective, convincing, or engaging. (RL & RI)",
+            "subsections": []
+          },
+          {
+            "id": "page_58_standard_11_12_r_11",
+            "title": "Standard 11-12.R.11",
+            "level": 2,
+            "content": "Analyze how an author’s geographic location, identity or background, culture, and time period affect the perspective, point of view, purpose, and implicit/explicit messages of a collective body of work. (RL & RI)",
+            "subsections": []
+          },
+          {
+            "id": "page_58_standard_11_12_r_12",
+            "title": "Standard 11-12.R.12",
+            "level": 2,
+            "content": "Analyze how a subject and/or content is presented in two or more mediums by determining which details are emphasized, altered, or absent in each account and how these details influence audiences’ experiences and interpretations. (RL & RI)",
+            "subsections": []
+          },
+          {
+            "id": "page_58_standard_11_12_r_13",
+            "title": "Standard 11-12.R.13",
+            "level": 2,
+            "content": "Not applicable to RL. Delineate and evaluate arguments and specific claims across multiple texts on the same subject, assessing the validity or fallacy of key statements by examining whether the supporting evidence is relevant and sufficient. Recognize when irrelevant evidence is introduced. (RI)",
+            "subsections": []
+          },
+          {
+            "id": "page_58_standard_11_12_r_14",
+            "title": "Standard 11-12.R.14",
+            "level": 2,
+            "content": "Analyze two or more texts of literary significance across and within time periods with similar topics and themes, drawing on their purposes, stylistic choices, and rhetorical features. (RL) Analyze and evaluate works of cultural significance for the way in which these works treat similar themes, conflicts, issues, or topics, and maintain relevance for current audiences. (RI)",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_58_section_strand_3_writing",
+        "title": "Strand 3: WRITING (11-12.W)",
+        "level": 1,
+        "content": "Students will learn to write for a variety of tasks, purposes, and audiences using appropriate grammar/conventions, syntax, and style.",
+        "subsections": [
+          {
+            "id": "page_58_standard_11_12_w_1",
+            "title": "Standard 11-12.W.1",
+            "level": 2,
+            "content": "Write arguments to support claims in an analysis of complex topics or texts, using logical reasoning and relevant,",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_59_section_1",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "sufficient evidence, and provide a conclusion that follows from and supports the argument presented.",
+        "subsections": [
+          {
+            "id": "page_59_section_1_a",
+            "title": "",
+            "level": 2,
+            "content": "a. Introduce claims, establish the significance of the claims, distinguish the claims from alternate or opposing claims, and create an organization that logically sequences claims, counterclaims, reasons, and evidence.",
+            "subsections": []
+          },
+          {
+            "id": "page_59_section_1_b",
+            "title": "",
+            "level": 2,
+            "content": "b. Develop claims and counterclaims by interpreting the most relevant evidence from accurate, credible sources for each; elaborate on the strengths and limitations that anticipate the audience.",
+            "subsections": []
+          },
+          {
+            "id": "page_59_section_1_c",
+            "title": "",
+            "level": 2,
+            "content": "c. Use words, phrases, and clauses as well as varied syntax to link the major sections of the text, create cohesion, and clarify the relationships between claims and reasons, between reasons and evidence, and between claims and counterclaims.",
+            "subsections": []
+          },
+          {
+            "id": "page_59_section_1_d",
+            "title": "",
+            "level": 2,
+            "content": "d. Use appropriate conventions and style for the audience, purpose, and task.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_59_section_2",
+        "title": "Standard 11-12.W.2",
+        "level": 1,
+        "content": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content, and provide a conclusion that follows from and supports the information or explanation presented.",
+        "subsections": [
+          {
+            "id": "page_59_section_2_a",
+            "title": "",
+            "level": 2,
+            "content": "a. Introduce a topic; organize complex ideas and information so that each new element builds on that which precedes it to create a unified whole; utilize formatting, graphics, and multimedia to illustrate complexities.",
+            "subsections": []
+          },
+          {
+            "id": "page_59_section_2_b",
+            "title": "",
+            "level": 2,
+            "content": "b. Develop the topic thoroughly with relevant and sufficient facts, extended definitions, concrete details, quotations, examples, and figurative language.",
+            "subsections": []
+          },
+          {
+            "id": "page_59_section_2_c",
+            "title": "",
+            "level": 2,
+            "content": "c. Use appropriate and varied transitions and syntax to link the major sections of the text, create cohesion, and clarify the relationships among complex ideas.",
+            "subsections": []
+          },
+          {
+            "id": "page_59_section_2_d",
+            "title": "",
+            "level": 2,
+            "content": "d. Use precise language and content-specific vocabulary to clarify the complexity of the ideas.",
+            "subsections": []
+          },
+          {
+            "id": "page_59_section_2_e",
+            "title": "",
+            "level": 2,
+            "content": "e. Use appropriate conventions and style for the audience, purpose, and task.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_59_section_3",
+        "title": "Standard 11-12.W.3",
+        "level": 1,
+        "content": "Write narrative texts to develop real or imagined experiences or events using effective technique, well-structured event sequences, well-chosen details, and provide a resolution with closure.",
+        "subsections": [
+          {
+            "id": "page_59_section_3_a",
+            "title": "",
+            "level": 2,
+            "content": "a. Engage and orient the reader by describing a complex problem, situation, or observation.",
+            "subsections": []
+          },
+          {
+            "id": "page_59_section_3_b",
+            "title": "",
+            "level": 2,
+            "content": "b. Establish one or multiple point(s) of view, and develop a setting, narrator and/or characters.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_60_section_1",
+        "title": "UTAH STATE STANDARDS for P-12 ENGLISH LANGUAGE ARTS",
+        "level": 1,
+        "content": "",
+        "subsections": [
+          {
+            "id": "page_60_subsection_1",
+            "title": "",
+            "level": 2,
+            "content": "c. Apply narrative techniques, such as dialogue, pacing, description, reflection, flashback, and multiple plot lines to develop characters and well-structured event sequences.",
+            "subsections": []
+          },
+          {
+            "id": "page_60_subsection_2",
+            "title": "",
+            "level": 2,
+            "content": "d. Utilize varied syntax techniques and descriptive language to create a mood and tone appropriate to purpose, task, and audience.",
+            "subsections": []
+          },
+          {
+            "id": "page_60_subsection_3",
+            "title": "",
+            "level": 2,
+            "content": "e. Use appropriate conventions and style for the audience, purpose, and task.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_60_section_2",
+        "title": "Standard 11-12.W.4:",
+        "level": 1,
+        "content": "Conduct research projects to craft an argument, answer a question, or provide an analysis.",
+        "subsections": [
+          {
+            "id": "page_60_subsection_4",
+            "title": "",
+            "level": 2,
+            "content": "a. Gather, assess, and synthesize information from credible sources on the topic.",
+            "subsections": []
+          },
+          {
+            "id": "page_60_subsection_5",
+            "title": "",
+            "level": 2,
+            "content": "b. Evaluate the evidence and generate ideas to demonstrate understanding of the topic and purpose.",
+            "subsections": []
+          },
+          {
+            "id": "page_60_subsection_6",
+            "title": "",
+            "level": 2,
+            "content": "c. Avoid plagiarism by quoting, paraphrasing, and citing, using a standard format for citation of evidence.",
+            "subsections": []
+          },
+          {
+            "id": "page_60_subsection_7",
+            "title": "",
+            "level": 2,
+            "content": "d. Interact and collaborate with others throughout the writing process.",
+            "subsections": []
+          }
+        ]
+      },
+      {
+        "id": "page_60_section_3",
+        "title": "Standard 11-12.W.5:",
+        "level": 1,
+        "content": "Mastered in grade 5.",
+        "subsections": []
+      },
+      {
+        "id": "page_62_section_1",
+        "title": "Utah State Board of Education",
+        "level": 1,
+        "content": "250 East 500 South\nP.O. Box 144200\nSalt Lake City, UT 84114-4200\n\nSydnee Dickson, Ed.D.\nState Superintendent of Public Instruction\n\nwww.schools.utah.gov",
+        "subsections": []
+      }
+    ],
+    "summary": {
+      "main_topics": [],
+      "key_findings": [],
+      "action_items": [],
+      "important_dates": []
+    },
+    "tables": [
+      {
+        "id": "page_5_table_1",
+        "title": "Utah State Board of Education Members",
+        "headers": [
+          "District",
+          "Name",
+          "City"
+        ],
+        "rows": [
+          [
+            "District 1",
+            "Jennie L. Earl",
+            "Morgan, UT"
+          ],
+          [
+            "District 2",
+            "Joseph Kerry",
+            "Ogden, UT"
+          ],
+          [
+            "District 3",
+            "Brent Strate",
+            "South Ogden, UT"
+          ],
+          [
+            "District 4",
+            "Leann Wood",
+            "Kaysville, UT"
+          ],
+          [
+            "District 5",
+            "Sarah Reale",
+            "Salt Lake City, UT"
+          ],
+          [
+            "District 6",
+            "Carol Barlow Lear",
+            "Salt Lake City, UT"
+          ],
+          [
+            "District 7",
+            "Molly Hart",
+            "Sandy, UT"
+          ],
+          [
+            "District 8",
+            "Christina Boggess",
+            "Taylorsville, UT"
+          ],
+          [
+            "District 9",
+            "Natalie Cline",
+            "Bluffdale, UT"
+          ],
+          [
+            "District 10",
+            "Matt Hymas",
+            "Magna, UT"
+          ],
+          [
+            "District 11",
+            "Cindy Davis",
+            "Cedar Hills, UT"
+          ],
+          [
+            "District 12",
+            "James Moss Jr.",
+            "Midway, UT"
+          ],
+          [
+            "District 13",
+            "Randy Boothe",
+            "Spanish Fork, UT"
+          ],
+          [
+            "District 14",
+            "Emily Green",
+            "Cedar City, UT"
+          ],
+          [
+            "District 15",
+            "Kristan Norton",
+            "St. George, UT"
+          ],
+          [
+            "",
+            "Sydnee Dickson",
+            "State Superintendent of Public Instruction"
+          ]
+        ]
+      },
+      {
+        "id": "page_10_table_1",
+        "title": "Speech Development Progression Chart (age in years)",
+        "headers": [
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "rows": [
+          [
+            "/p/ as in pop",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "/m/ as in met",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "/h/ as in hot",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "/n/ as in no",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "/w/ as in will",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "/b/ as in book",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "/k/ as in cab",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "/g/ as in got",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "/d/ as in dock",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "/t/ as in tap",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "/ng/ as in sing",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      {
+        "id": "page_11_table_1",
+        "title": "",
+        "headers": [
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "rows": [
+          [
+            "",
+            "",
+            "",
+            "/ch/ as<br>in chop",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "/sh/ as<br>in shock",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "/z/ as in<br>zoom",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "/j/ as in<br>jump",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "/v/ as in<br>van",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "/th/ as in<br>think",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "/th/ as in<br>the",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "/zh/ as<br>in beige",
+            ""
+          ]
+        ]
+      },
+      {
+        "id": "page_12_table_1",
+        "title": "Text Complexity Grade Bands and Associated Lexile Ranges",
+        "headers": [
+          "Text Complexity Grade Band",
+          "Lexile Range"
+        ],
+        "rows": [
+          [
+            "K-1",
+            "N/A"
+          ],
+          [
+            "2-3",
+            "450-790"
+          ],
+          [
+            "4-5",
+            "770-980"
+          ],
+          [
+            "6-8",
+            "955-1155"
+          ],
+          [
+            "9-10",
+            "1080-1305"
+          ],
+          [
+            "11-12",
+            "1215-1355"
+          ]
+        ]
+      }
+    ],
+    "lists": [
+      {
+        "id": "page_9_list_1",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "The standards were reduced, simplified, and clarified.",
+          "Phonological Awareness was added in grades 2 and 3.",
+          "The Reading Literature (RL) and Reading Informational (RI) standards were combined where it was most logical.",
+          "The language strand of standards was woven throughout the speaking and listening, reading, and writing strands.",
+          "Much like 9-10 and 11-12, 7th and 8th grade standards were banded.",
+          "References to specific texts were removed from the standards in an effort to broaden representation and enhance local control over curricular choices."
+        ]
+      },
+      {
+        "id": "page_15_list_strand_1_standards",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "**Standard P3.SL.1:** With prompting and support, participate in conversations with peers and adults.",
+          "a. Begin to recognize rules for discussion such as listening to others, staying on topic, and taking turns speaking.",
+          "b. Follow one-step directions.",
+          "**Standard P3.SL.2:** With prompting and support, speak clearly and audibly enough to be understood by familiar adults to communicate wants and needs.",
+          "**Standard P3.SL.3:** With prompting and support, use age-appropriate language, grammar, volume, and pronunciation when speaking or presenting."
+        ]
+      },
+      {
+        "id": "page_15_list_strand_2_standards",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "**Standard P3.R.1:** Demonstrate mastery of age-appropriate concepts of print.",
+          "a. With prompting and support, correctly hold a book and recognize that print is read from top to bottom, left to right, and from front to back.",
+          "b. With prompting and support, begin to recognize frequently seen letters and words, and recognize own name in print.",
+          "**Standard P3.R.2:** Demonstrate mastery of age-appropriate phonological awareness skills."
+        ]
+      },
+      {
+        "id": "page_17_list_1",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "With prompting and support, interact and collaborate with others."
+        ]
+      },
+      {
+        "id": "page_17_list_2",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "**Standard P3.W.5:** With prompting and support, print some age-appropriate prewriting strokes."
+        ]
+      },
+      {
+        "id": "page_19_list_initial_phonics_skills",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Identify initial sounds in spoken language.",
+          "Identify the base parts that make up a compound word.",
+          "With prompting and support, blend and segment initial sounds of single-syllable spoken words.",
+          "With prompting and support, blend and segment single-syllable words into individual phonemes."
+        ]
+      },
+      {
+        "id": "page_19_list_reading_standards_p4r",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Standard P4.R.3: Demonstrate mastery of age-appropriate phonics skills. a. Identify 13 or more of the consonant names and sounds using one-to-one letter-sound correspondence (alphabetic principle). b. Identify three or more vowel names and short vowel sounds using one-to-one letter-sound correspondence (alphabetic principle).",
+          "Standard P4.R.4: Begins in kindergarten.",
+          "Standard P4.R.5: With prompting and support, ask and answer questions and make connections about a text. (RL & RI)",
+          "Standard P4.R.6-7: With prompting and support, retell simple texts, including event sequence and characters. (RL & RI)",
+          "Standard P4.R.8: With prompting and support, begin to ask and answer questions about unknown words in a text. (RL & RI)",
+          "Standard P4.R.9: Begins in kindergarten.",
+          "Standard P4.R.10: Begins in grade 1.",
+          "Standard P4.R.11: Begins in grade 4.",
+          "Standard P4.R.12: Begins in grade 2.",
+          "Standard P4.R.13: Begins in grade 2.",
+          "Standard P4.R.14: Begins in grade 2."
+        ]
+      },
+      {
+        "id": "page_19_list_writing_standards_p4w",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Standard P4.W.1: Verbally share an opinion and visually represent that opinion using simple drawing and writing (e.g., scribble writing with letter-like formations).",
+          "Standard P4.W.2: Verbally share information and visually represent that"
+        ]
+      },
+      {
+        "id": "page_20_list_1",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "**Standard P4.W.3:** Verbally share a narrative and visually represent that narrative using simple drawing and writing (e.g., scribble writing with letter-like formations).",
+          "**Standard P4.W.4:** Participate in shared writing projects.",
+          "a. Recall information from experiences or learned information and share it with others.",
+          "b. Interact and collaborate with others.",
+          "**Standard P4.W.5:** Print some mock letters, scribbles, or manuscript letters, including those in own name."
+        ]
+      },
+      {
+        "id": "page_22_intro_list_item_d",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "d. Pronounce, blend, and segment phonemes in 2-3 phoneme words—except for CVC words ending with /l/, /r/, or /k/ /s/ for the letter x."
+        ]
+      },
+      {
+        "id": "page_24_list_strand_1_standards",
+        "type": "unordered",
+        "title": "Standards for Strand 1: SPEAKING AND LISTENING (1.SL)",
+        "items": [
+          "**Standard 1.SL.1:** Participate effectively in a range of conversations with various partners, using age-appropriate vocabulary on topics and texts.",
+          "a. Continue a conversation through multiple exchanges while using appropriate tone and body language.",
+          "b. Express own ideas clearly in small and large groups and build on others’ ideas.",
+          "**Standard 1.SL.2:** Speak clearly and audibly while expressing thoughts, emotions, and ideas while asking and answering questions.",
+          "**Standard 1.SL.3:** Use age-appropriate language, grammar, volume, and clear pronunciation when speaking or presenting and use visual displays, when appropriate, to describe or clarify information to others."
+        ]
+      },
+      {
+        "id": "page_24_list_strand_2_standards",
+        "type": "unordered",
+        "title": "Standards for Strand 2: : READING (1.R)",
+        "items": [
+          "**Standard 1.R.1:** Mastered in preschool.",
+          "**Standard 1.R.2:** Demonstrate mastery of age-appropriate phonological awareness skills.",
+          "a. Add, delete, and substitute initial and final phonemes in single-syllable words including blends.",
+          "b. Isolate, pronounce, blend, and segment sounds in 4–5 phoneme words, including blends."
+        ]
+      },
+      {
+        "id": "page_29_list_1",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Use sentence-level context as a clue to the meaning of a word.",
+          "Determine the meaning of a new word when a known prefix or root is used.",
+          "Predict the meaning of compound words using knowledge of the meaning of the individual words.",
+          "Use glossaries and dictionaries to determine the meaning of words and phrases."
+        ]
+      },
+      {
+        "id": "page_29_list_2",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Standard 2.R.10: Describe the overall literary and informational text structure to locate facts, details, and information efficiently. (RL & RI)",
+          "Standard 2.R.11: Begins in grade 4.",
+          "Standard 2.R.12: Demonstrate understanding of story elements and/or topics by applying information gained from illustrations or text features. (RL & RI)",
+          "Standard 2.R13: Not applicable for RL. Explain how specific points an author or illustrator makes in a text are supported by relevant reasons and evidence. (RI)",
+          "Standard 2.R.14: Compare two or more versions of the same text from different cultures and the most important points presented by two texts on the same topic. (RL & RI)"
+        ]
+      },
+      {
+        "id": "page_29_list_3",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "Standard 2.W.1: Write opinion pieces that introduce the topic, state an opinion, supply evidence that supports the opinion, use linking words to connect opinion and evidence, and provide a concluding statement. a. Write, produce, expand, and rearrange complete simple and compound sentences. b. Use appropriate conventions when writing.",
+          "Standard 2.W.2: Write informative/explanatory pieces that introduce a topic, supply facts and definitions to develop points, and provide a concluding statement. a. Write, produce, expand, and rearrange complete simple and compound sentences."
+        ]
+      },
+      {
+        "id": "page_31_list_standard_3_sl_1_subpoints",
+        "type": "unordered",
+        "title": "Sub-points for Standard 3.SL.1",
+        "items": [
+          "a. Respectfully acknowledge and respond to others' perspectives during discussions.",
+          "b. Recognize that comments and claims may include two perspectives.",
+          "c. Participate in conversations by asking questions, acknowledging new information, connecting responses, and keeping the discussion on topic."
+        ]
+      },
+      {
+        "id": "page_31_list_standard_3_sl_3_subpoints",
+        "type": "unordered",
+        "title": "Sub-points for Standard 3.SL.3",
+        "items": [
+          "a. Present information, stories, or opinions, sequencing ideas logically and use relevant descriptions, facts, and details to elaborate on main ideas and themes."
+        ]
+      },
+      {
+        "id": "page_32_list_1",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Reversal of phonemes.",
+          "Phoneme chaining including addition, deletion, and substitution at all word positions (initial, final, and medial)."
+        ]
+      },
+      {
+        "id": "page_32_standard_3_R_3_list_1",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Identify and begin using the combined knowledge of all letter-sound correspondences, syllabication patterns, morphology (e.g., roots and affixes), and etymology to accurately read unfamiliar multisyllabic words in and out of context.",
+          "Read and spell words with all six syllable types (i.e., open, closed, CVCe, vowel team, vowel-r, consonant -le) in multisyllabic words.",
+          "Identify and know the meaning of the most common prefixes and derivational suffixes.",
+          "Identify the unaccented syllable in multisyllabic words (e.g., nation, active, atomic) when reading and spelling.",
+          "Read and spell common irregular words."
+        ]
+      },
+      {
+        "id": "page_32_standard_3_R_9_list_1",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Use sentence-level context as a clue to the meaning of a word or phrase."
+        ]
+      },
+      {
+        "id": "page_33_list_reading_continuation",
+        "type": "ordered",
+        "title": "Reading Standards continuation",
+        "items": [
+          "Determine the meaning of a new word when a known affix or root is used.",
+          "Use glossaries or dictionaries to determine or clarify the precise meaning of key words and phrases."
+        ]
+      },
+      {
+        "id": "page_33_list_standard_3_R_10",
+        "type": "unordered",
+        "title": "Standard 3.R.10",
+        "items": [
+          "Identify and discuss the structural elements of different types of text when writing or speaking about a text. (RL)",
+          "Use text features and search tools to build comprehension and locate relevant information efficiently. (RI)"
+        ]
+      },
+      {
+        "id": "page_33_list_standard_3_R_13",
+        "type": "unordered",
+        "title": "Standard 3.R.13",
+        "items": [
+          "Not applicable for RL.",
+          "Explain how claims in a text are supported by relevant reasons and evidence. (RI)"
+        ]
+      },
+      {
+        "id": "page_33_list_standard_3_R_14",
+        "type": "unordered",
+        "title": "Standard 3.R.14",
+        "items": [
+          "Compare the themes, settings, and plots of stories written about the same or similar characters. (RL)",
+          "Compare the most important points and key details presented in two texts on the same topic. (RI)"
+        ]
+      },
+      {
+        "id": "page_33_list_standard_3_W_1",
+        "type": "ordered",
+        "title": "Standard 3.W.1: Write argumentative pieces on topics and/or texts, supporting a point of view with evidence, using linking words and phrases to connect the claim to the evidence, and provide a concluding statement.",
+        "items": [
+          "Introduce the topic, state a claim, and create an organizational structure that provides evidence.",
+          "Write, produce, and expand simple, compound, and complex sentences.",
+          "Use appropriate conventions when writing including text cohesion, sentence structure, and phrasing."
+        ]
+      },
+      {
+        "id": "page_33_list_standard_3_W_2",
+        "type": "ordered",
+        "title": "Standard 3.W.2: Write informative/explanatory pieces to examine a topic that conveys ideas and information clearly, link ideas within categories of information using words and phrases, and provide a concluding statement.",
+        "items": [
+          "Introduce and develop a topic using facts, definitions,"
+        ]
+      },
+      {
+        "id": "page_37_list_reading_standards",
+        "type": "unordered",
+        "title": "Reading Standards",
+        "items": [
+          "Standard 4.R.12: Compare a visual or oral presentation of a story or drama with the text itself and identify where each version reflects specific descriptions and directions in the text. (RL)\nInterpret information presented visually, orally, or quantitatively and explain how the information contributes to an understanding of the text in which it appears. (RI)",
+          "Standard 4.R.13: Not applicable to RL.\nExplain how an author uses reasons and evidence to support particular claims in a text. (RI)",
+          "Standard 4.R.14: Compare the treatment of similar themes and topics and patterns of events in stories, myths, and traditional literature from different cultures. (RL)\nIntegrate information from two texts on the same topic in order to write or speak about the subject knowledgeably. (RI)"
+        ]
+      },
+      {
+        "id": "page_37_list_writing_standards",
+        "type": "unordered",
+        "title": "Writing Standards",
+        "items": [
+          "Standard 4.W.1: Write argumentative pieces on topics and/or texts, supporting a point of view with evidence and information, using linking words and phrases to connect the claim to the evidence, and provide a concluding section related to the claim presented.\na. Introduce a topic, state a claim that is supported by evidence, produce complex sentences, and create an organizational structure in which related ideas are grouped to support the writer’s purpose.\nb. Use appropriate conventions when writing including text cohesion, sentence structure, and phrasing.",
+          "Standard 4.W.2: Write informative/explanatory pieces to examine a topic that conveys ideas and information clearly, link ideas within categories of information using words and phrases, and provide a concluding section related to the information or explanation presented.\na. Introduce a topic and group related information in paragraphs and/or sections using organizational structures,"
+        ]
+      },
+      {
+        "id": "page_38_standard_continuation_points",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "produce complex sentences, and text features to support the writer's purpose.",
+          "Develop the topic using relevant facts, definitions, concrete details, quotations, or examples.",
+          "Use precise language and content-specific vocabulary to inform about or explain the topic.",
+          "Use appropriate conventions when writing including text cohesion, sentence structure, and phrasing."
+        ]
+      },
+      {
+        "id": "page_38_standard_4_w_3_points",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Orient the reader by establishing a situation and introducing a narrator and/or characters; organize an event sequence that unfolds naturally.",
+          "Use dialogue and description to develop experiences and events or show the responses of characters to situations.",
+          "Use a variety of transitional words and phrases to manage the sequence of events.",
+          "Use concrete words, phrases, complex sentences, and sensory details to convey experiences and events precisely.",
+          "Use appropriate conventions when writing including text cohesion, sentence structure, and phrasing."
+        ]
+      },
+      {
+        "id": "page_38_standard_4_w_4_points",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Recall, gather, and organize information and provide a list of relevant sources.",
+          "Elaborate to demonstrate understanding of the topic under investigation.",
+          "Interact and collaborate with others throughout the writing process."
+        ]
+      },
+      {
+        "id": "page_39_list_strand_1_speaking_listening_standards",
+        "type": "unordered",
+        "title": "Standards for Strand 1: Speaking and Listening (5.SL)",
+        "items": [
+          "**Standard 5.SL.1:** Participate effectively in a range of conversations and collaborations using age-appropriate vocabulary, on topics, texts, and issues. a. Respectfully acknowledge and respond to comments and claims from multiple perspectives and determine if additional information is needed. b. Participate in conversations by asking questions, acknowledging new information, qualifying or justifying responses with reasoning and elaboration, and keeping the discussion on topic.",
+          "**Standard 5.SL.2:** Investigate information presented in various formats and mediums in order to make informed decisions and differentiate between fact and fiction.",
+          "**Standard 5.SL.3:** Use age-appropriate language, grammar, volume, and clear pronunciation when speaking or presenting. a. Present claims and findings, sequencing ideas logically and use relevant descriptions, facts, and details to elaborate on main ideas or themes."
+        ]
+      },
+      {
+        "id": "page_39_list_strand_2_reading_standards",
+        "type": "unordered",
+        "title": "Standards for Strand 2: Reading (5.R)",
+        "items": [
+          "**Standard 5.R.1:** Mastered in preschool.",
+          "**Standard 5.R.2:** Mastered in grade 3."
+        ]
+      },
+      {
+        "id": "page_44_list_standard_6_R_9_strategies",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Consistently use context as a clue to the meaning of a word or phrase.",
+          "Consistently use Greek or Latin affixes and roots as clues to the meaning of a word.",
+          "Consult reference materials to find the pronunciation of a word or determine its precise meaning or its part of speech."
+        ]
+      },
+      {
+        "id": "page_46_list_prev_standard_continuation",
+        "type": "ordered",
+        "title": "Continuation of previous standard's requirements",
+        "items": [
+          "Use precise language and content-specific vocabulary to inform about or explain the topic.",
+          "Use appropriate conventions and style for the audience, purpose, and task."
+        ]
+      },
+      {
+        "id": "page_46_list_standard_6_w_3_requirements",
+        "type": "ordered",
+        "title": "Requirements for Standard 6.W.3",
+        "items": [
+          "Engage and orient the reader by establishing a context and introducing a narrator and/or characters; organize an event sequence that unfolds naturally and logically.",
+          "Use narrative techniques, such as dialogue, description, and pacing, to develop experiences, events, and/or characters.",
+          "Use a variety of transition words, phrases and clauses to convey sequence and signal shifts from one time frame or setting to another.",
+          "Use precise words, phrases and complex sentences, relevant descriptive details, and sensory language to convey experiences and events.",
+          "Use appropriate conventions and style for the audience, purpose, and task."
+        ]
+      },
+      {
+        "id": "page_46_list_standard_6_w_4_requirements",
+        "type": "ordered",
+        "title": "Requirements for Standard 6.W.4",
+        "items": [
+          "Gather, synthesize, and use information from credible sources on the topic.",
+          "Generate ideas to demonstrate understanding of the topic under investigation.",
+          "Avoid plagiarism by quoting or paraphrasing and provide basic bibliographic information for sources.",
+          "Interact and collaborate with others throughout the writing process."
+        ]
+      },
+      {
+        "id": "page_47_list_strand_1_sl_standards",
+        "type": "unordered",
+        "title": "Speaking and Listening Standards (7–8.SL)",
+        "items": [
+          "**Standard 7–8.SL.1:** Participate effectively in a range of conversations and collaborations on topics, texts, and issues. a. Respond thoughtfully in democratic discussions that involve decision-making and role-taking and determine if additional information or research is required to deepen the discussion. b. Participate in conversations by asking and responding to questions and provide the opportunity to consider a range of perspectives.",
+          "**Standard 7–8.SL.2:** Evaluate the credibility of multiple sources of information presented in various formats and mediums to make informed decisions.",
+          "**Standard 7–8.SL.3:** Use appropriate language, grammar, organization, development, and delivery styles appropriate to purpose and audience for formal or informal contexts. a. Convey a clear perspective by presenting and citing information, findings, and supporting evidence so that listeners can follow the line of reasoning."
+        ]
+      },
+      {
+        "id": "page_47_list_strand_2_r_standards",
+        "type": "unordered",
+        "title": "Reading Standards (7–8.R)",
+        "items": [
+          "**Standard 7–8.R.1:** Mastered in preschool.",
+          "**Standard 7–8.R.2:** Mastered in grade 3."
+        ]
+      },
+      {
+        "id": "page_49_list_reading_standards",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "**Standard 7-8.R.12:** Compare a text to another text in a different medium about the same topic and evaluate the impact of the differences on the audience. (RL & RI)",
+          "**Standard 7-8.R.13:** Not applicable to RL. Evaluate an argument and specific claims in a text, assessing the validity of key statements by examining whether the supporting evidence is relevant and sufficient. (RI)",
+          "**Standard 7-8.R.14:** Compare two or more works of fiction with similar themes or topics, drawing on patterns of events or character types. (RL) Compare how two or more texts about the same topic shape their presentations by emphasizing different evidence or advancing different interpretations of facts; identify where the texts disagree on matters of fact or interpretation. (RI)"
+        ]
+      },
+      {
+        "id": "page_49_list_writing_standards",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "**Standard 7-8.W.1:** Write arguments to support claims with logical reasoning, relevant evidence from accurate and credible sources, and provide a conclusion that follows from and supports the argument presented. a. Introduce claims, distinguish the claims from alternate or opposing claims, and organize the reasons and evidence logically. b. Use words, phrases, and clauses to create cohesion and clarify the relationships among claims, counterclaims, reasons, and evidence. c. Use appropriate conventions and style for the audience, purpose, and task.",
+          "**Standard 7-8.W.2:** Write informative/explanatory texts to examine a topic and convey ideas and information through the selection, organization, and analysis of relevant content, and provide a conclusion that supports the information or explanation presented."
+        ]
+      },
+      {
+        "id": "page_50_list_general_guidelines",
+        "type": "ordered",
+        "title": "General Guidelines for English Language Arts",
+        "items": [
+          "Introduce a topic, previewing what is to follow; organize ideas and information into broader categories; utilize formatting, graphics, and multimedia related to the topic.",
+          "Develop the topic with relevant facts, definitions, concrete details, quotations, and examples.",
+          "Use appropriate and varied transitions to create cohesion and clarify the relationships among ideas.",
+          "Use precise language and content-specific vocabulary to inform about or explain the topic.",
+          "Use appropriate conventions and style for the audience, purpose, and task."
+        ]
+      },
+      {
+        "id": "page_50_list_standard_7_8_w_3_components",
+        "type": "ordered",
+        "title": "Components of Standard 7-8.W.3",
+        "items": [
+          "Engage and orient the reader by describing a problem, situation, or observation.",
+          "Introduce a setting, narrator and/or characters.",
+          "Apply narrative techniques, such as dialogue and description, to develop characters and well-structured event sequences.",
+          "Utilize descriptive language to create a mood and tone appropriate to purpose, task, and audience.",
+          "Use appropriate conventions and style for the audience, purpose, and task."
+        ]
+      },
+      {
+        "id": "page_50_list_standard_7_8_w_4_components",
+        "type": "ordered",
+        "title": "Components of Standard 7-8.W.4",
+        "items": [
+          "Gather, assess, and use information from credible sources on the topic.",
+          "Generate ideas to demonstrate understanding of the topic and purpose.",
+          "Avoid plagiarism by quoting, paraphrasing, and citing, using a standard format for citation of evidence.",
+          "Interact and collaborate with others throughout the writing process."
+        ]
+      },
+      {
+        "id": "page_52_list_1_standards",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "**Standard 9-10.R.1:** Mastered in preschool.",
+          "**Standard 9-10.R.2:** Mastered in grade 3.",
+          "**Standard 9-10.R.3:** Mastered in grade 5.",
+          "**Standard 9-10.R.4:** Read grade-level text* with accuracy and fluency to support comprehension. (RL & RI)",
+          "**Standard 9-10.R.5:** Cite relevant textual evidence to support analysis of what the text says explicitly as well as what inferences can be drawn from the text, including identifying where the text implies ambiguity. (RL & RI)",
+          "**Standard 9-10.R.6:** When reading texts, including those from diverse cultures, determine a theme, analyze its development in detail, including how it emerges and is shaped and refined by specific details; provide an objective summary that includes textual evidence. (RL)\n    When reading texts, including those from diverse cultures, determine two or more main ideas, analyze the main ideas’ relationship to supporting ideas, and provide an objective summary that includes textual evidence. (RI)",
+          "**Standard 9-10.R.7:** Analyze how plot elements and dialogue interact, shape the characters, and propel the action. (RL)\n    Analyze how a text makes connections among and distinctions between individuals, ideas, or events through comparisons, analogies, or categories. (RI)",
+          "**Standard 9-10.R.8:** Determine the meaning and impact of words and phrases on meaning, tone, and mood. Analyze figurative language and connotative meanings. Examine domain-specific vocabulary and how language differs across genres and text types. (RL & RI)",
+          "**Standard 9-10.R.9:** Determine or clarify the meaning of unknown and multiple-meaning words and phrases choosing flexibly from a range of strategies. (RL & RI)\n    *   a. Identify and correctly use patterns of word parts that indicate different meanings or parts of speech.\n    *   b. Determine and consult appropriate reference materials to find the pronunciation of a word, its precise meaning, its part of speech, or its etymology including Greek or Latin affixes and roots."
+        ]
+      },
+      {
+        "id": "page_53_list_1",
+        "type": "unordered",
+        "title": "Reading Standards (9-10.R)",
+        "items": [
+          "**Standard 9-10.R.10:** Analyze and evaluate the effectiveness of the structures an author uses in an exposition, argument, or narrative, including whether the structure makes points or events clear, effective, convincing, or engaging. (RL & RI)",
+          "**Standard 9-10.R.11:** Analyze how an author’s geographic location, identity or background, culture, and time period affect the perspective, point of view, purpose, and implicit/explicit messages of a text. (RL & RI)",
+          "**Standard 9-10.R.12:** Compare a text to another text in a different medium analyzing the portrayal of the subject, evaluate the advantages and disadvantages of using the different mediums, and explain how and why the content stays faithful to or departs from the text or script. (RL & RI)",
+          "**Standard 9-10.R.13:** Not applicable to RL. Delineate and evaluate an argument and specific claims in a text, assessing the validity or fallacy of key statements by examining whether the supporting evidence is relevant and sufficient. Recognize when irrelevant evidence is introduced. (RI)",
+          "**Standard 9-10.R.14:** Analyze two or more works of fiction with similar themes or topics, drawing on patterns of events, characters types, and stylistic choices. (RL) Analyze how two or more texts about the same topic shape their presentations by emphasizing different evidence or advancing different interpretations of facts; identify where the texts disagree on matters of fact or interpretation. (RI)"
+        ]
+      },
+      {
+        "id": "page_53_list_2",
+        "type": "unordered",
+        "title": "Writing Standards (9-10.W)",
+        "items": [
+          "**Standard 9-10.W.1:** Write arguments to support claims in an analysis of complex topics or texts using logical reasoning and relevant evidence, and provide a conclusion that follows from and supports the argument presented.",
+          "    a. Introduce claims, distinguish the claims from alternate or opposing claims, and create an organization that establishes clear relationships among claims, counterclaims, reasons, and evidence.",
+          "    b. Develop claims and counterclaims by supplying evidence"
+        ]
+      },
+      {
+        "id": "page_55_list_standard_9_10_w_4_details",
+        "type": "unordered",
+        "title": "Details for Standard 9–10.W.4",
+        "items": [
+          "a. Gather, assess, and synthesize information from credible sources on the topic.",
+          "b. Reflect on the evidence and generate ideas to demonstrate understanding of the topic and purpose.",
+          "c. Avoid plagiarism by quoting, paraphrasing, and citing, using a standard format for citation of evidence.",
+          "d. Interact and collaborate with others throughout the writing process."
+        ]
+      },
+      {
+        "id": "page_57_list_1",
+        "type": "unordered",
+        "title": "",
+        "items": [
+          "**Standard 11-12.R.1:** Mastered in preschool.",
+          "**Standard 11-12.R.2:** Mastered in grade 3.",
+          "**Standard 11-12.R.3:** Mastered in grade 5.",
+          "**Standard 11-12.R.4:** Read grade-level text* with accuracy and fluency to support comprehension. (RL & RI)",
+          "**Standard 11-12.R.5:** Cite relevant textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text, including analyzing where the text implies ambiguity. (RL & RI)",
+          "**Standard 11-12.R.6:** When reading texts, including those from diverse cultures, determine two or more themes and analyze their development, including how they interact and build on one another to produce a complex account, and provide an objective summary that includes textual evidence. (RL) When reading texts, including those from diverse cultures, determine main ideas of two or more texts, analyze the main ideas, supporting details, and the relationship between/among the texts; provide an objective synthesis of the texts that includes textual evidence. (RI)",
+          "**Standard 11-12.R.7:** Analyze how an author develops a text through complex and/or dynamic characters, interaction with other characters, and advancement of the plot or development of the theme. (RL) Analyze how the author develops a text through an analysis or argument, including the sequence, the introduction and development and connections of ideas. (RI)",
+          "**Standard 11-12.R.8:** Determine the meaning and impact of words and phrases on tone and mood, including words with multiple meanings. Analyze figurative language, connotative meanings, and figures of speech. Examine how the author uses and refines the meaning of domain-specific vocabulary and how language differs across historical time periods, cultures, regions, and genres. (RL & RI)",
+          "**Standard 11-12.R.9:** Determine or clarify the meaning of unknown and multiple-meaning words and phrases, choosing flexibly from a range of strategies. (RL & RI)"
+        ]
+      },
+      {
+        "id": "page_58_ela_general_points",
+        "type": "ordered",
+        "title": "",
+        "items": [
+          "Analyze patterns of word changes that indicate different meanings or parts of speech.",
+          "Determine and consult appropriate reference materials, to find the pronunciation of a word, its precise meaning, its part of speech, its etymology including Greek or Latin affixes and roots, and its usage."
+        ]
+      }
+    ],
+    "key_value_pairs": [
+      {
+        "key": "Adopted",
+        "value": "May 2023"
+      },
+      {
+        "key": "Adopting Body",
+        "value": "Utah State Board of Education"
+      },
+      {
+        "key": "Address",
+        "value": "250 East 500 South P.O. Box 144200 Salt Lake City, UT 84114-4200"
+      },
+      {
+        "key": "State Superintendent of Public Instruction",
+        "value": "Sydnee Dickson, Ed.D."
+      },
+      {
+        "key": "Website",
+        "value": "https://www.schools.utah.gov"
+      },
+      {
+        "key": "Address",
+        "value": "250 East 500 South P. O. Box 144200 Salt Lake City, UT 84114-4200"
+      },
+      {
+        "key": "Website",
+        "value": "https://schools.utah.gov/board"
+      },
+      {
+        "key": "Secretary to the Board",
+        "value": "Cybil Child"
+      },
+      {
+        "key": "Standard 3.R.11",
+        "value": "Begins in grade 4."
+      },
+      {
+        "key": "Standard 3.R.12",
+        "value": "Explain how specific illustrations or text features contribute to what is conveyed by the words in a text. (RL & RI)"
+      }
+    ]
+  }
+}
