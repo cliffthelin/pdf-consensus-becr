@@ -150,3 +150,8 @@ temp_*
 *.temp
 .benchmarks/
 htmlcov/
+
+# PDF files (exclude from repository)
+*.pdf
+Source_docs/**/*.pdf
+tests/fixtures/*.pdf
