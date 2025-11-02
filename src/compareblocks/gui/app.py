@@ -25,6 +25,8 @@ from ..config.engine_config import EngineConfigurationManager
 from .config_forms import ConfigurationManagerWidget
 from .test_runner_widget import TestRunnerWidget
 from .pdf_selector import PDFSelectorIndicator
+from .file_management_tab import FileManagementTab
+from .settings_tab import SettingsTab
 
 
 class DebugImageWidget(QWidget):
@@ -301,6 +303,11 @@ class BECRMainWindow(QMainWindow):
         # Tab widget
         self.tab_widget = QTabWidget()
         
+        # File Management tab (FIRST)
+        self.file_management_tab = FileManagementTab()
+        self.file_management_tab.pdf_selected.connect(self.on_pdf_selected_from_file_management)
+        self.tab_widget.addTab(self.file_management_tab, "📁 Files")
+        
         # Debug Images tab
         self.debug_widget = DebugImageWidget()
         self.tab_widget.addTab(self.debug_widget, "Debug Images")
@@ -317,11 +324,16 @@ class BECRMainWindow(QMainWindow):
         self.analysis_widget.setPlainText("Analysis and statistics will be displayed here.")
         self.tab_widget.addTab(self.analysis_widget, "Analysis")
         
-        # Configuration management tab
-        self.config_widget = ConfigurationManagerWidget(self.config_manager)
-        self.tab_widget.addTab(self.config_widget, "Engine Configuration")
+        # Settings tab (with Engine Configuration as sub-section)
+        self.settings_tab = SettingsTab()
+        self.settings_tab.settings_changed.connect(self.on_settings_changed)
+        self.tab_widget.addTab(self.settings_tab, "⚙️ Settings")
         
-        # Test Runner tab
+        # Configuration management tab (under Settings conceptually, but separate tab for now)
+        self.config_widget = ConfigurationManagerWidget(self.config_manager)
+        self.tab_widget.addTab(self.config_widget, "  ⚙️ Engine Configuration")
+        
+        # Test Runner tab (AFTER Settings)
         self.test_runner_widget = TestRunnerWidget()
         self.tab_widget.addTab(self.test_runner_widget, "🧪 Test Runner")
         
@@ -638,6 +650,10 @@ class BECRMainWindow(QMainWindow):
                 # Review GUI can reload with new PDF
                 pass
             
+            # Notify file management tab
+            if hasattr(self, 'file_management_tab'):
+                self.file_management_tab.set_current_pdf(pdf_path)
+            
             # Show notification
             QMessageBox.information(
                 self,
@@ -651,6 +667,48 @@ class BECRMainWindow(QMainWindow):
                 "Error",
                 f"Failed to update application with new PDF:\n{str(e)}"
             )
+    
+    def on_pdf_selected_from_file_management(self, pdf_path: str):
+        """
+        Handle PDF selection from File Management tab.
+        
+        Args:
+            pdf_path: Path to the selected PDF
+        """
+        # Update PDF selector
+        if hasattr(self, 'pdf_selector'):
+            self.pdf_selector.update_pdf_selection(pdf_path)
+    
+    def on_settings_changed(self, settings: Dict[str, Any]):
+        """
+        Handle settings changes from Settings tab.
+        
+        Args:
+            settings: Dictionary of changed settings
+        """
+        try:
+            # Refresh file status widget if paths changed
+            if any(key in settings for key in ["target_pdf", "processing_directory", "final_output_directory"]):
+                self.refresh_file_status()
+            
+            # Notify other components of settings changes
+            # This would typically trigger reloading or reconfiguration
+            
+            self.logger.info(f"Settings updated: {list(settings.keys())}")
+            
+        except Exception as e:
+            self.logger.error(f"Failed to apply settings changes: {e}")
+            QMessageBox.warning(
+                self,
+                "Settings Warning",
+                f"Some settings changes may not have been applied:\n{str(e)}"
+            )
+    
+    @property
+    def logger(self):
+        """Get logger instance."""
+        import logging
+        return logging.getLogger(__name__)
 
     def add_pdf_configuration(self, engine_name: str):
         """Add PDF-specific configuration for an engine."""

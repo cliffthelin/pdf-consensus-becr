@@ -167,7 +167,18 @@
   - Write comprehensive GUI tests using pytest-qt for all PDF selector interactions
   - _Requirements: 24.1, 24.2, 24.3, 24.4, 24.5_
 
-- [ ] **15. Association Library Interface**
+- [x] **15. Association Library Interface**
+
+
+
+
+
+
+
+
+
+
+
 
   - Create File Management Tab as primary interface for Association Library
   - Implement root PDF list display with associated NDJSON files
@@ -179,7 +190,13 @@
   - Write comprehensive tests for association library functionality
   - _Requirements: 15.1, 15.2, 15.3, 15.4, 15.5_
 
-- [ ] **16. Settings Tab Configuration Interface**
+- [x] **16. Settings Tab Configuration Interface**
+
+
+
+
+
+
 
   - Create dedicated Settings Tab separate from File Management Tab
   - Implement default file configuration interface (PDF paths, output directories)
@@ -191,7 +208,11 @@
   - Write comprehensive tests for settings management functionality
   - _Requirements: 16.1, 16.2, 16.3, 16.4, 16.5_
 
-- [ ] **17. Influence Percentage and Analytics Integration**
+- [x] **17. Influence Percentage and Analytics Integration**
+
+
+
+
 
   - Implement influence percentage calculation through MCP communication
   - Create consensus output tracking and display system
@@ -203,7 +224,15 @@
   - Write comprehensive tests for analytics integration
   - _Requirements: 17.1, 17.2, 17.3, 17.4, 17.5_
 
-- [ ] **18. Main Window Integration and State Management**
+
+- [x] **18. Main Window Integration and State Management**
+
+
+
+
+
+
+
 
   - Integrate PDF Selector, File Management Tab, and Settings Tab into existing BECRMainWindow
   - Implement application-wide state management for PDF selection changes
@@ -214,6 +243,7 @@
   - Create comprehensive integration tests for main window functionality
   - Write GUI tests using pytest-qt for complete user workflows
   - _Requirements: 20.1, 20.2, 20.3, 20.4, 20.5_
+
 
 - [ ] **19. Comprehensive Testing and Coverage Validation**
 
@@ -234,7 +264,11 @@
   - Reprocessing triggers that update consistency percentages
   - Version tracking for processing different configurations with the option to only store the stats and config without the supporting data(would have to re run if wanted)
 
-- [ ] **21. Change Tracking and Source Attribution**
+- [x] **21. Change Tracking and Source Attribution**
+
+
+
+
 
   - Block-level change history with source attribution (key-value pairs)
   - Initial positional extract as immutable baseline
@@ -242,27 +276,21 @@
   - Change propagation detection (when changes affect neighboring blocks)
   - add a statistic based result that allows quick ranking of sources engines and configuration used for final output for accuracy
 
-- [ ] **22. Surrounding Block Impact Analysis**
-  - Surrounding block recalculation when changes are applied
-  - Cascade detection (when one block change affects next block, and so on)
-  - "Recalc check" functionality for iterative block updates
-  - Stopping condition detection (when changes no longer propagate)
 
 ## Future Enhancement Tasks
 
-- [ ] **23. Advanced File Association and Project Management**
+- [x] **23. Advanced File Association and Project Management**
+
+
+
+
+
 
   - Enhanced file tracking system with version control integration
   - Advanced project structure management with automated file discovery
   - Smart indicators for missing or moved files with auto-relocation suggestions
   - Advanced reprocessing with machine learning-based optimization
 
-- [ ] **24. Authentication and Deployment Infrastructure**
-
-  - Secure login functionality with session management
-  - Push-button GitHub deployment with version management
-  - Role-based access control for different user types
-  - Automated update notifications and rollback capabilities
 
 - [ ] **25. Advanced MCP Integration and External API**
 
@@ -417,3 +445,18 @@ If validation fails:
   - Machine learning-based consensus scoring
   - Custom feature extraction plugins
   - Advanced GUI features for batch processing
+
+- [ ] **22. Surrounding Block Impact Analysis**
+  - Surrounding block recalculation when changes are applied
+  - Cascade detection (when one block change affects next block, and so on)
+  - "Recalc check" functionality for iterative block updates
+  - Stopping condition detection (when changes no longer propagate)
+
+
+
+- [ ] **24. Authentication and Deployment Infrastructure**
+
+  - Secure login functionality with session management
+  - Push-button GitHub deployment with version management
+  - Role-based access control for different user types
+  - Automated update notifications and rollback capabilities

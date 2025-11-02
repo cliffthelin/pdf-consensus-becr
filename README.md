@@ -1,5 +1,9 @@
-# README.md
 # BECR (Blockwise Extraction Comparison & Review) System
+
+[![CI/CD Pipeline](https://github.com/cliffthelin/pdf-consensus-becr/actions/workflows/ci.yml/badge.svg)](https://github.com/cliffthelin/pdf-consensus-becr/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/cliffthelin/pdf-consensus-becr/branch/main/graph/badge.svg)](https://codecov.io/gh/cliffthelin/pdf-consensus-becr)
+[![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 A test-driven system for comparing and reviewing text extraction results from PDFs at the block level.
 
@@ -26,15 +30,18 @@ tests/                      # Test suite (95%+ coverage)
 ## Setup
 
 1. Create virtual environment:
+
    ```bash
    python -m venv .venv
    ```
 
 2. Activate virtual environment:
+
    - Windows: `.venv\Scripts\activate`
    - Unix/macOS: `source .venv/bin/activate`
 
 3. Install dependencies:
+
    ```bash
    pip install -e .
    ```
@@ -47,6 +54,7 @@ tests/                      # Test suite (95%+ coverage)
 ## Running the Application
 
 Use the immutable runner:
+
 ```bash
 python run_becr.py
 ```
@@ -54,6 +62,7 @@ python run_becr.py
 ## Running Tests
 
 Use the immutable test runner:
+
 ```bash
 python run_tests.py
 ```
